@@ -6,7 +6,7 @@ on:
 permissions:
   contents: write
 concurrency:
-  group: collect
+  group: bluesky
   cancel-in-progress: false
 jobs:
   run:
