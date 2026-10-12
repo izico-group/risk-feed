@@ -1,0 +1,38 @@
+name: Cloudflare Radar Iran
+on:
+  schedule:
+    - cron: "20 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: radar
+  cancel-in-progress: false
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch Radar data for Iran
+        env:
+          CF: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        run: |
+          set -e
+          mkdir -p data
+          B="https://api.cloudflare.com/client/v4/radar"
+          H="Authorization: Bearer $CF"
+          curl -sf -H "$H" "$B/http/timeseries?location=IR&dateRange=7d&aggInterval=1h&format=json" > /tmp/http.json
+          curl -sf -H "$H" "$B/netflows/timeseries?location=IR&dateRange=7d&aggInterval=1h&format=json" > /tmp/net.json || echo '{}' > /tmp/net.json
+          curl -sf -H "$H" "$B/annotations/outages?location=IR&dateRange=7d&format=json" > /tmp/out.json || echo '{}' > /tmp/out.json
+          jq -n --arg t "$(date -u +%Y-%m-%dT%H:%M:%SZ)" \
+            --slurpfile http /tmp/http.json --slurpfile net /tmp/net.json --slurpfile out /tmp/out.json \
+            '{updated:$t, http:$http[0].result, netflows:$net[0].result, outages:$out[0].result}' > data/radar.json
+      - name: Commit
+        run: |
+          git config user.name "radar-bot"
+          git config user.email "radar-bot@users.noreply.github.com"
+          git add data/radar.json
+          git diff --cached --quiet && exit 0
+          git commit -m "radar: update $(date -u +%H:%M)"
+          git pull --rebase
+          git push
