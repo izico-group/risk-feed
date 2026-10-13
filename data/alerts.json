@@ -1,6 +1,296 @@
 {
- "updated": "2026-10-12T23:46:44.147234+00:00",
+ "updated": "2026-10-13T03:58:47.976966+00:00",
  "alerts": [
+  {
+   "id": "tg:IranintlTV/362014",
+   "kind": "tg",
+   "src": "iranintltv",
+   "text": "خبرگزاری رسمی کره شمالی سه‌شنبه ۲۱ مهر تصاویری از بازدید کیم جونگ اون، رهبر کره شمالی، از موزه جدید صنایع دفاعی این کشور منتشر کرد؛ موزه‌ای که موشک بالستیک قاره‌پیمای «هواسونگ-۲۰» با قابلیت رسیدن به خاک آمریکا در آن به نمایش گذاشته شده است. کیم یک‌شنبه همراه با ری سول جو، همسرش، و دخترش جو آئه در افتتاح «موزه انقلاب دفاعی» شرکت کرد. پهپادها و مجموعه‌ای از تسلیحات توسعه‌یافته در دوران رهبری او نیز در این موزه به نمایش درآمده‌اند. شین جونگ وو، دبیرکل مجمع دفاع و امنیت کره، به رویترز گفت نمایشگر مقابل هواسونگ-۲۰ ظاهرا طرح کلاهک‌های چندگانه و نقشه برد موشک‌ها تا فراتر از خاک اصلی آمریکا را نشان می",
+   "url": "https://t.me/IranintlTV/362014",
+   "time": "2026-10-13T03:48:06+00:00",
+   "keywords": [
+    "موشک",
+    "پهپاد"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-13T03:58:47.976966+00:00"
+  },
+  {
+   "id": "tg:IranintlTV/362012",
+   "kind": "tg",
+   "src": "iranintltv",
+   "text": "اندی برنهام، نخست‌وزیر بریتانیا، گفت شواهد نشان می‌دهد طرح حمله به پایگاه هوایی فرفورد به احتمال زیاد در تهران هماهنگ شده و به دستور سپاه پاسداران انجام شده است. او از اعمال تحریم‌های بیشتر علیه جمهوری اسلامی خبر داد.\n\nگزارش سمیرا قرایی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+   "url": "https://t.me/IranintlTV/362012",
+   "time": "2026-10-13T03:43:00+00:00",
+   "keywords": [
+    "حمله"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-13T03:58:47.976966+00:00"
+  },
+  {
+   "id": "rss:https://www.aljazeera.com/economy/2026/10/13/trump-insists-energy-ceasefire-holds-as-ukraine-reports-new-russian-strikes?traffic_source=rss",
+   "kind": "rss",
+   "src": "www.aljazeera.com",
+   "text": "Trump insists energy ceasefire holds as Ukraine reports new Russian strikes — US President urges Zelenskyy, Putin to end 'ridiculous war' and insists they agreed to stop attacks on energy sites.",
+   "url": "https://www.aljazeera.com/economy/2026/10/13/trump-insists-energy-ceasefire-holds-as-ukraine-reports-new-russian-strikes?traffic_source=rss",
+   "time": "2026-10-13T03:30:23+00:00",
+   "keywords": [
+    "strike",
+    "attack"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-13T03:58:47.976966+00:00"
+  },
+  {
+   "id": "tg:farsna/468081",
+   "kind": "tg",
+   "src": "farsna",
+   "text": "🎥 انهدام پهپاد ارتش سعودی بر فراز یمن  🔹ارتش یمن یک فروند پهپاد رژیم سعودی را بر فراز منطقه «بنی مطر» در جنوب غربی صنعاء سرنگون کرد.  @FarsNewsInt - Link",
+   "url": "https://t.me/farsna/468081",
+   "time": "2026-10-13T03:12:32+00:00",
+   "keywords": [
+    "پهپاد"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-13T03:58:47.976966+00:00"
+  },
+  {
+   "id": "rss:https://www.aljazeera.com/video/newsfeed/2026/10/13/russia-and-ukraine-trade-strikes-amid-doubt-over-energy?traffic_source=rss",
+   "kind": "rss",
+   "src": "www.aljazeera.com",
+   "text": "Russia and Ukraine trade strikes amid doubt over ‘energy ceasefire’ — Ukraine's president says Russian attacks on Ukraine’s energy infrastructure are continuing despite 'energy ceasefire'.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/russia-and-ukraine-trade-strikes-amid-doubt-over-energy?traffic_source=rss",
+   "time": "2026-10-13T03:11:19+00:00",
+   "keywords": [
+    "strike",
+    "attack"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-13T03:58:47.976966+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMitAFBVV95cUxPOHAzcXBmYlRUNGRmV3hnaXZnemg5ZVBBX2UyY1FwclZUNUprMzl1Um5pWlRrUlBRT2J6UG5vb3JKMGx3cU5PMExRVE9tazQ3bmc4RzcyN29oT3VPTEE1ZnFQblQydDhiYms1cTV0VDMyaHByUUxyNjNIdW93bUVnbU5hY0c4TmZfN1hFRV9RNFJvNHdiTVB2TU8wcmlQRmNYUTNmaFNIMVpZU21rYnBLNHp4NkQ?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "Houthis claim fresh ballistic missile strike on Riyadh airport as Iran offers mediation - Telangana Today — Houthis claim fresh ballistic missile strike on Riyadh airport as Iran offers mediation  Telangana Today",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOHAzcXBmYlRUNGRmV3hnaXZnemg5ZVBBX2UyY1FwclZUNUprMzl1Um5pWlRrUlBRT2J6UG5vb3JKMGx3cU5PMExRVE9tazQ3bmc4RzcyN29oT3VPTEE1ZnFQblQydDhiYms1cTV0VDMyaHByUUxyNjNIdW93bUVnbU5hY0c4TmZfN1hFRV9RNFJvNHdiTVB2TU8wcmlQRmNYUTNmaFNIMVpZU21rYnBLNHp4NkQ?oc=5",
+   "time": "2026-10-13T03:09:32+00:00",
+   "keywords": [
+    "strike",
+    "missile"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-13T03:58:47.976966+00:00"
+  },
+  {
+   "id": "rss:https://www.aljazeera.com/video/newsfeed/2026/10/13/12-10-sv-france-supermarket-fridges-targeted?traffic_source=rss",
+   "kind": "rss",
+   "src": "www.aljazeera.com",
+   "text": "Cyberattack on French supermarkets causes fires, millions in losses — A cyberattack targeting supermarket refrigeration systems has left shelves empty across France.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/12-10-sv-france-supermarket-fridges-targeted?traffic_source=rss",
+   "time": "2026-10-13T03:01:53+00:00",
+   "keywords": [
+    "attack"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-13T03:58:47.976966+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMitAFBVV95cUxOcE9tRlhQVUh1WWJWbkhDeDdOeWF6NVhqYlBoRUdORHQ1c0hBemNQQlJ3VVk4RDZIemJKLUZDTDVNc0JNWXhMNzNHem4tRldHaGFPdGsxdk5kakVhYlZON0FuZjVRUl9aVVlUOGdxUUlDNkJ3V0xVc2YtRndpTnBLZThOWEtkS19iYlVJcGZ1VlNYbWlnSlE2WDNMN1hUUGplZndOQ0FxWGZ1cVk3TVRHdGFkVEg?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "UKMTO issues four Hormuz attack alerts, Iran claims ADNOC tanker strike - Seatrade Maritime News — UKMTO issues four Hormuz attack alerts, Iran claims ADNOC tanker strike  Seatrade Maritime News",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcE9tRlhQVUh1WWJWbkhDeDdOeWF6NVhqYlBoRUdORHQ1c0hBemNQQlJ3VVk4RDZIemJKLUZDTDVNc0JNWXhMNzNHem4tRldHaGFPdGsxdk5kakVhYlZON0FuZjVRUl9aVVlUOGdxUUlDNkJ3V0xVc2YtRndpTnBLZThOWEtkS19iYlVJcGZ1VlNYbWlnSlE2WDNMN1hUUGplZndOQ0FxWGZ1cVk3TVRHdGFkVEg?oc=5",
+   "time": "2026-10-13T02:51:08+00:00",
+   "keywords": [
+    "strike",
+    "attack",
+    "tanker"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-13T03:58:47.976966+00:00"
+  },
+  {
+   "id": "rss:https://www.aljazeera.com/news/2026/10/13/unprecedented-cyberattack-hits-french-supermarkets-causing-food-losses?traffic_source=rss",
+   "kind": "rss",
+   "src": "www.aljazeera.com",
+   "text": "‘Unprecedented’ cyberattack hits French supermarkets, causing food losses — Hackers raise temperatures in supermarket fridges, sparking fires and spoiling food in 'large-scale' cyberattack.",
+   "url": "https://www.aljazeera.com/news/2026/10/13/unprecedented-cyberattack-hits-french-supermarkets-causing-food-losses?traffic_source=rss",
+   "time": "2026-10-13T02:37:10+00:00",
+   "keywords": [
+    "attack"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-13T03:58:47.976966+00:00"
+  },
+  {
+   "id": "tg:presstv/210519",
+   "kind": "tg",
+   "src": "presstv",
+   "text": "🔴 Yemeni Armed Forces spokesman Yahya Saree:   🔺 Armed forces launched a missile attack on King Khalid International Airport in Riyadh.  🔺 The ballistic missile successfully struck its target.  @PressTV",
+   "url": "https://t.me/presstv/210519",
+   "time": "2026-10-13T02:34:48+00:00",
+   "keywords": [
+    "attack",
+    "missile"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-13T03:58:47.976966+00:00"
+  },
+  {
+   "id": "tg:farsna/468078",
+   "kind": "tg",
+   "src": "farsna",
+   "text": "مین‌های دریایی چگونه کار می‌کنند؟\n\n🔹مین‌های دریایی بسته به عمق منطقهٔ عملیاتی در سه ساختار مهارشده، کف‌خواب و جهنده مستقر می‌شوند. در نمونه‌های نوین، به‌جای انفجار تماسیِ ساده، فیوزهای اثری و غیرتماسی به‌کار می‌روند؛ جایی که حسگرها انحراف میدان مغناطیسی زمین و صدای پروانه‌های شناور را در کسری از ثانیه ثبت و محاسبه می‌کنند.\n\n🔹پردازنده‌های هوشمند مین شناورهای رزمی اصلی را از قایق‌های غیرنظامی یا طعمه‌های مین‌روبی تشخیص می‌دهند؛ سامانه‌ای مجهز به شمارشگر عبور که هدف‌قراردادن ناو اصلی در میانهٔ ستون را ممکن می‌سازد. \n\n🔹مکانیسم تخریب مین با ایجاد پدیدهٔ فیزیکی اثر حباب انفجاری رخ می‌دهد؛ انبساط و ا",
+   "url": "https://t.me/farsna/468078",
+   "time": "2026-10-13T02:11:14+00:00",
+   "keywords": [
+    "انفجار"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-13T03:58:47.976966+00:00"
+  },
+  {
+   "id": "tg:bbcpersian/293274",
+   "kind": "tg",
+   "src": "bbcpersian",
+   "text": "🔻حوثی‌ها به آمریکا هشدار دادند که اگر وارد جنگ یمن شود، با «پاسخی دردناک» مواجه می‌شود.\n\nبه گزارش خبرگزاری فرانسه، عربستان سعودی از واشنگتن برای مقابله با حوثی‌ها درخواست کمک کرده است.\n\nمحمد البخیتی، عضو دفتر سیاسی حوثی‌ها، به این خبرگزاری گفت: «اگر آمریکا در تجاوز به یمن دخالت کند، در تصمیم‌گیری برای پاسخ درنگ نخواهیم کرد. پاسخی سریع و دردناک خواهد آمد که آمریکا و تمام منافعش در منطقه را هدف قرار می‌دهد.»\n\nاو همچنین هشدار داد: «تمام کارکنان و کارگران تأسیسات نفتی و فرودگاه‌های عربستان سعودی از این مکان‌ها دور بمانند زیرا به اهداف مشروع تبدیل شده‌اند.»\n\nشامگاه دوشنبه بار دیگر صدای انفجار در ری",
+   "url": "https://t.me/bbcpersian/293274",
+   "time": "2026-10-13T01:56:19+00:00",
+   "keywords": [
+    "حمله",
+    "موشک",
+    "انفجار"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-13T03:58:47.976966+00:00"
+  },
+  {
+   "id": "tg:farsna/468077",
+   "kind": "tg",
+   "src": "farsna",
+   "text": "🎥 انهدام پهپاد ارتش سعودی بر فراز یمن\n\n🔹ارتش یمن یک فروند پهپاد رژیم سعودی را بر فراز منطقه «بنی مطر» در جنوب غربی صنعاء سرنگون کرد.\n\n@FarsNewsInt - Link",
+   "url": "https://t.me/farsna/468077",
+   "time": "2026-10-13T01:41:51+00:00",
+   "keywords": [
+    "پهپاد"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-13T03:58:47.976966+00:00"
+  },
+  {
+   "id": "tg:presstv/210515",
+   "kind": "tg",
+   "src": "presstv",
+   "text": "A cyberattack on Danish company Danfoss’s software has disrupted refrigeration systems at around 150 Intermarché stores and 80 Carrefour outlets across France. \n\nThe attack reportedly caused refrigerator temperatures to rise to 50°C, spoiling food and sparking fires at some locations.\n\n@PressTV",
+   "url": "https://t.me/presstv/210515",
+   "time": "2026-10-13T01:33:43+00:00",
+   "keywords": [
+    "attack"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-13T03:58:47.976966+00:00"
+  },
+  {
+   "id": "tg:presstv/210513",
+   "kind": "tg",
+   "src": "presstv",
+   "text": "Civilian casualties mount as Saudi attacks on Yemen continue\n\nHaitham al-Ansi reports from Sana’a.\n\n@PressTV",
+   "url": "https://t.me/presstv/210513",
+   "time": "2026-10-13T01:15:08+00:00",
+   "keywords": [
+    "attack"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-13T03:58:47.976966+00:00"
+  },
+  {
+   "id": "tg:IranintlTV/362007",
+   "kind": "tg",
+   "src": "iranintltv",
+   "text": "رویترز گزارش داد عربستان سعودی چند روز پیش از حملات مرگبار به فرودگاه بین‌المللی ریاض که دست‌کم ۱۸ کشته و بیش از ۳۰۰ زخمی بر جای گذاشت، صدور هشدارهای عمومی درباره حملات قریب‌الوقوع را متوقف کرده بود.\n\nاین خبرگزاری نوشت دولت عربستان توضیح نداده چرا پیش از چهار حمله اخیر به فرودگاه ریاض هشداری صادر نشد. چند مقام غربی و عرب گفتند این وضعیت پرسش‌هایی درباره توانایی ریاض برای حفاظت از شهروندان ایجاد کرده است.\n\nدو مقام آگاه به رویترز گفتند مسئولان سعودی در پاسخ به پرسش یک دولت غربی درباره توقف هشدارها گفته بودند این هشدارها زندگی روزمره را مختل می‌کرد و برخی شهروندان از بیدار شدن در طول شب شکایت داش",
+   "url": "https://t.me/IranintlTV/362007",
+   "time": "2026-10-13T00:57:55+00:00",
+   "keywords": [
+    "حمله"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-13T03:58:47.976966+00:00"
+  },
+  {
+   "id": "tg:warmonitors/46024",
+   "kind": "tg",
+   "src": "warmonitors",
+   "text": "⚡The Saudi-led coalition says it intercepted and destroyed two ballistic missiles fired by Houthis towards Khamis Mushait\n\n💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18",
+   "url": "https://t.me/warmonitors/46024",
+   "time": "2026-10-13T00:51:34+00:00",
+   "keywords": [
+    "missile"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-13T03:58:47.976966+00:00"
+  },
+  {
+   "id": "tg:IranintlTV/362006",
+   "kind": "tg",
+   "src": "iranintltv",
+   "text": "رویترز گزارش داد هکرها در حمله‌ای به سامانه‌های سرمایشی صدها سوپرمارکت در فرانسه، دمای یخچال‌ها و فریزرها را تا ۵۰ درجه سانتی‌گراد افزایش دادند؛ حمله‌ای که به فاسد شدن مواد غذایی، آتش‌سوزی و خسارت چند ده میلیون یورویی منجر شد.\n\nدادستانی پاریس دوشنبه ۲۰ مهر اعلام کرد یخچال‌های متصل به اینترنت چند شرکت بزرگ خرده‌فروشی هدف قرار گرفته‌اند. سباستین لوکورنو، نخست‌وزیر فرانسه، دستور تحقیق درباره این حمله را صادر کرد.\n\nکافور اعلام کرد ۸۰ فروشگاه این شرکت هدف قرار گرفته و اینترمارشه از افزایش دمای یخچال‌ها در حدود ۱۵۰ فروشگاه به ۵۰ درجه برای شش ساعت خبر داد. مونوپری نیز اعلام کرد پنج درصد از ۴۹۰ فروشگا",
+   "url": "https://t.me/IranintlTV/362006",
+   "time": "2026-10-13T00:48:58+00:00",
+   "keywords": [
+    "حمله"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-13T03:58:47.976966+00:00"
+  },
+  {
+   "id": "rss:https://www.aljazeera.com/news/liveblog/2026/10/13/iran-war-live-trump-says-houthis-misbehaving-as-riyadh-flights-halted?traffic_source=rss",
+   "kind": "rss",
+   "src": "www.aljazeera.com",
+   "text": "Iran war live: Trump says Houthis ‘misbehaving’ as Riyadh flights halted — US President Trump condemns Yemen's Houthis over escalating attacks, as Saudi Arabia halts flights at Riyadh airport.",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/10/13/iran-war-live-trump-says-houthis-misbehaving-as-riyadh-flights-halted?traffic_source=rss",
+   "time": "2026-10-13T00:00:00+00:00",
+   "keywords": [
+    "attack"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-13T03:58:47.976966+00:00"
+  },
+  {
+   "id": "rss:https://www.aljazeera.com/news/2026/10/12/houthi-missile-attack-targets-saudi-capital-riyadh-for-third-day-in-a-row?traffic_source=rss",
+   "kind": "rss",
+   "src": "www.aljazeera.com",
+   "text": "Houthi missile attack targets Saudi capital Riyadh for third day in a row — Saudi Arabia claims it downed a ballistic missile fired at Riyadh, as the Houthis say they targeted King Khalid airport.",
+   "url": "https://www.aljazeera.com/news/2026/10/12/houthi-missile-attack-targets-saudi-capital-riyadh-for-third-day-in-a-row?traffic_source=rss",
+   "time": "2026-10-12T23:54:05+00:00",
+   "keywords": [
+    "attack",
+    "missile"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-13T03:58:47.976966+00:00"
+  },
   {
    "id": "tg:farsna/468074",
    "kind": "tg",
@@ -469,6 +759,20 @@
    "emojis": [],
    "alert": true,
    "collected": "2026-10-12T17:40:29.301878+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbjA2QUhMb0ZQWVJDZ0dlNVZFMTBaTk1yUmdfdXhhX2U3ZXpXWDZrVWdZYTVnaS1DMkhIcTBIUE5wT1ozV1JMSk8tNEdjTVRjcFVtb1E4TVZkZFFrNm5vOVFldU4yYjQtMk1jN3IxcEdISWd3a21nZWVjLXRqdnlWYWVYY3VaX0xuV2FzX0lKbGZ0MW51VEgzTmI2UXF1OWVOQV9FdEJvbk1vcTc0cjZDTjkxaW9YdU4zbE0ycUNPYmZCbGJZY1pvMm4xd3B3YTFDOXkyTkh3?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "US, UK and 27 more countries warn Iran against further attacks on West, after British base plot - The Times of Israel — US, UK and 27 more countries warn Iran against further attacks on West, after British base plot  The Times of Israel",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbjA2QUhMb0ZQWVJDZ0dlNVZFMTBaTk1yUmdfdXhhX2U3ZXpXWDZrVWdZYTVnaS1DMkhIcTBIUE5wT1ozV1JMSk8tNEdjTVRjcFVtb1E4TVZkZFFrNm5vOVFldU4yYjQtMk1jN3IxcEdISWd3a21nZWVjLXRqdnlWYWVYY3VaX0xuV2FzX0lKbGZ0MW51VEgzTmI2UXF1OWVOQV9FdEJvbk1vcTc0cjZDTjkxaW9YdU4zbE0ycUNPYmZCbGJZY1pvMm4xd3B3YTFDOXkyTkh3?oc=5",
+   "time": "2026-10-12T16:19:45+00:00",
+   "keywords": [
+    "attack"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-13T03:58:47.976966+00:00"
   },
   {
    "id": "rss:https://news.google.com/rss/articles/CBMiZEFVX3lxTE5sb0dmNFJLcjlhZHBEdFlFMGstSzJLb2RMTkQyTzNEVHVkY3FHUzBwVzl2Ym9qV2NlbXM2WjMtamQxQmZKZ0ZlcG04NGl3bEJGTUZTbTJGMkw5YzM2ZVlkd014SzY?oc=5",
@@ -2549,305 +2853,6 @@
    "emojis": [],
    "alert": true,
    "collected": "2026-10-12T09:11:04.303344+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMiugNBVV95cUxQdlRFOWxvNElFVHAyT3JKdzRUYk9CRFhidGEyR1JjSnFlZ1ZIMU5wWHJnNzJlckx2WkM2OEkzc1FLdFdkVzJ5ZVVWMmtYWEdRZjJYSF9ScklHQlN1dDN2Q3JlYVFJRzNBU0JpXzRTRUZXYmhvREw1TFM5TUdhNURReHhpSDVTcXFkYXlWMzRyUDdCX0xLSW92REczVVlEZE1KZzJzNWZYMjdoWV9wUGY2aFRKU2tNN2piUWstTTZQdFhtLXBKTFNvQTc3V2pLajh3Z0N2LXdrY19DaHFybGVDLWJMcy1zZTNGZjhka3RoaVRmU3dUNThicDZEeXBmY204VXRsSTVGbW9EemtKeTZzNFg0LVFfRzhnbmh2NjBwd0RGcHhpajVpM2w3VUtNd0VPOUxtOVQ3aktMb0IyV1NSSDVUdFJrMVFHWEp2QkNSQ0tsYU5xbkRFaVJvV3l6dVFOZEZXUGRleENlNUVOMkJmb2QyZW1XYW5oTmdjZFU3a0RIRGh1SFY4dmp1ZVdIOHdrS0hieTQyUlZpQmVKMjlKVWdTd211VEVJalZMTGx4Vm5MdnBXaXFiSUd3?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "هجوم أميركي على سفينة شحن يشدد الخناق البحري على إيران - ميدل ايست اونلاين — هجوم أميركي على سفينة شحن يشدد الخناق البحري على إيران  ميدل ايست اونلاين",
-   "url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxQdlRFOWxvNElFVHAyT3JKdzRUYk9CRFhidGEyR1JjSnFlZ1ZIMU5wWHJnNzJlckx2WkM2OEkzc1FLdFdkVzJ5ZVVWMmtYWEdRZjJYSF9ScklHQlN1dDN2Q3JlYVFJRzNBU0JpXzRTRUZXYmhvREw1TFM5TUdhNURReHhpSDVTcXFkYXlWMzRyUDdCX0xLSW92REczVVlEZE1KZzJzNWZYMjdoWV9wUGY2aFRKU2tNN2piUWstTTZQdFhtLXBKTFNvQTc3V2pLajh3Z0N2LXdrY19DaHFybGVDLWJMcy1zZTNGZjhka3RoaVRmU3dUNThicDZEeXBmY204VXRsSTVGbW9EemtKeTZzNFg0LVFfRzhnbmh2NjBwd0RGcHhpajVpM2w3VUtNd0VPOUxtOVQ3aktMb0IyV1NSSDVUdFJrMVFHWEp2QkNSQ0tsYU5xbkRFaVJvV3l6dVFOZEZXUGRleENlNUVOMkJmb2QyZW1XYW5oTmdjZFU3a0RIRGh1SFY4dmp1ZVdIOHdrS0hieTQyUlZpQmVKMjlKVWdTd211VEVJalZMTGx4Vm5MdnBXaXFiSUd3?oc=5",
-   "time": "2026-10-11T04:42:36+00:00",
-   "keywords": [
-    "هجوم"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-12T07:56:39.040694+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tTzBYU0lxSGR2OEJ1S0ZsSDRQcVZHRlFOV0dQeWsxZ3VrZFNyRU5lTGxISEhvU09GREx2WUJjeVVzYVFWVGktSFdQZC1BeHdyY0E?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "US weighs strikes on Houthis and Iran after deadly Saudi airport attack - Iran International — US weighs strikes on Houthis and Iran after deadly Saudi airport attack  Iran International",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tTzBYU0lxSGR2OEJ1S0ZsSDRQcVZHRlFOV0dQeWsxZ3VrZFNyRU5lTGxISEhvU09GREx2WUJjeVVzYVFWVGktSFdQZC1BeHdyY0E?oc=5",
-   "time": "2026-10-11T04:19:54+00:00",
-   "keywords": [
-    "strike",
-    "attack"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-12T07:56:39.040694+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMitANBVV95cUxNTHhMQXk0S0Jjanprd01RVWpCd0d3c2h0SmI4YTFOaGR4d2Qxd1IwaWtsSzdXSDBLbnUxNVBtNFZvYWxLSkJVU3Q1UTVRUl9jR0JlclFIYUJVMEpZQjI5dGVoVThWNmJBeVpIMGVDbVpiYldGNThva2poX29vc1ZiNDJ4U1B5NFdUcWJ0VlRqcWtaMHhmckhuOUZPY2xNRlM4cTlFQlZIZ0JqVDZwaHk4Tkw0bjlVWnUtRUxrcmtUVzc4NEF1ZFhvQ3lGWWRqeWZpWUtyN1l3SlNjeVkxd0p4RGpqUUM4aFZzRnA2MlpfYjFfcWtMUm5IZE9jNWIwZkY4TlBTM19EcEd1Ny1ieEk4WWM3dF9jekozWjQ5UU9VNHZvVExmNFh5ektZNmJvcFVJbktLcm02aHByaW9KU0F1b1NiR3puNnJLMmZvTVRrdWZsSzZjWFlXM3dIelZqbUJ6QnJJSTJ3c0tYV1dlOF9VRDdQbjFYeFgwNXR2TmYxV0NqVW5xcWR3dUJOVXNiVkZxU0duU3ZnTnZkeFZ4a0psNURkM183akFnUFl3c1RRNkJMSTFZ0gG4A0FVX3lxTE5oRExfQ2xTVk9DcDM3TDhNLVVmT2w2cU1VbTlMTkNLMGRsbjFsX28zanNfNy1IZU9DbEVPV2VRRlMyUnpubDl6VEMxeldvYW1kUURSZjVFYnRUTk9SN1NVTmJ4T2NtNTdUZklCbmJ5RGl5OFYwUGVoX1hEXy0wcmVIUkNndENUR0Q2bmR6OEg2ZEZVTU9Kc1BqdlF1SzdXSmRacVNtZFBFbEZXMVZEM2JDTm5TNEpYWU9rU3E2SUxrdTFBX3BiUldmZDV2S3AwOFByR2pSTTZRUUZ3R2Q1RHB0NGc5c3NiR1RlUmJIM1E2dm9CZWZKLVFrWEsxWHFNUkhYZmQ4Z0gxSEZrakJ1MkgtZVBjZ1hCZ1hSTC0ydTRZMExnUmRmNWU2NS14MlpBVEZxdS16X1VfUVJxOS1WWlhicEVNZ3oyNS1IeFBQT20yODhULTBJU1JuOXpEOUlmaklwWUpINmstWmxZNy1maUVSbTBWY1NQYXRjdHdUQzM2N3gycUJUaDN2MWdUWXowTzB0WHBzYlM4bF9oMEZ6UVBDa2cxZ210cE5lNEptMDJnc1dWRnNtZkpt?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "معاريف: واشنطن طالبت \"إسرائيل\" بشن هجوم منفرد على إيران - عربي21 — معاريف: واشنطن طالبت \"إسرائيل\" بشن هجوم منفرد على إيران  عربي21",
-   "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxNTHhMQXk0S0Jjanprd01RVWpCd0d3c2h0SmI4YTFOaGR4d2Qxd1IwaWtsSzdXSDBLbnUxNVBtNFZvYWxLSkJVU3Q1UTVRUl9jR0JlclFIYUJVMEpZQjI5dGVoVThWNmJBeVpIMGVDbVpiYldGNThva2poX29vc1ZiNDJ4U1B5NFdUcWJ0VlRqcWtaMHhmckhuOUZPY2xNRlM4cTlFQlZIZ0JqVDZwaHk4Tkw0bjlVWnUtRUxrcmtUVzc4NEF1ZFhvQ3lGWWRqeWZpWUtyN1l3SlNjeVkxd0p4RGpqUUM4aFZzRnA2MlpfYjFfcWtMUm5IZE9jNWIwZkY4TlBTM19EcEd1Ny1ieEk4WWM3dF9jekozWjQ5UU9VNHZvVExmNFh5ektZNmJvcFVJbktLcm02aHByaW9KU0F1b1NiR3puNnJLMmZvTVRrdWZsSzZjWFlXM3dIelZqbUJ6QnJJSTJ3c0tYV1dlOF9VRDdQbjFYeFgwNXR2TmYxV0NqVW5xcWR3dUJOVXNiVkZxU0duU3ZnTnZkeFZ4a0psNURkM183akFnUFl3c1RRNkJMSTFZ0gG4A0FVX3lxTE5oRExfQ2xTVk9DcDM3TDhNLVVmT2w2cU1VbTlMTkNLMGRsbjFsX28zanNfNy1IZU9DbEVPV2VRRlMyUnpubDl6VEMxeldvYW1kUURSZjVFYnRUTk9SN1NVTmJ4T2NtNTdUZklCbmJ5RGl5OFYwUGVoX1hEXy0wcmVIUkNndENUR0Q2bmR6OEg2ZEZVTU9Kc1BqdlF1SzdXSmRacVNtZFBFbEZXMVZEM2JDTm5TNEpYWU9rU3E2SUxrdTFBX3BiUldmZDV2S3AwOFByR2pSTTZRUUZ3R2Q1RHB0NGc5c3NiR1RlUmJIM1E2dm9CZWZKLVFrWEsxWHFNUkhYZmQ4Z0gxSEZrakJ1MkgtZVBjZ1hCZ1hSTC0ydTRZMExnUmRmNWU2NS14MlpBVEZxdS16X1VfUVJxOS1WWlhicEVNZ3oyNS1IeFBQT20yODhULTBJU1JuOXpEOUlmaklwWUpINmstWmxZNy1maUVSbTBWY1NQYXRjdHdUQzM2N3gycUJUaDN2MWdUWXowTzB0WHBzYlM4bF9oMEZ6UVBDa2cxZ210cE5lNEptMDJnc1dWRnNtZkpt?oc=5",
-   "time": "2026-10-11T04:10:00+00:00",
-   "keywords": [
-    "هجوم"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-12T07:56:39.040694+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMiSkFVX3lxTE9FamppMmdIclFMQ2V2bXlZV2FlSWRTb2Q2Qk9tNGRCaXdaSkw3eHBkYy1XQlJkOXBtR2o0QWFiRGU5Nm1BMUpCQVlR?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "إصابة ناقلتي نفط في هرمز وإسرائيل تبحث هجوما جديدا على إيران - شفقنا العربي — إصابة ناقلتي نفط في هرمز وإسرائيل تبحث هجوما جديدا على إيران  شفقنا العربي",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9FamppMmdIclFMQ2V2bXlZV2FlSWRTb2Q2Qk9tNGRCaXdaSkw3eHBkYy1XQlJkOXBtR2o0QWFiRGU5Nm1BMUpCQVlR?oc=5",
-   "time": "2026-10-11T03:15:13+00:00",
-   "keywords": [
-    "هجوم"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-12T07:56:39.040694+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMiakFVX3lxTFBBUHBTSEE2RWp1Q2JER29qVzlWOTJ1RlRjVUd3YlB0enNMa1ZmOXYyTWZzVVRZSTdlMkhIaXJFNVlNcjIwdFBJSEFDcko0bFlocjl4U3d0RTE1LVRiN0QwVFp2dFlvcWt4dVE?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "US strikes merchant vessel in Gulf of Oman while enforcing Iran blockade - The Jerusalem Post — US strikes merchant vessel in Gulf of Oman while enforcing Iran blockade  The Jerusalem Post",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBUHBTSEE2RWp1Q2JER29qVzlWOTJ1RlRjVUd3YlB0enNMa1ZmOXYyTWZzVVRZSTdlMkhIaXJFNVlNcjIwdFBJSEFDcko0bFlocjl4U3d0RTE1LVRiN0QwVFp2dFlvcWt4dVE?oc=5",
-   "time": "2026-10-11T01:43:32+00:00",
-   "keywords": [
-    "strike"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-12T07:56:39.040694+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMitwFBVV95cUxPalpibTQtRV90NWlPelFiMFY2R0ZKNk11dXhCNVZzVk9aLXhWbXUwN0t5bEtZMnNSRk5OcldHeHNfRlFxVWVDd1lvb0czU2FzNnpNTnB0ZkdaX0EyOG9IVFgxcDNxY1JwSm95UXhaQzhNdEp0dkpxU1Z3WnVQbzhKM2xsNndSS0xtQkFmeDJqYTVaT1lOeC1RNGE0STMxZU1ob1JabDV2M0hLLWpQTWtYSGVkZm9tcnM?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "American among 12 dead after Iran-backed Houthis strike Saudi airport - New York Post — American among 12 dead after Iran-backed Houthis strike Saudi airport  New York Post",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPalpibTQtRV90NWlPelFiMFY2R0ZKNk11dXhCNVZzVk9aLXhWbXUwN0t5bEtZMnNSRk5OcldHeHNfRlFxVWVDd1lvb0czU2FzNnpNTnB0ZkdaX0EyOG9IVFgxcDNxY1JwSm95UXhaQzhNdEp0dkpxU1Z3WnVQbzhKM2xsNndSS0xtQkFmeDJqYTVaT1lOeC1RNGE0STMxZU1ob1JabDV2M0hLLWpQTWtYSGVkZm9tcnM?oc=5",
-   "time": "2026-10-11T00:00:03+00:00",
-   "keywords": [
-    "strike"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-12T07:56:39.040694+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMiwwFBVV95cUxONVZvdjV3enk5NjVSOS0weGVsdldRckhsTElFQjRvaEVYNjBDNGsyUHI0ai1INkVLdXdNQUlfVUpLdExpTHFSR0FXZ0dOQ1RnVExRWFpRR0ZwVU9tanNhbk9hS3piQ1d1aGtQM0xVT0V0emVYamppZmZxSW1VUzVhbTBSMHNScXpIRVFFdzU4TDF4LU5NUkl5Y2xhYm9kMUhDWWMzRU5HMDBTaWRhRlA1bUZ0bkw1Nl9WSDN5bC1zRExrNEU?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "Iran hits latest tanker as strikes near 20 vessels in under two weeks - TradeWinds News — Iran hits latest tanker as strikes near 20 vessels in under two weeks  TradeWinds News",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONVZvdjV3enk5NjVSOS0weGVsdldRckhsTElFQjRvaEVYNjBDNGsyUHI0ai1INkVLdXdNQUlfVUpLdExpTHFSR0FXZ0dOQ1RnVExRWFpRR0ZwVU9tanNhbk9hS3piQ1d1aGtQM0xVT0V0emVYamppZmZxSW1VUzVhbTBSMHNScXpIRVFFdzU4TDF4LU5NUkl5Y2xhYm9kMUhDWWMzRU5HMDBTaWRhRlA1bUZ0bkw1Nl9WSDN5bC1zRExrNEU?oc=5",
-   "time": "2026-10-10T23:17:52+00:00",
-   "keywords": [
-    "strike",
-    "tanker"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-12T07:56:39.040694+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMiY0FVX3lxTE1NUWtUc3VVMmZTMUlBbDMybDJOXzJ5OFZldEFVTUpXVG9pY1B2V2hwczdhSlpCb0lwQ0JlWk9NdVJkRmNGX3FFQWhyNHdpd1VUaWZKbWMtbURueElQb2RfdS0yYw?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "تقرير: واشنطن طلبت من إسرائيل شن هجوم منفرد على إيران - الأيام البحرينية — تقرير: واشنطن طلبت من إسرائيل شن هجوم منفرد على إيران  الأيام البحرينية",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1NUWtUc3VVMmZTMUlBbDMybDJOXzJ5OFZldEFVTUpXVG9pY1B2V2hwczdhSlpCb0lwQ0JlWk9NdVJkRmNGX3FFQWhyNHdpd1VUaWZKbWMtbURueElQb2RfdS0yYw?oc=5",
-   "time": "2026-10-10T22:11:32+00:00",
-   "keywords": [
-    "هجوم"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-12T07:56:39.040694+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMiTkFVX3lxTFByeWtBRDdiSVJkZDEySVV0OC1haE1uRkJHaVVtOTNGX1ZMaUhOLURWbDRlNk0zSzB6OTQ2cjFMMDlLQmdxVFhxOUx4RHZqUQ?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "בכיר ישראלי: תקיפה יזומה באיראן? לא לפני הבחירות - אמס — בכיר ישראלי: תקיפה יזומה באיראן? לא לפני הבחירות  אמס",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFByeWtBRDdiSVJkZDEySVV0OC1haE1uRkJHaVVtOTNGX1ZMaUhOLURWbDRlNk0zSzB6OTQ2cjFMMDlLQmdxVFhxOUx4RHZqUQ?oc=5",
-   "time": "2026-10-10T21:58:56+00:00",
-   "keywords": [
-    "תקיפה",
-    "איראן"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-12T07:56:39.040694+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMiaEFVX3lxTE04T3ZPVTcwbjJmd3NMMjlrSjFMQkFmZnROUG9sNEh0eFV5RWJqX0t2NFRKbHg1dHl4cjNHOUozb1dfRUI1cl9zOEFQM3lHZ295NGJPbVk2U0NMMkd2TGMyaHplekN0cHgx?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "גורם ישראלי בכיר: \"לא תהיה תקיפה ישראלית יזומה לפני הבחירות\" - גלובס — גורם ישראלי בכיר: \"לא תהיה תקיפה ישראלית יזומה לפני הבחירות\"  גלובס",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04T3ZPVTcwbjJmd3NMMjlrSjFMQkFmZnROUG9sNEh0eFV5RWJqX0t2NFRKbHg1dHl4cjNHOUozb1dfRUI1cl9zOEFQM3lHZ295NGJPbVk2U0NMMkd2TGMyaHplekN0cHgx?oc=5",
-   "time": "2026-10-10T21:14:04+00:00",
-   "keywords": [
-    "תקיפה"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-12T07:56:39.040694+00:00"
-  },
-  {
-   "id": "tg:idfofficial/19344",
-   "kind": "tg",
-   "src": "idfofficial",
-   "text": "IDF: Following the sirens sounded at 19:57 in Arab al-Aramshe, IDF surveillance identified an unknown aerial subject on the border with Lebanon.\n\nIDF soldiers are continuing to search the area, and until now, no suspicious findings were located. There are currently no special instructions for the home front.",
-   "url": "https://t.me/idfofficial/19344",
-   "time": "2026-10-10T20:41:35+00:00",
-   "keywords": [
-    "home front"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-12T07:56:39.040694+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVaG9GTUc3Y1ZrT3F2cDRTWkxZOE5SbHV3Z1o2SzZsMk1aTUpnWE5zRlViSDk5cUswbzhzMDBSdnZyRWZOeUN5LWZqMk5qcWk0aGxuTG1BdGdnblJrb0E?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "إيران بين صندوقي اقتراع.. هجوم محتمل يربك حسابات ترامب ونتنياهو - العين الإخبارية — إيران بين صندوقي اقتراع.. هجوم محتمل يربك حسابات ترامب ونتنياهو  العين الإخبارية",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVaG9GTUc3Y1ZrT3F2cDRTWkxZOE5SbHV3Z1o2SzZsMk1aTUpnWE5zRlViSDk5cUswbzhzMDBSdnZyRWZOeUN5LWZqMk5qcWk0aGxuTG1BdGdnblJrb0E?oc=5",
-   "time": "2026-10-10T19:37:55+00:00",
-   "keywords": [
-    "هجوم"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-12T07:56:39.040694+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMiogJBVV95cUxNRVRWS1hPanFCMldSUC1uNFpsWVFIX3FnNnkzV3RpektPcERUMFlfMGRQeDZhWElEdFdYeFJOTU54UTJnVm95ZmZyTUpLbmMxZkJzRjE3bEIxcDdvQUpHWXA3QnBZN3YtaWU1LVdKU3o0Y2tid2FkUzR4SXZLbWY0UkpuS1F6TGtOUk5STm9rYmhhRmRpcEl2ckZCRXNwSzZHU0czVzI3cV9HVjhhNW5ZQnVobnRoNGpscDdlWFN1NmhTT3pKNHV6YWxsOFF1OHpkcjJuenZ2RXJMMWxULVdRdmgxU0xOYVpnWkJfTWhfcXRJbEtiU2hObGttZXIzMVpnVlFvMEVjZm1mVlJNU0hHOFU3THVKcHlrcHhtZFNFNFBpdw?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "IDF Officials Warn Pre-Election Iran Strike Could Seem Politically Motivated - Haaretz — IDF Officials Warn Pre-Election Iran Strike Could Seem Politically Motivated  Haaretz",
-   "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNRVRWS1hPanFCMldSUC1uNFpsWVFIX3FnNnkzV3RpektPcERUMFlfMGRQeDZhWElEdFdYeFJOTU54UTJnVm95ZmZyTUpLbmMxZkJzRjE3bEIxcDdvQUpHWXA3QnBZN3YtaWU1LVdKU3o0Y2tid2FkUzR4SXZLbWY0UkpuS1F6TGtOUk5STm9rYmhhRmRpcEl2ckZCRXNwSzZHU0czVzI3cV9HVjhhNW5ZQnVobnRoNGpscDdlWFN1NmhTT3pKNHV6YWxsOFF1OHpkcjJuenZ2RXJMMWxULVdRdmgxU0xOYVpnWkJfTWhfcXRJbEtiU2hObGttZXIzMVpnVlFvMEVjZm1mVlJNU0hHOFU3THVKcHlrcHhtZFNFNFBpdw?oc=5",
-   "time": "2026-10-10T19:22:00+00:00",
-   "keywords": [
-    "strike"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-12T07:56:39.040694+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mMGh1bWdxODVvQTlSSUVxdk9hNFN1NnNITzlzUVFreElYZXF0eUR6TzEtdUhWMEFXQmFKakdvb2FjU1llVlp0eHVfakZyU3huS0hfa2NEOXVDVDVHYmI2SDVGTVA?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "בכיר ישראלי: \"לא צפויה תקיפה ישראלית יזומה לפני הבחירות\" - ice (אייס) — בכיר ישראלי: \"לא צפויה תקיפה ישראלית יזומה לפני הבחירות\"  ice (אייס)",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mMGh1bWdxODVvQTlSSUVxdk9hNFN1NnNITzlzUVFreElYZXF0eUR6TzEtdUhWMEFXQmFKakdvb2FjU1llVlp0eHVfakZyU3huS0hfa2NEOXVDVDVHYmI2SDVGTVA?oc=5",
-   "time": "2026-10-10T18:43:00+00:00",
-   "keywords": [
-    "תקיפה"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-12T07:56:39.040694+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMipwFBVV95cUxQbDFmVEJ6WXZkaG9fN0pMVnpNeGJudDYyaE01RFAxNkhGR3c0LTFkMVE2WmpHZHZlWXU0ZGw4bWRPaGVTMElzOTVBa01pNWNydFhkV0RPM2w1alNWVzdCVlIzQUN3a1l6c25mX3Rpd2ZMVHZ5UEt5QUZKR3FjTGtCRnhiOTNBUldsbGxwS1FaUkY4bGw0QnBuQlpCQU9Lb1VGcV9OMllrWdIBrAFBVV95cUxNWkhpVXk0VWZVamdRZDEzVzNvN0o1c0VYWGYySUhjbWFWMjlsT3libERrOFppLW41M2hYcmFsLVFlWGZWSFB0dVNOekxSMFNQek5vU05zbzlwbnJ6ZFlMX2NfNmxobGliaWNsZlBKcEdrUGxUSTRmcTJlVGd3XzBGZzFUWWNqQmVwVnJBeldHYWdfQzVnM2t0X2ExZVNNSlZYNGMzTVRjMFM0b0ZX?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "At least 12 killed, more than 300 hurt in Houthi attack on Riyadh airport - The Times of Israel — At least 12 killed, more than 300 hurt in Houthi attack on Riyadh airport  The Times of Israel",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbDFmVEJ6WXZkaG9fN0pMVnpNeGJudDYyaE01RFAxNkhGR3c0LTFkMVE2WmpHZHZlWXU0ZGw4bWRPaGVTMElzOTVBa01pNWNydFhkV0RPM2w1alNWVzdCVlIzQUN3a1l6c25mX3Rpd2ZMVHZ5UEt5QUZKR3FjTGtCRnhiOTNBUldsbGxwS1FaUkY4bGw0QnBuQlpCQU9Lb1VGcV9OMllrWdIBrAFBVV95cUxNWkhpVXk0VWZVamdRZDEzVzNvN0o1c0VYWGYySUhjbWFWMjlsT3libERrOFppLW41M2hYcmFsLVFlWGZWSFB0dVNOekxSMFNQek5vU05zbzlwbnJ6ZFlMX2NfNmxobGliaWNsZlBKcEdrUGxUSTRmcTJlVGd3XzBGZzFUWWNqQmVwVnJBeldHYWdfQzVnM2t0X2ExZVNNSlZYNGMzTVRjMFM0b0ZX?oc=5",
-   "time": "2026-10-10T18:43:00+00:00",
-   "keywords": [
-    "attack"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-12T17:40:29.301878+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMinwFBVV95cUxNdmJyT1YyR2R0Nmc0UnJRcUlmNW5fOXlEeFRrTktRbE80X0loUkZ6cXFTcDRPQTdMamk3aWpnZUdzY0x4dWEwS3A4NWZvVHh6THdCRFV0ZWpzdzJTWnFSLWtvQjNSVzA2eXhyazZqM1hieWh5VE52V2lpUHc5dC1Cdm9nYmZQMVpOVmVCVWI5Sk5SdmJjSXNxY3RvZ2pERFk?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "גורמים ביטחוניים: תקיפה באיראן לפני הבחירות עשויה להיתפס כצעד פוליטי - הארץ — גורמים ביטחוניים: תקיפה באיראן לפני הבחירות עשויה להיתפס כצעד פוליטי  הארץ",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdmJyT1YyR2R0Nmc0UnJRcUlmNW5fOXlEeFRrTktRbE80X0loUkZ6cXFTcDRPQTdMamk3aWpnZUdzY0x4dWEwS3A4NWZvVHh6THdCRFV0ZWpzdzJTWnFSLWtvQjNSVzA2eXhyazZqM1hieWh5VE52V2lpUHc5dC1Cdm9nYmZQMVpOVmVCVWI5Sk5SdmJjSXNxY3RvZ2pERFk?oc=5",
-   "time": "2026-10-10T18:36:00+00:00",
-   "keywords": [
-    "תקיפה",
-    "איראן"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-12T07:56:39.040694+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rbDNBNEJRaV90XzZRa0kydnQzZkhFYjd3WFUwekpGODhMcHRWM0kwQ2RKdUszcEZXRUhoN3kxZXFqQUd3Si1xSERZRHRTc0tpYV95VQ?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "تدريبات إسرائيلية فوق إيران بمساندة لوجستية أمريكية تمهيدا لاحتمال شن هجوم مشترك - وكـالـة مـعـا الاخـبـارية — تدريبات إسرائيلية فوق إيران بمساندة لوجستية أمريكية تمهيدا لاحتمال شن هجوم مشترك  وكـالـة مـعـا الاخـبـارية",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rbDNBNEJRaV90XzZRa0kydnQzZkhFYjd3WFUwekpGODhMcHRWM0kwQ2RKdUszcEZXRUhoN3kxZXFqQUd3Si1xSERZRHRTc0tpYV95VQ?oc=5",
-   "time": "2026-10-10T18:30:49+00:00",
-   "keywords": [
-    "هجوم"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-12T07:56:39.040694+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZkZGempEbGFFWHhKRUlUU1pmUjhQSlFWOHBEVEVBTUhkUHhhU1lXbWlsSzdYMkRHY0gzTHpDeFlYMjM1RFBwcjg0cF9mbGVZeUZWbDd3WVZpLWxNWWt0RTBzY1dVTU5Na2JzOEh5aGM3TkNFVzdrTEJfRE5XX1AzZ2JrNGZkOFUxX3FKUU5xNXFPdUdQYndOWFBkVnNZM3dTbTF3LVZrTG1LVFpYb1RrSjBVVHpCV2RHU3E3OGUxRHl4UnlvNTRTT2Qzd0VoWXY4OXR2VXF6OXZzRFViblVpLW1CUlJHeHZYLTdoUWFiU3R3WndDT0FNdVlOMA?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "إيران تعلن نشر أكثر من 50 وحدة قتالية على حدودها تحسباً لأي هجوم - ANF | Articles — إيران تعلن نشر أكثر من 50 وحدة قتالية على حدودها تحسباً لأي هجوم  ANF | Articles",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZkZGempEbGFFWHhKRUlUU1pmUjhQSlFWOHBEVEVBTUhkUHhhU1lXbWlsSzdYMkRHY0gzTHpDeFlYMjM1RFBwcjg0cF9mbGVZeUZWbDd3WVZpLWxNWWt0RTBzY1dVTU5Na2JzOEh5aGM3TkNFVzdrTEJfRE5XX1AzZ2JrNGZkOFUxX3FKUU5xNXFPdUdQYndOWFBkVnNZM3dTbTF3LVZrTG1LVFpYb1RrSjBVVHpCV2RHU3E3OGUxRHl4UnlvNTRTT2Qzd0VoWXY4OXR2VXF6OXZzRFViblVpLW1CUlJHeHZYLTdoUWFiU3R3WndDT0FNdVlOMA?oc=5",
-   "time": "2026-10-10T18:14:41+00:00",
-   "keywords": [
-    "هجوم"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-12T07:56:39.040694+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMiRkFVX3lxTE84UDlwUkxKOUstUFQtTnZFV2tROFBfN3RFUGtCdmZBWmpqU2Z0V1BFSzdNWU1OckZVeHZqYWZLNFFyTVc0OVE?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "صحيفة: واشنطن تطلب من إسرائيل شن هجوم منفرد على إيران - ANHA — صحيفة: واشنطن تطلب من إسرائيل شن هجوم منفرد على إيران  ANHA",
-   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE84UDlwUkxKOUstUFQtTnZFV2tROFBfN3RFUGtCdmZBWmpqU2Z0V1BFSzdNWU1OckZVeHZqYWZLNFFyTVc0OVE?oc=5",
-   "time": "2026-10-10T17:44:38+00:00",
-   "keywords": [
-    "هجوم"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-12T07:56:39.040694+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CZ3d5dC1wb1M2QmN3Y1F5WnBtN0NOOVR1X05oNmtCdjJUU044U05jMGNKdHY2VmRQeUFSTFlSOEhxb1hwSmFQRUVfSGpYMDh1OE16YmlsWnM5bjA?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "גורם ישראלי בכיר לוואלה: לא צפויה תקיפה באיראן לפני הבחירות - וואלה — גורם ישראלי בכיר לוואלה: לא צפויה תקיפה באיראן לפני הבחירות  וואלה",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CZ3d5dC1wb1M2QmN3Y1F5WnBtN0NOOVR1X05oNmtCdjJUU044U05jMGNKdHY2VmRQeUFSTFlSOEhxb1hwSmFQRUVfSGpYMDh1OE16YmlsWnM5bjA?oc=5",
-   "time": "2026-10-10T17:38:08+00:00",
-   "keywords": [
-    "תקיפה",
-    "איראן"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-12T07:56:39.040694+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMi3ANBVV95cUxOaWJ6cVA0clVaeHAzU3JVYzE2OWhRSmR1RmF5UDhweHRKcE9PVW1wZU9UMTZyejFISHpYdFJjY3hCM2dKaDJ1Z2NSaFE5QVYtcUMxMndaNzV0aWFNVVBXOFhZR3JrWVZWQUR4Q1E0bVRnODRXUlA2OWZmemhUd2hFWEM0TEY3c2lYQmZGbGY2bGtqTDlFUE5jcHhpWEIyeHI2dm9sVDlfdGp3VWhuZXpHSEFRdllVbnYyS3lRclFqWVZ1dkZXWWEzeTVXSENmV0J4RWZqMUpEOVpUVVJWYm5pN0JVbUVLbnplNFRtR0lrX2Q3U09fajhRYTRLdFY0OFhsY3JFSjllcFJXU0lmcFd0anVEclZ2R3l5NWxVQ3J2S3dZM09tWURLOE5kaXowTVBoc1U2bkp2RFVMWG5FeTFsb3cxb2VYVm9MOVBWaHh1UkZvLXF5UDE0b1R5TVNGcktTYjlNU0o1U2FFWnBndWs1Y0xjRFUwclhnQU1WSmlVVURBZVh5MkswM2JiaS11dElUd2k4cWl1Vm5QV3dNaTB4dHRHUWJiY3ZzSEhjT1QtV3B6SXFocFpoNUhUU1VlZnBqWDRwN1B3S1NELU9KcUszdDhNczdIR1VIT2FYRQ?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "إعلام عبري: واشنطن طلبت من إسرائيل شن هجوم مستقل على إيران - Al Akhbar — إعلام عبري: واشنطن طلبت من إسرائيل شن هجوم مستقل على إيران  Al Akhbar",
-   "url": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxOaWJ6cVA0clVaeHAzU3JVYzE2OWhRSmR1RmF5UDhweHRKcE9PVW1wZU9UMTZyejFISHpYdFJjY3hCM2dKaDJ1Z2NSaFE5QVYtcUMxMndaNzV0aWFNVVBXOFhZR3JrWVZWQUR4Q1E0bVRnODRXUlA2OWZmemhUd2hFWEM0TEY3c2lYQmZGbGY2bGtqTDlFUE5jcHhpWEIyeHI2dm9sVDlfdGp3VWhuZXpHSEFRdllVbnYyS3lRclFqWVZ1dkZXWWEzeTVXSENmV0J4RWZqMUpEOVpUVVJWYm5pN0JVbUVLbnplNFRtR0lrX2Q3U09fajhRYTRLdFY0OFhsY3JFSjllcFJXU0lmcFd0anVEclZ2R3l5NWxVQ3J2S3dZM09tWURLOE5kaXowTVBoc1U2bkp2RFVMWG5FeTFsb3cxb2VYVm9MOVBWaHh1UkZvLXF5UDE0b1R5TVNGcktTYjlNU0o1U2FFWnBndWs1Y0xjRFUwclhnQU1WSmlVVURBZVh5MkswM2JiaS11dElUd2k4cWl1Vm5QV3dNaTB4dHRHUWJiY3ZzSEhjT1QtV3B6SXFocFpoNUhUU1VlZnBqWDRwN1B3S1NELU9KcUszdDhNczdIR1VIT2FYRQ?oc=5",
-   "time": "2026-10-10T17:31:02+00:00",
-   "keywords": [
-    "هجوم"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-12T07:56:39.040694+00:00"
   }
  ]
 }
