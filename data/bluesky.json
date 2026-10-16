@@ -1,194 +1,23 @@
 {
- "updated": "2026-10-16T09:21:17.234348+00:00",
+ "updated": "2026-10-16T14:06:20.851374+00:00",
  "accounts": 4,
- "errors": [],
+ "errors": [
+  "bellingcat.com: <urlopen error _ssl.c:993: The handshake operation timed out>",
+  "eliothiggins.bsky.social: <urlopen error _ssl.c:993: The handshake operation timed out>"
+ ],
  "items": [
   {
-   "id": "bsky:at://did:plc:2pg7rfl24ufteqysij4x7qnt/app.bsky.feed.post/3mxya2l5pds2r",
+   "id": "bsky:at://did:plc:xnqnvmwuju4ipj7dehiuxonh/app.bsky.feed.post/3mxycjmeoc22y",
    "kind": "bsky",
-   "src": "eliothiggins.bsky.social",
-   "text": "\"The US official’s comment didn’t preclude the possibility that another US official or agency directed Kyiv’s access be curbed\"\n\nwww.bloomberg.com/news/article...",
-   "url": "https://bsky.app/profile/eliothiggins.bsky.social/post/3mxya2l5pds2r",
-   "time": "2026-10-16T09:08:14.196Z",
-   "keywords": [],
+   "src": "netblocks.org",
+   "text": "⚠️ Confirmed: Network data show a decline in internet connectivity in Volyn Oblast, western #Ukraine, corresponding to power outages after an onslaught of deadly Russian drone attacks targeting energy infrastructure overnight 🔌",
+   "url": "https://bsky.app/profile/netblocks.org/post/3mxycjmeoc22y",
+   "time": "2026-10-16T09:52:26.272Z",
+   "keywords": [
+    "attack"
+   ],
    "emojis": [],
-   "alert": false
-  },
-  {
-   "id": "bsky:at://did:plc:vovinwhtulbsx4mwfw26r5ni/app.bsky.feed.post/3mxy7zpex6l2g",
-   "kind": "bsky",
-   "src": "eliothiggins.bsky.social",
-   "text": "Infantino told by top Fifa figures to scrap or depoliticise peace prize after Trump furore",
-   "url": "https://bsky.app/profile/eliothiggins.bsky.social/post/3mxy7zpex6l2g",
-   "time": "2026-10-16T09:07:45Z",
-   "keywords": [],
-   "emojis": [],
-   "alert": false
-  },
-  {
-   "id": "bsky:at://did:plc:ifsuximqaivczh4fie2opnuk/app.bsky.feed.post/3mxwygm6kv22x",
-   "kind": "bsky",
-   "src": "eliothiggins.bsky.social",
-   "text": "\"Vance, after years of selling his soul, appears to be a true believer in the noxious worldview he now espouses at every turn… Caring about queer kids? That’s creepy and gay. Treating immigrants with dignity? That’s weak and gay. Opposing healthcare cuts and the war in Iran? That’s womanly and gay.\"",
-   "url": "https://bsky.app/profile/eliothiggins.bsky.social/post/3mxwygm6kv22x",
-   "time": "2026-10-15T21:19:08.252Z",
-   "keywords": [],
-   "emojis": [],
-   "alert": false
-  },
-  {
-   "id": "bsky:at://did:plc:juj4a7jagip23ja36opmi4d4/app.bsky.feed.post/3mxwxap4tvc22",
-   "kind": "bsky",
-   "src": "eliothiggins.bsky.social",
-   "text": "Well then it's a good thing somebody wrote a whole law journal article 6 years ago about how the existing authentication rules as well as attorney ethics rules would work just fine to keep deepfakes out of evidence, and good thing she's turned out to be completely right. www.bu.edu/pilj/files/2...",
-   "url": "https://bsky.app/profile/eliothiggins.bsky.social/post/3mxwxap4tvc22",
-   "time": "2026-10-15T20:57:56.273Z",
-   "keywords": [],
-   "emojis": [],
-   "alert": false
-  },
-  {
-   "id": "bsky:at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxwthljjuy2t",
-   "kind": "bsky",
-   "src": "eliothiggins.bsky.social",
-   "text": "Bus, train collision in Channel tunnel leaves 19 injured - French authorities reut.rs/4ys8Utw",
-   "url": "https://bsky.app/profile/eliothiggins.bsky.social/post/3mxwthljjuy2t",
-   "time": "2026-10-15T19:50:12Z",
-   "keywords": [],
-   "emojis": [],
-   "alert": false
-  },
-  {
-   "id": "bsky:at://did:plc:cjfcz3t36f6nrprarkhkycxo/app.bsky.feed.post/3mxwot3ymcc2i",
-   "kind": "bsky",
-   "src": "eliothiggins.bsky.social",
-   "text": "a youtube channel about \"video game esoterica\" that used to be like, guides to taking apart your 3do system or look at this rare video game is now just this",
-   "url": "https://bsky.app/profile/eliothiggins.bsky.social/post/3mxwot3ymcc2i",
-   "time": "2026-10-15T18:27:10.067Z",
-   "keywords": [],
-   "emojis": [],
-   "alert": false
-  },
-  {
-   "id": "bsky:at://did:plc:vk7rduhvom3rq6dyluce5wzf/app.bsky.feed.post/3mxwmclvkgc22",
-   "kind": "bsky",
-   "src": "eliothiggins.bsky.social",
-   "text": "New: Accenture has told employees it will only fund $29 per month of Claude use. Meaning that employees who often spend as much as $1,000 a month are now scrambling to find ways to keep access to the tool. A sign of the continuing crack down of AI www.404media.co/accenture-te...",
-   "url": "https://bsky.app/profile/eliothiggins.bsky.social/post/3mxwmclvkgc22",
-   "time": "2026-10-15T17:42:08.837Z",
-   "keywords": [],
-   "emojis": [],
-   "alert": false
-  },
-  {
-   "id": "bsky:at://did:plc:x4qyokjtdzgl7gmqhsw4ajqj/app.bsky.feed.post/3mxwlnn2sus2s",
-   "kind": "bsky",
-   "src": "eliothiggins.bsky.social",
-   "text": "I like how his gravied brain got him confused with the guy who died in the car with Princess Diana 29 years ago but now he has to retcon that with some fake explanation and the press has to just pretend like this is normal racism and not Alzheimer's racism.",
-   "url": "https://bsky.app/profile/eliothiggins.bsky.social/post/3mxwlnn2sus2s",
-   "time": "2026-10-15T17:30:25.415Z",
-   "keywords": [],
-   "emojis": [],
-   "alert": false
-  },
-  {
-   "id": "bsky:at://did:plc:cjfcz3t36f6nrprarkhkycxo/app.bsky.feed.post/3mxwjp3cyqk2k",
-   "kind": "bsky",
-   "src": "eliothiggins.bsky.social",
-   "text": "seems plausible that in the short term, people are not going to use a janky Adobe clone en masse in a way that fundamentally alters things. \n\nBut people using AI KoolAid-manning into open source hobby coding communities and destroying them — I think that's already happened and going to get worse",
-   "url": "https://bsky.app/profile/eliothiggins.bsky.social/post/3mxwjp3cyqk2k",
-   "time": "2026-10-15T16:55:26.435Z",
-   "keywords": [],
-   "emojis": [],
-   "alert": false
-  },
-  {
-   "id": "bsky:at://did:plc:cjfcz3t36f6nrprarkhkycxo/app.bsky.feed.post/3mxwjkabuv22w",
-   "kind": "bsky",
-   "src": "eliothiggins.bsky.social",
-   "text": "I am seeing a lot more of this kind of thing lately. Is fundamentally the same thing as the AI Adobe clone stuff and I think the near-term impacts are that these human-focused mod communities get both broken + overwhelmed by AI. I think people dismissing the potential impacts of this are wrong",
-   "url": "https://bsky.app/profile/eliothiggins.bsky.social/post/3mxwjkabuv22w",
-   "time": "2026-10-15T16:52:43.868Z",
-   "keywords": [],
-   "emojis": [],
-   "alert": false
-  },
-  {
-   "id": "bsky:at://did:plc:cjfcz3t36f6nrprarkhkycxo/app.bsky.feed.post/3mxwjez73a22u",
-   "kind": "bsky",
-   "src": "eliothiggins.bsky.social",
-   "text": "\"Historically, matching decompilation has been a brutally difficult, time consuming task, on the scale of years for any moderately-sized game with a number of active contributors\"\n\nNow, \"anyone with an AI subscription can manage to create a port\"",
-   "url": "https://bsky.app/profile/eliothiggins.bsky.social/post/3mxwjez73a22u",
-   "time": "2026-10-15T16:49:48.665Z",
-   "keywords": [],
-   "emojis": [],
-   "alert": false
-  },
-  {
-   "id": "bsky:at://did:plc:cjfcz3t36f6nrprarkhkycxo/app.bsky.feed.post/3mxwjbz7fbs2u",
-   "kind": "bsky",
-   "src": "eliothiggins.bsky.social",
-   "text": "A video game reverse engineering community has shut down because many games can now be trivially reverse engineered and decompiled with AI: \"The community aspect of decompilation has been broken.\"\n\nwww.404media.co/video-game-r...",
-   "url": "https://bsky.app/profile/eliothiggins.bsky.social/post/3mxwjbz7fbs2u",
-   "time": "2026-10-15T16:48:08.011Z",
-   "keywords": [],
-   "emojis": [],
-   "alert": false
-  },
-  {
-   "id": "bsky:at://did:plc:sb54dpdfefflykmf5bcfvr7t/app.bsky.feed.post/3mxwjek5my22c",
-   "kind": "bsky",
-   "src": "eliothiggins.bsky.social",
-   "text": "Bellingcat is a not-for-profit and our work would not be possible without the kind support of individual donors. Help us continue this work by donating today: www.bellingcat.com/donate/",
-   "url": "https://bsky.app/profile/eliothiggins.bsky.social/post/3mxwjek5my22c",
-   "time": "2026-10-15T16:46:57.208Z",
-   "keywords": [],
-   "emojis": [],
-   "alert": false
-  },
-  {
-   "id": "bsky:at://did:plc:sb54dpdfefflykmf5bcfvr7t/app.bsky.feed.post/3mxwjeflzsc2c",
-   "kind": "bsky",
-   "src": "eliothiggins.bsky.social",
-   "text": "This thread has been updated and reposted to correct a previous post that erroneously described a May ruling by Judge Ana Reyes. Full correction note can be seen at the bottom of our story. www.bellingcat.com/news/us-cana...",
-   "url": "https://bsky.app/profile/eliothiggins.bsky.social/post/3mxwjeflzsc2c",
-   "time": "2026-10-15T16:46:57.207Z",
-   "keywords": [],
-   "emojis": [],
-   "alert": false
-  },
-  {
-   "id": "bsky:at://did:plc:sb54dpdfefflykmf5bcfvr7t/app.bsky.feed.post/3mxwjcjsalk2c",
-   "kind": "bsky",
-   "src": "eliothiggins.bsky.social",
-   "text": "The satellite pictures detail changes across a wide swath of the East Potomac Golf Links. On the ground images taken at course earlier this week, meanwhile, show trunks and branches strewn out across fairways.",
-   "url": "https://bsky.app/profile/eliothiggins.bsky.social/post/3mxwjcjsalk2c",
-   "time": "2026-10-15T16:46:57.206Z",
-   "keywords": [],
-   "emojis": [],
-   "alert": false
-  },
-  {
-   "id": "bsky:at://did:plc:sb54dpdfefflykmf5bcfvr7t/app.bsky.feed.post/3mxwj7vpf622c",
-   "kind": "bsky",
-   "src": "bellingcat.com",
-   "text": "New satellite imagery reveals the full extent of tree felling on a Washington DC golf course long eyed for development by President Trump. 430 trees were reportedly cut with little notice over the weekend, undermining attempts to protect the site. www.bellingcat.com/news/us-cana...",
-   "url": "https://bsky.app/profile/bellingcat.com/post/3mxwj7vpf622c",
-   "time": "2026-10-15T16:46:57.204Z",
-   "keywords": [],
-   "emojis": [],
-   "alert": false
-  },
-  {
-   "id": "bsky:at://did:plc:sb54dpdfefflykmf5bcfvr7t/app.bsky.feed.post/3mxrfoqpjls2m",
-   "kind": "bsky",
-   "src": "bellingcat.com",
-   "text": "Our five day deep dive into open source investigations has just wrapped up in Amsterdam. Next, we bring this hands on training to London, where participants will develop practical investigative skills alongside Bellingcat researchers. In person, 19-23rd of October.\nwww.bellingcat.com/workshops/oc...",
-   "url": "https://bsky.app/profile/bellingcat.com/post/3mxrfoqpjls2m",
-   "time": "2026-10-13T16:00:21.649Z",
-   "keywords": [],
-   "emojis": [],
-   "alert": false
+   "alert": true
   }
  ]
 }
