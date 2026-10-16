@@ -1,6 +1,475 @@
 {
- "updated": "2026-10-16T08:31:12.865211+00:00",
+ "updated": "2026-10-16T13:30:18.649603+00:00",
  "alerts": [
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMipAFBVV95cUxQOUpEZjVQSlNCY3BiSDc5c3Z3WlU4dWJxUzZZcXh4Z3VhQ0RSOWJ5NndhUVhnOVN0YkRKX1hsaFdTaWQwUF8yeVl1M1BXUFcyaExURXRnZzVUZjhUWE9NenZjMmxuLWJfZ1ZvSUlXN282d1NWWnRILWVNLWZaYjZuT2kxM2xzTC0tNXVNYWtEWFVaZ2lSMHVMbUhhSW1qa0hlTEpZdA?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "Iran's navy reports oil tanker fire in Gulf of Oman - Anadolu Ajansı — Iran's navy reports oil tanker fire in Gulf of Oman  Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOUpEZjVQSlNCY3BiSDc5c3Z3WlU4dWJxUzZZcXh4Z3VhQ0RSOWJ5NndhUVhnOVN0YkRKX1hsaFdTaWQwUF8yeVl1M1BXUFcyaExURXRnZzVUZjhUWE9NenZjMmxuLWJfZ1ZvSUlXN282d1NWWnRILWVNLWZaYjZuT2kxM2xzTC0tNXVNYWtEWFVaZ2lSMHVMbUhhSW1qa0hlTEpZdA?oc=5",
+   "time": "2026-10-16T13:15:38+00:00",
+   "keywords": [
+    "tanker"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-16T13:30:18.649603+00:00"
+  },
+  {
+   "id": "tg:ClashReport/101339",
+   "kind": "tg",
+   "src": "clashreport",
+   "text": "Dozens of masked Israeli \"settlers\" attacked Palestinians harvesting olives near Ramallah in the occupied West Bank on Friday, setting trees on fire and throwing stones.\n\nThe attackers also beat Washington Post photographer Heidi Levine, who was wearing a clearly marked press vest, kicking her repeatedly and stealing her equipment. She was hospitalized.\n\nWitnesses said Israeli soldiers failed to intervene against the \"settlers\" and instead fired tear gas at Palestinians.",
+   "url": "https://t.me/ClashReport/101339",
+   "time": "2026-10-16T13:10:26+00:00",
+   "keywords": [
+    "attack"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-16T13:30:18.649603+00:00"
+  },
+  {
+   "id": "rss:https://www.aljazeera.com/news/2026/10/16/israeli-settlers-continue-progrom-amid-olive-harvest-in-occupied-west-bank?traffic_source=rss",
+   "kind": "rss",
+   "src": "www.aljazeera.com",
+   "text": "Israeli settlers continue progrom amid olive harvest in occupied West Bank — At least two people, including Washington Post journalist, injured as settlers armed with clubs and guns attack.",
+   "url": "https://www.aljazeera.com/news/2026/10/16/israeli-settlers-continue-progrom-amid-olive-harvest-in-occupied-west-bank?traffic_source=rss",
+   "time": "2026-10-16T13:04:32+00:00",
+   "keywords": [
+    "attack"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-16T13:30:18.649603+00:00"
+  },
+  {
+   "id": "tg:shin_persian/11171",
+   "kind": "tg",
+   "src": "shin_persian",
+   "text": "Ben Tzion Macales ✓  @BenTzionMacales\n\nThe impact point at Terminal 4 of Riyadh's international airport is barely visible following the Houthi attack on October 11.\n\nNote that it is in the same relative position as the impact point at the adjacent Terminal 3.\n\nThis strike was less deadly than the previous one, leaving one person killed and several more injured.\n\nترجمه خودکار فارسی\n\nمحل اصابت در ترمینال ۴ فرودگاه بین‌المللی ریاض پس از حمله حوثی‌ها در ۱۱ اکتبر، به‌سختی قابل مشاهده است.\n\nتوجه کنید که این محل، نسبت به ترمینال ۴، در همان موقعیتی قرار دارد که محل اصابت در ترمینال ۳ مجاور قرار گرفته ",
+   "url": "https://t.me/shin_persian/11171",
+   "time": "2026-10-16T13:01:13+00:00",
+   "keywords": [
+    "strike",
+    "attack",
+    "حمله"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-16T13:30:18.649603+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbE1qXzRjbjJwdUhLd1hCTVpJRTVndXB3cklveHRzSkJTWVdId2diZUtiejBLcnNxN2ZxOGh2TmhpWkRsc2o0NGlsSlVvQnJFNWc0VlZ2VFJ4cktRRGZpTmt3VmhYM0RvcXVPWDA0Y3hvVkQ0NTVPcDI2NTd5djhIaFZGVW9pSExfWDZwdFROUG5YZ1o0czVGZFVzRWhMM1ZUcGM2alJnNmpsWmhLYk0tdnhEaFh6RGZvU1RRT3JRX1kyTld5Y2hhbDF1UDF0RG5XQjV2SVM4NGxmVEta?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "AP reporters reveal exclusive details about a deadly Iranian drone strike - www.ap.org — AP reporters reveal exclusive details about a deadly Iranian drone strike  www.ap.org",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbE1qXzRjbjJwdUhLd1hCTVpJRTVndXB3cklveHRzSkJTWVdId2diZUtiejBLcnNxN2ZxOGh2TmhpWkRsc2o0NGlsSlVvQnJFNWc0VlZ2VFJ4cktRRGZpTmt3VmhYM0RvcXVPWDA0Y3hvVkQ0NTVPcDI2NTd5djhIaFZGVW9pSExfWDZwdFROUG5YZ1o0czVGZFVzRWhMM1ZUcGM2alJnNmpsWmhLYk0tdnhEaFh6RGZvU1RRT3JRX1kyTld5Y2hhbDF1UDF0RG5XQjV2SVM4NGxmVEta?oc=5",
+   "time": "2026-10-16T12:58:34+00:00",
+   "keywords": [
+    "strike"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-16T13:30:18.649603+00:00"
+  },
+  {
+   "id": "tg:IranintlTV/362538",
+   "kind": "tg",
+   "src": "iranintltv",
+   "text": "ناصر محمدی، امام‌جمعه موقت یزد، در خطبه‌های نماز جمعه این شهر، با اشاره به موضوع جنگ جمهوری اسلامی و آمریکا، گفت: «جنگ باید آن‌قدر ادامه پیدا کند که خیالمان راحت شود. ما خواهان صلح و امنیت پایدار هستیم و این امنیت باید قابل‌اعتماد باشد.»\n\nمحمدی افزود: «دشمن ما استکبار جهانی به سردمداری آمریکا است که نابودی کشور ما را می‌خواهد؛ بنابراین، مذاکره و صلح با چنین دشمنی معنا ندارد، مگر اینکه به طور کامل از اهداف و مواضع خود دست بردارد.»\n\nامام‌جمعه موقت یزد درباره تبادل پیام میان جمهوری اسلامی و آمریکا گفت: «آمریکا بارها در حالی از صلح سخن گفته که هم‌زمان درصدد حمله بوده است. رییس‌جمهوری آمریکا نیز صب",
+   "url": "https://t.me/IranintlTV/362538",
+   "time": "2026-10-16T12:57:02+00:00",
+   "keywords": [
+    "حمله"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-16T13:30:18.649603+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMimgFBVV95cUxPTWRtOEIzSmZRLXc0aEx6YkF3cGY5a2RwX1pzYmdQZnhqcmkzQUFkbndObFlvZEZybDNwU0lYT1I3U0pUdG9tZzNQTldkRktZajhWaXY2Vjh1NFQtU3BSbE10T2tXREh0dUVVWFQ0TVVsMmcyWDVUS21mQ21FVHVLaTF6M1dCX0NCZndtUy1fd3dXMzZPVDc1WXh3?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "Trump says US may need to strike Iran's Pickaxe Mountain - Reuters — Trump says US may need to strike Iran's Pickaxe Mountain  Reuters",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTWRtOEIzSmZRLXc0aEx6YkF3cGY5a2RwX1pzYmdQZnhqcmkzQUFkbndObFlvZEZybDNwU0lYT1I3U0pUdG9tZzNQTldkRktZajhWaXY2Vjh1NFQtU3BSbE10T2tXREh0dUVVWFQ0TVVsMmcyWDVUS21mQ21FVHVLaTF6M1dCX0NCZndtUy1fd3dXMzZPVDc1WXh3?oc=5",
+   "time": "2026-10-16T12:54:29+00:00",
+   "keywords": [
+    "strike"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-16T13:30:18.649603+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMiUEFVX3lxTFByWVh4ekVabHc0NFBwd2FOU2EtOWVvU0pGMW5QdkJ3TEJ0X2VJbEJPYm9BMGJEYmx4RG8yMi1YZS03a2JHTlF3S0htS3RKZ2lE?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "مخاوف من رد إيراني واسع.. إسرائيل مترددة في شن هجوم على طهران - شبكة يافا الإخبارية — مخاوف من رد إيراني واسع.. إسرائيل مترددة في شن هجوم على طهران  شبكة يافا الإخبارية",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFByWVh4ekVabHc0NFBwd2FOU2EtOWVvU0pGMW5QdkJ3TEJ0X2VJbEJPYm9BMGJEYmx4RG8yMi1YZS03a2JHTlF3S0htS3RKZ2lE?oc=5",
+   "time": "2026-10-16T12:50:41+00:00",
+   "keywords": [
+    "هجوم"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-16T13:30:18.649603+00:00"
+  },
+  {
+   "id": "tg:IranintlTV/362537",
+   "kind": "tg",
+   "src": "iranintltv",
+   "text": "مرکز عملیات تجارت دریایی بریتانیا در گزارش هفتگی خود اعلام کرد طی هفت روز گذشته ۱۲ کشتی در تنگه هرمز، خلیج فارس و دریای عمان هدف حمله قرار گرفتند که ۱۰ مورد در تنگه هرمز، یک مورد در خلیج فارس و یک مورد در دریای عمان رخ داده است.\n\nبر اساس این گزارش که جمعه ۲۴ مهر منتشر شد، یکی از کشتی‌های هدف حمله غرق شده، دو کشتی از حرکت بازماندند و شش کشتی به مسیر خود ادامه داده یا به بندر رسیدند. وضعیت سه کشتی دیگر از نظر میزان خسارت یا سرانجام حمله هنوز مشخص نیست.\n\nاین مرکز اعلام کرد بیشتر کشتی‌های هدف حمله حاضر به گزارش حادثه نیستند و به همین دلیل، تعیین شمار واقعی حملات دشوار است.\n\nبر اساس این گزارش، از ۹",
+   "url": "https://t.me/IranintlTV/362537",
+   "time": "2026-10-16T12:49:38+00:00",
+   "keywords": [
+    "حمله"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-16T13:30:18.649603+00:00"
+  },
+  {
+   "id": "tg:ClashReport/101330",
+   "kind": "tg",
+   "src": "clashreport",
+   "text": "Zelensky:\n\nUkraine cannot survive on just two or four missiles from one country every few months. \n\nOf course, we are grateful to all of you, but I think you must understand this. \n\nSo please, let what European countries already have be used to protect our lives.",
+   "url": "https://t.me/ClashReport/101330",
+   "time": "2026-10-16T12:49:19+00:00",
+   "keywords": [
+    "missile"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-16T13:30:18.649603+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMivAFBVV95cUxOOUx6TzBWRG5kUU9mV19fV216ZUh6Q1NmRWNKbjcxdTVvVEttYThIWEhtRDRZWW9Zd0trY3otQVlPY2lzU0c4ZWJ2d2wzeElCSjV3VklqNnhXVC1kSE5hQWh1dmFHYjdGODZaX1FydF9KYWhFVDVGZDl4RXM3NjdMMXNKd09RMFFFS21mQ01wa0hyMGdyT1hOSENyOHVHRXhZN2dva2VjNTFUYmxhRldxVW5uUktaSmNtVUczag?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "Trump says US may need to strike Iran’s Pickaxe Mountain - Internazionale — Trump says US may need to strike Iran’s Pickaxe Mountain  Internazionale",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOUx6TzBWRG5kUU9mV19fV216ZUh6Q1NmRWNKbjcxdTVvVEttYThIWEhtRDRZWW9Zd0trY3otQVlPY2lzU0c4ZWJ2d2wzeElCSjV3VklqNnhXVC1kSE5hQWh1dmFHYjdGODZaX1FydF9KYWhFVDVGZDl4RXM3NjdMMXNKd09RMFFFS21mQ01wa0hyMGdyT1hOSENyOHVHRXhZN2dva2VjNTFUYmxhRldxVW5uUktaSmNtVUczag?oc=5",
+   "time": "2026-10-16T12:41:50+00:00",
+   "keywords": [
+    "strike"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-16T13:30:18.649603+00:00"
+  },
+  {
+   "id": "tg:idfofficial/19373",
+   "kind": "tg",
+   "src": "idfofficial",
+   "text": "IDF: Earlier today (Friday), IDF and Border Police forces were dispatched to an area adjacent to Khirbet Abu Falah, following a report of a violent confrontation. Foreign media personnel were present at the scene and a female journalist had been injured during the confrontation. All circumstances surrounding the incident will be examined.\n\nUpon arriving at the scene, the forces acted to disperse the confrontation using riot dispersal means.\n\nAt another location where the confrontation took place, IDF soldiers fired warning shots into the air and subsequently toward a suspect who ran toward the",
+   "url": "https://t.me/idfofficial/19373",
+   "time": "2026-10-16T12:36:25+00:00",
+   "keywords": [
+    "attack"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-16T13:30:18.649603+00:00"
+  },
+  {
+   "id": "rss:https://www.aljazeera.com/video/newsfeed/2026/10/16/fuel-tanker-fire-engulfs-market-in-southern-nigeria?traffic_source=rss",
+   "kind": "rss",
+   "src": "www.aljazeera.com",
+   "text": "Fuel tanker fire engulfs market in southern Nigeria — A fire tore through Oluku market in Benin City after a tanker overturned and exploded.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/fuel-tanker-fire-engulfs-market-in-southern-nigeria?traffic_source=rss",
+   "time": "2026-10-16T12:23:12+00:00",
+   "keywords": [
+    "tanker"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-16T13:30:18.649603+00:00"
+  },
+  {
+   "id": "tg:bbcpersian/293454",
+   "kind": "tg",
+   "src": "bbcpersian",
+   "text": "این تصاویر بعد از غرق شدن یک کشتی کانتیتربر سنگاپوری در تنگه هرمز منتشر شده است.\n \nبر اساس گزارش‌ها، کانتینرهای این کشتی محتویات که شامل عطر و ادکلن و سیگار می‌شد، پس از آسیب دیدن به دریا ریخت.\n \nگفته می‌شود که آیفون ۱۸ هم در میان محصولات این کشتی بوده است.\n \nدر تصاویر دیده می‌شود که صیادان به با قایق‌هایشان به محل غرق شدن کشتی‌ رفته‌اند و محصولاتی که از کانتینرها بیرون ریخته بود را جمع کردند.\n \nپیشتر سازمان دریایی و بندری سنگاپور اعلام کرد که برخورد پرتابه به کشتی کانتینری «جی‌اف‌اس پراید» در تنگه هرمز به آتش‌سوزی و غرق این کشتی انجامید.\n \n نیروی دریایی سپاه گفته بود که یک «کشتی کانتینربر متخ",
+   "url": "https://t.me/bbcpersian/293454",
+   "time": "2026-10-16T12:20:00+00:00",
+   "keywords": [
+    "تخلیه"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-16T13:30:18.649603+00:00"
+  },
+  {
+   "id": "tg:Alibk3/6013",
+   "kind": "tg",
+   "src": "alibk3",
+   "text": "Iranian Army:  Hours ago, we detected a non-compliant oil tanker that had caught fire inside the restricted zone in the Strait of Hormuz. The tanker had also switched off its tracking systems in an attempt to cross the strait through the prohibited side.",
+   "url": "https://t.me/Alibk3/6013",
+   "time": "2026-10-16T12:13:09+00:00",
+   "keywords": [
+    "tanker"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-16T13:30:18.649603+00:00"
+  },
+  {
+   "id": "tg:abualiexpress/132018",
+   "kind": "tg",
+   "src": "abualiexpress",
+   "text": "כך מתארים ערוצים ישראלים לפני זמן קצר את העימותים באזור שבין הכפר אבו פלאח ובין יישובי גוש שילה.  גל\"צ בדיווח היחיד שלהם בשש השעות האחרונות: צלמת הוושינגטון פוסט נפצעה בתקיפה של פורעים יהודים בכפר פלסטיני.  3 תגובות",
+   "url": "https://t.me/abualiexpress/132018",
+   "time": "2026-10-16T12:09:05+00:00",
+   "keywords": [
+    "תקיפה"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-16T13:30:18.649603+00:00"
+  },
+  {
+   "id": "tg:abualiexpress/132015",
+   "kind": "tg",
+   "src": "abualiexpress",
+   "text": "כך מתארים ערוצים ישראלים לפני זמן קצר את העימותים באזור שבין הכפר אבו פלאח ובין יישובי גוש שילה.\n\nגל\"צ בדיווח היחיד שלהם בשש השעות האחרונות:\nצלמת הוושינגטון פוסט נפצעה בתקיפה של פורעים יהודים בכפר פלסטיני.\n\n3 תגובות",
+   "url": "https://t.me/abualiexpress/132015",
+   "time": "2026-10-16T12:05:28+00:00",
+   "keywords": [
+    "תקיפה"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-16T13:30:18.649603+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMirgFBVV95cUxPMFdIQVB6OFdUVVZKZ183NF9kZF96c0pkbVBSZy1PRmgzQWNJeEJ4OTh1RlpCU1RfOU1rVHRfNXgxYWo4aUtwUVoxVE1RdWRuRUxGb0JwRTRyUVVqUHRGUUFaWVA5cDV0TTZ3MkJfbVZmU09mZkVITnFLU3N3dlpJUldqSEVaa0k5d1JIUmh6amJEVFNJR0w4WVJxN2V2eGZyV1FNRjBBQlktWGVjOXc?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "Trump, Netanyahu hold off on Iran strikes as elections loom in U.S., Israel - The Black Chronicle — Trump, Netanyahu hold off on Iran strikes as elections loom in U.S., Israel  The Black Chronicle",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMFdIQVB6OFdUVVZKZ183NF9kZF96c0pkbVBSZy1PRmgzQWNJeEJ4OTh1RlpCU1RfOU1rVHRfNXgxYWo4aUtwUVoxVE1RdWRuRUxGb0JwRTRyUVVqUHRGUUFaWVA5cDV0TTZ3MkJfbVZmU09mZkVITnFLU3N3dlpJUldqSEVaa0k5d1JIUmh6amJEVFNJR0w4WVJxN2V2eGZyV1FNRjBBQlktWGVjOXc?oc=5",
+   "time": "2026-10-16T11:44:50+00:00",
+   "keywords": [
+    "strike"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-16T13:30:18.649603+00:00"
+  },
+  {
+   "id": "rss:https://www.aljazeera.com/opinions/2026/10/16/malaysias-welcome-for-min-aung-hlaing-undermines-its-stand-on-justice?traffic_source=rss",
+   "kind": "rss",
+   "src": "www.aljazeera.com",
+   "text": "Malaysia’s welcome for Min Aung Hlaing undermines its stand on justice — As the US attacks the ICC, Kuala Lumpur welcomes a leader the court’s prosecutor wants arrested.",
+   "url": "https://www.aljazeera.com/opinions/2026/10/16/malaysias-welcome-for-min-aung-hlaing-undermines-its-stand-on-justice?traffic_source=rss",
+   "time": "2026-10-16T11:32:50+00:00",
+   "keywords": [
+    "attack"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-16T13:30:18.649603+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMiSEFVX3lxTFBjTElEZmxrUUJqOUEzdUpPMVhBS2lWQldhdWZJYURxOHMwbGxDTHJFQWNZSExpUTZoUVh5NDhKQ1NGX1djc0g1RQ?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "نتنياهو يهدد إيران: أي هجوم سيقابل بردّ لا يمكن تخيله - RojNews.News — نتنياهو يهدد إيران: أي هجوم سيقابل بردّ لا يمكن تخيله  RojNews.News",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBjTElEZmxrUUJqOUEzdUpPMVhBS2lWQldhdWZJYURxOHMwbGxDTHJFQWNZSExpUTZoUVh5NDhKQ1NGX1djc0g1RQ?oc=5",
+   "time": "2026-10-16T11:29:22+00:00",
+   "keywords": [
+    "هجوم"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-16T13:30:18.649603+00:00"
+  },
+  {
+   "id": "rss:https://www.aljazeera.com/news/2026/10/16/poland-scrambles-fighter-jets-as-russia-strikes-western-ukraine?traffic_source=rss",
+   "kind": "rss",
+   "src": "www.aljazeera.com",
+   "text": "Poland scrambles fighter jets as Russia strikes western Ukraine — Countries along NATO’s eastern flank growing increasingly concerned about the risk of escalation of the war in Ukraine.",
+   "url": "https://www.aljazeera.com/news/2026/10/16/poland-scrambles-fighter-jets-as-russia-strikes-western-ukraine?traffic_source=rss",
+   "time": "2026-10-16T10:56:20+00:00",
+   "keywords": [
+    "strike"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-16T13:30:18.649603+00:00"
+  },
+  {
+   "id": "tg:Alibk3/6010",
+   "kind": "tg",
+   "src": "alibk3",
+   "text": "Iranian Army:\n\nHours ago, we detected a non-compliant oil tanker that had caught fire inside the restricted zone in the Strait of Hormuz. The tanker had also switched off its tracking systems in an attempt to cross the strait through the prohibited side.",
+   "url": "https://t.me/Alibk3/6010",
+   "time": "2026-10-16T10:55:14+00:00",
+   "keywords": [
+    "tanker"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-16T13:30:18.649603+00:00"
+  },
+  {
+   "id": "tg:presstv/211004",
+   "kind": "tg",
+   "src": "presstv",
+   "text": "🔴 Iranian Navy announced that an oil tanker violating maritime restrictions caught fire in a restricted area east of the Strait of Hormuz after switching off its tracking systems and attempting to navigate through the area.\n\n@PressTV",
+   "url": "https://t.me/presstv/211004",
+   "time": "2026-10-16T10:49:32+00:00",
+   "keywords": [
+    "tanker"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-16T13:30:18.649603+00:00"
+  },
+  {
+   "id": "tg:bbcpersian/293448",
+   "kind": "tg",
+   "src": "bbcpersian",
+   "text": "🔻بنابر اعلام دفتر ریاست جمهوری یمن، حوثی‌ها کاخ این نهاد را هدف قرار داده‌اند.\n \nشاهدان به خبرگزاری رویترز گفتند که صداهای انفجار مهیبی را در نزدیکی کاخ شنیده‌اند.\n \nاین حمله کاخ ریاست جمهوری در عدن را هدف قرار داد که ۵ نفر در آن کشته شدند.\n \nکابینه یمن اعلام کرد که این حمله با استفاده از موشک و پهپاد انجام شده است.\n \nوزیر اطلاع‌رسانی یمن گفت که نخست‌وزیر و اعضای کابینه پس از این حمله در سلامت هستند.\n \nکاخ «المعاشیق» در عدن، مقر دولت یمن است که مورد حمایت عربستان است.\n \nاین درگیری، عرصه‌ای جدید در جنگ منطقه‌ای گسترده‌تری است که با حملات آمریکا و اسرائیل به ایران در اسفند ماه آغاز شد.\n\n@BBCPers",
+   "url": "https://t.me/bbcpersian/293448",
+   "time": "2026-10-16T10:43:26+00:00",
+   "keywords": [
+    "حمله",
+    "موشک",
+    "پهپاد",
+    "انفجار"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-16T13:30:18.649603+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMimgRBVV95cUxPSmRsQkhINzlQNk9JSmRGVHh1aFZGbG5CVk5tUlN1ZWdKV0JCd3psZ0VJZ0RJYWdEQUxGdE56c0VydkZHMDlKWUJwOF9HMkJCVVdhNVZCTUZOUm9fSnZ5VzhqSC1zLTZKM3NoME5DRlN6bWllN045SHJmTXhUVUdMLWwtTUs4dm9TNTAwdGRLbTc1Y25vNzNNTFBaZW5SbUZUMzdDUHo0U0o3TGM0eEZ3Z3g3WGlSX0szaEFOODNVTjN5eTRFM25jOVY5X3RYSi1ZUlA4UWFZbldDTjd4dVJkY1h4N3JjZFZYdnZXU25jWjRZWDhObTcwSWJ2dW5iRFFXRXRhcGpjYXg1TjdqM2h6MnNNaUdyRG1YY0hpdlkyaDNreEhtTlUyVzgtU1dwWXpxQ2pFTTFKc0RhSWtJTTF5S3pZOW4zUXRXNm1MODh5MmVYaFI0Vkl1QmdKOVozUGVLWWwtUEdFcEY4WGJpbnJESEhKUm1Gd0JvcDRWbUI4MUNkbEtkRjlvYlFuZmlQSnNlM2o0c1NVUTFQWlFMdE1RNFlGUExEQ2JHTmpIUzNPaWFxbjBIOXF5Z2xvTFRDY3YtM1B0T1hBSVdOdE5vUVU3aUtqbHgwXzc4ZGZLWWVWNjFUMjAwUVZXY3hRVTFYc3ljZ080R1REeDVNV1FUcm9zX0h6SnpJemxmOGJ2LWgwOFpnMkx1WEY0XzVn?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "هجوم للحوثيين على مقر الحكومة في عدن والسعودية تتهم إيران بالتصعيد - DW.com — هجوم للحوثيين على مقر الحكومة في عدن والسعودية تتهم إيران بالتصعيد  DW.com",
+   "url": "https://news.google.com/rss/articles/CBMimgRBVV95cUxPSmRsQkhINzlQNk9JSmRGVHh1aFZGbG5CVk5tUlN1ZWdKV0JCd3psZ0VJZ0RJYWdEQUxGdE56c0VydkZHMDlKWUJwOF9HMkJCVVdhNVZCTUZOUm9fSnZ5VzhqSC1zLTZKM3NoME5DRlN6bWllN045SHJmTXhUVUdMLWwtTUs4dm9TNTAwdGRLbTc1Y25vNzNNTFBaZW5SbUZUMzdDUHo0U0o3TGM0eEZ3Z3g3WGlSX0szaEFOODNVTjN5eTRFM25jOVY5X3RYSi1ZUlA4UWFZbldDTjd4dVJkY1h4N3JjZFZYdnZXU25jWjRZWDhObTcwSWJ2dW5iRFFXRXRhcGpjYXg1TjdqM2h6MnNNaUdyRG1YY0hpdlkyaDNreEhtTlUyVzgtU1dwWXpxQ2pFTTFKc0RhSWtJTTF5S3pZOW4zUXRXNm1MODh5MmVYaFI0Vkl1QmdKOVozUGVLWWwtUEdFcEY4WGJpbnJESEhKUm1Gd0JvcDRWbUI4MUNkbEtkRjlvYlFuZmlQSnNlM2o0c1NVUTFQWlFMdE1RNFlGUExEQ2JHTmpIUzNPaWFxbjBIOXF5Z2xvTFRDY3YtM1B0T1hBSVdOdE5vUVU3aUtqbHgwXzc4ZGZLWWVWNjFUMjAwUVZXY3hRVTFYc3ljZ080R1REeDVNV1FUcm9zX0h6SnpJemxmOGJ2LWgwOFpnMkx1WEY0XzVn?oc=5",
+   "time": "2026-10-16T10:07:30+00:00",
+   "keywords": [
+    "هجوم"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-16T13:30:18.649603+00:00"
+  },
+  {
+   "id": "tg:Alibk3/6009",
+   "kind": "tg",
+   "src": "alibk3",
+   "text": "A Yemeni attack targets Yanbu in Saudi Arabia.",
+   "url": "https://t.me/Alibk3/6009",
+   "time": "2026-10-16T09:40:11+00:00",
+   "keywords": [
+    "attack"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-16T13:30:18.649603+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMiY0FVX3lxTE1IUVZMS1h4ZnJ4QXRtM2xVS2N5VXQ1b2NBellDbEVWbjdRYVRzRHo2V3E1Um5adzV1cUlKRk40a196cFQwdC1hRFZEYm5IVDZqTFVmTU9WZGMwdC1xUFZYNi12bw?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "Iran’s ‘missile man’ picked for defense minister as war with US, Israel continues - Rudaw — Iran’s ‘missile man’ picked for defense minister as war with US, Israel continues  Rudaw",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1IUVZMS1h4ZnJ4QXRtM2xVS2N5VXQ1b2NBellDbEVWbjdRYVRzRHo2V3E1Um5adzV1cUlKRk40a196cFQwdC1hRFZEYm5IVDZqTFVmTU9WZGMwdC1xUFZYNi12bw?oc=5",
+   "time": "2026-10-16T09:29:58+00:00",
+   "keywords": [
+    "missile"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-16T13:30:18.649603+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMiqARBVV95cUxNQTJJUl9xYXJDVlZjNU85dkVBVGZqaHFNZFJydTBZLWVRckVTT0lBcF9IY0JaNnBMdEpOTGdVVmtCRU04STh3N3c1UjVVaFdUZ2xfNjYzUHN4dl95V0V3dTRQV1YyZWhfRVByRGlZZ29QUTVKdExJSUZDcERQNGlNNkNXVTcyWVo2SW4xSk9ubHl4TThPY2tzTmxYd2lHX2JoMm5vUzJvclNxbVhQM01zWjRfMnVRV0c1QmtNdlpKZ01DNlhKYzRWdXBiRVBabnZQaWE3Umd2S3JCcXdidGFvOUhic2xKbnVXRXFKWEJoTlBsYWExYlVfTUlzVkpxOXdHeE5WR2RLSlpOYm5mYXdJQi05S2o0Rnl4MUk4cURucEV2VmRNUG94M28tTkFUWGpsdThLZ1RjbHY4bnJ6MXUtNndXdzBKUzhSdi1NUDZteU5vbW1qMjFFaW15c1QtTGRUajJIdFJDY0ZHWWJYZGlmTnVNQnhfbXpFNjhERWJkeWFBSXBjcEtfUGltMHczUW5uNmZHMEtuWTE1cWRTaE1NejBwY05wbjFZRTJBNWE5dG1rNnlJWWVmYWU3X0hlNDNOQnk4RHc4NDNxR2NGMm1QWUpReUJRXzlGTDZWZDJTWjNPelZXMnhiQlBlS0JBeVFyTy1IcFVWVTY4YjRkSFNqUkptbWJRVXpfRlJsN0ZDRG1GWkxBNFFwcFBfdVFScGNKdGhhOFZRdG3SAawEQVVfeXFMT09JOXRsNERkVlRENUpqbVRQQ0ZQVUhZc3F3eFFyQ0s0eGprdFl6WnBmTFNEMnYxOFhzOHNvRWs3V3FzSGx2Wnpod285SFV1RjVOSk5SaTJRaWNNempoQVNNcFlJdjRpQXVlWDBXdWFEZ1RmVzFmOVlKRG1fa29BTVBLN0UzZmF2Qmp6STNxS1F0dHBCSEVwc1A1MVhTQXZ4bDZma3dXRDFVUGMwZm5GWjZIeXYwNUdLeERENHk4VFpQOHYwajllSmJJMGpRYlJ4RVk2RXRYUWwyZUJ2WndxLXYyWmpqNmhiendxZXRTOG9aR2doSlhBdzBYOU5uTXNONWlYdHk0Vm5hcUlweGFWNVlfYUJkbmUzLVE5cXNQb0t5U29iTFYzYnIwcEp3Wm5jYXo1Z1ZhajVkSGotOFFCbE9wbE9qSUJCcGxtb0xvandpeTlld3lpXzdEam02WGxPbGVGTWVsV01WcldEckRxSzZvOXFfMUlDczFUM2hHY25ILUZQLS1mWE1DWUx2VVJpNmpMNE9PNVJuX0UzRmdVRnA5UzN1UjJHblowQlJ6dWVtcFMyQnVPS1I5NkZXSkNNMGdwT1ZNZkNkLTBoY1R4b3RlQ0xUVWVMYktGX0JGai1JVFFOSWJnT095Ukp6MHlmaHV3YnhBaHB6Zi1BSXhCWFVidmRpbW5SQzRvRFEwVzFabEFSN1UtY3JjbkQteXBSQVZqaXBvTjA0Wmdmaw?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "\"معاريف\" تكشف السبب الحقيقي وراء سعي نتنياهو إلى تأجيل الهجوم على إيران - عربي21 — \"معاريف\" تكشف السبب الحقيقي وراء سعي نتنياهو إلى تأجيل الهجوم على إيران  عربي21",
+   "url": "https://news.google.com/rss/articles/CBMiqARBVV95cUxNQTJJUl9xYXJDVlZjNU85dkVBVGZqaHFNZFJydTBZLWVRckVTT0lBcF9IY0JaNnBMdEpOTGdVVmtCRU04STh3N3c1UjVVaFdUZ2xfNjYzUHN4dl95V0V3dTRQV1YyZWhfRVByRGlZZ29QUTVKdExJSUZDcERQNGlNNkNXVTcyWVo2SW4xSk9ubHl4TThPY2tzTmxYd2lHX2JoMm5vUzJvclNxbVhQM01zWjRfMnVRV0c1QmtNdlpKZ01DNlhKYzRWdXBiRVBabnZQaWE3Umd2S3JCcXdidGFvOUhic2xKbnVXRXFKWEJoTlBsYWExYlVfTUlzVkpxOXdHeE5WR2RLSlpOYm5mYXdJQi05S2o0Rnl4MUk4cURucEV2VmRNUG94M28tTkFUWGpsdThLZ1RjbHY4bnJ6MXUtNndXdzBKUzhSdi1NUDZteU5vbW1qMjFFaW15c1QtTGRUajJIdFJDY0ZHWWJYZGlmTnVNQnhfbXpFNjhERWJkeWFBSXBjcEtfUGltMHczUW5uNmZHMEtuWTE1cWRTaE1NejBwY05wbjFZRTJBNWE5dG1rNnlJWWVmYWU3X0hlNDNOQnk4RHc4NDNxR2NGMm1QWUpReUJRXzlGTDZWZDJTWjNPelZXMnhiQlBlS0JBeVFyTy1IcFVWVTY4YjRkSFNqUkptbWJRVXpfRlJsN0ZDRG1GWkxBNFFwcFBfdVFScGNKdGhhOFZRdG3SAawEQVVfeXFMT09JOXRsNERkVlRENUpqbVRQQ0ZQVUhZc3F3eFFyQ0s0eGprdFl6WnBmTFNEMnYxOFhzOHNvRWs3V3FzSGx2Wnpod285SFV1RjVOSk5SaTJRaWNNempoQVNNcFlJdjRpQXVlWDBXdWFEZ1RmVzFmOVlKRG1fa29BTVBLN0UzZmF2Qmp6STNxS1F0dHBCSEVwc1A1MVhTQXZ4bDZma3dXRDFVUGMwZm5GWjZIeXYwNUdLeERENHk4VFpQOHYwajllSmJJMGpRYlJ4RVk2RXRYUWwyZUJ2WndxLXYyWmpqNmhiendxZXRTOG9aR2doSlhBdzBYOU5uTXNONWlYdHk0Vm5hcUlweGFWNVlfYUJkbmUzLVE5cXNQb0t5U29iTFYzYnIwcEp3Wm5jYXo1Z1ZhajVkSGotOFFCbE9wbE9qSUJCcGxtb0xvandpeTlld3lpXzdEam02WGxPbGVGTWVsV01WcldEckRxSzZvOXFfMUlDczFUM2hHY25ILUZQLS1mWE1DWUx2VVJpNmpMNE9PNVJuX0UzRmdVRnA5UzN1UjJHblowQlJ6dWVtcFMyQnVPS1I5NkZXSkNNMGdwT1ZNZkNkLTBoY1R4b3RlQ0xUVWVMYktGX0JGai1JVFFOSWJnT095Ukp6MHlmaHV3YnhBaHB6Zi1BSXhCWFVidmRpbW5SQzRvRFEwVzFabEFSN1UtY3JjbkQteXBSQVZqaXBvTjA0Wmdmaw?oc=5",
+   "time": "2026-10-16T09:27:00+00:00",
+   "keywords": [
+    "هجوم"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-16T13:30:18.649603+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeW10cjd0Y0Q3M2kySEo3Yzk5MlpheXpOMDF1VUJ4eGlwUGt1c0hKQTdUY2VrVXV2MjVubmRhYU9pcDgtdU9lR0RuS1FfQVpEMkFoaUdCQmhYLWJzSHdMMmdRYnBqWTZUZmhfOUpwVENjTVNTZUdVZlBlY1FsX3drdVhrdTQxLTFVRnliX1lyejJ3cGJLcXkyNzl1cXVsc1d3WndDSlNWdXc?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "Pentagon Preps for Renewed Iran Strikes as Netanyahu Highlights Jordan Security Wall - CBN.com — Pentagon Preps for Renewed Iran Strikes as Netanyahu Highlights Jordan Security Wall  CBN.com",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeW10cjd0Y0Q3M2kySEo3Yzk5MlpheXpOMDF1VUJ4eGlwUGt1c0hKQTdUY2VrVXV2MjVubmRhYU9pcDgtdU9lR0RuS1FfQVpEMkFoaUdCQmhYLWJzSHdMMmdRYnBqWTZUZmhfOUpwVENjTVNTZUdVZlBlY1FsX3drdVhrdTQxLTFVRnliX1lyejJ3cGJLcXkyNzl1cXVsc1d3WndDSlNWdXc?oc=5",
+   "time": "2026-10-16T09:25:45+00:00",
+   "keywords": [
+    "strike"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-16T13:30:18.649603+00:00"
+  },
+  {
+   "id": "tg:bbcpersian/293445",
+   "kind": "tg",
+   "src": "bbcpersian",
+   "text": "🔻مسابقات بین‌المللی گلف عربستان در پی حملات حوثی‌ها به ریاض به تعویق افتاد\n\nمسئولان تور آسیایی گلف اعلام کردند که مسابقات بین‌المللی گلف عربستان سعودی را در پی حمله مرگبار حوثی‌های یمن به فرودگاه بین‌المللی ریاض، تا اطلاع ثانوی به تعویق انداخته‌اند.\n\nحوثی‌ها در هفته‌های اخیر فرودگاه‌ها، بنادر و تاسیسات نفتی عربستان را با موشک‌های بالستیک و پهپاد هدف قرار داده‌اند. در حمله آخر هفته گذشته به ریاض، دست‌کم ۱۲ نفر کشته و بیش از ۳۰۰ نفر مجروح شدند.\n\nتور آسیایی گلف در بیانیه‌ای اعلام کرد که تصمیم به تعویق مسابقات پس از بررسی مشکلات اجرایی و تدارکاتی برگزاری این رویداد و با هدف حفظ استانداردهای بین‌ال",
+   "url": "https://t.me/bbcpersian/293445",
+   "time": "2026-10-16T09:06:30+00:00",
+   "keywords": [
+    "حمله",
+    "موشک",
+    "پهپاد"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-16T13:30:18.649603+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMinwFBVV95cUxQNTltWWdhSXlLTmlmcEdyYlVJY2ZUSElNcUkwb2Y0U3ZpaW5DQldScGxvLWdJS0JoaGNMS1pCdHJjaG9OQVdMbVlma2RnbGZoOGNkUEFrQjlqYVdJMW14SjM0RWh5cmJQYUwxdUVZOHpLTGo3aDByblgyUnhwYUNJVWhJcHV0UFBQY21hUjhFSmE1TkZQN3BDMl9rREhYUEE?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "Saudi Arabia Accuses Iran of Driving Houthi Strike Escalation - IranWire — Saudi Arabia Accuses Iran of Driving Houthi Strike Escalation  IranWire",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNTltWWdhSXlLTmlmcEdyYlVJY2ZUSElNcUkwb2Y0U3ZpaW5DQldScGxvLWdJS0JoaGNMS1pCdHJjaG9OQVdMbVlma2RnbGZoOGNkUEFrQjlqYVdJMW14SjM0RWh5cmJQYUwxdUVZOHpLTGo3aDByblgyUnhwYUNJVWhJcHV0UFBQY21hUjhFSmE1TkZQN3BDMl9rREhYUEE?oc=5",
+   "time": "2026-10-16T08:59:13+00:00",
+   "keywords": [
+    "strike"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-16T13:30:18.649603+00:00"
+  },
+  {
+   "id": "tg:Alibk3/6008",
+   "kind": "tg",
+   "src": "alibk3",
+   "text": "Satellite images show extensive destruction at Saudi Aramco’s headquarters in Dhahran as a result of the latest Yemeni attack in response to the targeting of the Yemeni capital, Sanaa.",
+   "url": "https://t.me/Alibk3/6008",
+   "time": "2026-10-16T08:55:53+00:00",
+   "keywords": [
+    "attack"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-16T13:30:18.649603+00:00"
+  },
+  {
+   "id": "rss:https://www.aljazeera.com/sports/2026/10/16/asian-cup-in-saudi-arabia-still-on-say-organisers-but-golf-tour-postponed?traffic_source=rss",
+   "kind": "rss",
+   "src": "www.aljazeera.com",
+   "text": "Asian Cup in Saudi Arabia still on, organisers say, but golf tour postponed — Asian Cup preparations continue for January, but Asian Tour delays golf's Saudi Invitational after Houthi attacks.",
+   "url": "https://www.aljazeera.com/sports/2026/10/16/asian-cup-in-saudi-arabia-still-on-say-organisers-but-golf-tour-postponed?traffic_source=rss",
+   "time": "2026-10-16T08:36:54+00:00",
+   "keywords": [
+    "attack"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-16T13:30:18.649603+00:00"
+  },
   {
    "id": "rss:https://www.bbc.co.uk/persian/live/cmwyq66ve970t?at_medium=RSS&at_campaign=rss",
    "kind": "rss",
@@ -71,6 +540,20 @@
    "emojis": [],
    "alert": true,
    "collected": "2026-10-16T08:31:12.865211+00:00"
+  },
+  {
+   "id": "tg:Alibk3/6006",
+   "kind": "tg",
+   "src": "alibk3",
+   "text": "A Saudi association announces the death of a Saudi soldier in Yemeni strikes yesterday, 15 October, near the Yemeni border.",
+   "url": "https://t.me/Alibk3/6006",
+   "time": "2026-10-16T07:43:58+00:00",
+   "keywords": [
+    "strike"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-16T13:30:18.649603+00:00"
   },
   {
    "id": "tg:abualiexpress/132005",
@@ -302,6 +785,20 @@
    "collected": "2026-10-16T08:31:12.865211+00:00"
   },
   {
+   "id": "rss:https://news.google.com/rss/articles/CBMipAFBVV95cUxOTl92OGZKekF0OVVOUm92bzB2UHA3eUxiSmNibWRLT1JRUjZweG1rQkcwY2FpWDBnNE9OSFFDVjFFVENla3I1ZUxiR1ZyLWI4V1BxSGFTQ1RWLXY5N1JSUGZZTlRScFFERm9fRmFHWS1qLVQ5ZnN6OEZBN2JQQ3FMelVaM0dYMDk2cjg2ZG9iUHpiMXVYRzJjWklVcHZudm4xblJiWg?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "Trump rules out nukes against Iran, keeps strike threat alive - Daily Sabah — Trump rules out nukes against Iran, keeps strike threat alive  Daily Sabah",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTl92OGZKekF0OVVOUm92bzB2UHA3eUxiSmNibWRLT1JRUjZweG1rQkcwY2FpWDBnNE9OSFFDVjFFVENla3I1ZUxiR1ZyLWI4V1BxSGFTQ1RWLXY5N1JSUGZZTlRScFFERm9fRmFHWS1qLVQ5ZnN6OEZBN2JQQ3FMelVaM0dYMDk2cjg2ZG9iUHpiMXVYRzJjWklVcHZudm4xblJiWg?oc=5",
+   "time": "2026-10-16T05:02:00+00:00",
+   "keywords": [
+    "strike"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-16T13:30:18.649603+00:00"
+  },
+  {
    "id": "rss:https://news.google.com/rss/articles/CBMidEFVX3lxTE1JTlNlMVJrdWdXX2pib0tqVXdGWE00blNia21YTnVwWGR6OWJMS3oxYUVDTnVEdWtfWDFaWkh6S2pVelBCSmo0NXVFbWFfUzdpb0Z6cWVoVDdwZUhFbUtveFVLZEdtZTVxR3pieEpsSE1zWTNK?oc=5",
    "kind": "rss",
    "src": "news.google.com",
@@ -328,6 +825,21 @@
    "emojis": [],
    "alert": true,
    "collected": "2026-10-16T08:31:12.865211+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DYmNOYUJ4WHZBZzNiaFExVlJTNFQ1OGxvX3BvbWJPQk1tT0M2cnphZVBCajhhUVB6NUEwb2tYRkFEcERVUXpvekhDTng4UFhhQkE0SDZBMm1ZRllfNzRlb1N6NnlydDhs?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "לקראת תקיפה? המהלכים הצבאיים שזוהו באיראן, והשיח בין ישראל לאמריקאים - גלובס — לקראת תקיפה? המהלכים הצבאיים שזוהו באיראן, והשיח בין ישראל לאמריקאים  גלובס",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DYmNOYUJ4WHZBZzNiaFExVlJTNFQ1OGxvX3BvbWJPQk1tT0M2cnphZVBCajhhUVB6NUEwb2tYRkFEcERVUXpvekhDTng4UFhhQkE0SDZBMm1ZRllfNzRlb1N6NnlydDhs?oc=5",
+   "time": "2026-10-16T04:15:30+00:00",
+   "keywords": [
+    "תקיפה",
+    "איראן"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-16T13:30:18.649603+00:00"
   },
   {
    "id": "tg:presstv/210953",
@@ -760,6 +1272,20 @@
    "emojis": [],
    "alert": true,
    "collected": "2026-10-15T23:53:49.784639+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMiR0FVX3lxTFAtLXk5VG9EMk1wMmpQSUZfbFZRYktTT05yRmJjdy14R0RMamJZQmdmVmpOaWFuaDVHMVJ1VUwwdFhtNlY2Z0dB?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "تقرير: إيران شنت 135 هجوما على 84 منشأة بدول الخليج - صدى البلد — تقرير: إيران شنت 135 هجوما على 84 منشأة بدول الخليج  صدى البلد",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAtLXk5VG9EMk1wMmpQSUZfbFZRYktTT05yRmJjdy14R0RMamJZQmdmVmpOaWFuaDVHMVJ1VUwwdFhtNlY2Z0dB?oc=5",
+   "time": "2026-10-15T23:32:00+00:00",
+   "keywords": [
+    "هجوم"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-16T13:30:18.649603+00:00"
   },
   {
    "id": "rss:https://news.google.com/rss/articles/CBMioAFBVV95cUxPOC1wZDdHT2hUVWFTdlo5MUViTWFhS1dValIydVg3V3piVnZVZkhieTlDSmZrVHBiN09TZEZNT3N5Q09HVjl3QkNQQUFKajV0ZEljbmpJUDR3LURUSGdHVkNVLVVsWXdILTVMaGRORXZpTXhBSDBBMWRleXVlbGcyRXNwZ0ZNeXNWMzRPZGlJNm5MMnRfQUxyVjFkaEphaXQ1?oc=5",
@@ -1779,6 +2305,20 @@
    "collected": "2026-10-15T18:25:47.401721+00:00"
   },
   {
+   "id": "rss:https://news.google.com/rss/articles/CBMitwFBVV95cUxNZjl0UHoxdXA4djBENXRqMzZyWm8yejhjekFNOWhXZXdYQzUzZWY2ME02OU13TUw0MVdOSXJkcXJscjNfQ2laY1ZGTXZlUS1TcjRxMlpZLXdHQlhqTjlZeXhRdlIzUVVpMnJxRDhTY1Z1WEYyYVNFejc1VzFENjF6NGFvV2pPTzBGU0hEcWxGWlRqNjVZUTFXc1JWN1prWGFCQWt2cGthUVBseWE5RndMZ25hOHdMWGfSAbwBQVVfeXFMTzVqUFJod0lNY0ZjZ3NxT0NsQWViWWlNSTZyVnp3QmRFQjhSOU81YktSb0E1dHdfbXhVek9nYlBhWDl2akhpSko5SHR1Vy1jNE1aRDJXb1g2ZVJnRy1YYW1EV3pZcVd6Z1kxN0lERkFBRnVJWUxZNG5ZVWRQOW5XU2RTTTJ4WmxOMjI2RG1GSFJGR2puWUJtY2F1UXlabEQ4QV9tWHc5bm50QTdiTlljamF5WEhyS0cweWxReUo?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "Germany jails 2 for Iran-backed plots to attack Jewish and pro-Israel leaders, spying on Jews - The Times of Israel — Germany jails 2 for Iran-backed plots to attack Jewish and pro-Israel leaders, spying on Jews  The Times of Israel",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZjl0UHoxdXA4djBENXRqMzZyWm8yejhjekFNOWhXZXdYQzUzZWY2ME02OU13TUw0MVdOSXJkcXJscjNfQ2laY1ZGTXZlUS1TcjRxMlpZLXdHQlhqTjlZeXhRdlIzUVVpMnJxRDhTY1Z1WEYyYVNFejc1VzFENjF6NGFvV2pPTzBGU0hEcWxGWlRqNjVZUTFXc1JWN1prWGFCQWt2cGthUVBseWE5RndMZ25hOHdMWGfSAbwBQVVfeXFMTzVqUFJod0lNY0ZjZ3NxT0NsQWViWWlNSTZyVnp3QmRFQjhSOU81YktSb0E1dHdfbXhVek9nYlBhWDl2akhpSko5SHR1Vy1jNE1aRDJXb1g2ZVJnRy1YYW1EV3pZcVd6Z1kxN0lERkFBRnVJWUxZNG5ZVWRQOW5XU2RTTTJ4WmxOMjI2RG1GSFJGR2puWUJtY2F1UXlabEQ4QV9tWHc5bm50QTdiTlljamF5WEhyS0cweWxReUo?oc=5",
+   "time": "2026-10-15T16:16:00+00:00",
+   "keywords": [
+    "attack"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-16T13:30:18.649603+00:00"
+  },
+  {
    "id": "tg:abualiexpress/131975",
    "kind": "tg",
    "src": "abualiexpress",
@@ -1847,6 +2387,20 @@
    "emojis": [],
    "alert": true,
    "collected": "2026-10-15T18:25:47.401721+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMitAFBVV95cUxPZWFHTEc0MTZnaUdvM3VtaW8zVFgyc2tmemRfV2l0N3VhaDVCc2hCb3N5UEtJZE84Qi1fTWFadXZfNm1WS092aW1heFM1YVlVQnp3aTd2dHQ4T2stMWVoTTJNMmRtcnNxbGdxMG9kNTV2QTFkeXFfcjhTVUxhTkVVNHBxTTBrSlA2QkpHcHVqUFNQNXp5UmlJb1JzQXBZZFlhSUNfTzRyS19zYXZNczJPUWhETDc?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "How are Yemen’s Houthis attacking Saudi Arabia so effectively? - Reuters — How are Yemen’s Houthis attacking Saudi Arabia so effectively?  Reuters",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZWFHTEc0MTZnaUdvM3VtaW8zVFgyc2tmemRfV2l0N3VhaDVCc2hCb3N5UEtJZE84Qi1fTWFadXZfNm1WS092aW1heFM1YVlVQnp3aTd2dHQ4T2stMWVoTTJNMmRtcnNxbGdxMG9kNTV2QTFkeXFfcjhTVUxhTkVVNHBxTTBrSlA2QkpHcHVqUFNQNXp5UmlJb1JzQXBZZFlhSUNfTzRyS19zYXZNczJPUWhETDc?oc=5",
+   "time": "2026-10-15T16:02:00+00:00",
+   "keywords": [
+    "attack"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-16T13:30:18.649603+00:00"
   },
   {
    "id": "rss:https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JYmwwc3JJYmlianE2YUVBWHRwbVEtOTFEM0FRcWxlUV84TlQ1YU9xY1R3QVUzRVpSVEpsTk5meC1QckhWTEd0dGMwNGNpSk5obnBNcUtObVRnQTNJeGtkRFhsMEY?oc=5",
@@ -2293,571 +2847,6 @@
    "time": "2026-10-15T14:16:34+00:00",
    "keywords": [
     "missile"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T14:18:46.953619+00:00"
-  },
-  {
-   "id": "tg:abualiexpress/131961",
-   "kind": "tg",
-   "src": "abualiexpress",
-   "text": "החות'ים: הצלחנו לפגוע הלילה במטוס קרב סעודי מסוג טייפון באמצעות טיל הגנה אווירית.\n\nכדי להגיב לכתבה לחצו כאן",
-   "url": "https://t.me/abualiexpress/131961",
-   "time": "2026-10-15T14:15:25+00:00",
-   "keywords": [
-    "טיל"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T14:18:46.953619+00:00"
-  },
-  {
-   "id": "tg:presstv/210873",
-   "kind": "tg",
-   "src": "presstv",
-   "text": "🔴 Yemen Army Spox: Saudi has launched 2350 airstrikes, missile attacks on Yemen since recent escalation\n\n🔺 Yemen Army Spox: All airlines are warned that Saudi airspace, airports are unsafe, except Mecca and Medina\n\n@PressTV",
-   "url": "https://t.me/presstv/210873",
-   "time": "2026-10-15T14:12:35+00:00",
-   "keywords": [
-    "strike",
-    "attack",
-    "missile",
-    "airspace"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T14:18:46.953619+00:00"
-  },
-  {
-   "id": "tg:warmonitors/46072",
-   "kind": "tg",
-   "src": "warmonitors",
-   "text": "⚡#BREAKING Yemen’s Houthis have renewed their warning to airlines that Saudi airspace and airports are unsafe\n\n💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18",
-   "url": "https://t.me/warmonitors/46072",
-   "time": "2026-10-15T14:11:37+00:00",
-   "keywords": [
-    "airspace"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T14:18:46.953619+00:00"
-  },
-  {
-   "id": "tg:Alibk3/39139",
-   "kind": "tg",
-   "src": "alibk3",
-   "text": "سماع دوي 5 انفجارات بالقرب من قصر المعاشيق بعدن.",
-   "url": "https://t.me/Alibk3/39139",
-   "time": "2026-10-15T14:09:36+00:00",
-   "keywords": [
-    "انفجار"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T14:18:46.953619+00:00"
-  },
-  {
-   "id": "tg:ClashReport/101153",
-   "kind": "tg",
-   "src": "clashreport",
-   "text": "German AfD MP Maximilian Krah tells Clash Report that Chancellor Friedrich Merz could lead Germany into war with Russia and use it to target the opposition:\n\nWhat is the worst-case scenario? That Merz is increasing tensions with Russia, that he is leading Germany into war with Russia, and then using the state of war to go after the opposition.\n\nFinally he is attacking Russia, provoking a Russian counterattack, and then using the Russian counterattack to say we are in a state of war, and first we have to abolish the AfD.\n\nMerz is now a dangerous man because he has no hesitation about bringing a",
-   "url": "https://t.me/ClashReport/101153",
-   "time": "2026-10-15T14:06:13+00:00",
-   "keywords": [
-    "attack"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T14:18:46.953619+00:00"
-  },
-  {
-   "id": "tg:Alibk3/39138",
-   "kind": "tg",
-   "src": "alibk3",
-   "text": "المتحدث باسم التحالف السعودي ضد اليمن:  الحوثيون حصلوا على تقنيات متقدمة من أطراف إقليمية واستهدفوا الرياض بـ 20 هجوما.",
-   "url": "https://t.me/Alibk3/39138",
-   "time": "2026-10-15T14:00:14+00:00",
-   "keywords": [
-    "هجوم"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T14:18:46.953619+00:00"
-  },
-  {
-   "id": "tg:IranintlTV/362403",
-   "kind": "tg",
-   "src": "iranintltv",
-   "text": "ائتلاف به رهبری عربستان سعودی اعلام کرد حوثی‌ها در ماه اکتبر ۲۰ بار فرودگاه ریاض را هدف قرار داده‌اند و این حملات ۱۷ کشته بر جای گذاشته است. این ائتلاف همچنین اعلام کرد حملات روزهای هفتم، هشتم، دهم و یازدهم اکتبر به فرودگاه بین‌المللی ملک خالد در مجموع ۳۳۳ مجروح داشته است.\nسخنگوی ائتلاف افزود حوثی‌ها همچنین برای حمله به ده‌ها فرودگاه، تاسیسات نفتی و بندر در عربستان سعودی تلاش کرده‌اند.\nhttps://iranintl.com/202610157565",
-   "url": "https://t.me/IranintlTV/362403",
-   "time": "2026-10-15T13:59:42+00:00",
-   "keywords": [
-    "حمله"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T14:18:46.953619+00:00"
-  },
-  {
-   "id": "tg:Alibk3/39137",
-   "kind": "tg",
-   "src": "alibk3",
-   "text": "سماع دوي انفجارات في مناطق سيطرة القوات الموالية للسعودية بمحافظة عدن اليمنية",
-   "url": "https://t.me/Alibk3/39137",
-   "time": "2026-10-15T13:54:17+00:00",
-   "keywords": [
-    "انفجار"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T14:18:46.953619+00:00"
-  },
-  {
-   "id": "tg:shin_persian/11146",
-   "kind": "tg",
-   "src": "shin_persian",
-   "text": "↩️ Quoted tweet:\nالمتحدث الرسمي باسم قوات التحالف ✓  @CJFCSpox\n\nفيديو يوضح أجزاء من صاروخ (كروز) المستخدم في الاعتداء الحوثي الإرهابي على مطار الملك خالد الدولي.\n\n↩️ Quoted tweet — see the post below for the reply.\n\nEnglish\n\nA video showing parts of the cruise missile used in the terrorist Houthi attack on King Khalid International Airport.\n\n↩️ توییت نقل‌قول شده — برای پاسخ، پست زیر را ببینید.\n\nترجمه خودکار فارسی\n\nویدئویی که بخش‌هایی از موشک (کروز) استفاده‌شده در حمله تروریستی حوثی‌ها به فرودگاه بین‌المللی ملک خالد را نشان می‌دهد.\n\n𝕏  ·  @shin_persian",
-   "url": "https://t.me/shin_persian/11146",
-   "time": "2026-10-15T13:53:23+00:00",
-   "keywords": [
-    "attack",
-    "missile",
-    "حمله",
-    "موشک",
-    "صاروخ"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T14:18:46.953619+00:00"
-  },
-  {
-   "id": "tg:shin_persian/11147",
-   "kind": "tg",
-   "src": "shin_persian",
-   "text": "↩️ Quoted tweet: المتحدث الرسمي باسم قوات التحالف ✓  @CJFCSpox  فيديو يوضح أجزاء من صاروخ (كروز) المستخدم في الاعتداء الحوثي الإرهابي على مطار الملك خالد الدولي.  ↩️ Quoted tweet — see the post below for the reply.  English  A video showing parts of the cruise…",
-   "url": "https://t.me/shin_persian/11147",
-   "time": "2026-10-15T13:53:23+00:00",
-   "keywords": [
-    "صاروخ"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T14:18:46.953619+00:00"
-  },
-  {
-   "id": "tg:Alibk3/39136",
-   "kind": "tg",
-   "src": "alibk3",
-   "text": "سماع دوي انفجارات في مناطق سيطرة القوات الموالية للسعودية بمحافظة عدن اليمنية",
-   "url": "https://t.me/Alibk3/39136",
-   "time": "2026-10-15T13:50:53+00:00",
-   "keywords": [
-    "انفجار"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T14:18:46.953619+00:00"
-  },
-  {
-   "id": "tg:Alibk3/39135",
-   "kind": "tg",
-   "src": "alibk3",
-   "text": "الهجوم الصاروخي اليمني الذي أخرج مطار نجران عن الخدمة بعد رفض إغلاقه من قبل السلطات السعودية",
-   "url": "https://t.me/Alibk3/39135",
-   "time": "2026-10-15T13:47:36+00:00",
-   "keywords": [
-    "هجوم",
-    "صاروخ"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T14:18:46.953619+00:00"
-  },
-  {
-   "id": "tg:farsna/468612",
-   "kind": "tg",
-   "src": "farsna",
-   "text": "📚 انتشارات فارس؛ مرکز جامع کتب رسانه، جایی برای کشف تازه‌ترین منابع دنیای رسانه و فناوری!\n\nنزدیک به ۲ هزار عنوان از حدود ۷۰ ناشر؛ از رسانه و علوم شناختی تا هوش مصنوعی، همه در یک مقصد. 🚀\n\n🔍 برای یادگیری، پژوهش یا پیدا کردن کتابی متفاوت، اینجا را از دست ندهید!\n\nراه‌های تهیه کتاب:\n‌\n🛒 برای خرید آنلاین روی لینک کلیک کن\n📱 ارسال پیامک عنوان کتاب به ۵۰۰۰۱۶۷۶\n📞 تماس با ۶۶۹۷۳۹۹۶ یا ۶۶۹۷۳۷۹۴\n🏢 فروشگاه حضوری: خیابان انقلاب، روبه‌روی دانشگاه تهران، مجتمع پارسا، انتشارات فارس\n‌\n✅ انتشارات فارس مرکز جامع کتب رسانه",
-   "url": "https://t.me/farsna/468612",
-   "time": "2026-10-15T13:40:11+00:00",
-   "keywords": [],
-   "emojis": [
-    "🚀"
-   ],
-   "alert": true,
-   "collected": "2026-10-15T14:18:46.953619+00:00"
-  },
-  {
-   "id": "tg:presstv/210870",
-   "kind": "tg",
-   "src": "presstv",
-   "text": "▶️ Iranian President Masoud Pezeshkian says a nation cannot be forced into submission through bombs and missiles.\n\n@PressTV",
-   "url": "https://t.me/presstv/210870",
-   "time": "2026-10-15T13:40:08+00:00",
-   "keywords": [
-    "missile"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T14:18:46.953619+00:00"
-  },
-  {
-   "id": "tg:Alibk3/39133",
-   "kind": "tg",
-   "src": "alibk3",
-   "text": "المتحدث باسم التحالف السعودي ضد اليمن:  الحوثيون حصلوا على تقنيات متقدمة من أطراف إقليمية واستهدفوا الرياض بـ 20 هجوما.",
-   "url": "https://t.me/Alibk3/39133",
-   "time": "2026-10-15T13:39:38+00:00",
-   "keywords": [
-    "هجوم"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T14:18:46.953619+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMirgFBVV95cUxQRkxBdHdrNE5XNnZ1Q0RIT1RzalhqZjktN2FtM1VybC1RSHdiU0JhbjcxMVhmVnFfbWY2Wlc0WEhaamlmMUJvdlVXTXJuWklqem5WMFNkSlg0cUxRd3RrYy1UNUZqVFBVMU8yQlNlM1ltb2wxUTFIbUVpekVodFhQQVRseUhsT2lPQVlOckNGTnNjNnpOc25VZGd6aDVqSFMxSmRxc1QtYUFNeEJSN3c?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "Report: US weighs using ‘mother of all bombs’ in potential Iran strikes - Baltimore Sun — Report: US weighs using ‘mother of all bombs’ in potential Iran strikes  Baltimore Sun",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRkxBdHdrNE5XNnZ1Q0RIT1RzalhqZjktN2FtM1VybC1RSHdiU0JhbjcxMVhmVnFfbWY2Wlc0WEhaamlmMUJvdlVXTXJuWklqem5WMFNkSlg0cUxRd3RrYy1UNUZqVFBVMU8yQlNlM1ltb2wxUTFIbUVpekVodFhQQVRseUhsT2lPQVlOckNGTnNjNnpOc25VZGd6aDVqSFMxSmRxc1QtYUFNeEJSN3c?oc=5",
-   "time": "2026-10-15T13:36:48+00:00",
-   "keywords": [
-    "strike"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T14:18:46.953619+00:00"
-  },
-  {
-   "id": "tg:IranintlTV/362400",
-   "kind": "tg",
-   "src": "iranintltv",
-   "text": "اسرائیل هیوم گزارش داد در پی شلیک ۳۰ موشک بالستیک در رزمایش سپاه پاسداران، ارتش اسرائیل سطح آماده‌باش را در همه جبهه‌ها افزایش داده و در بالاترین سطح آمادگی برای حمله‌ای هدفمند به ایران قرار گرفته است.\nاین رسانه افزود یکی از سناریوهای اصلی مورد توجه اسرائیل، تشدید تنش در تنگه هرمز است و انتظار می‌رود آمریکا در روزهای آینده حملات نقطه‌ای علیه رادارها، پرتابگرها و مواضع دیده‌بانی ایران مرتبط با شناسایی کشتی‌های عبوری انجام دهد.\nبر اساس این گزارش، ارزیابی اسرائیل این است که حملات احتمالی آمریکا در تنگه هرمز پیامد فوری برای اسرائیل نخواهد داشت، مگر اینکه تنش به‌طور جدی تشدید شود. در چنین شرایطی، م",
-   "url": "https://t.me/IranintlTV/362400",
-   "time": "2026-10-15T13:36:03+00:00",
-   "keywords": [
-    "حمله",
-    "موشک",
-    "آماده‌باش"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T14:18:46.953619+00:00"
-  },
-  {
-   "id": "tg:Alibk3/39132",
-   "kind": "tg",
-   "src": "alibk3",
-   "text": "رويترز تؤكد ما نقلته لنا مصادرنا يوم أمس:   مقر شركة أرامكو في الظهران تعرض لأضرار جسيمة نتيجة الهجوم الذي وقع أمس، وامتدت النيران إلى عدة طوابق، وقد تم إصدار توجيهات للموظفين بالعمل من المنزل، كما تم نقل بعض عملياتها إلى مكاتب في الخارج إثر الهجوم",
-   "url": "https://t.me/Alibk3/39132",
-   "time": "2026-10-15T13:32:52+00:00",
-   "keywords": [
-    "هجوم"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T14:18:46.953619+00:00"
-  },
-  {
-   "id": "tg:shin_persian/11142",
-   "kind": "tg",
-   "src": "shin_persian",
-   "text": "↩️ Quoted tweet:\nMoloMonitor 🇮🇹 ✓  @MoloWarMonitor\n\nThe large-scale exercises conducted by the IRGC Aerospace Forces are now underway for the fifth consecutive day, with today appearing, so far, to be the most intense.\n\nVideos show the test launch of various types of ballistic missiles from different cities in Iran.\n\n↩️ توییت نقل‌قول شده — برای پاسخ، پست زیر را ببینید.\n\nترجمه خودکار فارسی\n\nرزمایش‌های گسترده نیروی هوافضای سپاه پاسداران اکنون برای پنجمین روز پیاپی در حال برگزاری است و امروز، تا این لحظه، شدیدترین روز به نظر می‌رسد.\n\nویدئوها پرتاب آزمایشی انواع مختلف موشک‌های بالستیک از شهرهای مخ",
-   "url": "https://t.me/shin_persian/11142",
-   "time": "2026-10-15T13:29:53+00:00",
-   "keywords": [
-    "missile",
-    "موشک"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T14:18:46.953619+00:00"
-  },
-  {
-   "id": "tg:shin_persian/11145",
-   "kind": "tg",
-   "src": "shin_persian",
-   "text": "🔁 Quoting above tweet:\nShin ✓  @hey_itsmyturn\n\nLooks like Ghadr-110 (MRBM)\n\nترجمه خودکار فارسی\n\nبه نظر می‌رسد قدر-۱۱۰ (موشک بالستیک میان‌برد) باشد.\n\n𝕏  ·  @shin_persian",
-   "url": "https://t.me/shin_persian/11145",
-   "time": "2026-10-15T13:29:53+00:00",
-   "keywords": [
-    "موشک"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T14:18:46.953619+00:00"
-  },
-  {
-   "id": "tg:ClashReport/101149",
-   "kind": "tg",
-   "src": "clashreport",
-   "text": "WATCH: Saudi-led coalition released footage showing Houthi strikes on Saudi airports.",
-   "url": "https://t.me/ClashReport/101149",
-   "time": "2026-10-15T13:29:52+00:00",
-   "keywords": [
-    "strike"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T14:18:46.953619+00:00"
-  },
-  {
-   "id": "rss:https://www.aljazeera.com/video/newsfeed/2026/10/15/russia-accuses-ukraine-of-contradicting-us-brokered-deal?traffic_source=rss",
-   "kind": "rss",
-   "src": "www.aljazeera.com",
-   "text": "Russia accuses Ukraine of contradicting US brokered deal — Russia has accused Ukraine of going against US peace efforts, after an overnight Ukrainian drone strike.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/russia-accuses-ukraine-of-contradicting-us-brokered-deal?traffic_source=rss",
-   "time": "2026-10-15T13:29:38+00:00",
-   "keywords": [
-    "strike"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T14:18:46.953619+00:00"
-  },
-  {
-   "id": "tg:IranintlTV/362399",
-   "kind": "tg",
-   "src": "iranintltv",
-   "text": "ترکی المالکی، سخنگوی ائتلاف نظامی به رهبری عربستان سعودی، اعلام کرد نیروهای ائتلاف سه موشک کروز و دو پهپاد را در منطقه ریاض و جنوب این کشور رهگیری و منهدم کردند.\nجزئیات بیشتر در گفت‌وگو با تروسکه صادقی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
-   "url": "https://t.me/IranintlTV/362399",
-   "time": "2026-10-15T13:27:38+00:00",
-   "keywords": [
-    "موشک",
-    "پهپاد"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T14:18:46.953619+00:00"
-  },
-  {
-   "id": "tg:warmonitors/46070",
-   "kind": "tg",
-   "src": "warmonitors",
-   "text": "⚡#BREAKING The Saudi-led coalition says 20 Houthi attacks on Riyadh airport in October resulted in 17 fatalities\n\n💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18",
-   "url": "https://t.me/warmonitors/46070",
-   "time": "2026-10-15T13:26:34+00:00",
-   "keywords": [
-    "attack"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T14:18:46.953619+00:00"
-  },
-  {
-   "id": "tg:presstv/210868",
-   "kind": "tg",
-   "src": "presstv",
-   "text": "🔵 Iran's Deputy Foreign Minister Kazem Gharibabadi says that Iran believes that sustainable security in Asia is achieved not through threats and pressure, but through mutual respect, confidence-building, and equal cooperation among independent states.\n\n🔹 Kazem Gharibabadi states that Iran is not a warmonger, but any aggression will be met with a decisive response; warning that no country should place its territory at the disposal of aggressors for carrying out armed attacks against Iran.\n\n🔹 Kazem Gharibabadi adds that if the international community does not stop America and Israel today, their",
-   "url": "https://t.me/presstv/210868",
-   "time": "2026-10-15T13:21:01+00:00",
-   "keywords": [
-    "attack"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T14:18:46.953619+00:00"
-  },
-  {
-   "id": "rss:https://www.aljazeera.com/video/newsfeed/2026/10/15/10-15-ukraine-angry-at-us-sv?traffic_source=rss",
-   "kind": "rss",
-   "src": "www.aljazeera.com",
-   "text": "Ukrainians lash out at Trump as Zelenskyy warns of US betrayal — Ukrainians accuse the US of gambling with their lives as Russian strikes devastated residential buildings in the capital",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/10-15-ukraine-angry-at-us-sv?traffic_source=rss",
-   "time": "2026-10-15T13:19:09+00:00",
-   "keywords": [
-    "strike"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T14:18:46.953619+00:00"
-  },
-  {
-   "id": "tg:shin_persian/11140",
-   "kind": "tg",
-   "src": "shin_persian",
-   "text": "↩️ Quoted tweet:\nalivia ✓  @tzalivia\n\nA source within the 🇸🇦 Royal Saudi Air Defense Forces said that a smaller munition may have impacted the headquarters of Aramco; a damage assessment is now underway by the civil defense authorities. \n\nDespite the impact, the damage appears to be superficial and not structural, though the building has been evacuated as a precaution. No casualties have been reported as of writing, though workers at the site were told to work remotely tomorrow. \n\nThe ballistic missiles used by the 🇾🇪 Houthis against targets in 🇸🇦 Saudi Arabia are known to have smaller warhead",
-   "url": "https://t.me/shin_persian/11140",
-   "time": "2026-10-15T13:18:22+00:00",
-   "keywords": [
-    "missile",
-    "evacuat",
-    "موشک",
-    "تخلیه"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T14:18:46.953619+00:00"
-  },
-  {
-   "id": "tg:bbcpersian/293407",
-   "kind": "tg",
-   "src": "bbcpersian",
-   "text": "🔻یک فرمانده بسیج زنان و یک مامور پلیس در سیستان و بلوچستان کشته شدند\n\nرسانه‌های ایران از کشته شدن یک فرمانده بسیج زنان و یک مامور نیروی انتظامی در دو حمله جداگانه در شهرستان مهرستان استان سیستان و بلوچستان در روز چهارشنبه ۲۲ مهر خبر دادند.\n\nخبرگزاری تسنیم گزارش داد که افراد مسلح به خودروی نیروی انتظامی در مهرستان حمله کردند و در جریان درگیری، گروهبان یکم محمدعلی شهریاری مجروح شد و پس از انتقال به بیمارستان جان باخت. مهاجمان نیز از محل گریختند.\n\nدر حمله دیگر، افسانه عقیلا، فرمانده حوزه بسیج خواهران «شهیده افضل» در شهرستان مرزی مهرستان، مقابل خانه‌اش هدف تیراندازی قرار گرفت و کشته شد.\n\nبا کشته ش",
-   "url": "https://t.me/bbcpersian/293407",
-   "time": "2026-10-15T13:16:35+00:00",
-   "keywords": [
-    "حمله",
-    "انفجار"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T14:18:46.953619+00:00"
-  },
-  {
-   "id": "tg:warmonitors/46069",
-   "kind": "tg",
-   "src": "warmonitors",
-   "text": "⚡#BREAKING The Saudi-led coalition says Yemen’s Houthis attempted to attack dozens of airports, oil facilities and ports in Saudi Arabia\n\n💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18",
-   "url": "https://t.me/warmonitors/46069",
-   "time": "2026-10-15T13:16:34+00:00",
-   "keywords": [
-    "attack"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T14:18:46.953619+00:00"
-  },
-  {
-   "id": "tg:Alibk3/39130",
-   "kind": "tg",
-   "src": "alibk3",
-   "text": "المتحدث باسم التحالف السعودي ضد اليمن:\n\nالحوثيون حصلوا على تقنيات متقدمة من أطراف إقليمية واستهدفوا الرياض بـ 20 هجوما.",
-   "url": "https://t.me/Alibk3/39130",
-   "time": "2026-10-15T13:16:00+00:00",
-   "keywords": [
-    "هجوم"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T14:18:46.953619+00:00"
-  },
-  {
-   "id": "tg:farsna/468610",
-   "kind": "tg",
-   "src": "farsna",
-   "text": "🎥 اذعان رویترز به آچمز شدن آمریکا از «حملات دقیق ایران»\n\n🔹رویترز یک گزارش تحقیقی مفصل درباره پاسخ‌های ایران به تجاوزات واشنگتن و متحدانش منتشر کرد و نوشت: «حملات دقیق ایران برنامه‌های جنگی آمریکا را کند کرد.»\n\n🔹در گزارش این رسانه غربی اذعان شده که «ایالات متحده توان تخریبی ایران را کوچک‌نمایی می‌کند.»\n\n🔹به روایت این خبرگزاری، «موشک‌ها و پهپادهای ایران حداقل ۱۳۵ بار به سایت‌های زیرساختی خلیج فارس حمله کرده‌اند و باعث خرابی‌های پی در پی شده‌اند که کشورهای خلیج فارس اغلب آنها را پنهان کرده‌اند. با وجود اظهارات رسمی مکرر مبنی بر اینکه خسارات ناشی از آوار بوده است، رویترز دریافت که تجهیزات مورد اصا",
-   "url": "https://t.me/farsna/468610",
-   "time": "2026-10-15T13:15:15+00:00",
-   "keywords": [
-    "حمله",
-    "موشک",
-    "پهپاد"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T14:18:46.953619+00:00"
-  },
-  {
-   "id": "tg:ClashReport/101147",
-   "kind": "tg",
-   "src": "clashreport",
-   "text": "Russia's Foreign Minister Lavrov:\n\nAs for the diesel deal, this deal was proposed, and we supported it.\n\nBut Mr. Zelensky has already publicly stated more than once, I believe: \"Stop bothering me with this diesel deal. Give me Patriot missiles instead. I need to continue striking Russia's energy sector, including oil refineries.\"\n\nThis is a direct challenge, and a rude one at that, to President Trump, who actively supported this deal and has publicly spoken about it more than once.",
-   "url": "https://t.me/ClashReport/101147",
-   "time": "2026-10-15T13:14:37+00:00",
-   "keywords": [
-    "missile"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T14:18:46.953619+00:00"
-  },
-  {
-   "id": "tg:IranintlTV/362397",
-   "kind": "tg",
-   "src": "iranintltv",
-   "text": "به گزارش وای‌نت، بنیامین نتانیاهو، نخست‌وزیر اسرائیل، شامگاه پنج‌شنبه ۲۳ مهر با حضور روسای نهادهای امنیتی این کشور نشست امنیتی برگزار می‌کند. \nایال زمیر، رییس ستاد کل ارتش اسرائیل، رومان گوفمن، رییس موساد، دیوید زینی، رییس شین‌بت، و یسرائیل کاتز، وزیر دفاع اسرائیل، در این نشست حضور خواهند داشت.\nبر اساس ارزیابی‌ها، در این نشست همه جبهه‌ها بررسی خواهد شد؛ از جمله نگرانی‌های اسرائیل درباره احیای برنامه هسته‌ای تهران و آمادگی برای سناریوهای مختلف، از جمله حمله غافلگیرانه یا تلاش برای اخلال در انتخابات.\nhttps://iranintl.com/202610152253",
-   "url": "https://t.me/IranintlTV/362397",
-   "time": "2026-10-15T13:12:03+00:00",
-   "keywords": [
-    "حمله"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T14:18:46.953619+00:00"
-  },
-  {
-   "id": "tg:ClashReport/101146",
-   "kind": "tg",
-   "src": "clashreport",
-   "text": "NEW: Yemen’s Houthis released footage they say shows the interception of a Royal Saudi Air Force Typhoon fighter jet. \n\nHouthi military spokesman Yahya Saree said earlier that the jet, which took off from Taif air base, was hit by a surface-to-air missile over Yemen’s Saada province and may have crashed. \n\nThe claim has not been independently verified.",
-   "url": "https://t.me/ClashReport/101146",
-   "time": "2026-10-15T13:12:02+00:00",
-   "keywords": [
-    "missile"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T14:18:46.953619+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMikgFBVV95cUxPcEQ5Ujhwd25iQmFZTDYzclRfTm52RXNqcTlVeWZBRk5EUHVOZzk0clFPNDZPSXQ0R0ZtdTlYcTZkLXYyMnZwTjl5MlJaTnZLYUVtbzVmd0thRmlkcURJWksya3ZGUnBUcEdzOXExWTdWTmlHREZISU03VFZHcjhDVGhwcmZVb1E3d0Z0d3NETTc1dw?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "Iran's reported missile test puts Israel on alert - www.israelhayom.com — Iran's reported missile test puts Israel on alert  www.israelhayom.com",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcEQ5Ujhwd25iQmFZTDYzclRfTm52RXNqcTlVeWZBRk5EUHVOZzk0clFPNDZPSXQ0R0ZtdTlYcTZkLXYyMnZwTjl5MlJaTnZLYUVtbzVmd0thRmlkcURJWksya3ZGUnBUcEdzOXExWTdWTmlHREZISU03VFZHcjhDVGhwcmZVb1E3d0Z0d3NETTc1dw?oc=5",
-   "time": "2026-10-15T13:10:38+00:00",
-   "keywords": [
-    "missile"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T14:18:46.953619+00:00"
-  },
-  {
-   "id": "tg:presstv/210866",
-   "kind": "tg",
-   "src": "presstv",
-   "text": "▶️ Yemen's Armed Forces released footage capturing the moment a Saudi Air Force Typhoon fighter jet was struck by a locally made surface-to-air missile over the Sa'ada region.\n\n@PressTV",
-   "url": "https://t.me/presstv/210866",
-   "time": "2026-10-15T13:03:15+00:00",
-   "keywords": [
-    "missile"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T14:18:46.953619+00:00"
-  },
-  {
-   "id": "tg:Alibk3/39129",
-   "kind": "tg",
-   "src": "alibk3",
-   "text": "الإعلام الحربي اليمني يبث مشاهد لعملية استهداف وإصابة طائرة حربية سعودية نوع (تايفون) بصاروخ أرض - جو محلي الصنع، أثناء تنفيذها أعمالاً عدائية في أجواء محافظة صعدة.",
-   "url": "https://t.me/Alibk3/39129",
-   "time": "2026-10-15T13:00:42+00:00",
-   "keywords": [
-    "صاروخ"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T14:18:46.953619+00:00"
-  },
-  {
-   "id": "tg:ClashReport/101143",
-   "kind": "tg",
-   "src": "clashreport",
-   "text": "Iran’s Navy said an oil tanker caught fire in the Gulf of Oman.\n\nIt claimed the vessel had switched off its tracking systems while attempting to enter \"a restricted zone.\"",
-   "url": "https://t.me/ClashReport/101143",
-   "time": "2026-10-15T12:53:52+00:00",
-   "keywords": [
-    "tanker"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T14:18:46.953619+00:00"
-  },
-  {
-   "id": "tg:bbcpersian/293405",
-   "kind": "tg",
-   "src": "bbcpersian",
-   "text": "🔻نشست مشترک اتحادیه اروپا و کشورهای شورای همکاری خلیج فارس به تعویق افتاد\n\nشورای اروپا اعلام کرده است که دومین نشست میان اتحادیه اروپا و شورای همکاری خلیج فارس که قرار بود در تاریخ ۲۴ اکتبر (۲ آبان) در ریاض، پایتخت عربستان سعودی، برگزار شود، به تعویق افتاده است.\n\nاین شورا در بیانیه‌ای اعلام کرد که تاریخ جدید این اجلاس در زمان مقتضی اعلام خواهد شد.\n\nعربستان سعودی در حال حاضر درگیر جنگی با حوثی‌های مورد حمایت ایران است.\n\nمناطق مختلف عربستان در روزهای گذشته بارها هدف حملات موشکی و پهپادی حوثی‌های یمن قرار گرفته است.\n\nhttps://bbc.in/4sfEcSL\n@BBCPersian",
-   "url": "https://t.me/bbcpersian/293405",
-   "time": "2026-10-15T12:47:36+00:00",
-   "keywords": [
-    "موشک",
-    "پهپاد"
    ],
    "emojis": [],
    "alert": true,
