@@ -1,17 +1,863 @@
 {
- "updated": "2026-10-17T00:56:31.502883+00:00",
+ "updated": "2026-10-17T05:29:18.806611+00:00",
  "aircraft": [
   {
-   "hex": "aef421",
+   "hex": "aed555",
    "cs": "",
-   "type": null,
-   "lat": 25.2917,
-   "lon": 55.428825,
-   "alt": 27500,
-   "time": "2026-10-17T00:56:55.500000+00:00"
+   "type": "B762",
+   "lat": 25.045418,
+   "lon": 55.626219,
+   "alt": 24525,
+   "time": "2026-10-17T05:29:40.001000+00:00"
+  },
+  {
+   "hex": "3b7768",
+   "cs": "CTM1466",
+   "type": "A400",
+   "lat": 25.208679,
+   "lon": 56.27538,
+   "alt": 28975,
+   "time": "2026-10-17T05:29:40.001000+00:00"
   }
  ],
  "items": [
+  {
+   "id": "tg:presstv/211095",
+   "kind": "tg",
+   "src": "presstv",
+   "text": "▶️ Foreign Minister Abbas Araghchi arrives in Baghdad to attend the 52nd session of the OIC Council of Foreign Ministers.  @PressTV",
+   "url": "https://t.me/presstv/211095",
+   "time": "2026-10-17T05:21:13+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "tg:farsna/468867",
+   "kind": "tg",
+   "src": "farsna",
+   "text": "🎥 یکی از گلایه‌های مردم زود تمام‌شدن بسته‌های اینترنت است. وزارت ارتباطات برای این موضوع چه اقدامی انجام داده است؟  🔹وزیر ارتباطات: به معاونم یک مأموریت جدی دادم تا به این موضوع رسیدگی کند و با اپراتورها نیز در این خصوص اتمام حجت کردم. در چند مرحله و با جدیت،…",
+   "url": "https://t.me/farsna/468867",
+   "time": "2026-10-17T05:18:05+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "tg:farsna/468866",
+   "kind": "tg",
+   "src": "farsna",
+   "text": "عراقچی عازم بغداد شد  🔹وزیر امور خارجهٔ کشورمان برای شرکت در اجلاس سالانهٔ وزرای امور خارجهٔ کشورهای اسلامی عازم بغداد پایتخت عراق شد.  🔹عراقچی علاوه بر حضور در اجلاس و تبیین مواضع جمهوری اسلامی ایران، دیدارهای دوجانبه‌ای هم با تعدادی از وزرای شرکت‌کننده در…",
+   "url": "https://t.me/farsna/468866",
+   "time": "2026-10-17T05:17:00+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "tg:presstv/211094",
+   "kind": "tg",
+   "src": "presstv",
+   "text": "Iranian Foreign Minister Abbas Araghchi departed for Baghdad on Saturday to attend the 52nd session of the Organization of Islamic Cooperation (OIC) Council of Foreign Ministers, where he will present Iran’s positions and hold bilateral meetings with fellow…",
+   "url": "https://t.me/presstv/211094",
+   "time": "2026-10-17T05:11:23+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "tg:farsna/468865",
+   "kind": "tg",
+   "src": "farsna",
+   "text": "🎥 چرا با وجود افزایش تعرفه اینترنت، کیفیت بهبود پیدا نکرده است؟  @Farsna",
+   "url": "https://t.me/farsna/468865",
+   "time": "2026-10-17T05:06:58+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "rss:https://www.aljazeera.com/news/2026/10/17/three-mexicans-jailed-for-158-years-each-for-killing-australian-us-surfers?traffic_source=rss",
+   "kind": "rss",
+   "src": "www.aljazeera.com",
+   "text": "Three Mexicans jailed for 158 years each for killing Australian, US surfers — A Mexican judge sentenced the three men for the 2024 murders a week after they were found guilty.",
+   "url": "https://www.aljazeera.com/news/2026/10/17/three-mexicans-jailed-for-158-years-each-for-killing-australian-us-surfers?traffic_source=rss",
+   "time": "2026-10-17T05:01:14+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "rss:https://www.aljazeera.com/news/2026/10/17/the-israeli-politicians-seeking-to-replace-netanyahu?traffic_source=rss",
+   "kind": "rss",
+   "src": "www.aljazeera.com",
+   "text": "The Israeli politicians seeking to replace Netanyahu — A look at Israel's main opposition leaders, their parties and their largely shared positions on Gaza and other wars.",
+   "url": "https://www.aljazeera.com/news/2026/10/17/the-israeli-politicians-seeking-to-replace-netanyahu?traffic_source=rss",
+   "time": "2026-10-17T05:00:58+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "rss:https://www.aljazeera.com/video/newsfeed/2026/10/17/trump-waives-russia-sanctions-as-rift-with-zelenskyy-widens?traffic_source=rss",
+   "kind": "rss",
+   "src": "www.aljazeera.com",
+   "text": "Trump waives Russia sanctions as rift with Zelenskyy widens — US President Donald Trump has waived more sanctions on Russia in a bid to ease energy prices.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/trump-waives-russia-sanctions-as-rift-with-zelenskyy-widens?traffic_source=rss",
+   "time": "2026-10-17T04:58:32+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "tg:presstv/211093",
+   "kind": "tg",
+   "src": "presstv",
+   "text": "Super tanker explodes after hitting sea mine in Hormuz: IRGC \n\nA super tanker carrying over 2 million barrels of crude oil was engulfed in flames after striking a sea mine in the Strait of Hormuz while attempting to transit through an unauthorized route with its tracking systems switched off.\n\n@PressTV",
+   "url": "https://t.me/presstv/211093",
+   "time": "2026-10-17T04:58:20+00:00",
+   "keywords": [
+    "tanker"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "rss:https://www.aljazeera.com/news/2026/10/17/trump-puts-on-hold-new-russia-sanctions-he-signed-into-law?traffic_source=rss",
+   "kind": "rss",
+   "src": "www.aljazeera.com",
+   "text": "Trump puts on hold new Russia sanctions he signed into law — US president's executive order comes two days before sanctions deadline and a week after diesel deal with Putin.",
+   "url": "https://www.aljazeera.com/news/2026/10/17/trump-puts-on-hold-new-russia-sanctions-he-signed-into-law?traffic_source=rss",
+   "time": "2026-10-17T04:45:03+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "tg:presstv/211092",
+   "kind": "tg",
+   "src": "presstv",
+   "text": "▶️ Fire reportedly broke out again at Saudi Aramco’s oil facilities in eastern Saudi Arabia, as several explosions were heard near Dammam in the early hours of Saturday. \n\n@PressTV",
+   "url": "https://t.me/presstv/211092",
+   "time": "2026-10-17T04:40:03+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "tg:bbcpersian/293485",
+   "kind": "tg",
+   "src": "bbcpersian",
+   "text": "🔻یک الماس صورتی نادر، امروز برای نخستین بار پس از گذشت ۱۰۰ سال از زمان سرقتش، در فرانسه به نمایش گذاشته می‌شود.\n\nاین سنگ ۹ قیراطی که به شکل گلابی تراش خورده، یکی از معدود جواهرات سلطنتی است که از انقلاب فرانسه جان سالم به در برد.\n\nاین الماس در موزه کُنده (Musée Condé) واقع در شاتو دو شانتیئی در شمال فرانسه به نمایش درخواهد آمد.\n\nآخرین باری که این سنگ در سال ۱۹۲۶ در همین موزه به نمایش گذاشته شده بود، به سرقت رفت؛ اما پس مدت کوتاهی، به دست یک خدمتکار هتل پیدا شد.\n\nماجرا از این قرار بود که خدمتکار گرسنه، گازی به یک سیب زد و ناگهان متوجه شد که این سنگ گرانبها درون آن جاساز شده است.\n📷Musée Condé\n@B",
+   "url": "https://t.me/bbcpersian/293485",
+   "time": "2026-10-17T04:37:23+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMiWEFVX3lxTE14T0dibXh6ekhsRkRwQm04Q01WbWRIY25GSXdkcm95QTV0YlBkdXRkdTRZd2pGczRNTllCRXRqWFdmSEI5R1JuRkNUTEt5UnhOamc0ZjZPQ1U?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "Pezeshkian slams propaganda, says Iran not after nukes - chinadailyhk — Pezeshkian slams propaganda, says Iran not after nukes  chinadailyhk",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14T0dibXh6ekhsRkRwQm04Q01WbWRIY25GSXdkcm95QTV0YlBkdXRkdTRZd2pGczRNTllCRXRqWFdmSEI5R1JuRkNUTEt5UnhOamc0ZjZPQ1U?oc=5",
+   "time": "2026-10-17T04:36:58+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "tg:bbcpersian/293484",
+   "kind": "tg",
+   "src": "bbcpersian",
+   "text": "‌ ‌ ‌ \nدر ایالت کالیفرنیای آمریکا به دلیل آتش‌سوزی جنگلی که به سرعت در حال گسترش است، دستور تخلیه  صادر شده است.\n\nبراساس گزارش‌ها تاکنون شش خانه در منطقه جنوبی لس‌آنجلس سوخته است.\n\nآتش‌سوزی «نورت» روز جمعه در اورنج کانتی آغاز شد و تا عصر به سرعت به ۴۶۵ هکتار گسترش یافت.\n\nمقامات محلی می‌گویند بادهای شدید سانتا آنا تا روز شنبه خواهد وزید و خطر آتش‌سوزی‌های بیشتر را افزایش می‌دهد.\n\nسازمان ملی هواشناسی آمریکا برای چندین شهرستان کالیفرنیا هشدار قرمز صادر کرده است.\n\nاین هشدار به دلیل بادهای شدید و طوفانی همراه با رطوبت کم و پوشش گیاهی خشک که شرایط بحرانی گسترش آتش‌سوزی جنگلی را ایجاد می‌کنند، صادر ش",
+   "url": "https://t.me/bbcpersian/293484",
+   "time": "2026-10-17T04:34:12+00:00",
+   "keywords": [
+    "تخلیه"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "tg:farsna/468864",
+   "kind": "tg",
+   "src": "farsna",
+   "text": "منابع عربی از شنیده‌شدن صدای چندین انفجار در شهر دمام عربستان، و توقف فعالیت فرودگاه این شهر خبر می‌دهند.  @Farsna",
+   "url": "https://t.me/farsna/468864",
+   "time": "2026-10-17T04:26:03+00:00",
+   "keywords": [
+    "انفجار"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "tg:IranintlTV/362631",
+   "kind": "tg",
+   "src": "iranintltv",
+   "text": "امید معماریان، تحلیلگر سیاسی، گفت هدف آمریکا فقط نابودی تاسیسات نظامی و هسته‌ای ایران نیست، بلکه واشینگتن می‌خواهد محاسبه مقام‌های جمهوری اسلامی درباره هزینه ادامه مقاومت را تغییر دهد.\n\nبه گفته او، آمریکا تلاش می‌کند این پیام را منتقل کند که ادامه مقاومت ممکن است، اما می‌تواند به بهای نابودی جمهوری اسلامی تمام شود.\n@iranintltv",
+   "url": "https://t.me/IranintlTV/362631",
+   "time": "2026-10-17T04:24:32+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "rss:https://www.aljazeera.com/video/newsfeed/2026/10/17/albanias-pm-blames-foreign-hands-for-protests?traffic_source=rss",
+   "kind": "rss",
+   "src": "www.aljazeera.com",
+   "text": "Albania’s PM blames ‘foreign hands’ for protests — Albanian PM Edi Rama claimed ‘foreign hands’ are driving protests that have rocked the country for months.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/albanias-pm-blames-foreign-hands-for-protests?traffic_source=rss",
+   "time": "2026-10-17T04:21:18+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "tg:IranintlTV/362630",
+   "kind": "tg",
+   "src": "iranintltv",
+   "text": "رهبران اتحادیه اروپا در نشست بروکسل بر ادامه فشار بر مسکو تاکید کردند. اورزولا فون‌درلاین از آماده‌سازی بسته بیست‌ودوم تحریم‌ها خبر داد و ولودیمیر زلنسکی خواستار ۷۰ میلیارد یورو کمک برای سال آینده شد.\n\nگزارش ساجده شریفی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+   "url": "https://t.me/IranintlTV/362630",
+   "time": "2026-10-17T04:13:14+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "tg:presstv/211091",
+   "kind": "tg",
+   "src": "presstv",
+   "text": "🔺“Netanyahu knew long before any of us did.” \n\nSima Itayim highlights Israeli families’ demands for answers over warnings reportedly ignored before October 7 and questions the Israeli leadership’s failure to prevent the attack. \n\nWatch in full\n\n#Exposé  \n\n@PresstvPrograms",
+   "url": "https://t.me/presstv/211091",
+   "time": "2026-10-17T04:11:39+00:00",
+   "keywords": [
+    "attack"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "tg:IranintlTV/362629",
+   "kind": "tg",
+   "src": "iranintltv",
+   "text": "یک جوان ۱۹ ساله نروژی در بریتانیا به اتهام توطئه برای قتل به سفارش باند تبهکاری فاکستروت به ۲۰ سال حبس محکوم شد. این شبکه با جذب نوجوانان، حتی در سن ۱۳ سالگی، از آن‌ها برای قاچاق مواد مخدر و جرایم خشونت‌آمیز استفاده می‌کند. به گزارش هرتس ادورتایزر، فاکستروت از حمایت جمهوری اسلامی برخوردار است.\n\nگزارش گلاره هان، ایران‌اینترنشنال\n@iranintltv",
+   "url": "https://t.me/IranintlTV/362629",
+   "time": "2026-10-17T04:11:38+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "tg:presstv/211090",
+   "kind": "tg",
+   "src": "presstv",
+   "text": "Iranian Foreign Minister Abbas Araghchi departed for Baghdad on Saturday to attend the 52nd session of the Organization of Islamic Cooperation (OIC) Council of Foreign Ministers, where he will present Iran’s positions and hold bilateral meetings with fellow foreign ministers.\n\n@PressTV",
+   "url": "https://t.me/presstv/211090",
+   "time": "2026-10-17T04:11:14+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "tg:IranintlTV/362628",
+   "kind": "tg",
+   "src": "iranintltv",
+   "text": "میعاد ملکی، رییس پیشین دفتر هدف‌گذاری تحریم‌های وزارت خزانه‌داری آمریکا، گفت تصمیم جدید دونالد ترامپ درباره اجرای قانون تحریم‌های مرتبط با روسیه، فرصت تازه‌ای برای جمهوری اسلامی در دور زدن تحریم‌ها ایجاد نمی‌کند.\n\nاو با اشاره به بحران اقتصادی روسیه و محدودیت‌های نظام بانکی این کشور تاکید می‌کند مسکو بیش از آنکه بتواند به تهران کمک کند، در پی منافع خود است. به گفته مالکی، توقف صادرات نفت ایران از مسیر تنگه هرمز به نفع روسیه تمام شده و قرارداد گازی مسکو با واشینگتن نیز ضربه‌ای به جمهوری اسلامی بوده است.\n@iranintltv",
+   "url": "https://t.me/IranintlTV/362628",
+   "time": "2026-10-17T04:08:04+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "tg:farsna/468863",
+   "kind": "tg",
+   "src": "farsna",
+   "text": "عراقچی عازم بغداد شد\n\n🔹وزیر امور خارجهٔ کشورمان برای شرکت در اجلاس سالانهٔ وزرای امور خارجهٔ کشورهای اسلامی عازم بغداد پایتخت عراق شد.\n\n🔹عراقچی علاوه بر حضور در اجلاس و تبیین مواضع جمهوری اسلامی ایران، دیدارهای دوجانبه‌ای هم با تعدادی از وزرای شرکت‌کننده در اجلاس خواهد داشت.\n@Farsna",
+   "url": "https://t.me/farsna/468863",
+   "time": "2026-10-17T04:05:34+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "tg:IranintlTV/362627",
+   "kind": "tg",
+   "src": "iranintltv",
+   "text": "شهرام خلدی، پژوهشگر تاریخ خاورمیانه و روابط بین‌الملل، گفت جمهوری اسلامی در برابر فشارهای نظامی و اقتصادی آمریکا، بر اهرم‌هایی از جمله موقعیت جغرافیایی تنگه هرمز، بازسازی توان موشکی و پهپادی، نیروهای نیابتی و سرکوب داخلی حساب می‌کند.\n\nبه گفته خلدی، تهران تلاش می‌کند با استفاده از موقعیت راهبردی تنگه هرمز، زمان‌بندی حملات احتمالی آمریکا را تحت تاثیر قرار دهد و هم‌زمان با افزایش فشارهای داخلی، فضای جامعه ایران را کنترل کند.\n@iranintltv",
+   "url": "https://t.me/IranintlTV/362627",
+   "time": "2026-10-17T04:04:41+00:00",
+   "keywords": [
+    "موشک",
+    "پهپاد"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "tg:IranintlTV/362626",
+   "kind": "tg",
+   "src": "iranintltv",
+   "text": "هوشنگ حسن‌یاری، کارشناس خاورمیانه و امور نظامی، با اشاره به نقش چین در معادلات خلیج فارس گفت پکن به‌دلیل وابستگی به انرژی منطقه می‌تواند نقش بیشتری در تامین امنیت ایفا کند.\n\nاو تاکید می‌کند چین در شرایط کنونی از هزینه‌های نظامی آمریکا برای تامین امنیت کشتیرانی در خلیج فارس بهره می‌برد، بدون اینکه مسئولیت متناسبی برای حفظ امنیت منطقه بر عهده بگیرد.\n@iranintltv",
+   "url": "https://t.me/IranintlTV/362626",
+   "time": "2026-10-17T04:02:46+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "tg:IranintlTV/362625",
+   "kind": "tg",
+   "src": "iranintltv",
+   "text": "سرخط خبرهای شنبه ۲۵ مهر\n@iranintltv",
+   "url": "https://t.me/IranintlTV/362625",
+   "time": "2026-10-17T03:50:03+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "tg:IranintlTV/362624",
+   "kind": "tg",
+   "src": "iranintltv",
+   "text": "بررسی داده‌های مرکز آمار نشان می‌دهد هزینه سالانه مسکن خانوارهای شهری ایران از حدود ۷ میلیون و ۸۰۰ هزار تومان در سال ۱۳۹۳ به بیش از ۱۱۷ میلیون تومان در سال ۱۴۰۳ رسیده است. تهران در این دوره گران‌ترین استان کشور از نظر هزینه مسکن بوده است.\n\nگفت‌وگو با ثمانه قدرخان، روزنامه‌نگار و عضو تحربربه ایران‌وایر\n@iranintltv",
+   "url": "https://t.me/IranintlTV/362624",
+   "time": "2026-10-17T03:45:31+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "tg:IranintlTV/362623",
+   "kind": "tg",
+   "src": "iranintltv",
+   "text": "۱۸ روز مانده به انتخابات میان‌دوره‌ای آمریکا، رقابت جمهوری‌خواهان و دموکرات‌ها می‌تواند بر ادامه ریاست‌جمهوری دونالد ترامپ و پیشبرد برنامه‌های او تاثیر بگذارد.\n\nگزارش مریم رحمتی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+   "url": "https://t.me/IranintlTV/362623",
+   "time": "2026-10-17T03:42:26+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "tg:IranintlTV/362622",
+   "kind": "tg",
+   "src": "iranintltv",
+   "text": "بنیامین نتانیاهو، نخست‌وزیر اسرائیل، هشدار داد جمهوری اسلامی در صورت حمله به اسرائیل مرتکب اشتباه بزرگی خواهد شد.\n\nاو همچنین تهران را به تلاش برای تاثیرگذاری بر انتخابات پیش روی اسرائیل متهم کرد و گفت از نظر او، هیچ راهی جز سرنگونی حکومت جمهوری اسلامی وجود ندارد.\n\nگزارش بابک اسحاقی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+   "url": "https://t.me/IranintlTV/362622",
+   "time": "2026-10-17T03:41:34+00:00",
+   "keywords": [
+    "حمله"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "tg:IranintlTV/362621",
+   "kind": "tg",
+   "src": "iranintltv",
+   "text": "شبکه تلویزیونی کان اسرائیل به نقل از یک دیپلمات خاورمیانه‌ای گزارش داد که اسرائیل با واسطه‌گری آمریکا، اشتراک‌گذاری اطلاعات امنیتی درباره حوثی‌های مورد حمایت جمهوری اسلامی در یمن را با عربستان سعودی آغاز کرده است.\n\nبر اساس این گزارش، عربستان سعودی از آمریکا درخواست کمک کرده و واشینگتن این درخواست را به اسرائیل منتقل کرده است. اسرائیل نیز به دلیل نگرانی از تهدیدهای منطقه‌ای حوثی‌ها، ارائه اطلاعات امنیتی را آغاز کرده است.\n\nیک منبع آگاه به کان گفت نمایندگان آمریکایی در گفت‌وگوهای قاهره اعلام کردند اسرائیل می‌تواند با استفاده از تجربه ارتش خود در مقابله با حوثی‌ها، اطلاعات گسترده‌ای در اختیار عربس",
+   "url": "https://t.me/IranintlTV/362621",
+   "time": "2026-10-17T03:37:35+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "tg:farsna/468862",
+   "kind": "tg",
+   "src": "farsna",
+   "text": "آزادکاران ایران در انتظار ۲ طلا و یک برنز در مسابقات جهانی\n\n🔸مسابقات کشتی آزاد امیدهای جهان به میزبانی لاس‌وگاس پیگیری شد که ابوالفضل رحمانی و ابوالفضل محمدنژاد راهی فینال شدند تا بامداد فردا برای طلا مبارزه کنند. علی کرم‌پور نیز در رده‌بندی رقابت خواهد کرد. \n\n🔹در وزن ۹۲ کیلوگرم، ابوالفضل رحمانی در نیمه‌نهایی مقابل حریف ترکیه‌ای با نتیجهٔ ۶ بر ۳ به پیروزی رسید و راهی فینال شد. وی در دیدار نهایی به مصاف حریفی از روسیه می‌رود.\n\n🔹در وزن ۱۲۵ کیلوگرم، ابوالفضل محمدنژاد در نیمه‌نهایی با نتیجهٔ ۵ بر صفر از سد حریف آذربایجانی گذشت و فینالیست شد. او در این مرحله مقابل حریف گرجستانی مبارزه خواهد کرد.\n\n🔹",
+   "url": "https://t.me/farsna/468862",
+   "time": "2026-10-17T03:31:44+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "rss:https://www.aljazeera.com/news/2026/10/17/southern-california-wildfire-engulfs-homes-prompts-evacuation-orders?traffic_source=rss",
+   "kind": "rss",
+   "src": "www.aljazeera.com",
+   "text": "Southern California wildfire engulfs homes, prompts evacuation orders — The fast-spreading Norte Fire in Orange County is fuelled by intense warm winds and unseasonably high temperatures.",
+   "url": "https://www.aljazeera.com/news/2026/10/17/southern-california-wildfire-engulfs-homes-prompts-evacuation-orders?traffic_source=rss",
+   "time": "2026-10-17T03:30:36+00:00",
+   "keywords": [
+    "evacuat"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "tg:IranintlTV/362620",
+   "kind": "tg",
+   "src": "iranintltv",
+   "text": "بنا به آمار گمرک ایران، ارزش صادرات از بندر امام در شش ماه نخست سال جاری و پیش از برقراری محاصره دریایی آمریکا، با کاهش ۳۳ درصدی نسبت به مدت مشابه سال گذشته، به ۱.۵ میلیارد دلار رسید.\n\nبر اساس این گزارش، از ابتدای فروردین تا پایان شهریور ۱۴۰۵، حدود ۴.۱ میلیون تن کالا از این بندر صادر شد که از نظر وزنی ۴۱ درصد کاهش نشان می‌دهد.\n\nدر همین دوره، ۶.۴ میلیون تن کالا به ارزش ۲.۹ میلیارد دلار از طریق بندر امام خمینی وارد ایران شد. ارزش واردات ۱۶ درصد افزایش یافت، اما وزن آن ۳۴ درصد کاهش پیدا کرد.\n\nاین آمار دوره‌ای را پوشش می‌دهد که بخشی از آن با اجرای محاصره دریایی آمریکا علیه بنادر ایران هم‌زمان بوده",
+   "url": "https://t.me/IranintlTV/362620",
+   "time": "2026-10-17T03:29:16+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "tg:IranintlTV/362619",
+   "kind": "tg",
+   "src": "iranintltv",
+   "text": "بنا به آمار گمرک ایران، ارزش صادرات از بندر امام در شش ماه نخست سال جاری و پیش از برقراری محاصره دریایی آمریکا، با کاهش ۳۳ درصدی نسبت به مدت مشابه سال گذشته، به ۱.۵ میلیارد دلار رسید.\n\nبر اساس این گزارش، از ابتدای فروردین تا پایان شهریور ۱۴۰۵، حدود ۴.۱ میلیون تن کالا از این بندر صادر شد که از نظر وزنی ۴۱ درصد کاهش نشان می‌دهد.\n\nدر همین دوره، ۶.۴ میلیون تن کالا به ارزش ۲.۹ میلیارد دلار از طریق بندر امام خمینی وارد ایران شد. ارزش واردات ۱۶ درصد افزایش یافت، اما وزن آن ۳۴ درصد کاهش پیدا کرد.\n\nاین آمار دوره‌ای را پوشش می‌دهد که بخشی از آن با اجرای محاصره دریایی آمریکا علیه بنادر ایران هم‌زمان بوده",
+   "url": "https://t.me/IranintlTV/362619",
+   "time": "2026-10-17T03:29:15+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "rss:https://www.bbc.com/persian/articles/cmd6dgq82n64o?at_medium=RSS&at_campaign=rss",
+   "kind": "rss",
+   "src": "feeds.bbci.co.uk",
+   "text": "اگر پاپ بیمار باشد، چه کسی کلیسای کاتولیک را اداره می‌کند؟ — پس از آن‌که مشخص شد پاپ لئون چهاردهم به سرطان ریه مبتلاست، بار دیگر همان پرسشی مطرح شد که هنگام بستری شدن سلف او، پاپ فرانسیس، در مارس سال گذشته ذهن بسیاری را به خود مشغول کرده بود: حالا چه خواهد شد؟",
+   "url": "https://www.bbc.com/persian/articles/cmd6dgq82n64o?at_medium=RSS&at_campaign=rss",
+   "time": "2026-10-17T03:27:52+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "tg:bbcpersian/293483",
+   "kind": "tg",
+   "src": "bbcpersian",
+   "text": "🔻 ترامپ بسیاری از تحریم‌های جدید روسیه را تعلیق کرد\n\nدونالد ترامپ، رئیس جمهور آمریکا، بسیاری از تحریم‌ها، محدودیت‌ها و عوارض علیه روسیه را که قرار بود روز یکشنبه اجرایی شوند، تعلیق کرده است. او با صدور یک فرمان اجرایی گفته است که تعلیق برخی از تحریم‌ها، در راستای «منافع ملی» ایالات متحده است\n\nبه گزارش رویترز فرمان اجرایی دونالد ترامپ در این باره در حالی صادر می‌شود که او رویکردی متعادل‌تر در مقابل روسیه در پیش گرفته و به‌طور علنی از ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، انتقاد کرده است.او همچنین از انتخاب رهبری جدید در اوکراین حمایت کرده است.\n\nبر اساس طرح تحریم های روسیه که حامی اصلی آن در کنگر",
+   "url": "https://t.me/bbcpersian/293483",
+   "time": "2026-10-17T03:25:32+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "tg:presstv/211089",
+   "kind": "tg",
+   "src": "presstv",
+   "text": "Israeli drone struck a residential building in south Lebanon, as occupation forces continue their attacks across the region.\n\n@PressTV",
+   "url": "https://t.me/presstv/211089",
+   "time": "2026-10-17T03:16:01+00:00",
+   "keywords": [
+    "attack"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "rss:https://www.aljazeera.com/news/2026/10/17/cameroonians-await-government-reshuffle-after-biyas-return?traffic_source=rss",
+   "kind": "rss",
+   "src": "www.aljazeera.com",
+   "text": "Cameroonians await government reshuffle after Biya’s return — After 10 weeks abroad, Biya returned to Cameroon but has yet to appoint a new government or vice president.",
+   "url": "https://www.aljazeera.com/news/2026/10/17/cameroonians-await-government-reshuffle-after-biyas-return?traffic_source=rss",
+   "time": "2026-10-17T03:14:28+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "tg:presstv/211088",
+   "kind": "tg",
+   "src": "presstv",
+   "text": "Moscow hosts 9th Russian Energy Week International Forum\n\nMarina Kortunova reports from Moscow\n\n@PressTV",
+   "url": "https://t.me/presstv/211088",
+   "time": "2026-10-17T03:04:57+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMi_AVBVV95cUxQZ2ZEb2ZIZE5CVEN4aGhaV3NrLXlIMmluQy1aakczeU8tMmRzYnhyYXowWmdabXRyZzZQMzU5VmF5blVtTzAtYkJ1T2QyMFduazhsSDFrcEpLaXR6M2Y1RjNHWmZObzJOWkhIM0ZycjVmdHJISVdFT2pKXzF6ckdjNWdUSWJHV3VzQnBFVG9waTMzdEExcGFDVXRmS0pnUWpRSFF4T2RiY0xlQnNOMFVMaEMwOGNQRGV4WHpod19kR3JPMGp2a1Q1X0s1WGowTmF6ZDAwaGk3NjBDUXFscUl4M3dTZ3plRUNrZTV2eXVvTVNqWmt5cFpldW8yVmtLbGJwTnBBU2l3aURVNEVlVkgtVjRYajFTMjNCSFZ5TUdmWXZfOFhsQkEzbm5ySi1EandhbnVkRDQtOHJRYWZSM2tndlAtdnJ1SHZzZ1VhLXh6d3JFVHF5cFJMbWptQld1UTRNNUd1a0d6bTVRbWhTOVJONUZoWkFEN0t5MmR0YlVfX0ppcUpJaTNpRnJxS2N2TzFGYkl0azVMNFZHcnpScWVaMjdNTTRIVzd1TFNrbWNhTFA2N2xpVkNrZml1S2pQc3RfdGFVWkxBUkJQbTFqWm5MZExsNlRZUWw1dHctWTZ2S0lMejFSc1gtVEhzcXI3N19DN0pXNFNRSnBWQlVHbk1aQnA2YVpid1k3TVBZeXFIMHhmVTJKaTVSZWRNZVNWdTl3YzZQV0I3Z3d4S2FCc0U0Mmt3a0M5emhITk8zTURpeFdCSXZJclc1UEd5dXN1cUlfRHpFdWx3T2YwTzM2T3M1cVk2c25tdXlyUnZDTzY5R1JfVWJWSGpZbi1kT0ZmMUNQVGw1S1FCS1gwdHdNZG5TWHB2ZHZRNVZUYUJaTmY3T0RfMmdYZmcyS09jdjg2NkhsMXM2dXJoMXpRU0VDbmxDZ0VzNVRZUnZjcG5EVW5fNElub3hJRlBTMklYdXAxVC00X0ktRWxSbHp5bE9GdTF5eXFISXZRZmlKcEJobA?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "وول ستريت جورنال: إيران تزود الحوثيين بمعلومات استخباراتية وبيانات استهدافية لشن هجمات على السعودية - بلقيس نت — وول ستريت جورنال: إيران تزود الحوثيين بمعلومات استخباراتية وبيانات استهدافية لشن هجمات على السعودية  بلقيس نت",
+   "url": "https://news.google.com/rss/articles/CBMi_AVBVV95cUxQZ2ZEb2ZIZE5CVEN4aGhaV3NrLXlIMmluQy1aakczeU8tMmRzYnhyYXowWmdabXRyZzZQMzU5VmF5blVtTzAtYkJ1T2QyMFduazhsSDFrcEpLaXR6M2Y1RjNHWmZObzJOWkhIM0ZycjVmdHJISVdFT2pKXzF6ckdjNWdUSWJHV3VzQnBFVG9waTMzdEExcGFDVXRmS0pnUWpRSFF4T2RiY0xlQnNOMFVMaEMwOGNQRGV4WHpod19kR3JPMGp2a1Q1X0s1WGowTmF6ZDAwaGk3NjBDUXFscUl4M3dTZ3plRUNrZTV2eXVvTVNqWmt5cFpldW8yVmtLbGJwTnBBU2l3aURVNEVlVkgtVjRYajFTMjNCSFZ5TUdmWXZfOFhsQkEzbm5ySi1EandhbnVkRDQtOHJRYWZSM2tndlAtdnJ1SHZzZ1VhLXh6d3JFVHF5cFJMbWptQld1UTRNNUd1a0d6bTVRbWhTOVJONUZoWkFEN0t5MmR0YlVfX0ppcUpJaTNpRnJxS2N2TzFGYkl0azVMNFZHcnpScWVaMjdNTTRIVzd1TFNrbWNhTFA2N2xpVkNrZml1S2pQc3RfdGFVWkxBUkJQbTFqWm5MZExsNlRZUWw1dHctWTZ2S0lMejFSc1gtVEhzcXI3N19DN0pXNFNRSnBWQlVHbk1aQnA2YVpid1k3TVBZeXFIMHhmVTJKaTVSZWRNZVNWdTl3YzZQV0I3Z3d4S2FCc0U0Mmt3a0M5emhITk8zTURpeFdCSXZJclc1UEd5dXN1cUlfRHpFdWx3T2YwTzM2T3M1cVk2c25tdXlyUnZDTzY5R1JfVWJWSGpZbi1kT0ZmMUNQVGw1S1FCS1gwdHdNZG5TWHB2ZHZRNVZUYUJaTmY3T0RfMmdYZmcyS09jdjg2NkhsMXM2dXJoMXpRU0VDbmxDZ0VzNVRZUnZjcG5EVW5fNElub3hJRlBTMklYdXAxVC00X0ktRWxSbHp5bE9GdTF5eXFISXZRZmlKcEJobA?oc=5",
+   "time": "2026-10-17T03:01:26+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "tg:farsna/468861",
+   "kind": "tg",
+   "src": "farsna",
+   "text": "بازار نفت به ساز ترامپ نرقصید\n\n🔹تمام تلاش‌های ترامپ برای آرام‌کردن بازار نفت آتی جواب نداد و دیشب قیمت نفت لحظاتی ۱۱۰ دلاری شد و بازار با قیمت ۱۰۹.۶۶ دلار به ازای هر بشکه بسته شد.\n\n🔹قیمت گازوئیل نیز ۶.۳۰ دلار است که هنوز رکوردار تاریخ آمریکاست. بنزین هم ۴.۳۲ دلار به‌ازای هر گالن است.\n\n🔹حالا نه‌تنها قیمت گازوئیل و بنزین از آستانهٔ فشار سیاسی به ترامپ عبور کرده‌اند، بلکه قیمت نفت به رقمی که نقطهٔ خطرناک برای اقتصاد آمریکاست، رسیده است.\n\n@Farsna - Link",
+   "url": "https://t.me/farsna/468861",
+   "time": "2026-10-17T02:55:28+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "tg:presstv/211087",
+   "kind": "tg",
+   "src": "presstv",
+   "text": "Yemeni activist Hussain al-Bukhaiti says Yemen’s retaliatory capabilities exposed Saudi Arabia’s vulnerabilities, threatening its oil infrastructure, economic stability, and regional standing while constraining its military campaign against the country.\n\n@PressTV",
+   "url": "https://t.me/presstv/211087",
+   "time": "2026-10-17T02:52:57+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "rss:https://www.aljazeera.com/news/2026/10/17/brazils-amazon-deforestation-hits-lowest-level-on-record?traffic_source=rss",
+   "kind": "rss",
+   "src": "www.aljazeera.com",
+   "text": "Brazil’s Amazon deforestation hits lowest level on record — Data show a 42 percent drop in forest clearance from a year earlier, giving Lula a boost before the election run-off.",
+   "url": "https://www.aljazeera.com/news/2026/10/17/brazils-amazon-deforestation-hits-lowest-level-on-record?traffic_source=rss",
+   "time": "2026-10-17T02:49:21+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "tg:presstv/211086",
+   "kind": "tg",
+   "src": "presstv",
+   "text": "US budget deficit balloons to nearly $2 trillion as debt servicing and war costs surge\n\nThe United States closed its 2026 fiscal year with a staggering budget deficit of nearly $2 trillion, marking the largest annual shortfall in five years as the government grappled with record-breaking debt-servicing costs, massive tariff refunds, and soaring military expenditures tied to the war on Iran.\n\n@PressTV",
+   "url": "https://t.me/presstv/211086",
+   "time": "2026-10-17T02:42:07+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "tg:presstv/211085",
+   "kind": "tg",
+   "src": "presstv",
+   "text": "Kashmir Waqf Board’s Friday sermon plan sparks political, religious backlash\n\nSyed Ali Safvi reports from India’s Himalayan region of Kashmir\n\n@PressTV",
+   "url": "https://t.me/presstv/211085",
+   "time": "2026-10-17T02:32:01+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "tg:bbcpersian/293482",
+   "kind": "tg",
+   "src": "bbcpersian",
+   "text": "‌ دونالد ترامپ، رئیس‌جمهور آمریکا، گفته است که ما امکان این را داریم که همه سخنان مقامات و رهبران جمهوری اسلامی ایران را بشنویم.\n\nآقای ترامپ که در یک گردهمایی انتخاباتی پیش از انتخابات میان‌دوره‌ای آمریکا سخن می‌گفت با بیان این جملات افزود «البته این مسئله طبقه‌بندی شده و سری است و من حالا آن را از حالت طبقه‌بندی خارج کردم.»\n\nرئیس‌جمهور آمریکا در بخش دیگری از سخنانش هم جنگ با ایران را «یک تمرین نظامی» خواند.\n\nاو همچنین گفت اگر نام تنگه هرمز را به «تنگه ترامپ تغییر دهیم، کشورهای عربی چه احساسی خواهند داشت؟ ما به‌راحتی می‌توانیم این کار را انجام دهیم.»\n\nhttps://bbc.in/3U13NC8\n📷Reuters\n@BBCPersia",
+   "url": "https://t.me/bbcpersian/293482",
+   "time": "2026-10-17T02:31:23+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "tg:farsna/468860",
+   "kind": "tg",
+   "src": "farsna",
+   "text": "بازی‌های پاراآسیایی ناگویا \nکره هم حریف بسکتبالیست‌های ایران نشد\n\n🔹تیم ملی بسکتبال با ویلچر مردان، در دومین دیدار خود از مرحلهٔ گروهی در رقابتی نزدیک و نفس‌گیر با نتیجهٔ ۶۷ بر ۶۲ کرهٔ‌جنوبی را شکست داد و دومین پیروزی پیاپی خود را در این رقابت‌ها جشن گرفت.\n\n🔹تیم ملی بسکتبال با ویلچر مردان ایران که در گروه دوم این رقابت‌ها با تیم‌های عراق، کرهٔ‌جنوبی و فیلیپین هم‌گروه است، روز دوشنبه ۲۷ مهرماه در سومین دیدار خود به مصاف فیلیپین خواهد رفت.\n\n@Sportfars",
+   "url": "https://t.me/farsna/468860",
+   "time": "2026-10-17T02:30:28+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "tg:presstv/211084",
+   "kind": "tg",
+   "src": "presstv",
+   "text": "In an exclusive interview with Press TV, Huzam al-Asad, member of Ansarullah’s Political Bureau, stressed that only Saudi Arabia’s holy cities of Mecca and Medina are safe from Yemen’s retaliation.\n\n@PressTV",
+   "url": "https://t.me/presstv/211084",
+   "time": "2026-10-17T02:16:29+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "tg:IranintlTV/362618",
+   "kind": "tg",
+   "src": "iranintltv",
+   "text": "نیروی دریایی سپاه پاسداران جمعه ۲۴ مهر در بیانیه‌ای که رسانه‌های حکومتی منتشر کردند، اعلام کرد یک نفتکش غول‌پیکر حامل بیش از دو میلیون بشکه نفت خام، هنگام عبور از تنگه هرمز با مین دریایی برخورد کرده و دچار آتش‌سوزی شده است.\n\nبر اساس این بیانیه، نفتکش از مسیری عبور می‌کرد که سپاه پاسداران آن را غیرمجاز خوانده است.\n\nنیروی دریایی سپاه پاسداران مدعی شد این نفتکش تمامی سامانه‌های موقعیت‌یابی و راداری خود را خاموش کرده بود و تلاش داشت با فریب و حمایت ارتش آمریکا از تنگه هرمز عبور کند.\n\nسپاه پاسداران در این بیانیه اعلام کرد: «تنگه هرمز بسته است» و به کشتی‌ها هشدار داد که مقررات جمهوری اسلامی برای عبو",
+   "url": "https://t.me/IranintlTV/362618",
+   "time": "2026-10-17T02:14:16+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "tg:farsna/468859",
+   "kind": "tg",
+   "src": "farsna",
+   "text": "انفجار مهیب در ابرنفتکش بعد از برخورد با مین دریایی در تنگهٔ هرمز   🔹نیروی دریایی سپاه: یک فروند سوپر نفتکش متخلف با بیش از ۲ میلیون بشکه نفت خام که قصد عبور از مسیر غیر مجاز تنگهٔ هرمز را داشت پس از برخورد مین، دچار حادثهٔ منجر به انفجار و آتش‌سوزی شدید شد.…",
+   "url": "https://t.me/farsna/468859",
+   "time": "2026-10-17T02:11:57+00:00",
+   "keywords": [
+    "انفجار"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "tg:farsna/468858",
+   "kind": "tg",
+   "src": "farsna",
+   "text": "انفجار مهیب در ابرنفتکش بعد از برخورد با مین دریایی در تنگهٔ هرمز \n\n🔹نیروی دریایی سپاه: یک فروند سوپر نفتکش متخلف با بیش از ۲ میلیون بشکه نفت خام که قصد عبور از مسیر غیر مجاز تنگهٔ هرمز را داشت پس از برخورد مین، دچار حادثهٔ منجر به انفجار و آتش‌سوزی شدید شد. \n\n🔹این نفتکش با خاموش‌کردن تمامی سامانه‌های موقعیت‌یاب و راداری، تلاش نمود با فریب و حمایت ارتش قاچاقچی و تروریست آمریکا از تنگهٔ هرمز عبور کند.\n\n🔸نیروی دریایی سپاه اعلام می کند: تنگهٔ هرمز بسته است و عاقبت سرپیچی کشتی‌های متخلف از مقررات ایرانی تنگهٔ هرمز، سوختن در آتش اعتماد ارتش تروریست آمریکاست.\n\n@Farsna",
+   "url": "https://t.me/farsna/468858",
+   "time": "2026-10-17T02:10:36+00:00",
+   "keywords": [
+    "انفجار"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "tg:Alibk3/6059",
+   "kind": "tg",
+   "src": "alibk3",
+   "text": "Satellite imagery is now detecting a fire in the Strait of Hormuz off the coast of Oman. It appears that a vessel violating the rules was targeted.",
+   "url": "https://t.me/Alibk3/6059",
+   "time": "2026-10-17T02:09:08+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWmtpdldLWjVHeGFnX3l5YTVYSkFOZndIaW9UcDhqdjZhNVVHd1FQV082NnVBZWppWlgwMk1HRDAteV93OW1DZ2FMZGRtSkVIS0R3NHVDUEFoV05iT2pVUnRmeUJjMHFHVkVLS2cycUtiY2dsbHFQcWp6X3BsY2hDQW1ZSFVGTC1Fd2ZhbkxXTzdRaGI4eFRkX0NPZGszQXVkSmp3ZjFIbGF6RXBHdFlNQTl1LV9zOG0wSm1CYUtpbUN0NWdnTFZQR0RiSWdzWHJBNFI0?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "Iran Guards say oil tanker exploded after hitting mine in 'unauthorized' route through Hormuz - The Times of Israel — Iran Guards say oil tanker exploded after hitting mine in 'unauthorized' route through Hormuz  The Times of Israel",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWmtpdldLWjVHeGFnX3l5YTVYSkFOZndIaW9UcDhqdjZhNVVHd1FQV082NnVBZWppWlgwMk1HRDAteV93OW1DZ2FMZGRtSkVIS0R3NHVDUEFoV05iT2pVUnRmeUJjMHFHVkVLS2cycUtiY2dsbHFQcWp6X3BsY2hDQW1ZSFVGTC1Fd2ZhbkxXTzdRaGI4eFRkX0NPZGszQXVkSmp3ZjFIbGF6RXBHdFlNQTl1LV9zOG0wSm1CYUtpbUN0NWdnTFZQR0RiSWdzWHJBNFI0?oc=5",
+   "time": "2026-10-17T02:04:41+00:00",
+   "keywords": [
+    "tanker"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "tg:farsna/468857",
+   "kind": "tg",
+   "src": "farsna",
+   "text": "مکزیک به شبکه‌های اجتماعی برای حفاظت از کودکان ضرب‌الاجل داد \n\n🔹رئیس‌جمهور مکزیک فرمانی را امضا کرده است که بر اساس آن، شبکه‌های اجتماعی از جمله متا، تیک‌تاک و ایکس موظف‌اند از کودکان و نوجوانان در برابر محتوای خشونت‌آمیز، جنسی و سایر مطالب آسیب‌زا محافظت کنند. \n\n🔹این فرمان پلتفرم‌ها را ملزم می‌کند از همان مرحلهٔ طراحی خدمات خود، دسترسی کاربران کم‌سن‌وسال به چنین محتواهایی را محدود کنند و مطالب پرخطر منتشرشده در حساب‌های کاربری افراد زیر سن قانونی را فوراً حذف کنند.\n \n🔹این تصمیم پس از حملهٔ ۲ جوان ۱۸ ساله به دبیرستان سابقشان گرفته شد؛ حمله‌ای که به کشته‌شدن ۱ نفر و زخمی‌شدن ۳ نفر انجامید.\n\n🔹اق",
+   "url": "https://t.me/farsna/468857",
+   "time": "2026-10-17T02:02:01+00:00",
+   "keywords": [
+    "حمله"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "tg:presstv/211083",
+   "kind": "tg",
+   "src": "presstv",
+   "text": "Oil Tanker explodes in Strait of Hormuz after hitting naval mine: IRGC\n\n@PressTV",
+   "url": "https://t.me/presstv/211083",
+   "time": "2026-10-17T01:57:15+00:00",
+   "keywords": [
+    "tanker"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "tg:warmonitors/46127",
+   "kind": "tg",
+   "src": "warmonitors",
+   "text": "⚡#BREAKING Iran’s Revolutionary Guards say a tanker caught fire after hitting a naval mine in the Strait of Hormuz, according to Iranian media\n\n💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18",
+   "url": "https://t.me/warmonitors/46127",
+   "time": "2026-10-17T01:51:34+00:00",
+   "keywords": [
+    "tanker"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "tg:presstv/211082",
+   "kind": "tg",
+   "src": "presstv",
+   "text": "Saudi aggression killed 124, wounded 327 since escalation: Yemeni Health Ministry\n\nAt least 124 people have been killed, and 327 others wounded as a result of the Saudi-led coalition's escalating aggression against Yemen since fighting intensified on September 3, Yemen's Ministry of Health has announced.\n\n@PressTV",
+   "url": "https://t.me/presstv/211082",
+   "time": "2026-10-17T01:48:26+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "tg:IranintlTV/362617",
+   "kind": "tg",
+   "src": "iranintltv",
+   "text": "کاخ سفید جمعه ۲۴ مهر اعلام کرد دونالد ترامپ، رییس‌جمهوری آمریکا، با صدور فرمانی اجرایی، اجرای بخشی از تحریم‌ها، محدودیت‌ها و تعرفه‌های پیش‌بینی‌شده در قانون موسوم به «تحریم روسیه و ایران» را تعلیق کرده است.\n\nاین تصمیم دو روز پیش از موعد اجرای مقررات جدید اتخاذ شد. ترامپ در فرمان خود اعلام کرد معافیت از اجرای این اقدامات را در راستای منافع ملی آمریکا تشخیص داده و گواهی مربوط به این تصمیم را به کنگره ارائه کرده است.\n\nقانون تحریم روسیه و ایران، که به نام لیندزی گراهام شناخته می‌شود، ۱۸ سپتامبر ۲۰۲۶ به امضای ترامپ رسید.\n\nاین قانون علاوه بر تحریم اشخاص و نهادهای مرتبط با روسیه، اعمال تعرفه‌های سنگی",
+   "url": "https://t.me/IranintlTV/362617",
+   "time": "2026-10-17T01:46:45+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "rss:https://www.aljazeera.com/video/newsfeed/2026/10/17/healthcare-crisis-escalating-in-yemens-besieged-taiz?traffic_source=rss",
+   "kind": "rss",
+   "src": "www.aljazeera.com",
+   "text": "Healthcare crisis escalating in Yemen’s besieged Taiz — Fighting between Yemen’s Houthis and the internationally recognised government is deepening the humanitarian crisis.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/healthcare-crisis-escalating-in-yemens-besieged-taiz?traffic_source=rss",
+   "time": "2026-10-17T01:37:07+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "rss:https://www.aljazeera.com/news/2026/10/17/us-coastguard-rescues-16-after-boat-sinks-off-mexicos-baja-coast?traffic_source=rss",
+   "kind": "rss",
+   "src": "www.aljazeera.com",
+   "text": "US coastguard rescues 16 after boat sinks off Mexico’s Baja coast — Eleven people are believed to be still missing, with rescue operations under way.",
+   "url": "https://www.aljazeera.com/news/2026/10/17/us-coastguard-rescues-16-after-boat-sinks-off-mexicos-baja-coast?traffic_source=rss",
+   "time": "2026-10-17T01:33:37+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "tg:bbcpersian/293481",
+   "kind": "tg",
+   "src": "bbcpersian",
+   "text": "‌ ‌ ‌ ‌ \nپدرو سانچز، نخست‌وزیر اسپانیا، می‌گوید جنگ علیه ایران تاکنون بیش از ۱۰۰ میلیارد یورو برای اروپایی‌ها هزینه در بر داشته و بار اقتصادی آن بر دوش مردم عادی سنگینی می‌کند.\n\nاو در پستی در شبکه اجتماعی ایکس با انتشار یک پیام ویدیویی، نوشت: «کسانی از ما(اروپایی‌ها) که علیه جنگ، صدای خود را بلند کردیم، حق داشتیم که به جنگ \"نه\" گفتیم.»\n\nبه گفته او «ما می‌دانستیم که در نهایت، هزینه این ماجرا را مردم عادی خواهند پرداخت.»\n\nآقای سانچز روز جمعه در یک کنفرانس خبری پس از نشست شورای اروپا در بروکسل، اظهار داشت که حقانیت مخالفان جنگ ثابت شده است، «نه تنها از منظر حقوق بین‌الملل و احترام به حقوق بشر، بل",
+   "url": "https://t.me/bbcpersian/293481",
+   "time": "2026-10-17T01:31:50+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "tg:warmonitors/46126",
+   "kind": "tg",
+   "src": "warmonitors",
+   "text": "Is there an actual reason why Trump is cozening up to Putin all of a sudden. If you read the headlines from this week you would think they’ve been allies for years.\n\n💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18",
+   "url": "https://t.me/warmonitors/46126",
+   "time": "2026-10-17T01:31:34+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "tg:farsna/468856",
+   "kind": "tg",
+   "src": "farsna",
+   "text": "اگر قصد کاهش وزن با آمپول لاغری دارید، این گزارش را بخوانید\n\n🔹چند سالی‌است که ورود آمپول‌های لاغری جهان را با ابزاری ساده‌تر برای کاهش وزن روبه‌رو ساخته و بازار استفاده از این روش را در برگرفته است.\n\n🔹علیرضا استقامتی استاد غدد دانشگاه علوم پزشکی تهران می‌گوید این داروها کاربردشان برای افراد با BMI بالای ۳۰، یا بالای ۲۷ با یک بیماری همراه مانند دیابت، فشار خون یا اختلال چربی خون است.\n\n🔹او تأکید می‌کند این داروها برای درمان طبی هستند و باید حتماً توسط پزشک متخصص تجویز شوند.\n\n⚠️ اما آمپول‌های لاغری برای چه‌کسانی ممنوع است؟ اینجا بخوانید.\n@Farsna",
+   "url": "https://t.me/farsna/468856",
+   "time": "2026-10-17T01:31:01+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "tg:warmonitors/46125",
+   "kind": "tg",
+   "src": "warmonitors",
+   "text": "⚡#BREAKING Trump issues executive order exempting Russia from some sanctions, restrictions, and tariffs stipulated in the Graham Act\n\n💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18",
+   "url": "https://t.me/warmonitors/46125",
+   "time": "2026-10-17T01:26:34+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "tg:presstv/211081",
+   "kind": "tg",
+   "src": "presstv",
+   "text": "▶️ Israeli settlers swarmed and violently attacked American Journalist Heidi Levine in the Palestinian village of Abu Falah, northeast of Ramallah, in the occupied West Bank.  @PressTV",
+   "url": "https://t.me/presstv/211081",
+   "time": "2026-10-17T01:26:14+00:00",
+   "keywords": [
+    "attack"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "tg:bbcpersian/293480",
+   "kind": "tg",
+   "src": "bbcpersian",
+   "text": "‌ ‌ ‌ \nجزییات بیشتری از حادثه روز گذشته در تیراندازی در مدرسه‌ای در ایالت اروگن آمریکا اعلام شده است. مایک کرانتز، رئیس پلیس شهر بند، روز جمعه گفت: «ما مدیون کسانی هستیم که در برابر چنین خشونتی شجاعت به خرج دادند و با مداخله خود مانع از وخیم‌تر شدن این فاجعه شدند.»\n\nبه گفته پلیس فرد مظنون زمانی که از پا در آمد، هنوز حدود ۴۴ فشنگ دیگر برای تفنگش به همراه داشت.\n\nمظنون در داخل کلاس درس، ۱۵ گلوله شلیک کرده بود.\n\nپلیس در یک نشست خبری جزئیات بیشتری درباره این حمله ارائه کرد و هویت دو نفر از چهار قربانی را اعلام کرد.\n\nیکی از این قربانیان روم سامر، کودک پنج‌ساله، و مگان لمبرت، معلم ۲۵ساله هستند.\n\nبه گ",
+   "url": "https://t.me/bbcpersian/293480",
+   "time": "2026-10-17T01:22:06+00:00",
+   "keywords": [
+    "حمله"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
+   "id": "rss:https://www.bbc.com/persian/articles/cm89zedjjk0wo?at_medium=RSS&at_campaign=rss",
+   "kind": "rss",
+   "src": "feeds.bbci.co.uk",
+   "text": "تیراندازی در مدرسه اورگن؛ یکی از معلمان با درگیر شدن با تیرانداز جلوی فاجعه بیشتر را گرفت — جزییات بیشتری از حادثه روز گذشته در تیراندازی در مدرسه‌ای در ایالت اروگن آمریکا اعلام شده است. مایک کرانتز، رئیس پلیس شهر بند، روز جمعه گفت: «ما مدیون کسانی هستیم که در برابر چنین خشونتی شجاعت به خرج دادند و با مداخله خود مانع از وخیم‌تر شدن این فاجعه شدند.»",
+   "url": "https://www.bbc.com/persian/articles/cm89zedjjk0wo?at_medium=RSS&at_campaign=rss",
+   "time": "2026-10-17T01:09:43+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
   {
    "id": "rss:https://www.bbc.co.uk/persian/live/cqj9kvz0klg3t?at_medium=RSS&at_campaign=rss",
    "kind": "rss",
@@ -49,6 +895,18 @@
    "emojis": [],
    "alert": false,
    "collected": "2026-10-17T00:56:31.502883+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMi7wNBVV95cUxPZVdFR20yZnZONWxMTzVxdDZjS1cyaE9DbjE2N3gxOHROTUVuRjJlMHVpeENCQlRLRjl0eFlQcTVEZ0gxbmtFalk0d2pweDQ1cmtPU2xKOTFJdmJZRGMwbUI0NkZhUmNZXzE5SV8tNHVYSzhBLU1oSnNtTUZweDh2bWtldGlhRDExZ3prM2M1NnVOWThzNXU3TE5XUllhZ2xqYzRiVXdtNzRfNHlUYkthenpVUlZNWXRLeEJxWVFqMVFvaE9TMzV3ZjNMN3pLZkloZVhIMVFURFpUYmdqSWl6M1dMTVkyWDcwQkRBVTROZlZWdEVhelJwMlI5bUw2NHA0TWlIbWw3Sl9xWVFNNjlGWHRIODhQampYd1o4MkVJQk9ra2QwUno1RkNhSlBFcEo1STdUb2ZSVlBGMEFVbEZ0Tm93SzNtaTVuZFllMmcwTUNPVlZMaDZ4OUpXVjFRQl82LXlxOU1kTnUyckRwYWxUNzR2Y29LZ1BKV1U0RGFkVjE1Q1p4bU5yNVhMUHhtd1oxazlmTHB5Vng4cjFERVNhN1VBemYxYmFubjFNbHFrTE1EdVV0b0VrM1dwd3M0YUl0V1d2RkFlY1RoUFhIYUhjcVJpQ2J1d3NxdExTWUZ3SGNnSDRSWXE5RjNkbEEzYWs?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "برلمانات أوروبا ودول مجلس التعاون تدين هجمات إيران ووكلائها وتؤكد \"حق الدفاع عن النفس\" - الشرق للأخبار — برلمانات أوروبا ودول مجلس التعاون تدين هجمات إيران ووكلائها وتؤكد \"حق الدفاع عن النفس\"  الشرق للأخبار",
+   "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxPZVdFR20yZnZONWxMTzVxdDZjS1cyaE9DbjE2N3gxOHROTUVuRjJlMHVpeENCQlRLRjl0eFlQcTVEZ0gxbmtFalk0d2pweDQ1cmtPU2xKOTFJdmJZRGMwbUI0NkZhUmNZXzE5SV8tNHVYSzhBLU1oSnNtTUZweDh2bWtldGlhRDExZ3prM2M1NnVOWThzNXU3TE5XUllhZ2xqYzRiVXdtNzRfNHlUYkthenpVUlZNWXRLeEJxWVFqMVFvaE9TMzV3ZjNMN3pLZkloZVhIMVFURFpUYmdqSWl6M1dMTVkyWDcwQkRBVTROZlZWdEVhelJwMlI5bUw2NHA0TWlIbWw3Sl9xWVFNNjlGWHRIODhQampYd1o4MkVJQk9ra2QwUno1RkNhSlBFcEo1STdUb2ZSVlBGMEFVbEZ0Tm93SzNtaTVuZFllMmcwTUNPVlZMaDZ4OUpXVjFRQl82LXlxOU1kTnUyckRwYWxUNzR2Y29LZ1BKV1U0RGFkVjE1Q1p4bU5yNVhMUHhtd1oxazlmTHB5Vng4cjFERVNhN1VBemYxYmFubjFNbHFrTE1EdVV0b0VrM1dwd3M0YUl0V1d2RkFlY1RoUFhIYUhjcVJpQ2J1d3NxdExTWUZ3SGNnSDRSWXE5RjNkbEEzYWs?oc=5",
+   "time": "2026-10-17T00:55:06+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
   },
   {
    "id": "tg:warmonitors/46124",
@@ -323,6 +1181,18 @@
    "emojis": [],
    "alert": false,
    "collected": "2026-10-17T00:56:31.502883+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMif0FVX3lxTFA4bUxNSXduT09qYTNXMG9MRHNXNHZWRm51S3B5QVI2UkpjVzBCSDB2MGJmSkpZSHpOMFFfQWFaSVhJVVFsN0lZaVV6TVJ6bmlKNzJEcFNDalhwWVE2S1dnNFRTTVFaeHg4NWF4dVl0aGtpU3d1Z0NWNzlnNDBjWW8?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post — Live Updates: Latest from Israel, Iran, and the Middle East  The Jerusalem Post",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4bUxNSXduT09qYTNXMG9MRHNXNHZWRm51S3B5QVI2UkpjVzBCSDB2MGJmSkpZSHpOMFFfQWFaSVhJVVFsN0lZaVV6TVJ6bmlKNzJEcFNDalhwWVE2S1dnNFRTTVFaeHg4NWF4dVl0aGtpU3d1Z0NWNzlnNDBjWW8?oc=5",
+   "time": "2026-10-17T00:00:05+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
   },
   {
    "id": "rss:https://www.aljazeera.com/news/liveblog/2026/10/17/draft-2?traffic_source=rss",
@@ -2376,6 +3246,18 @@
    "emojis": [],
    "alert": false,
    "collected": "2026-10-16T22:50:24.248553+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZWRFbVFTRUltNEZIQXFZNS1OeUhuNEFyUHFVV29INVNUWUdJc3ZJVGUzb2o3bk5uYWUtcVZVLWw0OVBBY3piUy1PQzQ2OE1fdnRfRmdYRUdtUzJJVlRJM1FPN3ZPTXdmRDJZaXJOaTVxRkk0aXgwZ1haWnE1eXVGZHhCYVJVREJQbGlldHpVVENxSWNiNm1FZF9ZNHpVNFlleHBmdzRvN1Vvd9IBrwFBVV95cUxPT0dWeXE2NUNRWkpnZ1JSRFU1cnQyR2ZhTUVkcktYX0NOaUdiYkFMMHJxZGc2SlkyeHBLVWpSVWJVM1RKdS1yLXFjZVNhWFBKNC0zbDBwX2FJWGRkT0laUTFxTnoxWFN3andqeXRybW0zYzhvN21MdlNzRk9tOHV4VFc3Q3RIbWRMSV81SFc3S1NrQkJubXpkY2RRQTcybm9hNlZXUFhCSXBXUDJiczZn?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "Israel examines Russia's Shahed-type drones sent by Ukraine to combat Iran | Gravitas - WION — Israel examines Russia's Shahed-type drones sent by Ukraine to combat Iran | Gravitas  WION",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZWRFbVFTRUltNEZIQXFZNS1OeUhuNEFyUHFVV29INVNUWUdJc3ZJVGUzb2o3bk5uYWUtcVZVLWw0OVBBY3piUy1PQzQ2OE1fdnRfRmdYRUdtUzJJVlRJM1FPN3ZPTXdmRDJZaXJOaTVxRkk0aXgwZ1haWnE1eXVGZHhCYVJVREJQbGlldHpVVENxSWNiNm1FZF9ZNHpVNFlleHBmdzRvN1Vvd9IBrwFBVV95cUxPT0dWeXE2NUNRWkpnZ1JSRFU1cnQyR2ZhTUVkcktYX0NOaUdiYkFMMHJxZGc2SlkyeHBLVWpSVWJVM1RKdS1yLXFjZVNhWFBKNC0zbDBwX2FJWGRkT0laUTFxTnoxWFN3andqeXRybW0zYzhvN21MdlNzRk9tOHV4VFc3Q3RIbWRMSV81SFc3S1NrQkJubXpkY2RRQTcybm9hNlZXUFhCSXBXUDJiczZn?oc=5",
+   "time": "2026-10-16T18:41:00+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
   },
   {
    "id": "tg:farsna/468810",
@@ -8368,6 +9250,18 @@
    "collected": "2026-10-16T03:39:07.404111+00:00"
   },
   {
+   "id": "rss:https://news.google.com/rss/articles/CBMitAFBVV95cUxQOWlWWWFHSG1jSHJWU3dnVnVqMzJZYTY3cVJSQXRlMkdQZnRMekQ0WFpzcTlZa2haam1VTEhPUGh2RDk1TV83UzhiU1U5UkVhel9JdXAtaUZoOUN6LUs1dWJBN0FtOGxGRTdkdlJrVkltMjNGclpNMVVRU0M3aTZjRFk2U3pCSDhGcjhHd0h4UzdldHJPeHBOaDVfV1YtcVZILUs1Zl9FbldyR3J0d3RPQk03TEHSAboBQVVfeXFMTzhnTmhhTGlVZEZUUENrVmdCeWlUNG1rTW1Ub05mNEtBZXN3aG94UXp4NnZfNlJuOFRFQklobXhRNzZ0RUg4YktlZVdrSGptWDRKc2d5OWhJX3hXaHphNXRmYkMyWW9lV0JUbmpPbkxBR1M4Yi1XZGFidGcyaUlVT01vd0VMalQ2OHZwN0ZJNklkTnVSREMtN0oxYnJSblFsWGtZa3pLZVpwSUlIWWdndy1CdkNMNTFtWGdR?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "China tells Israel to stop ‘forced establishment’ of West Bank settlements - Al Jazeera — China tells Israel to stop ‘forced establishment’ of West Bank settlements  Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOWlWWWFHSG1jSHJWU3dnVnVqMzJZYTY3cVJSQXRlMkdQZnRMekQ0WFpzcTlZa2haam1VTEhPUGh2RDk1TV83UzhiU1U5UkVhel9JdXAtaUZoOUN6LUs1dWJBN0FtOGxGRTdkdlJrVkltMjNGclpNMVVRU0M3aTZjRFk2U3pCSDhGcjhHd0h4UzdldHJPeHBOaDVfV1YtcVZILUs1Zl9FbldyR3J0d3RPQk03TEHSAboBQVVfeXFMTzhnTmhhTGlVZEZUUENrVmdCeWlUNG1rTW1Ub05mNEtBZXN3aG94UXp4NnZfNlJuOFRFQklobXhRNzZ0RUg4YktlZVdrSGptWDRKc2d5OWhJX3hXaHphNXRmYkMyWW9lV0JUbmpPbkxBR1M4Yi1XZGFidGcyaUlVT01vd0VMalQ2OHZwN0ZJNklkTnVSREMtN0oxYnJSblFsWGtZa3pLZVpwSUlIWWdndy1CdkNMNTFtWGdR?oc=5",
+   "time": "2026-10-16T03:09:56+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-17T05:29:18.806611+00:00"
+  },
+  {
    "id": "tg:IranintlTV/362479",
    "kind": "tg",
    "src": "iranintltv",
@@ -9150,926 +10044,6 @@
    "emojis": [],
    "alert": false,
    "collected": "2026-10-16T08:31:12.865211+00:00"
-  },
-  {
-   "id": "tg:ClashReport/101244",
-   "kind": "tg",
-   "src": "clashreport",
-   "text": "Ukrainian drones are attacking Russia’s Moscow region, reportedly hitting industrial and warehouse facilities.",
-   "url": "https://t.me/ClashReport/101244",
-   "time": "2026-10-16T00:03:51+00:00",
-   "keywords": [
-    "attack"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-16T03:39:07.404111+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xWWJpUzl0Si1ia2JHazJQb3ZPUUZyUDRtalM0dFhRWHBWSlZGT0Z0cUdOMTVVajVGNTBiYm1kZ0NYcmswS1RLY0txd1FqSDQtT053?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "تقرير: إيران شنت 135 هجوما على 84 منشأة بدول الخليج - شبكة تواصل الإخبارية — تقرير: إيران شنت 135 هجوما على 84 منشأة بدول الخليج  شبكة تواصل الإخبارية",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xWWJpUzl0Si1ia2JHazJQb3ZPUUZyUDRtalM0dFhRWHBWSlZGT0Z0cUdOMTVVajVGNTBiYm1kZ0NYcmswS1RLY0txd1FqSDQtT053?oc=5",
-   "time": "2026-10-16T00:03:21+00:00",
-   "keywords": [
-    "هجوم"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-16T03:39:07.404111+00:00"
-  },
-  {
-   "id": "tg:bbcpersian/293429",
-   "kind": "tg",
-   "src": "bbcpersian",
-   "text": "‌ ‌ ‌ ‌ \nمقامات فرانسه می‌گویند یک اتوبوس در تونل مانش در نزدیکی ورودی خاک فرانسه با یک قطار باری برخورد کرده و راننده و ۱۸ مسافر آن زخمی شده‌اند.\n\nاین اتوبوس که قرار بود با قطار شاتل به بریتانیا بیاید، روز پنجشنبه در سکوی بارگیری تونل در کوکول، نزدیکی کاله، با قطار برخورد کرد.\n\nراننده اتوبوس و مسافری که به شدت مجروح شده بود با هلیکوپتر به بیمارستان منتقل شدند. به گفته یک مقام محلی انتظار نمی‌رود که در این حادثه کسی کشته شده باشد.\n\nآگاته کوری، فرماندار محلی، گفت که به جز توقفی کوتاه برای تخلیه افراد مجروح، تردد مسافران قطارهای باری و یورواستار از طریق تونل مختل نشده است.\n\nتحقیقات در خصوص نحوه ",
-   "url": "https://t.me/bbcpersian/293429",
-   "time": "2026-10-16T00:02:39+00:00",
-   "keywords": [
-    "تخلیه"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-16T03:39:07.404111+00:00"
-  },
-  {
-   "id": "rss:https://www.aljazeera.com/news/liveblog/2026/10/16/iran-war-live-saudi-blasts-houthi-war-crimes-us-warns-on-saudi-airports?traffic_source=rss",
-   "kind": "rss",
-   "src": "www.aljazeera.com",
-   "text": "Iran war live: Saudi blasts Houthi ‘war crimes’; US warns on Saudi airports — Saudi Arabia calls Houthi attacks 'full-fledged war crimes' while the US warns of possible attacks on Saudi airports.",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/10/16/iran-war-live-saudi-blasts-houthi-war-crimes-us-warns-on-saudi-airports?traffic_source=rss",
-   "time": "2026-10-16T00:02:37+00:00",
-   "keywords": [
-    "attack"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-16T03:39:07.404111+00:00"
-  },
-  {
-   "id": "tg:ClashReport/101243",
-   "kind": "tg",
-   "src": "clashreport",
-   "text": "Argentina's Milei posts an AI-generated image as part of his Falklands propaganda on Instagram.",
-   "url": "https://t.me/ClashReport/101243",
-   "time": "2026-10-16T00:01:00+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-16T03:39:07.404111+00:00"
-  },
-  {
-   "id": "tg:presstv/210939",
-   "kind": "tg",
-   "src": "presstv",
-   "text": "Saudi Arabia’s sporting, diplomatic events disrupted after Yemen’s retaliatory strikes\n\nSaudi Arabia has postponed major international events as Riyadh faces fallout of its war of aggression\n\n@PressTV",
-   "url": "https://t.me/presstv/210939",
-   "time": "2026-10-16T00:00:12+00:00",
-   "keywords": [
-    "strike"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-16T03:39:07.404111+00:00"
-  },
-  {
-   "id": "tg:ClashReport/101242",
-   "kind": "tg",
-   "src": "clashreport",
-   "text": "Santiago Caputo, chief adviser to Argentine President Javier Milei, claimed the UK was being “colonised by Islam,” citing the election of Somali-born Muslim MP Sagal Abdi-Wali.\n\nCaputo argued that Argentina must reclaim the Falkland Islands to prevent an “Islamic state” from gaining influence in the South Atlantic, calling it a cause for the entire West.\n\nMilei shared Caputo’s post on X amid escalating tensions with Britain over the islands’ sovereignty.\n\nSource: The Guardian",
-   "url": "https://t.me/ClashReport/101242",
-   "time": "2026-10-15T23:59:28+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-16T03:39:07.404111+00:00"
-  },
-  {
-   "id": "tg:IranintlTV/362471",
-   "kind": "tg",
-   "src": "iranintltv",
-   "text": "🔻️️️️️️محمد صلاح پنجشنبه‌شب در جریان برد چهار بر دو ترابزون اسپور ترکیه مقابل کوپس، نماینده فنلاند در لیگ کنفرانس اروپا یک گل زد و یک پاس گل داد. ستاره مصری در ۹ بازی این فصل برای ترابزون‌اسپور، ۸ گل زده و ۳ پاس گل داده است.\n\n@iranintltvsport",
-   "url": "https://t.me/IranintlTV/362471",
-   "time": "2026-10-15T23:59:23+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-16T03:39:07.404111+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMitgNBVV95cUxNeDFuWmluVV9XUEpkOHBIVXl6S2dUVjJpNlo1QzN3WF9Cb3d2OHpFR1VUTmdSSXVkX2RBdTNTdkhxQk40OHN5RzItYzlOb2pGUFM2RmpwV1YtSjVXNW1qVVpfTG5ESEViZkRkTUJlbmxtMFpNWDZZQkttbDFkLUlxcGxBTVpYUnRweElRTHlZRl9rdGpWclJMcDdPNlZpRU1MRE5iOFFEVWZYYUtTeWxhandxNUNCUlZhWXcwaWpzUFEtQmtGcGhMc3Jlcnc2cWFrZTdPRFJUd0c1clYzS3dhdDlyZ29jY2tDRWFSeWV5dlI2bnRLaU02a2FjUXVxY19yRUw0eFNfM0d1TjBxalY5X1pmWFB3M2xFc09LdEZTV3B3eF9VZWpKR3htM1JmemZXX2VnTlhNOW5mOC1NUGNQWS1yRFNaa1JmQ2tYRXBRN2lKZEx3aWUtZldNZWtCWUVTNVJjQ3REck9EUmI4anBzcDByTVFDWEZWTy1UUWo4VWtnOXZ4LWRUenFELUJpVkdZVWpMVDJzaHVMaVd6WXNXZnNnYlVtTUJjdHFaVEJjUXJ5OTRJVEE?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "إعلام عبري: نتنياهو يطلب من واشنطن تأجيل الهجوم على إيران تخوفاً من الانتخابات - نيو ترك بوست — إعلام عبري: نتنياهو يطلب من واشنطن تأجيل الهجوم على إيران تخوفاً من الانتخابات  نيو ترك بوست",
-   "url": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNeDFuWmluVV9XUEpkOHBIVXl6S2dUVjJpNlo1QzN3WF9Cb3d2OHpFR1VUTmdSSXVkX2RBdTNTdkhxQk40OHN5RzItYzlOb2pGUFM2RmpwV1YtSjVXNW1qVVpfTG5ESEViZkRkTUJlbmxtMFpNWDZZQkttbDFkLUlxcGxBTVpYUnRweElRTHlZRl9rdGpWclJMcDdPNlZpRU1MRE5iOFFEVWZYYUtTeWxhandxNUNCUlZhWXcwaWpzUFEtQmtGcGhMc3Jlcnc2cWFrZTdPRFJUd0c1clYzS3dhdDlyZ29jY2tDRWFSeWV5dlI2bnRLaU02a2FjUXVxY19yRUw0eFNfM0d1TjBxalY5X1pmWFB3M2xFc09LdEZTV3B3eF9VZWpKR3htM1JmemZXX2VnTlhNOW5mOC1NUGNQWS1yRFNaa1JmQ2tYRXBRN2lKZEx3aWUtZldNZWtCWUVTNVJjQ3REck9EUmI4anBzcDByTVFDWEZWTy1UUWo4VWtnOXZ4LWRUenFELUJpVkdZVWpMVDJzaHVMaVd6WXNXZnNnYlVtTUJjdHFaVEJjUXJ5OTRJVEE?oc=5",
-   "time": "2026-10-15T23:58:05+00:00",
-   "keywords": [
-    "هجوم"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-16T03:39:07.404111+00:00"
-  },
-  {
-   "id": "tg:bbcpersian/293428",
-   "kind": "tg",
-   "src": "bbcpersian",
-   "text": "‌ ‌ ‌ \nاعضای شورای امنیت در بیانیه‌ای، حملات حوثی‌ها علیه عربستان سعودی از جمله حملاتی که به گفته آنها «فرودگاه‌های غیرنظامی و زیرساخت‌های انرژی» را هدف قرار داده‌اند، محکوم کردند.\n\nآن‌ها همچنین ادامه حملات و تهدیدهای حوثی‌ها علیه کشتی‌های تجاری در دریای سرخ و تنگه باب‌المندب را محکوم کردند.\n\nاعضای شورای امنیت در این بیانیه بر اهمیت تضمین ایمنی کشتی‌های تجاری و خدمه آن‌ها، پایبندی به حقوق بین‌الملل به‌ویژه کنوانسیون سازمان ملل متحد در مورد حقوق دریاها و پاسداری از حقوق و آزادی‌های کشتیرانی تأکید کردند.\n\nاعضای این شورا در بیانیه خود تأکید کردند که دستیابی به صلحی پایدار در یمن از طریق خشونت، اج",
-   "url": "https://t.me/bbcpersian/293428",
-   "time": "2026-10-15T23:57:36+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-16T03:39:07.404111+00:00"
-  },
-  {
-   "id": "tg:ClashReport/101241",
-   "kind": "tg",
-   "src": "clashreport",
-   "text": "Trump:\n\nMohammed El-Sayed is bad news.\n\nHe is a Muslim radical.\n\nDon't vote for Mohammed El-Sayed.",
-   "url": "https://t.me/ClashReport/101241",
-   "time": "2026-10-15T23:57:06+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-16T03:39:07.404111+00:00"
-  },
-  {
-   "id": "rss:https://www.bbc.com/persian/articles/cx054749p35no?at_medium=RSS&at_campaign=rss",
-   "kind": "rss",
-   "src": "feeds.bbci.co.uk",
-   "text": "برخورد اتوبوس با قطار متوقف شده در تونل مانش در خاک فرانسه ۱۹ مجروح برجای گذاشت — مقامات فرانسه می‌گویند یک اتوبوس در تونل مانش در نزدیکی ورودی خاک فرانسه  با یک قطار باری برخورد کرده و راننده و ۱۸ مسافر آن زخمی شده‌اند.",
-   "url": "https://www.bbc.com/persian/articles/cx054749p35no?at_medium=RSS&at_campaign=rss",
-   "time": "2026-10-15T23:55:32+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-16T03:39:07.404111+00:00"
-  },
-  {
-   "id": "rss:https://www.bbc.co.uk/persian/live/ck78p7pdg8j0t?at_medium=RSS&at_campaign=rss",
-   "kind": "rss",
-   "src": "feeds.bbci.co.uk",
-   "text": "حمله موشکی حوثی‌ها به کاخ ریاست جمهوری عدن؛  پنج نفر کشته و تعداد زیادی زخمی شدند — حمله موشکی حوثی‌ها به کاخ ریاست‌جمهوری عدن در جنوب یمن پنج کشته و تعداد زیادی زخمی به جای گذاشته است. معمر الاریانی، وزیر اطلاع‌رسانی دولت تحت حمایت عربستان‌سعودی در یمن، به بی‌بی‌سی گفت که نخست‌وزیر و سایر وزرا که در جریان اصابت پنج موشک بالستیک در این کاخ بودند آسیب ندیده‌اند. یحیی سریع، سخنگوی نظ",
-   "url": "https://www.bbc.co.uk/persian/live/ck78p7pdg8j0t?at_medium=RSS&at_campaign=rss",
-   "time": "2026-10-15T23:53:49.784639+00:00",
-   "keywords": [
-    "حمله",
-    "موشک"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T23:53:49.784639+00:00"
-  },
-  {
-   "id": "tg:ClashReport/101240",
-   "kind": "tg",
-   "src": "clashreport",
-   "text": "A Reuters investigation found that Iran and its proxies carried out at least 135 precision strikes on 84 infrastructure sites across the Gulf since February 28, targeting critical oil, gas, electricity and transportation facilities.\n\nThe attacks caused billions of dollars in damage, disrupted global energy supplies and helped Iran withstand U.S. military pressure. \n\nGulf governments frequently downplayed the damage, often blaming falling debris from intercepted missiles and drones.\n\nSource: Reuters",
-   "url": "https://t.me/ClashReport/101240",
-   "time": "2026-10-15T23:51:30+00:00",
-   "keywords": [
-    "strike",
-    "attack",
-    "missile"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T23:53:49.784639+00:00"
-  },
-  {
-   "id": "tg:IranintlTV/362470",
-   "kind": "tg",
-   "src": "iranintltv",
-   "text": "حال‌وش با اشاره به انتشار گزارش‌هایی درباره آزار جنسی پرستاران زن در بیمارستان «امام علی» زاهدان، گزارش داد صادق میری، عضو بسیج و از کارکنان آزمایشگاه این بیمارستان، در تلاش است شهادت‌ها و افشاگری‌های پرستاران زن را مخدوش و انکار کند.\n\nطبق این گزارش، بحران ناامنی شغلی، پیشنهادهای غیراخلاقی و مزاحمت‌های سیستماتیک از سوی حراست، نگهبانان و برخی کارکنان مرد در بیمارستان امام علی زاهدان، ده‌ها پرستار زن را در وضعیت ناامنی شدید روانی قرار داده است.\n\nحال‌وش نوشت علاوه بر مفاسد اداری و اخلاقی کارکنان حراست و مدیریت بیمارستان امام علی زاهدان، این مرکز درمانی به دلیل بی‌توجهی شدید به جان بیماران و نرخ ب",
-   "url": "https://t.me/IranintlTV/362470",
-   "time": "2026-10-15T23:50:25+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-15T23:53:49.784639+00:00"
-  },
-  {
-   "id": "tg:ClashReport/101239",
-   "kind": "tg",
-   "src": "clashreport",
-   "text": "BIG: Ukraine is nearly out of Patriot interceptor missiles as Russian strikes intensify.\n\nA Ukrainian official said the country had just 10 missiles left on October 7, most of which have since been used, leaving only a couple remaining. \n\nAnother source said supplies were completely exhausted.\n\nAlthough NATO says deliveries continue, Ukrainian officials warn that supplies have been irregular since May, with no guarantees of future shipments.\n\nSource: WaPo",
-   "url": "https://t.me/ClashReport/101239",
-   "time": "2026-10-15T23:48:37+00:00",
-   "keywords": [
-    "strike",
-    "missile"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T23:53:49.784639+00:00"
-  },
-  {
-   "id": "tg:ClashReport/101238",
-   "kind": "tg",
-   "src": "clashreport",
-   "text": "An order to restrict Ukraine’s Starshield satellite service reportedly came from inside the White House, disrupting Ukrainian strike operations and interceptor drones.\n\nThe restrictions came amid growing U.S. pressure on Kyiv to stop attacking Russian oil refineries. \n\nUkrainian officials were told the decision came from the White House, although a senior U.S. official denied Trump personally ordered it.\n\nSource: Reuters",
-   "url": "https://t.me/ClashReport/101238",
-   "time": "2026-10-15T23:46:10+00:00",
-   "keywords": [
-    "strike",
-    "attack"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T23:53:49.784639+00:00"
-  },
-  {
-   "id": "tg:presstv/210936",
-   "kind": "tg",
-   "src": "presstv",
-   "text": "▶️ CNN reports that 3 kids were among the 4 killed in the Oregon elementary school shooting incident.  @PressTV",
-   "url": "https://t.me/presstv/210936",
-   "time": "2026-10-15T23:45:05+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-15T23:53:49.784639+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMWJVN05Ua3pLVFRJMU14UF83a0V2cmNzSkxXZ0ZKd3BsZ29aajNwR2dVZDNmdDJSbEtkQUVOT2d0UWRZNkRyRnRQR1dEcV9KRS1SeUFKeVV3d0pKS2wzTUthdG5UTmpTal8zeHR5UmQwVFdiMWRSdFB3T1NXclh6YVdTZkx0dmpuSGJmMDNmYm9mMThZdkhVVG9tR0NhUmRmNWNsalE3QTlheDdZZGdleERzZmVtcnpKcjJRQmtZbkpxS1JLRWZyaUF4Nno5cFNETlEyQVhTMHNJRlg5UkwwVE9QaUc5ZkNTbzcw0gHyAUFVX3lxTE1wc0t3UDI2TF9rbnI4ZWZKQTJSZF9lNnBLbEJGdzhDMHc2X1lQRjNqM2FaMk85U0RNX0wtblNrNVdoZ0UwMzkxbXc4NkxMaGxRdzBHQnp5R3JuMGJ6V3o1RmY0RTBuMUQ3d0Z6RFdZUWtEOUVvY29NcjRFYjNUbExtLW5KTHpPYTR0bTV2c3owZlNsUi1sMlBhYUE5Wm1pM05RUUQ4eEhHcVlEWkdYYm5LMW5TQXpiVDUxRUJ0bk9uX2tqblRzcktDaWhPeVhRYU11UDUyOTFyREYtdlhyYnhXN1pwVFhxV2RYXzRkS3NWS1BB?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "US Iran War Live Updates: UKMTO warns of ‘severe’ threat to shipping in Strait of Hormuz - The Indian Express — US Iran War Live Updates: UKMTO warns of ‘severe’ threat to shipping in Strait of Hormuz  The Indian Express",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMWJVN05Ua3pLVFRJMU14UF83a0V2cmNzSkxXZ0ZKd3BsZ29aajNwR2dVZDNmdDJSbEtkQUVOT2d0UWRZNkRyRnRQR1dEcV9KRS1SeUFKeVV3d0pKS2wzTUthdG5UTmpTal8zeHR5UmQwVFdiMWRSdFB3T1NXclh6YVdTZkx0dmpuSGJmMDNmYm9mMThZdkhVVG9tR0NhUmRmNWNsalE3QTlheDdZZGdleERzZmVtcnpKcjJRQmtZbkpxS1JLRWZyaUF4Nno5cFNETlEyQVhTMHNJRlg5UkwwVE9QaUc5ZkNTbzcw0gHyAUFVX3lxTE1wc0t3UDI2TF9rbnI4ZWZKQTJSZF9lNnBLbEJGdzhDMHc2X1lQRjNqM2FaMk85U0RNX0wtblNrNVdoZ0UwMzkxbXc4NkxMaGxRdzBHQnp5R3JuMGJ6V3o1RmY0RTBuMUQ3d0Z6RFdZUWtEOUVvY29NcjRFYjNUbExtLW5KTHpPYTR0bTV2c3owZlNsUi1sMlBhYUE5Wm1pM05RUUQ4eEhHcVlEWkdYYm5LMW5TQXpiVDUxRUJ0bk9uX2tqblRzcktDaWhPeVhRYU11UDUyOTFyREYtdlhyYnhXN1pwVFhxV2RYXzRkS3NWS1BB?oc=5",
-   "time": "2026-10-15T23:44:19+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-15T23:53:49.784639+00:00"
-  },
-  {
-   "id": "tg:warmonitors/46092",
-   "kind": "tg",
-   "src": "warmonitors",
-   "text": "Trump is actively trying to fuck over Ukraine.\n\n💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18",
-   "url": "https://t.me/warmonitors/46092",
-   "time": "2026-10-15T23:36:34+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-15T23:53:49.784639+00:00"
-  },
-  {
-   "id": "rss:https://www.aljazeera.com/economy/2026/10/15/two-syrian-pipelines-damaged-amid-spate-of-attacks-on-energy-infrastructure?traffic_source=rss",
-   "kind": "rss",
-   "src": "www.aljazeera.com",
-   "text": "Two Syrian pipelines damaged amid spate of attacks on energy infrastructure — Fuel theft cited in Baniyas-Homs leak as gas export line in Hasakah catches fire.",
-   "url": "https://www.aljazeera.com/economy/2026/10/15/two-syrian-pipelines-damaged-amid-spate-of-attacks-on-energy-infrastructure?traffic_source=rss",
-   "time": "2026-10-15T23:35:26+00:00",
-   "keywords": [
-    "attack"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-16T03:39:07.404111+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMiwAFBVV95cUxQckhxZUZTMExUWjNvbjhfbm1RMU0xdmtMMUdrN0hDVWdBZmptVlBtYnJCVzVOUkdoRkJTZngtN3dwUk9tODd6SF92UVkxWERxZE8tUnNwZHg1X29kVTRfRVg4bmdEdWtmM1F5RFk1R0lzZ3k1bXVXRHNvSFpkNnBzd2FsVUFFSnUybXh1c2VEUHljLUFlQ2tVS3BBbXU3ZXNOQ3RVXzBCUnhRTnFPR1ZHQXYxMHZVWTBfbjlIbGxLakc?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "Pentagon plans to hold report on Iran school strike past November midterms - The Straits Times — Pentagon plans to hold report on Iran school strike past November midterms  The Straits Times",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQckhxZUZTMExUWjNvbjhfbm1RMU0xdmtMMUdrN0hDVWdBZmptVlBtYnJCVzVOUkdoRkJTZngtN3dwUk9tODd6SF92UVkxWERxZE8tUnNwZHg1X29kVTRfRVg4bmdEdWtmM1F5RFk1R0lzZ3k1bXVXRHNvSFpkNnBzd2FsVUFFSnUybXh1c2VEUHljLUFlQ2tVS3BBbXU3ZXNOQ3RVXzBCUnhRTnFPR1ZHQXYxMHZVWTBfbjlIbGxLakc?oc=5",
-   "time": "2026-10-15T23:35:00+00:00",
-   "keywords": [
-    "strike"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T23:53:49.784639+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMiU0FVX3lxTE9OX2E0YUNBVzFJWnRDMGZfLVY3SlBfbFZybTRGZDBDMnlBTkNsc0psZ2FGRjEtc3A2WU1MTWgtODJINjVWRlItVS1QRVFMdkJQVURj?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "تقرير: إيران شنت 135 هجوما على 84 منشأة بدول الخليج - شبكة تواصل الإخبارية — تقرير: إيران شنت 135 هجوما على 84 منشأة بدول الخليج  شبكة تواصل الإخبارية",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9OX2E0YUNBVzFJWnRDMGZfLVY3SlBfbFZybTRGZDBDMnlBTkNsc0psZ2FGRjEtc3A2WU1MTWgtODJINjVWRlItVS1QRVFMdkJQVURj?oc=5",
-   "time": "2026-10-15T23:33:16+00:00",
-   "keywords": [
-    "هجوم"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T23:53:49.784639+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMiR0FVX3lxTFAtLXk5VG9EMk1wMmpQSUZfbFZRYktTT05yRmJjdy14R0RMamJZQmdmVmpOaWFuaDVHMVJ1VUwwdFhtNlY2Z0dB?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "تقرير: إيران شنت 135 هجوما على 84 منشأة بدول الخليج - صدى البلد — تقرير: إيران شنت 135 هجوما على 84 منشأة بدول الخليج  صدى البلد",
-   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAtLXk5VG9EMk1wMmpQSUZfbFZRYktTT05yRmJjdy14R0RMamJZQmdmVmpOaWFuaDVHMVJ1VUwwdFhtNlY2Z0dB?oc=5",
-   "time": "2026-10-15T23:32:00+00:00",
-   "keywords": [
-    "هجوم"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-16T13:30:18.649603+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMioAFBVV95cUxPOC1wZDdHT2hUVWFTdlo5MUViTWFhS1dValIydVg3V3piVnZVZkhieTlDSmZrVHBiN09TZEZNT3N5Q09HVjl3QkNQQUFKajV0ZEljbmpJUDR3LURUSGdHVkNVLVVsWXdILTVMaGRORXZpTXhBSDBBMWRleXVlbGcyRXNwZ0ZNeXNWMzRPZGlJNm5MMnRfQUxyVjFkaEphaXQ1?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "Oil Prices Drop as US President Trump Rules Out Iran Strike - Mexico Business News — Oil Prices Drop as US President Trump Rules Out Iran Strike  Mexico Business News",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOC1wZDdHT2hUVWFTdlo5MUViTWFhS1dValIydVg3V3piVnZVZkhieTlDSmZrVHBiN09TZEZNT3N5Q09HVjl3QkNQQUFKajV0ZEljbmpJUDR3LURUSGdHVkNVLVVsWXdILTVMaGRORXZpTXhBSDBBMWRleXVlbGcyRXNwZ0ZNeXNWMzRPZGlJNm5MMnRfQUxyVjFkaEphaXQ1?oc=5",
-   "time": "2026-10-15T23:30:14+00:00",
-   "keywords": [
-    "strike"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T23:53:49.784639+00:00"
-  },
-  {
-   "id": "tg:presstv/210935",
-   "kind": "tg",
-   "src": "presstv",
-   "text": "▶️ Massive fire breaks out in Ukraine’s Khmelnitsky region following a reported strike on a fuel depot.\n\n@PressTV",
-   "url": "https://t.me/presstv/210935",
-   "time": "2026-10-15T23:30:10+00:00",
-   "keywords": [
-    "strike"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T23:53:49.784639+00:00"
-  },
-  {
-   "id": "tg:IranintlTV/362469",
-   "kind": "tg",
-   "src": "iranintltv",
-   "text": "شورای امنیت سازمان ملل متحد حملات فزاینده حوثی‌های یمن علیه عربستان سعودی را به شدیدترین شکل محکوم کرد و بر حق این کشور برای دفاع از خود مطابق با قوانین بین‌المللی تاکید کرد.\n\nاعضای شورای امنیت از حوثی‌های مورد حمایت جمهوری اسلامی خواستند فورا به تشدید عملیات نظامی و حملات علیه غیرنظامیان و زیرساخت‌های غیرنظامی پایان دهند.\n\nاین شورا همچنین درباره پیامدهای ادامه درگیری‌ها بر وضعیت انسانی یمن، امنیت منطقه و کشتیرانی بین‌المللی ابراز نگرانی کرد و خواستار تلاش برای دستیابی به راه حل سیاسی شد.\nhttps://iranintl.com/202610150161",
-   "url": "https://t.me/IranintlTV/362469",
-   "time": "2026-10-15T23:22:25+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-15T23:53:49.784639+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMimgFBVV95cUxOWkFlc3hhVjBQbTRLZ2ladFFlVDktR095SEFrME8tU2QyVnV1SE44T1d4blFtQUFkNm9LZ1RHa2xUblRDZjJrRE9PdXU5S0dvelpSQkZmUGF5NEZaMzJDSXJJWDlYSjBzZnhBSkxZdEJIZ0xWejZMTlFNVkIySXZGRUJhZWRVUGUxMHBxTW43dEtLeVlDV1lYU1V3?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "Pentagon weighs 'Mother of All Bombs' for Iran — and Latino families are already paying the tab - Latin Times — Pentagon weighs 'Mother of All Bombs' for Iran — and Latino families are already paying the tab  Latin Times",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWkFlc3hhVjBQbTRLZ2ladFFlVDktR095SEFrME8tU2QyVnV1SE44T1d4blFtQUFkNm9LZ1RHa2xUblRDZjJrRE9PdXU5S0dvelpSQkZmUGF5NEZaMzJDSXJJWDlYSjBzZnhBSkxZdEJIZ0xWejZMTlFNVkIySXZGRUJhZWRVUGUxMHBxTW43dEtLeVlDV1lYU1V3?oc=5",
-   "time": "2026-10-15T23:18:38+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-16T03:39:07.404111+00:00"
-  },
-  {
-   "id": "tg:IranintlTV/362468",
-   "kind": "tg",
-   "src": "iranintltv",
-   "text": "جو ویلسون، نماینده جمهوری‌خواه مجلس نمایندگان آمریکا، پنج‌شنبه ۲۳ مهر، در واکنش به انتصاب لیث الخزعلی به معاونت نخست‌وزیری عراق، او را «تروریست تحریم‌شده و مهره جمهوری اسلامی» خواند و خواستار پایان نفوذ تهران در عراق شد.\n\nویلسون در شبکه اجتماعی ایکس نوشت: «لیث الخزعلی یک تروریست تحریم‌شده و مهره جمهوری اسلامی است که شبه‌نظامیان عصائب اهل الحق، وابسته به او، آمریکایی‌ها و عراقی‌ها را کشته‌اند. او هیچ تفاوتی با داعش ندارد و شاید حتی بدتر باشد.»\n\nاو انتصاب الخزعلی را «شرم‌آور، اما قابل پیش‌بینی» خواند و گفت مردم عراق، با هر پیشینه‌ای، شایسته شرایط بهتری هستند.\n\nمجلس عراق پنج‌شنبه لیث الخزعلی و دو",
-   "url": "https://t.me/IranintlTV/362468",
-   "time": "2026-10-15T23:13:03+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-15T23:53:49.784639+00:00"
-  },
-  {
-   "id": "tg:warmonitors/46091",
-   "kind": "tg",
-   "src": "warmonitors",
-   "text": "No way?!\n\nDid he actually say this? \n\n💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18",
-   "url": "https://t.me/warmonitors/46091",
-   "time": "2026-10-15T23:11:34+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-15T23:53:49.784639+00:00"
-  },
-  {
-   "id": "tg:presstv/210934",
-   "kind": "tg",
-   "src": "presstv",
-   "text": "▶️ Iran's Navy reports another oil tanker catching fire while trying to cross the Sea of Oman without coordination with Iranian Armed Forces.  @PressTV",
-   "url": "https://t.me/presstv/210934",
-   "time": "2026-10-15T23:11:14+00:00",
-   "keywords": [
-    "tanker"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T23:53:49.784639+00:00"
-  },
-  {
-   "id": "tg:bbcpersian/293427",
-   "kind": "tg",
-   "src": "bbcpersian",
-   "text": "🔻 در حمله موشکی حوثی‌ها به کاخ ریاست جمهوری عدن پنج نفر کشته شدند\n\nدولت تحت حمایت عربستان سعودی در یمن اعلام کرد که شایع الزندانی، نخست‌وزیر، پس از حمله حوثی‌ها به کاخ ریاست‌جمهوری در شهر بندری عدن، در سلامت به سر می‌برد.\n\nپیش از این حوثی‌ها پنج موشک بالستیک به سمت کاخ «المعاشیق» شلیک کردند. آنها گفته‌اند که این مکان به عنوان مرکز عملیاتی ائتلاف به رهبری عربستان سعودی مورد استفاده قرار گرفته بود. بر اساس تازه‌ترین گزارش‌ها در این حمله پنج نفر کشته و تعداد زیادی زخمی شدند.\n\nاتحادیه اروپا و کشورهای حوزه خلیج فارس، به دلیل تداوم حملات حوثی‌ها، نشست مشترکی را که قرار بود هفته آینده در عربستان سعود",
-   "url": "https://t.me/bbcpersian/293427",
-   "time": "2026-10-15T23:06:44+00:00",
-   "keywords": [
-    "حمله",
-    "موشک"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T23:53:49.784639+00:00"
-  },
-  {
-   "id": "tg:warmonitors/46090",
-   "kind": "tg",
-   "src": "warmonitors",
-   "text": "⚡#BREAKING Reuters Exclusive: Sources say the order to limit Ukraine’s access to the Starshield system came from inside the White House \n\n💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18",
-   "url": "https://t.me/warmonitors/46090",
-   "time": "2026-10-15T23:06:35+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-15T23:53:49.784639+00:00"
-  },
-  {
-   "id": "tg:bbcpersian/293426",
-   "kind": "tg",
-   "src": "bbcpersian",
-   "text": "🔻 کوبا: تحریم بانک اینترناسیونال د کومرسیو از سوی آمریکا مجازات جمعی مردم است\n\nکوبا اقدام ایالات متحده در تحریم «بانکو اینترناسیونال د کومرسیو» این کشور را اقدامی مجرمانه با هدف «مجازات جمعی مردم این کشور و بستن تمام روزنه‌های تنفسی اقتصاد آن توصیف کرد.»\n\nآمریکا روز پنجشنبه اعلام کرد که این بانک را به دلیل ارتباطاتش با «بانک کارآفرین» ایران که از سال ۲۰۲۰ تحت تحریم قرار دارد، تحریم کرده است.\n\nبرونو رودریگز، وزیر امور خارجه کوبا، در واکنش در شبکه اجتماعی «ایکس» این اقدام را «خصمانه» توصیف کرد و گفت که این بانک «بانکی کاملاً قانونی» است و معاملات آن در کوبا و سراسر جهان نیز «کاملاً قانونی» هستند",
-   "url": "https://t.me/bbcpersian/293426",
-   "time": "2026-10-15T23:05:54+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-15T23:53:49.784639+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVlp0djJEanZNZzE3Qy1ldFc0WkZtdXV6QWxyRWxuN1A3Q2tGVThkUHZaaEpfeUVrcFk3ZkVBS3pLNmNSV1ZHcm9pa205S3BTNmZkbkt2dkltcjNSM19JcFBVU1lid2xzVFBaaWRXT0VlTjFmNEN5R0ZRZVRQeC16amcxUHZGeDNheHVmbnVfbEpyYnhYeWpJWndrLW4tbDBpTUMxLVJMemxPUkYyam9HQ1JwZGZqY2s5TVJoU0xXYmpjX3hTbFYtV0s1RDEwOElJeVBweFdn0gHbAUFVX3lxTFBsTnp2aWlwR3VNSXNTUkM3TU1sXy1saW1QOUpBYjMtZTZEdkUyWGVtVnk2NGFtWUh2cU5IN3dFUUw5VXhRb24yTzUwZlk2NnZPYjR2TENKSzN0QjNaTEo1TlZnWFRlUzJZYnhfQklNb3hlamtLdDVRSElCSHg1V0h0UHJ6dXRvUEZERENZUHZ5N3I1WkgtYjl6ZW9EWGloNnVXV3YwaHpnck51QnpDZk5vT3d5LUNGdHlPb0ZZLXhtQ0YwbmJDVjNCSGFJTnJ6bXhCamc2WEhfTDFtOA?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "White House prepares plans to use 'mother of all bombs' on Iran: Report - The Times of India — White House prepares plans to use 'mother of all bombs' on Iran: Report  The Times of India",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVlp0djJEanZNZzE3Qy1ldFc0WkZtdXV6QWxyRWxuN1A3Q2tGVThkUHZaaEpfeUVrcFk3ZkVBS3pLNmNSV1ZHcm9pa205S3BTNmZkbkt2dkltcjNSM19JcFBVU1lid2xzVFBaaWRXT0VlTjFmNEN5R0ZRZVRQeC16amcxUHZGeDNheHVmbnVfbEpyYnhYeWpJWndrLW4tbDBpTUMxLVJMemxPUkYyam9HQ1JwZGZqY2s5TVJoU0xXYmpjX3hTbFYtV0s1RDEwOElJeVBweFdn0gHbAUFVX3lxTFBsTnp2aWlwR3VNSXNTUkM3TU1sXy1saW1QOUpBYjMtZTZEdkUyWGVtVnk2NGFtWUh2cU5IN3dFUUw5VXhRb24yTzUwZlk2NnZPYjR2TENKSzN0QjNaTEo1TlZnWFRlUzJZYnhfQklNb3hlamtLdDVRSElCSHg1V0h0UHJ6dXRvUEZERENZUHZ5N3I1WkgtYjl6ZW9EWGloNnVXV3YwaHpnck51QnpDZk5vT3d5LUNGdHlPb0ZZLXhtQ0YwbmJDVjNCSGFJTnJ6bXhCamc2WEhfTDFtOA?oc=5",
-   "time": "2026-10-15T22:52:00+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-16T03:39:07.404111+00:00"
-  },
-  {
-   "id": "rss:https://www.aljazeera.com/news/2026/10/15/at-least-4-including-3-children-killed-in-us-elementary-school-shooting?traffic_source=rss",
-   "kind": "rss",
-   "src": "www.aljazeera.com",
-   "text": "At least 4, including 3 children, killed in US elementary school shooting — Authorities have indicated that the shooter was killed by gunfire, though details remain scant about the attack.",
-   "url": "https://www.aljazeera.com/news/2026/10/15/at-least-4-including-3-children-killed-in-us-elementary-school-shooting?traffic_source=rss",
-   "time": "2026-10-15T22:51:56+00:00",
-   "keywords": [
-    "attack"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T23:53:49.784639+00:00"
-  },
-  {
-   "id": "tg:presstv/210933",
-   "kind": "tg",
-   "src": "presstv",
-   "text": "▶️ Law enforcement and paramedics on the scene after an active shooter incident was reported at an elementary school in Bend, Oregon.  @PressTV",
-   "url": "https://t.me/presstv/210933",
-   "time": "2026-10-15T22:50:16+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-15T23:53:49.784639+00:00"
-  },
-  {
-   "id": "tg:farsna/468697",
-   "kind": "tg",
-   "src": "farsna",
-   "text": "آمریکا تا ۲۰۳۰ با کمبود موشک‌های پدافندی مواجه است\n\n🔹سی‌بی‌اس نوشت، ارتش آمریکا با کمبود شدید موشک‌های رهگیر سامانه‌های پدافندی تاد و پاتریوت مواجه است و حتی در صورت توقف مصرف بیشتر این مهمات در درگیری‌های نظامی، ممکن است تا سال ۲۰۳۰ برای بازسازی ذخایر خود به زمان نیاز داشته باشد.\n\n🔸برآورد مرکز مطالعات راهبردی و بین‌المللی نشان می‌دهد آمریکا پیش از آغاز جنگ با ایران حدود ۲۳۰۰ موشک رهگیر پاتریوت در اختیار داشت، اما در جریان این درگیری بین ۱۰۵۰ تا ۱۴۳۰ موشک از این نوع را مصرف کرد.\n\n@Farsna - Link",
-   "url": "https://t.me/farsna/468697",
-   "time": "2026-10-15T22:46:02+00:00",
-   "keywords": [
-    "موشک"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T23:53:49.784639+00:00"
-  },
-  {
-   "id": "tg:warmonitors/46089",
-   "kind": "tg",
-   "src": "warmonitors",
-   "text": "⚡Four killed in shooting at school in Oregon, USA\n\n💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18",
-   "url": "https://t.me/warmonitors/46089",
-   "time": "2026-10-15T22:36:35+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-15T23:53:49.784639+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMibEFVX3lxTE42T2xoZUFyR2c4SmFGXzJkZTg1NUM2YzNyZzFxQS1ISFBUeHRLR0FDdG56U0xHNzRHTl9tOGNPeEZHdVF6NW9EbWN0T3hSQkVZVnRrZXVUMGxjdUh5eGw0UmIyOEowSkhaRnE0MQ?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "🇮🇷🇮🇱 Israel just went on full alert after Iran reportedly fired 30 missiles in drills this week... and the America First camp is split on whether Trump should strike again or walk away Matt Tardio sees the same buildup that preceded February 28 and says quitting n - X — 🇮🇷🇮🇱 Israel just went on full alert after Iran reportedly fired 30 missiles in drills this week... and the America First camp is split on whether Trump should strike again or walk away Matt Tardio sees the same buildup that preceded February 28 and says quitting n  X",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42T2xoZUFyR2c4SmFGXzJkZTg1NUM2YzNyZzFxQS1ISFBUeHRLR0FDdG56U0xHNzRHTl9tOGNPeEZHdVF6NW9EbWN0T3hSQkVZVnRrZXVUMGxjdUh5eGw0UmIyOEowSkhaRnE0MQ?oc=5",
-   "time": "2026-10-15T22:36:27+00:00",
-   "keywords": [
-    "strike",
-    "missile"
-   ],
-   "emojis": [
-    "🇮🇷"
-   ],
-   "alert": true,
-   "collected": "2026-10-15T23:53:49.784639+00:00"
-  },
-  {
-   "id": "tg:presstv/210932",
-   "kind": "tg",
-   "src": "presstv",
-   "text": "Thousands attend funeral for 34 students killed in Pakistan school roof collapse\n\nThousands of mourners participated in funeral prayers on Thursday in Peshawar after a school rooftop collapse killed several people.\n\n@PressTV",
-   "url": "https://t.me/presstv/210932",
-   "time": "2026-10-15T22:32:07+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-15T23:53:49.784639+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMibkFVX3lxTE9tLXgwNmlnU0ZPLXNHM1JMd1Z2UUNvWUd5WEN3a1N6MVI4TkxaWjhPbHFsLTdMTE1HYU15VEczeFJfaDAtd29Hc3JLMTJ1U2ZPZ2l6UWtSNVBXUUZZRExUc1RiMHNSelR3Y3NiZG53?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "US and Israel dominate Iran's skies, but still can't force it to surrender - Ynetnews — US and Israel dominate Iran's skies, but still can't force it to surrender  Ynetnews",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tLXgwNmlnU0ZPLXNHM1JMd1Z2UUNvWUd5WEN3a1N6MVI4TkxaWjhPbHFsLTdMTE1HYU15VEczeFJfaDAtd29Hc3JLMTJ1U2ZPZ2l6UWtSNVBXUUZZRExUc1RiMHNSelR3Y3NiZG53?oc=5",
-   "time": "2026-10-15T22:31:23+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-15T23:53:49.784639+00:00"
-  },
-  {
-   "id": "tg:ClashReport/101237",
-   "kind": "tg",
-   "src": "clashreport",
-   "text": "NEW: Colombia announces its withdrawal from the Hague Group, the bloc of countries formed to hold Israel accountable over Gaza, stepping down as both a member and co-chair. \n\nForeign Minister Omar Bula said Colombia rejects the group's approach, calling it \"a group created to isolate and attack Israel.\" \n\nColombia was one of the bloc's founding members in January 2025, and Bolivia and Honduras have also left.",
-   "url": "https://t.me/ClashReport/101237",
-   "time": "2026-10-15T22:30:28+00:00",
-   "keywords": [
-    "attack"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T23:53:49.784639+00:00"
-  },
-  {
-   "id": "tg:IranintlTV/362467",
-   "kind": "tg",
-   "src": "iranintltv",
-   "text": "شایان سمیعی، کارشناس امنیت ملی، گفت مطرح شدن احتمال استفاده آمریکا از بمب موسوم به «مادر همه بمب‌ها» علیه تاسیسات زیرزمینی جمهوری اسلامی، بیش از آنکه بر توان نفوذ این بمب متکی باشد، با هدف افزایش فشار سیاسی و روانی بر تهران و نمایش اقتدار نظامی در برابر افکار عمومی آمریکا صورت می‌گیرد.\n\nاو همچنین درباره تنش‌ها در تنگه هرمز گفت توانایی سپاه پاسداران برای ایجاد اختلال در کشتیرانی به معنای تسلط بر این آبراه نیست. به گفته سمیعی، نسبت دادن مستقیم حملات به سپاه می‌تواند هزینه‌های سیاسی جمهوری اسلامی را افزایش دهد و کشورهای منطقه را به همکاری بیشتر با آمریکا برای مقابله با تهدیدهای دریایی ترغیب کند.\n",
-   "url": "https://t.me/IranintlTV/362467",
-   "time": "2026-10-15T22:28:24+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-15T23:53:49.784639+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMiggZBVV95cUxQbTdoN1BKNGVfLTVHbjRQWHdxYkpFZnFYRC1xVGtKcTdJNGdTdGZhMFVJd0pqUXFPWUNHMGpyRUdfSTQtUnExNnZUU1YwYzAzZlN1SWZmLTNvYV9BMDN5eU11ekZHaUtQdGxGMFl2djRQTGtqVUZhQTlYbm01Z0t2OUxvUU9Cc0ZKSWhIMkJLd1FZLWtvQnBsUnYyVkRCOWJ0WGQ4UnphY2tJYlVXSFlLdE9mZHIxSF9CMXBNbG1wR0taNDh3VXpWbmdFOHVEdzRYM3ZHVS12eTJKdEU5M1pfWGJFYzloVUVPVXk0Yms1ODdfbDlJWmlvdGdPcTFtaTlrbXFuazhTYWZ6YTd2djZhUkVnOG54Z2g1Yk9YSkF0d0ZVMkVBVjVSaDE4d1dKbUwzcXdEUFpqaVRCdkVWUklIZUN1bXBKeFI1RGlxektIdTVTUHd2Z0syXzF3eUp5U045STRRTl9kVURUU1VwdUtFQTRoUDhIM21lenR2cWZaYTRGMWdINjFXUlUtVlJVbldnQVJORmZlZElsMHRuamtkNUxkX1dNLWd5aTFmZHBmaXdWR3U3UnZ5VmZSUHNGcU9PdHJMZzNMSHNBSkZCS0Z3Y1J6UEFpQUZhSDZBMVFmOW8tRDFiYU1JZXNTR08yZEdkdTJkX3doakxBZ3RDWk40QWRRZFIxcW41X01RaGg0WWpmdGpCQUY3dXQ3VWM4YURzQUROU0M5VUh6VkRNcFFZZ0Z6TnlYTWJJV0NPbkhmLU53dEVTRjRoWFR0amZNZHc3Mm1FWHNjWGxzaXY5YnB3NUUxT0MwTGhFZTQzWDhHOXlhVGhyV1FDcTB5cjFMMUhGalhwSHc5MDhRT3kzamJKT2thbmUzdDVvelNSdnVEdnUwU2FWRlNxR0lXVzFteERjTlFoMzFuemZ0T0tOY2N5cE93al9mUm9DNzI0TElCSEc1MDZHU1E4Q0U3SG1NUUlLT3B3bmpiM0RRWUtRbVVHSnlITHNZTFRJVzF2TWQ1RkdwQQ?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "اليمن: 5 قتلى في هجوم حوثي على القصر الرئاسي بعدن والسعودية تتهم إيران بتأجيج التصعيد - France 24 — اليمن: 5 قتلى في هجوم حوثي على القصر الرئاسي بعدن والسعودية تتهم إيران بتأجيج التصعيد  France 24",
-   "url": "https://news.google.com/rss/articles/CBMiggZBVV95cUxQbTdoN1BKNGVfLTVHbjRQWHdxYkpFZnFYRC1xVGtKcTdJNGdTdGZhMFVJd0pqUXFPWUNHMGpyRUdfSTQtUnExNnZUU1YwYzAzZlN1SWZmLTNvYV9BMDN5eU11ekZHaUtQdGxGMFl2djRQTGtqVUZhQTlYbm01Z0t2OUxvUU9Cc0ZKSWhIMkJLd1FZLWtvQnBsUnYyVkRCOWJ0WGQ4UnphY2tJYlVXSFlLdE9mZHIxSF9CMXBNbG1wR0taNDh3VXpWbmdFOHVEdzRYM3ZHVS12eTJKdEU5M1pfWGJFYzloVUVPVXk0Yms1ODdfbDlJWmlvdGdPcTFtaTlrbXFuazhTYWZ6YTd2djZhUkVnOG54Z2g1Yk9YSkF0d0ZVMkVBVjVSaDE4d1dKbUwzcXdEUFpqaVRCdkVWUklIZUN1bXBKeFI1RGlxektIdTVTUHd2Z0syXzF3eUp5U045STRRTl9kVURUU1VwdUtFQTRoUDhIM21lenR2cWZaYTRGMWdINjFXUlUtVlJVbldnQVJORmZlZElsMHRuamtkNUxkX1dNLWd5aTFmZHBmaXdWR3U3UnZ5VmZSUHNGcU9PdHJMZzNMSHNBSkZCS0Z3Y1J6UEFpQUZhSDZBMVFmOW8tRDFiYU1JZXNTR08yZEdkdTJkX3doakxBZ3RDWk40QWRRZFIxcW41X01RaGg0WWpmdGpCQUY3dXQ3VWM4YURzQUROU0M5VUh6VkRNcFFZZ0Z6TnlYTWJJV0NPbkhmLU53dEVTRjRoWFR0amZNZHc3Mm1FWHNjWGxzaXY5YnB3NUUxT0MwTGhFZTQzWDhHOXlhVGhyV1FDcTB5cjFMMUhGalhwSHc5MDhRT3kzamJKT2thbmUzdDVvelNSdnVEdnUwU2FWRlNxR0lXVzFteERjTlFoMzFuemZ0T0tOY2N5cE93al9mUm9DNzI0TElCSEc1MDZHU1E4Q0U3SG1NUUlLT3B3bmpiM0RRWUtRbVVHSnlITHNZTFRJVzF2TWQ1RkdwQQ?oc=5",
-   "time": "2026-10-15T22:28:00+00:00",
-   "keywords": [
-    "هجوم"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T23:53:49.784639+00:00"
-  },
-  {
-   "id": "tg:IranintlTV/362466",
-   "kind": "tg",
-   "src": "iranintltv",
-   "text": "امیر گیتی، عضو تحریریه ایران‌اینترنشنال، گفت هشدار تازه وزارت خزانه‌داری آمریکا درباره سوءاستفاده احتمالی از خیریه‌های مذهبی و وجوهی مانند خمس و زکات، بخشی از تلاش واشینگتن برای محدود کردن شبکه‌های مالی مرتبط با جمهوری اسلامی و افزایش فشار بر تهران در آستانه توافق احتمالی است.\n\nاو افزود حتی اگر آمریکا و جمهوری اسلامی به توافق یا آتش‌بس طولانی‌مدت برسند، بازگشت روابط به شرایط عادی ممکن است سال‌ها طول بکشد. به گفته گیتی، بخشی از تحریم‌ها با تصمیم رییس‌جمهوری آمریکا قابل لغو است، اما لغو بخش دیگری به اقدام کنگره نیاز دارد.\n@iranintltv",
-   "url": "https://t.me/IranintlTV/362466",
-   "time": "2026-10-15T22:27:27+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-15T23:53:49.784639+00:00"
-  },
-  {
-   "id": "tg:farsna/468696",
-   "kind": "tg",
-   "src": "farsna",
-   "text": "چند نفر در تیراندازی در دبستان آمریکایی زخمی شدند  🔹پلیس شهر «بِند» واقع در ایالت اورگن آمریکا اعلام کرده که چند نفر براثر تیراندازی در یک دبستان این شهر زخمی شده‌اند.   🔹به گفتهٔ پلیس، فرد مظنون به انجام این تیراندازی کشته شده است.   @FarsNewsInt",
-   "url": "https://t.me/farsna/468696",
-   "time": "2026-10-15T22:26:39+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-15T23:53:49.784639+00:00"
-  },
-  {
-   "id": "tg:presstv/210931",
-   "kind": "tg",
-   "src": "presstv",
-   "text": "Iran to complete reconstruction of US-destroyed tunnels in Hormozgan by late December\n\nIran has accelerated reconstruction of the Shahid Mirzaei tunnels in Hormozgan Province after US missile strikes destroyed their stone entrances and exits.\n\n@PressTV",
-   "url": "https://t.me/presstv/210931",
-   "time": "2026-10-15T22:15:14+00:00",
-   "keywords": [
-    "strike",
-    "missile"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T23:53:49.784639+00:00"
-  },
-  {
-   "id": "tg:IranintlTV/362465",
-   "kind": "tg",
-   "src": "iranintltv",
-   "text": "🔻️️️️️️لالیگا مجموعه‌ای از شعارهای توهین‌آمیز هواداران در دو بازی مختلف در لالیگا علیه وینیسیوس جونیور و رئال مادرید در مسابقات آخر هفته را رسما محکوم کرد. نکته عجیب اینکه هواداران رئال سوسیداد در مسابقه‌ای علیه مهاجم برزیلی شعار دادند که او اصلا در آن حضور نداشت.\n\n🔹️️️️️️به گزارش سایت گل؛ کمی پیش از پایان نیمه نخست دیدار رئال سوسیداد و دپورتیوو لاکرونیا، گروهی از هواداران میزبان در طبقه پایین ورزشگاه شروع به سر دادن شعارهای توهین‌آمیز علیه وینیسیوس کردند. این شعارها مستقیما مهاجم برزیلی را هدف قرار داده بود.\n\n🔹️️️️️️لالیگا همچنین توهین‌های گسترده در دیدار اخیر بارسلونا مقابل ختافه را ثبت کرده",
-   "url": "https://t.me/IranintlTV/362465",
-   "time": "2026-10-15T22:14:13+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-15T23:53:49.784639+00:00"
-  },
-  {
-   "id": "tg:Alibk3/39180",
-   "kind": "tg",
-   "src": "alibk3",
-   "text": "جمعية سعودية تعلن عن مقتل جندي سعودي بالضربات اليمنية يوم أمس 15 اكتوبر، بالقرب من حدود اليمن.",
-   "url": "https://t.me/Alibk3/39180",
-   "time": "2026-10-15T22:13:14+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-15T23:53:49.784639+00:00"
-  },
-  {
-   "id": "tg:IranintlTV/362464",
-   "kind": "tg",
-   "src": "iranintltv",
-   "text": "علیرضا کیانی در قسمت پانزدهم «فریدون»، به شرح نوع نگاه جمهوری اسلامی به تاریخ ایران می‌پردازد و آن را یک نگاه «ضدتاریخی» علیه تاریخ می‌داند که به باور او از ساختار ایدئولوژیک این رژیم بر می‌خیزد.\n@iranintltv",
-   "url": "https://t.me/IranintlTV/362464",
-   "time": "2026-10-15T22:12:01+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-15T23:53:49.784639+00:00"
-  },
-  {
-   "id": "tg:IranintlTV/362463",
-   "kind": "tg",
-   "src": "iranintltv",
-   "text": "علیرضا کیانی در قسمت پانزدهم «فریدون»، به شرح نوع نگاه جمهوری اسلامی به تاریخ ایران می‌پردازد و آن را یک نگاه «ضدتاریخی» علیه تاریخ می‌داند که به باور او از ساختار ایدئولوژیک این رژیم بر می‌خیزد.\n@iranintltv",
-   "url": "https://t.me/IranintlTV/362463",
-   "time": "2026-10-15T22:11:52+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-15T23:53:49.784639+00:00"
-  },
-  {
-   "id": "tg:IranintlTV/362462",
-   "kind": "tg",
-   "src": "iranintltv",
-   "text": "علیرضا کیانی در قسمت پانزدهم «فریدون»، یهودی‌ستیزی را یکی از انگیزه‌های جمهوری اسلامی برای حمله به تاریخ ایران می‌داند و در همین چارچوب، مدارای کوروش بزرگ با یهودیان را از دلایل دشمنی این رژیم با این پادشاه برمی‌شمارد.\n@iranintltv",
-   "url": "https://t.me/IranintlTV/362462",
-   "time": "2026-10-15T22:08:30+00:00",
-   "keywords": [
-    "حمله"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T23:53:49.784639+00:00"
-  },
-  {
-   "id": "tg:IranintlTV/362461",
-   "kind": "tg",
-   "src": "iranintltv",
-   "text": "علیرضا کیانی در قسمت پانزدهم «فریدون»، یهودی‌ستیزی را یکی از انگیزه‌های جمهوری اسلامی برای حمله به تاریخ ایران می‌داند و در همین چارچوب، مدارای کوروش بزرگ با یهودیان را از دلایل دشمنی این رژیم با این پادشاه برمی‌شمارد.\n@iranintltv",
-   "url": "https://t.me/IranintlTV/362461",
-   "time": "2026-10-15T22:08:23+00:00",
-   "keywords": [
-    "حمله"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T23:53:49.784639+00:00"
-  },
-  {
-   "id": "tg:IranintlTV/362460",
-   "kind": "tg",
-   "src": "iranintltv",
-   "text": "علیرضا کیانی در قسمت ۱۵ برنامه «فریدون» به روند سیستماتیک توهین جمهوری اسلامی به تاریخ ایران اشاره می‌کند و آن را برآمده از ایدئولوژی پنجاه‌وهفتی‌ها می‌داند.\n@iranintltv",
-   "url": "https://t.me/IranintlTV/362460",
-   "time": "2026-10-15T22:06:05+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-15T23:53:49.784639+00:00"
-  },
-  {
-   "id": "tg:idfofficial/19370",
-   "kind": "tg",
-   "src": "idfofficial",
-   "text": "IDF: Following the incident in the area of Ateret, an initial inquiry determined that the incident was not terror-related.\n\nThe driver was transferred to security forces, and officers from the Judea and Samaria District Police opened an investigation to establish the circumstances of the accident.",
-   "url": "https://t.me/idfofficial/19370",
-   "time": "2026-10-15T22:05:38+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-15T23:53:49.784639+00:00"
-  },
-  {
-   "id": "tg:IranintlTV/362459",
-   "kind": "tg",
-   "src": "iranintltv",
-   "text": "علیرضا کیانی در قسمت ۱۵ برنامه «فریدون» به روند سیستماتیک توهین جمهوری اسلامی به تاریخ ایران اشاره می‌کند و آن را برآمده از ایدئولوژی پنجاه‌وهفتی‌ها می‌داند.\n@iranintltv",
-   "url": "https://t.me/IranintlTV/362459",
-   "time": "2026-10-15T22:05:15+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-15T23:53:49.784639+00:00"
-  },
-  {
-   "id": "tg:bbcpersian/293425",
-   "kind": "tg",
-   "src": "bbcpersian",
-   "text": "‌ ‌  \nدونالد ترامپ، رئیس‌جمهور آمریکا، اعلام کرد که برخلاف تصمیم قبلی دولتش، مراسم اعدام نضال مالک حسن، افسر سابق ارتش آمریکا که در سال ۲۰۰۹ در پایگاه نظامی فورت هود در تگزاس ۱۳ نفر را کشت، به‌صورت زنده پخش نخواهد شد.\n\nترامپ در پیامی در شبکه اجتماعی تروث سوشال، نضال حسن را «فردی بسیار شرور» و «خائن» توصیف کرد و نوشت که او در حمله خود ۱۳ نفر، از جمله یک سرباز باردار را کشت. فرزند متولدنشده این سرباز نیز جان باخت و ۳۲ نفر دیگر به‌شدت مجروح شدند.\n\nرئیس‌جمهور آمریکا همچنین به ارتباطات الکترونیکی نضال حسن با انور العولقی، روحانی تندروی یمنی‌آمریکایی، اشاره کرد و گفت که اف‌بی‌آی در دوران ریاست‌جمهور",
-   "url": "https://t.me/bbcpersian/293425",
-   "time": "2026-10-15T22:03:01+00:00",
-   "keywords": [
-    "حمله"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T23:53:49.784639+00:00"
-  },
-  {
-   "id": "tg:farsna/468690",
-   "kind": "tg",
-   "src": "farsna",
-   "text": "📷 جشن ولادت حضرت زینب(س) در میدان انقلاب\n\nعکس: محمدمهدی دهقانی\n@Farsna",
-   "url": "https://t.me/farsna/468690",
-   "time": "2026-10-15T22:02:59+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-15T23:53:49.784639+00:00"
-  },
-  {
-   "id": "tg:presstv/210930",
-   "kind": "tg",
-   "src": "presstv",
-   "text": "▶️ An explosion from a missile impact was reported in the Metula settlement, northern occupied Palestine.\n\n@PressTV",
-   "url": "https://t.me/presstv/210930",
-   "time": "2026-10-15T22:02:24+00:00",
-   "keywords": [
-    "missile"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T23:53:49.784639+00:00"
-  },
-  {
-   "id": "tg:Alibk3/39179",
-   "kind": "tg",
-   "src": "alibk3",
-   "text": "سماع دوي انفجار في العاصمة اليمنية صنعاء.",
-   "url": "https://t.me/Alibk3/39179",
-   "time": "2026-10-15T22:00:54+00:00",
-   "keywords": [
-    "انفجار"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-15T23:53:49.784639+00:00"
-  },
-  {
-   "id": "tg:IranintlTV/362458",
-   "kind": "tg",
-   "src": "iranintltv",
-   "text": "🎧نسخه صوتی برنامه با کامبیز حسینی | آخرین قسمت ماراتن تریبون آزاد؛ مهمان: مراد ویسی\n@iranintlTV",
-   "url": "https://t.me/IranintlTV/362458",
-   "time": "2026-10-15T21:58:44+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-15T23:53:49.784639+00:00"
-  },
-  {
-   "id": "rss:https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss",
-   "kind": "rss",
-   "src": "www.aljazeera.com",
-   "text": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims — The halt to commercial shipments, including fruit and winter clothing, cuts off a key source of critical supplies.",
-   "url": "https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss",
-   "time": "2026-10-15T21:57:58+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-15T23:53:49.784639+00:00"
-  },
-  {
-   "id": "tg:IranintlTV/362457",
-   "kind": "tg",
-   "src": "iranintltv",
-   "text": "رویترز به نقل از یک مقام وزارت خارجه آمریکا گزارش داد مارکو روبیو، وزیر خارجه ایالات متحده، با جوزف عون، رییس‌جمهوری لبنان، درباره ضبط صدها کیلوگرم مواد منفجره متعلق به حزب‌الله گفت‌وگو کرد.\n\nاین مقام در این باره گفت، روبیو در این تماس از میشل عون خواست، دولت لبنان افرادی را که دستور ارسال این محموله را صادر ، هزینه آن را تامین، یا انتقال آن را هدایت کرده‌اند را پاسخگو کند.\n\nبه گفته این مقام وزارت خارجه آمریکا، روبیو همچنین تاکید کرده که این مواد منفجره نباید تحت هیچ شرایطی به گروه حزب‌الله بازگردانده شود.\nhttps://iranintl.com/202610159728",
-   "url": "https://t.me/IranintlTV/362457",
-   "time": "2026-10-15T21:57:40+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-15T23:53:49.784639+00:00"
-  },
-  {
-   "id": "tg:Alibk3/39177",
-   "kind": "tg",
-   "src": "alibk3",
-   "text": "استمرار توقف المطارات السعودية عن استقبال الرحلات…\n\nمطاري نجران وجازان لأكثر من 228 ساعة، والرياض لنحو 131 ساعة، وتبوك 4 ساعات، والدمام ساعتين.",
-   "url": "https://t.me/Alibk3/39177",
-   "time": "2026-10-15T21:55:02+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-15T23:53:49.784639+00:00"
-  },
-  {
-   "id": "tg:Alibk3/39178",
-   "kind": "tg",
-   "src": "alibk3",
-   "text": "استمرار توقف المطارات السعودية عن استقبال الرحلات…\n\nمطاري نجران وجازان لأكثر من 228 ساعة، والرياض لنحو 131 ساعة، وتبوك 4 ساعات، والدمام ساعتين.",
-   "url": "https://t.me/Alibk3/39178",
-   "time": "2026-10-15T21:55:02+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-16T03:39:07.404111+00:00"
-  },
-  {
-   "id": "tg:IranintlTV/362456",
-   "kind": "tg",
-   "src": "iranintltv",
-   "text": "🎧نسخه صوتی فریدون: چرا جمهوری اسلامی به تاریخ ایران توهین می‌کند؟\n@iranintlTV",
-   "url": "https://t.me/IranintlTV/362456",
-   "time": "2026-10-15T21:54:56+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-15T23:53:49.784639+00:00"
-  },
-  {
-   "id": "rss:https://www.aljazeera.com/sports/2026/10/15/martinez-apologises-for-man-united-outburst-after-carrick-talks?traffic_source=rss",
-   "kind": "rss",
-   "src": "www.aljazeera.com",
-   "text": "Man United’s Martinez apologises for outburst after talks with Carrick — Lisandro Martinez meets Manchester United manager Michael Carrick before apologising for his criticism of the club.",
-   "url": "https://www.aljazeera.com/sports/2026/10/15/martinez-apologises-for-man-united-outburst-after-carrick-talks?traffic_source=rss",
-   "time": "2026-10-15T21:54:26+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-15T23:53:49.784639+00:00"
-  },
-  {
-   "id": "tg:farsna/468689",
-   "kind": "tg",
-   "src": "farsna",
-   "text": "چند نفر در تیراندازی در دبستان آمریکایی زخمی شدند\n\n🔹پلیس شهر «بِند» واقع در ایالت اورگن آمریکا اعلام کرده که چند نفر براثر تیراندازی در یک دبستان این شهر زخمی شده‌اند. \n\n🔹به گفتهٔ پلیس، فرد مظنون به انجام این تیراندازی کشته شده است. \n\n@FarsNewsInt",
-   "url": "https://t.me/farsna/468689",
-   "time": "2026-10-15T21:46:39+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-15T23:53:49.784639+00:00"
-  },
-  {
-   "id": "tg:warmonitors/46088",
-   "kind": "tg",
-   "src": "warmonitors",
-   "text": "Lord have mercy.\n\nCameron Winter - Live at Carnegie Hall \n\n💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18",
-   "url": "https://t.me/warmonitors/46088",
-   "time": "2026-10-15T21:46:35+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-15T23:53:49.784639+00:00"
-  },
-  {
-   "id": "tg:presstv/210929",
-   "kind": "tg",
-   "src": "presstv",
-   "text": "▶️ Law enforcement and paramedics on the scene after an active shooter incident was reported at an elementary school in Bend, Oregon.\n\n@PressTV",
-   "url": "https://t.me/presstv/210929",
-   "time": "2026-10-15T21:45:01+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-15T23:53:49.784639+00:00"
   }
  ],
  "counts": {
