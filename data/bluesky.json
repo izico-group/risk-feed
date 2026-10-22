@@ -1,14 +1,137 @@
 {
- "updated": "2026-10-22T11:42:00.069516+00:00",
+ "updated": "2026-10-22T16:04:29.754942+00:00",
  "accounts": 4,
  "errors": [],
  "items": [
+  {
+   "id": "bsky:at://did:plc:xnqnvmwuju4ipj7dehiuxonh/app.bsky.feed.post/3myhu2snsws26",
+   "kind": "bsky",
+   "src": "netblocks.org",
+   "text": "⚠️ Confirmed: Metrics show a disruption to internet connectivity in Zhytomyr Oblast, #Ukraine, corresponding to the third set of power outages this week as Russia's strategy of drone attacks targeting energy infrastructure during the colder months expands westward",
+   "url": "https://bsky.app/profile/netblocks.org/post/3myhu2snsws26",
+   "time": "2026-10-22T14:16:12.975Z",
+   "keywords": [
+    "attack"
+   ],
+   "emojis": [],
+   "alert": true
+  },
+  {
+   "id": "bsky:at://did:plc:2whlowi5jjjqrdrrj4lxh2lx/app.bsky.feed.post/3myhnovfet22d",
+   "kind": "bsky",
+   "src": "eliothiggins.bsky.social",
+   "text": "The writers are getting a bit too much on the nose this season.",
+   "url": "https://bsky.app/profile/eliothiggins.bsky.social/post/3myhnovfet22d",
+   "time": "2026-10-22T12:22:10.733Z",
+   "keywords": [],
+   "emojis": [],
+   "alert": false
+  },
+  {
+   "id": "bsky:at://did:plc:sb54dpdfefflykmf5bcfvr7t/app.bsky.feed.post/3myhkwbolc326",
+   "kind": "bsky",
+   "src": "eliothiggins.bsky.social",
+   "text": "Bellingcat is a not-for-profit and our work would not be possible without the kind support of individual donors. Help us continue this work by donating today: www.bellingcat.com/donate/",
+   "url": "https://bsky.app/profile/eliothiggins.bsky.social/post/3myhkwbolc326",
+   "time": "2026-10-22T11:31:30.382Z",
+   "keywords": [],
+   "emojis": [],
+   "alert": false
+  },
+  {
+   "id": "bsky:at://did:plc:sb54dpdfefflykmf5bcfvr7t/app.bsky.feed.post/3myhkwbokct26",
+   "kind": "bsky",
+   "src": "eliothiggins.bsky.social",
+   "text": "Therefore, despite models improving it remains vital to keep a human in the loop to ensure a geolocation is precise and correct.",
+   "url": "https://bsky.app/profile/eliothiggins.bsky.social/post/3myhkwbokct26",
+   "time": "2026-10-22T11:31:30.381Z",
+   "keywords": [],
+   "emojis": [],
+   "alert": false
+  },
+  {
+   "id": "bsky:at://did:plc:sb54dpdfefflykmf5bcfvr7t/app.bsky.feed.post/3myhkwbokcs26",
+   "kind": "bsky",
+   "src": "eliothiggins.bsky.social",
+   "text": "While many models were good at identifying general areas, pinpointing exact coordinates was more of a challenge. As any online investigator knows, this final stretch in identifying an exact spot is vitally important. Our tests show that human geolocators still have the edge in this area.",
+   "url": "https://bsky.app/profile/eliothiggins.bsky.social/post/3myhkwbokcs26",
+   "time": "2026-10-22T11:31:30.380Z",
+   "keywords": [],
+   "emojis": [],
+   "alert": false
+  },
+  {
+   "id": "bsky:at://did:plc:sb54dpdfefflykmf5bcfvr7t/app.bsky.feed.post/3myhkwbojdk26",
+   "kind": "bsky",
+   "src": "eliothiggins.bsky.social",
+   "text": "But the tests also showed why humans remain necessary for accurate and trustworthy geolocation work, as no models were foolproof.",
+   "url": "https://bsky.app/profile/eliothiggins.bsky.social/post/3myhkwbojdk26",
+   "time": "2026-10-22T11:31:30.379Z",
+   "keywords": [],
+   "emojis": [],
+   "alert": false
+  },
+  {
+   "id": "bsky:at://did:plc:sb54dpdfefflykmf5bcfvr7t/app.bsky.feed.post/3myhkwboiec26",
+   "kind": "bsky",
+   "src": "eliothiggins.bsky.social",
+   "text": "The results showed that the current generation of models have improved geolocation capabilities. Anthropic’s Opus and Fable, as well as Google’s recent Gemini 4 Argon model, performed the best on geolocations, narrowing down locations from images faster than a human could under specific conditions.",
+   "url": "https://bsky.app/profile/eliothiggins.bsky.social/post/3myhkwboiec26",
+   "time": "2026-10-22T11:31:30.378Z",
+   "keywords": [],
+   "emojis": [],
+   "alert": false
+  },
+  {
+   "id": "bsky:at://did:plc:sb54dpdfefflykmf5bcfvr7t/app.bsky.feed.post/3myhkw6i3yk26",
+   "kind": "bsky",
+   "src": "eliothiggins.bsky.social",
+   "text": "We’ve previously done two similar tests. This time, we significantly upped the ante for the models, providing more challenging photos and asking for only one set of coordinates. The top-performing models placed over 50 percent of the photos within 25 kilometres.",
+   "url": "https://bsky.app/profile/eliothiggins.bsky.social/post/3myhkw6i3yk26",
+   "time": "2026-10-22T11:31:30.377Z",
+   "keywords": [],
+   "emojis": [],
+   "alert": false
+  },
+  {
+   "id": "bsky:at://did:plc:sb54dpdfefflykmf5bcfvr7t/app.bsky.feed.post/3myhkvoe77c26",
+   "kind": "bsky",
+   "src": "eliothiggins.bsky.social",
+   "text": "Several correctly inferred enough vegetation details to narrow down the exact part of the world and the park itself. It is important to note that even though some models were correct, others were significantly off.",
+   "url": "https://bsky.app/profile/eliothiggins.bsky.social/post/3myhkvoe77c26",
+   "time": "2026-10-22T11:31:30.376Z",
+   "keywords": [],
+   "emojis": [],
+   "alert": false
+  },
+  {
+   "id": "bsky:at://did:plc:sb54dpdfefflykmf5bcfvr7t/app.bsky.feed.post/3myhkue2its26",
+   "kind": "bsky",
+   "src": "eliothiggins.bsky.social",
+   "text": "This image mostly shows vegetation and a, barely visible, rooftop. For an average person, identifying the country this photo was taken in without any context could take a significant amount of time. However, multiple models quickly narrowed it down to Kenya.",
+   "url": "https://bsky.app/profile/eliothiggins.bsky.social/post/3myhkue2its26",
+   "time": "2026-10-22T11:31:30.375Z",
+   "keywords": [],
+   "emojis": [],
+   "alert": false
+  },
   {
    "id": "bsky:at://did:plc:sb54dpdfefflykmf5bcfvr7t/app.bsky.feed.post/3myhkuburfk26",
    "kind": "bsky",
    "src": "bellingcat.com",
    "text": "In September, the AI company Anthropic claimed its models were approaching “superhuman capabilities for geolocating outdoor photos”. Bellingcat put that claim to the test by benchmarking the performance of Anthropic and other LLMs. Here’s what we found: www.bellingcat.com/resources/20...",
    "url": "https://bsky.app/profile/bellingcat.com/post/3myhkuburfk26",
+   "time": "2026-10-22T11:31:30.374Z",
+   "keywords": [],
+   "emojis": [],
+   "alert": false
+  },
+  {
+   "id": "bsky:at://did:plc:sb54dpdfefflykmf5bcfvr7t/app.bsky.feed.post/3myhkuburfk26",
+   "kind": "bsky",
+   "src": "eliothiggins.bsky.social",
+   "text": "In September, the AI company Anthropic claimed its models were approaching “superhuman capabilities for geolocating outdoor photos”. Bellingcat put that claim to the test by benchmarking the performance of Anthropic and other LLMs. Here’s what we found: www.bellingcat.com/resources/20...",
+   "url": "https://bsky.app/profile/eliothiggins.bsky.social/post/3myhkuburfk26",
    "time": "2026-10-22T11:31:30.374Z",
    "keywords": [],
    "emojis": [],
@@ -50,39 +173,6 @@
    "alert": false
   },
   {
-   "id": "bsky:at://did:plc:xciroqs5w2kazs6fc6ypcbh7/app.bsky.feed.post/3myg2sqnsjk2g",
-   "kind": "bsky",
-   "src": "eliothiggins.bsky.social",
-   "text": "NEW: The knives are already out in the White House, but for obvious reasons you can’t point them at the guy who’s actually the problem, which is already leading to some ... creative scapegoating. @hugolowell.bsky.social reports!",
-   "url": "https://bsky.app/profile/eliothiggins.bsky.social/post/3myg2sqnsjk2g",
-   "time": "2026-10-21T21:11:39.158Z",
-   "keywords": [],
-   "emojis": [],
-   "alert": false
-  },
-  {
-   "id": "bsky:at://did:plc:nyjm4ylfid2a7mjm6varxuiq/app.bsky.feed.post/3myg2ezwesk2n",
-   "kind": "bsky",
-   "src": "eliothiggins.bsky.social",
-   "text": "President's falling for it was collected in a file sent directly to the Kremlin. Inside Putin's \"Doppelgänger\" operation, based on leaked correspondence between the PA and Russia's Agency for Social Design. The White House has been penetrated by Russian agents as never before in US history.",
-   "url": "https://bsky.app/profile/eliothiggins.bsky.social/post/3myg2ezwesk2n",
-   "time": "2026-10-21T21:03:59.115Z",
-   "keywords": [],
-   "emojis": [],
-   "alert": false
-  },
-  {
-   "id": "bsky:at://did:plc:nyjm4ylfid2a7mjm6varxuiq/app.bsky.feed.post/3myg2en3w222n",
-   "kind": "bsky",
-   "src": "eliothiggins.bsky.social",
-   "text": "Leaks from Putin's office have revealed an extensive influence operation targeting JD Vance, which achieved everything it set out to achieve. Read all about how JD Vance and others fell for a lie about Volodymyr Zelensky concocted by agents of Russia's Presidential Administration. And how the Vice",
-   "url": "https://bsky.app/profile/eliothiggins.bsky.social/post/3myg2en3w222n",
-   "time": "2026-10-21T21:03:45.661Z",
-   "keywords": [],
-   "emojis": [],
-   "alert": false
-  },
-  {
    "id": "bsky:at://did:plc:4llrhdclvdlmmynkwsmg5tdc/app.bsky.feed.post/3myg2d5bfi22n",
    "kind": "bsky",
    "src": "eliothiggins.bsky.social",
@@ -105,28 +195,6 @@
    "alert": false
   },
   {
-   "id": "bsky:at://did:plc:r4ve5hjtfjubdwrvlxcad62e/app.bsky.feed.post/3myfulzubfh2v",
-   "kind": "bsky",
-   "src": "eliothiggins.bsky.social",
-   "text": "#BREAKING US embassy staff and families ordered to leave Saudi Arabia, with families of embassy staff in the United Arab Emirates, Jordan, Qatar and Bahrain also ordered to leave, diplomatic source tells AFP",
-   "url": "https://bsky.app/profile/eliothiggins.bsky.social/post/3myfulzubfh2v",
-   "time": "2026-10-21T19:20:31.459Z",
-   "keywords": [],
-   "emojis": [],
-   "alert": false
-  },
-  {
-   "id": "bsky:at://did:plc:eppsmw5nfmdzhfeymtzd3xbe/app.bsky.feed.post/3myfrvukhvk2l",
-   "kind": "bsky",
-   "src": "eliothiggins.bsky.social",
-   "text": "Looks like somebody just saw turnout numbers for the first two days of early voting in Dallas County",
-   "url": "https://bsky.app/profile/eliothiggins.bsky.social/post/3myfrvukhvk2l",
-   "time": "2026-10-21T18:32:20.203Z",
-   "keywords": [],
-   "emojis": [],
-   "alert": false
-  },
-  {
    "id": "bsky:at://did:plc:xnqnvmwuju4ipj7dehiuxonh/app.bsky.feed.post/3myfqeebqy222",
    "kind": "bsky",
    "src": "netblocks.org",
@@ -138,67 +206,12 @@
    "alert": false
   },
   {
-   "id": "bsky:at://did:plc:2whlowi5jjjqrdrrj4lxh2lx/app.bsky.feed.post/3myfpi3qos22h",
-   "kind": "bsky",
-   "src": "eliothiggins.bsky.social",
-   "text": "Destroyed by EA like a Millennial Origin Systems - Electronic Arts to Shed 400 Jobs, Shut Down BioWare to Cut Costs\nwww.bloomberg.com/news/article...",
-   "url": "https://bsky.app/profile/eliothiggins.bsky.social/post/3myfpi3qos22h",
-   "time": "2026-10-21T17:48:50.528Z",
-   "keywords": [],
-   "emojis": [],
-   "alert": false
-  },
-  {
-   "id": "bsky:at://did:plc:qp7anqcqescucfwi4wari2z4/app.bsky.feed.post/3myfmrf2ins22",
-   "kind": "bsky",
-   "src": "eliothiggins.bsky.social",
-   "text": "Elon Musk threatens Congress.",
-   "url": "https://bsky.app/profile/eliothiggins.bsky.social/post/3myfmrf2ins22",
-   "time": "2026-10-21T17:00:21.047Z",
-   "keywords": [],
-   "emojis": [],
-   "alert": false
-  },
-  {
-   "id": "bsky:at://did:plc:sb54dpdfefflykmf5bcfvr7t/app.bsky.feed.post/3myflb2oggc2a",
-   "kind": "bsky",
-   "src": "eliothiggins.bsky.social",
-   "text": "You can vote for more than one design/product at a time. The final winning designs will be available to purchase later this year. You can find out more about the capsule here (please note the submission deadline has passed): www.bellingcat.com/uncategorize...",
-   "url": "https://bsky.app/profile/eliothiggins.bsky.social/post/3myflb2oggc2a",
-   "time": "2026-10-21T16:32:44.886Z",
-   "keywords": [],
-   "emojis": [],
-   "alert": false
-  },
-  {
    "id": "bsky:at://did:plc:sb54dpdfefflykmf5bcfvr7t/app.bsky.feed.post/3myfl7zmmss2a",
    "kind": "bsky",
    "src": "bellingcat.com",
    "text": "We received hundreds of incredible co-created concepts for our first merch capsule. Our team has curated the shortlist, and now it's time to choose the winners.\nCast your vote on the designs you want to wear. \nVoting is open for exactly two weeks!\nbellingcat.questionpro.eu/t/AB3vDHmZB3...",
    "url": "https://bsky.app/profile/bellingcat.com/post/3myfl7zmmss2a",
    "time": "2026-10-21T16:32:44.885Z",
-   "keywords": [],
-   "emojis": [],
-   "alert": false
-  },
-  {
-   "id": "bsky:at://did:plc:sb54dpdfefflykmf5bcfvr7t/app.bsky.feed.post/3myfl7zmmss2a",
-   "kind": "bsky",
-   "src": "eliothiggins.bsky.social",
-   "text": "We received hundreds of incredible co-created concepts for our first merch capsule. Our team has curated the shortlist, and now it's time to choose the winners.\nCast your vote on the designs you want to wear. \nVoting is open for exactly two weeks!\nbellingcat.questionpro.eu/t/AB3vDHmZB3...",
-   "url": "https://bsky.app/profile/eliothiggins.bsky.social/post/3myfl7zmmss2a",
-   "time": "2026-10-21T16:32:44.885Z",
-   "keywords": [],
-   "emojis": [],
-   "alert": false
-  },
-  {
-   "id": "bsky:at://did:plc:y4ol4pkdacovcnhxpj3a22cb/app.bsky.feed.post/3myfjnwz2ls2y",
-   "kind": "bsky",
-   "src": "eliothiggins.bsky.social",
-   "text": "A roof over your head isn’t a luxury, it’s a necessity, and it shouldn’t prevent you from affording to eat. We need to uprate LHA, and look seriously at rent regulation. \n\nGreat piece by @nadinebh.bsky.social \n\nwww.politicshome.com/news/article/third-renters-unable-afford-food-new-data-shows",
-   "url": "https://bsky.app/profile/eliothiggins.bsky.social/post/3myfjnwz2ls2y",
-   "time": "2026-10-21T16:04:44.429Z",
    "keywords": [],
    "emojis": [],
    "alert": false
