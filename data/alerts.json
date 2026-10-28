@@ -1,6 +1,236 @@
 {
- "updated": "2026-10-27T22:17:10.409063+00:00",
+ "updated": "2026-10-28T01:28:55.454643+00:00",
  "alerts": [
+  {
+   "id": "rss:https://www.bbc.co.uk/persian/live/c6djvmvk2kmpt?at_medium=RSS&at_campaign=rss",
+   "kind": "rss",
+   "src": "feeds.bbci.co.uk",
+   "text": "ترامپ: حمله به ایران یکی از بهترین کارهایی است که کردم — دونالد ترامپ در یک میتینگ انتخاباتی گفته است اگر به عقب بازگردد تصمیمش را عوض نخواهد کرد چرا که معتقد است جنگ با ایران یکی از «بهترین» کارهایی است که انجام داده است.\nمسعود پزشکیان بعد از دیدار با ولادیمیر پوتین و امیر قطر در مسکو و در حاشیه اجلاس تولیدکنندگان گار، به ایران بازگشته است. آمریکا گفته ب",
+   "url": "https://www.bbc.co.uk/persian/live/c6djvmvk2kmpt?at_medium=RSS&at_campaign=rss",
+   "time": "2026-10-28T01:28:55.454643+00:00",
+   "keywords": [
+    "حمله"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-28T01:28:55.454643+00:00"
+  },
+  {
+   "id": "tg:presstv/212534",
+   "kind": "tg",
+   "src": "presstv",
+   "text": "🇮🇷 Iranian security forces arrest 6 members of a terrorist group in Bampur, southern Sistan and Baluchestan, during a joint operation. Three Kalashnikov rifles, a handgun, 7 magazines and 172 rounds of ammunition were seized.  @PressTV",
+   "url": "https://t.me/presstv/212534",
+   "time": "2026-10-28T01:10:23+00:00",
+   "keywords": [],
+   "emojis": [
+    "🇮🇷"
+   ],
+   "alert": true,
+   "collected": "2026-10-28T01:28:55.454643+00:00"
+  },
+  {
+   "id": "tg:ClashReport/103353",
+   "kind": "tg",
+   "src": "clashreport",
+   "text": "BIG: The U.S. has warned several Gulf countries to prepare for a possible short, intense military campaign against Iran after the November midterm elections.\n\nU.S. forces are reinforcing missile defenses, restocking ammunition and preparing bombers and fighter jets for potential strikes. \n\nTrump is reportedly leaning toward a major attack targeting Iranian infrastructure and nuclear sites but has not made a final decision.\n\nIsrael is also preparing for renewed strikes.\n\nSource: WSJ",
+   "url": "https://t.me/ClashReport/103353",
+   "time": "2026-10-28T01:07:31+00:00",
+   "keywords": [
+    "strike",
+    "attack",
+    "missile"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-28T01:28:55.454643+00:00"
+  },
+  {
+   "id": "tg:Alibk3/40208",
+   "kind": "tg",
+   "src": "alibk3",
+   "text": "وول ستريت جورنال عن مسؤولين:\n\nالولايات المتحدة تبلغ عدة دول عربية خليجية بضرورة الاستعداد لحملة عسكرية قصيرة ومكثفة ضد إيران بعد انتخابات التجديد النصفي.\n\nترامب يميل إلى شن هجوم كبير على الأهداف النووية والبنية التحتية الإيرانية بعد الانتخابات.",
+   "url": "https://t.me/Alibk3/40208",
+   "time": "2026-10-28T01:05:30+00:00",
+   "keywords": [
+    "هجوم"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-28T01:28:55.454643+00:00"
+  },
+  {
+   "id": "tg:bbcpersian/294164",
+   "kind": "tg",
+   "src": "bbcpersian",
+   "text": "🔻خبرگزاری رویترز با بررسی داده‌های پنتاگون گزارش کرده که ارتش آمریکا تاکنون بیش از ۴۷ میلیارد دلار برای پیشبرد جنگ با ایران هزینه کرده است.\n\nبر اساس این داده‌ها، این رقم ۲۵ درصد بیشتر از برآورد وزارت دفاع آمریکا در ماه ژوئیه است.\n\nبه گزارش رویترز، بخش عمده‌ هزینه‌های عملیاتی این جنگ شامل بیش از ۲۹ میلیارد دلار برای جایگزینی مهمات مصرف‌شده و بیش از ۶ میلیارد دلار برای جایگزینی تجهیزات نظامی بوده است.\n\nاین ارقام به‌طور مشخص شامل برآورد هزینه‌های تعمیر خسارات وارده به پایگاه‌های آمریکا در پی حملات موشکی و پهپادی ایران نمی‌شود.\n📷US Navy\n@BBCPersian",
+   "url": "https://t.me/bbcpersian/294164",
+   "time": "2026-10-28T01:05:18+00:00",
+   "keywords": [
+    "موشک",
+    "پهپاد"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-28T01:28:55.454643+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMibEFVX3lxTE1jUDRPTTRmTGRXQ3hIbzZDTnRuc0pxMkNZWmpxSkJhR2pQMHdmTU5tTVVPSXRKOVJoc21YTWsxaWR4Y0dtelVOY1ZBTTJSUkxNbFlVelIybTdibHdhYlVSMjFQak5raFVwa1RBYg?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "🇮🇱 🇮🇷 Israel’s generals reportedly blocked a strike on Iran before the vote... and the weeks after it could look very different. The army chief pushed back hard on Netanyahu before Tuesday’s election, but Netanyahu stays on as caretaker while coalition talks pl - X — 🇮🇱 🇮🇷 Israel’s generals reportedly blocked a strike on Iran before the vote... and the weeks after it could look very different. The army chief pushed back hard on Netanyahu before Tuesday’s election, but Netanyahu stays on as caretaker while coalition talks pl  X",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jUDRPTTRmTGRXQ3hIbzZDTnRuc0pxMkNZWmpxSkJhR2pQMHdmTU5tTVVPSXRKOVJoc21YTWsxaWR4Y0dtelVOY1ZBTTJSUkxNbFlVelIybTdibHdhYlVSMjFQak5raFVwa1RBYg?oc=5",
+   "time": "2026-10-28T00:48:46+00:00",
+   "keywords": [
+    "strike"
+   ],
+   "emojis": [
+    "🇮🇷"
+   ],
+   "alert": true,
+   "collected": "2026-10-28T01:28:55.454643+00:00"
+  },
+  {
+   "id": "tg:presstv/212533",
+   "kind": "tg",
+   "src": "presstv",
+   "text": "Yemen strikes Saudi oil refinery, targets military aircraft in retaliatory operations   Brigadier General Yahya Saree, spokesperson for the Yemeni Armed Forces, has announced a missile strike on Saudi Arabia’s Ras Tanura oil refinery in the Eastern Province…",
+   "url": "https://t.me/presstv/212533",
+   "time": "2026-10-28T00:45:00+00:00",
+   "keywords": [
+    "strike",
+    "missile"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-28T01:28:55.454643+00:00"
+  },
+  {
+   "id": "tg:bbcpersian/294162",
+   "kind": "tg",
+   "src": "bbcpersian",
+   "text": "🔻ترامپ: حمله به ایران یکی از بهترین کارهایی بود که کردم\n\nدونالد ترامپ که برای حضور در یک تجمع انتخاباتی به تگزاس سفر کرده، عصر سه شنبه در میان هواداران خود گفت: «از من پرسیدند: اگر قرار بود دوباره این کار را انجام دهید، باز هم به ایران حمله می‌کردید؟» گفتم: «قطعا. این یکی از بزرگ‌ترین کارهایی است که در زندگی‌ام انجام داده‌ام.»\n\nجنگ با ایران و افزایش بی‌سابقه بهای نفت و سوخت در پی آن، یکی از اصلی‌ترین انتقادها به جمهوری‌خواهان و دولت آقای ترامپ است و ممکن است در انتخابات میان دوره‌ای آمریکا که هفته آینده برگزار خواهد شد موجب ریزش چشمگیر آرای آنها و از دست دادن کرسی‌ها در مجالس کنگره شود.\n@BBCPe",
+   "url": "https://t.me/bbcpersian/294162",
+   "time": "2026-10-28T00:33:57+00:00",
+   "keywords": [
+    "حمله"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-28T01:28:55.454643+00:00"
+  },
+  {
+   "id": "tg:presstv/212529",
+   "kind": "tg",
+   "src": "presstv",
+   "text": "China slams US policy on Iran as Russia rejects legality of nuclear meeting at UN   China has denounced Washington’s policy toward Iran, blaming US and Israeli attacks for halting IAEA inspections of Iranian nuclear facilities, while Russia has challenged…",
+   "url": "https://t.me/presstv/212529",
+   "time": "2026-10-27T23:37:58+00:00",
+   "keywords": [
+    "attack"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-28T01:28:55.454643+00:00"
+  },
+  {
+   "id": "tg:farsna/471152",
+   "kind": "tg",
+   "src": "farsna",
+   "text": "منابع عربی از وقوع چندین انفجار در شهرهای جده و ینبع عربستان خبر می‌دهند.  @Farsna",
+   "url": "https://t.me/farsna/471152",
+   "time": "2026-10-27T23:31:57+00:00",
+   "keywords": [
+    "انفجار"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-28T01:28:55.454643+00:00"
+  },
+  {
+   "id": "tg:warmonitors/46327",
+   "kind": "tg",
+   "src": "warmonitors",
+   "text": "⚡The Saudi-led coalition says it intercepted and destroyed a ballistic missile launched by Yemen’s Houthis towards Taif\n\n💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18",
+   "url": "https://t.me/warmonitors/46327",
+   "time": "2026-10-27T23:21:35+00:00",
+   "keywords": [
+    "missile"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-28T01:28:55.454643+00:00"
+  },
+  {
+   "id": "tg:Alibk3/40205",
+   "kind": "tg",
+   "src": "alibk3",
+   "text": "هجوم يمني في جدة",
+   "url": "https://t.me/Alibk3/40205",
+   "time": "2026-10-27T23:13:34+00:00",
+   "keywords": [
+    "هجوم"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-28T01:28:55.454643+00:00"
+  },
+  {
+   "id": "tg:IranintlTV/364193",
+   "kind": "tg",
+   "src": "iranintltv",
+   "text": "گروه حقوق بشری حال‌وش با انتشار ویدیوهایی گزارش داد افراد مسلح سه‌شنبه پنجم آبان به مقر یگان امداد و کلانتری ۱۱ خاش حمله کردند و درگیری و تیراندازی سنگین، از جمله با مسلسل، بیش از یک ساعت ادامه یافت. به گزارش حال‌وش، منابع محلی از کشته و زخمی‌شدن شماری از نیروهای نظامی خبر دادند. فضای خاش امنیتی شده و صدای آمبولانس‌ها نیز شنیده شده است. مقام‌های رسمی هنوز آماری از تعداد کشته‌ها و زخمی‌ها اعلام نکرده‌اند.\n@iranintltv",
+   "url": "https://t.me/IranintlTV/364193",
+   "time": "2026-10-27T23:11:20+00:00",
+   "keywords": [
+    "حمله"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-28T01:28:55.454643+00:00"
+  },
+  {
+   "id": "tg:farsna/471150",
+   "kind": "tg",
+   "src": "farsna",
+   "text": "منابع عربی از وقوع چندین انفجار در شهرهای جده و ینبع عربستان خبر می‌دهند.\n\n@Farsna",
+   "url": "https://t.me/farsna/471150",
+   "time": "2026-10-27T23:02:18+00:00",
+   "keywords": [
+    "انفجار"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-28T01:28:55.454643+00:00"
+  },
+  {
+   "id": "tg:Alibk3/40203",
+   "kind": "tg",
+   "src": "alibk3",
+   "text": "هجوم يمني في جدة",
+   "url": "https://t.me/Alibk3/40203",
+   "time": "2026-10-27T22:59:59+00:00",
+   "keywords": [
+    "هجوم"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-28T01:28:55.454643+00:00"
+  },
+  {
+   "id": "tg:Alibk3/40202",
+   "kind": "tg",
+   "src": "alibk3",
+   "text": "هجوم يمني في جدة",
+   "url": "https://t.me/Alibk3/40202",
+   "time": "2026-10-27T22:59:25+00:00",
+   "keywords": [
+    "هجوم"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-28T01:28:55.454643+00:00"
+  },
   {
    "id": "tg:farsna/471147",
    "kind": "tg",
@@ -1539,415 +1769,6 @@
    "emojis": [],
    "alert": true,
    "collected": "2026-10-27T01:00:58.289183+00:00"
-  },
-  {
-   "id": "tg:Alibk3/40124",
-   "kind": "tg",
-   "src": "alibk3",
-   "text": "هجوم في المنطقة الشرقية بالسعودية.",
-   "url": "https://t.me/Alibk3/40124",
-   "time": "2026-10-27T00:04:51+00:00",
-   "keywords": [
-    "هجوم"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-27T01:00:58.289183+00:00"
-  },
-  {
-   "id": "tg:presstv/212384",
-   "kind": "tg",
-   "src": "presstv",
-   "text": "🔴 Jordanian airstrikes kill eight, including three children, in Syria’s southern Daraa province.  @PressTV",
-   "url": "https://t.me/presstv/212384",
-   "time": "2026-10-27T00:04:10+00:00",
-   "keywords": [
-    "strike"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-27T01:00:58.289183+00:00"
-  },
-  {
-   "id": "tg:Alibk3/40123",
-   "kind": "tg",
-   "src": "alibk3",
-   "text": "ترامب:  إيران الآن لديها صاروخ وصل بشكل أساسي إلى أوروبا.  لم يكن من المفترض أن يكون لديها هذا الصاروخ. سألنا: \"من أين حصلوا عليه؟\"  يمكنهم أن يضربوا سان دييغو، ويمكنهم أن يضربوا لوس أنجلوس، ويمكنهم أن يضربوا مدننا أيضًا. لذلك، كان على شخص ما أن يفعل ذلك،…",
-   "url": "https://t.me/Alibk3/40123",
-   "time": "2026-10-26T23:56:57+00:00",
-   "keywords": [
-    "صاروخ"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-27T01:00:58.289183+00:00"
-  },
-  {
-   "id": "rss:https://www.aljazeera.com/news/2026/10/26/jordan-launches-air-strikes-in-syria-in-response-to-a-fatal-church-shooting?traffic_source=rss",
-   "kind": "rss",
-   "src": "www.aljazeera.com",
-   "text": "Jordan launches air strikes in Syria in response to a fatal church shooting — Syria denies prior coordination with Jordan after deadly air strikes hit two provinces, killing at least seven people.",
-   "url": "https://www.aljazeera.com/news/2026/10/26/jordan-launches-air-strikes-in-syria-in-response-to-a-fatal-church-shooting?traffic_source=rss",
-   "time": "2026-10-26T23:50:11+00:00",
-   "keywords": [
-    "strike"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-27T01:00:58.289183+00:00"
-  },
-  {
-   "id": "rss:https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-attacks-syria-in-response-to-karak-church-attack?traffic_source=rss",
-   "kind": "rss",
-   "src": "www.aljazeera.com",
-   "text": "Jordan attacks Syria in response to Karak church attack — Jordan’s air force has carried out several strikes in southern Syria in response to Friday’s church attack.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-attacks-syria-in-response-to-karak-church-attack?traffic_source=rss",
-   "time": "2026-10-26T23:48:51+00:00",
-   "keywords": [
-    "strike",
-    "attack"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-27T01:00:58.289183+00:00"
-  },
-  {
-   "id": "tg:ClashReport/103162",
-   "kind": "tg",
-   "src": "clashreport",
-   "text": "Trump on Iran:\n\nIranians now have a missile that essentially reached Europe.\n\nThey weren’t supposed to. We said, “Where the hell did they get that?”",
-   "url": "https://t.me/ClashReport/103162",
-   "time": "2026-10-26T23:47:12+00:00",
-   "keywords": [
-    "missile"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-27T01:00:58.289183+00:00"
-  },
-  {
-   "id": "tg:IranintlTV/364055",
-   "kind": "tg",
-   "src": "iranintltv",
-   "text": "سی‌ان‌ان به نقل از دو مقام آمریکایی گزارش داد نیروهای این کشور آماده‌اند ظرف ۹۶ ساعت پس از صدور دستور دونالد ترامپ، حملات گسترده‌ای علیه زیرساخت‌های انرژی، پایگاه‌های نظامی و تاسیسات هسته‌ای ایران آغاز کنند.\n\nهم‌زمان، منابع آمریکایی و اسرائیلی گفته‌اند بنیامین نتانیاهو خواستار حمله مشترک به ایران پیش از انتخابات اسرائیل بوده، اما ترامپ با این درخواست موافقت نکرده است.\n\nگزارش سمیرا قرایی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
-   "url": "https://t.me/IranintlTV/364055",
-   "time": "2026-10-26T23:45:42+00:00",
-   "keywords": [
-    "حمله"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-27T01:00:58.289183+00:00"
-  },
-  {
-   "id": "rss:https://www.aljazeera.com/sports/2026/10/26/englands-harry-kane-wins-ballon-dor-alexia-putellas-takes-womens-award?traffic_source=rss",
-   "kind": "rss",
-   "src": "www.aljazeera.com",
-   "text": "England’s Harry Kane wins Ballon d’Or, Alexia Putellas takes women’s award — Bayern Munich striker becomes the first Englishman to win the prestigious award in 25 years, after Michael Owen in 2001.",
-   "url": "https://www.aljazeera.com/sports/2026/10/26/englands-harry-kane-wins-ballon-dor-alexia-putellas-takes-womens-award?traffic_source=rss",
-   "time": "2026-10-26T23:25:29+00:00",
-   "keywords": [
-    "strike"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-27T01:00:58.289183+00:00"
-  },
-  {
-   "id": "tg:IranintlTV/364053",
-   "kind": "tg",
-   "src": "iranintltv",
-   "text": "اردن اعلام کرد نیروی هوایی این کشور پس از مشخص شدن ارتباط مظنونان حمله مرگبار به یک کلیسا با «گروه‌های تروریستی» در جنوب سوریه، مواضعی را که «مخفیگاه‌های شبه‌نظامیان» خواند، هدف قرار داده است.\n\nسوریه نیز به‌دلیل تحولات در درعا، گذرگاه نصیب، تنها گذرگاه مسافری و تجاری با اردن، را بست. ارتش اردن گفت حملات با هماهنگی دمشق انجام شد، اما وزارت خارجه سوریه اعلام کرد حملات بدون هماهنگی قبلی صورت گرفته و تحقیقات درباره آن آغاز شده است. یک مقام بهداشتی سوری گفت پنج غیرنظامی، از جمله زنان و کودکان، کشته شدند.\n\nمقام‌های اردن پیش‌تر از بازداشت سه مظنون حمله به کلیسای ارتدوکس یونانی در روستای حمود خبر داده",
-   "url": "https://t.me/IranintlTV/364053",
-   "time": "2026-10-26T23:10:02+00:00",
-   "keywords": [
-    "حمله"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-27T01:00:58.289183+00:00"
-  },
-  {
-   "id": "tg:presstv/212380",
-   "kind": "tg",
-   "src": "presstv",
-   "text": "⚽️ Bayern Munich and England striker Harry Kane wins the 2026 Ballon d’Or.\n\n@PressTV",
-   "url": "https://t.me/presstv/212380",
-   "time": "2026-10-26T22:54:52+00:00",
-   "keywords": [
-    "strike"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-27T01:00:58.289183+00:00"
-  },
-  {
-   "id": "tg:warmonitors/46292",
-   "kind": "tg",
-   "src": "warmonitors",
-   "text": "⚡Syria has closed the Nassib border crossing with Jordan following Jordanian airstrikes in Daraa, according to a border authority statement\n\n💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18",
-   "url": "https://t.me/warmonitors/46292",
-   "time": "2026-10-26T22:51:35+00:00",
-   "keywords": [
-    "strike"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-27T01:00:58.289183+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMikAFBVV95cUxPMERWcXFaZ1BsZ3FLanZOZHo1QVowcEtkb0VZTkE1dkF6cmktY3pwUVBYZ2FRTkVOaWpwMTZqbDZmNU15clM1MENCVU5OWWF6YlBYU1JUUUZiQ005VWhZZkxtczA1S1hDc0FFME9heGxMUFhUalJpUHV0X3Z6QjRoUXJyNHg3WERCVDVMa2hKTS0?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "Netanyahu Pushed for Attack on Iran Ahead of Israeli Election, Officials Say - The New York Times — Netanyahu Pushed for Attack on Iran Ahead of Israeli Election, Officials Say  The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMERWcXFaZ1BsZ3FLanZOZHo1QVowcEtkb0VZTkE1dkF6cmktY3pwUVBYZ2FRTkVOaWpwMTZqbDZmNU15clM1MENCVU5OWWF6YlBYU1JUUUZiQ005VWhZZkxtczA1S1hDc0FFME9heGxMUFhUalJpUHV0X3Z6QjRoUXJyNHg3WERCVDVMa2hKTS0?oc=5",
-   "time": "2026-10-26T22:44:39+00:00",
-   "keywords": [
-    "attack"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-27T01:00:58.289183+00:00"
-  },
-  {
-   "id": "tg:presstv/212379",
-   "kind": "tg",
-   "src": "presstv",
-   "text": "🔺 Al Jazeera, citing the Jordanian military, reported that Jordan's air force had carried out strikes in southern Syria in response to the deadly attack on Hamoud Church in Karak.  🔺 The military claimed the strikes targeted hideouts of terrorist groups in…",
-   "url": "https://t.me/presstv/212379",
-   "time": "2026-10-26T22:39:44+00:00",
-   "keywords": [
-    "strike",
-    "attack"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-27T01:00:58.289183+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMidEFVX3lxTE81VXp3UXd3VnJwdHZRUURrQks4WERRU1lCY3AyOHd3S2pYQ0xsdW1OSS1fdkwycmNEdVpZWWJFck8wVUp3bC1wanRqX2pLeHhTV0ZfOWRUamFTNTB5M1B2NWQ2eFRER2xSTGpHcFJCWWM3a0Q1?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "Israel Breached Iranian Airspace this Weekend but Iran Chose not to Respond. Why? - Trita Parsi | Substack — Israel Breached Iranian Airspace this Weekend but Iran Chose not to Respond. Why?  Trita Parsi | Substack",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81VXp3UXd3VnJwdHZRUURrQks4WERRU1lCY3AyOHd3S2pYQ0xsdW1OSS1fdkwycmNEdVpZWWJFck8wVUp3bC1wanRqX2pLeHhTV0ZfOWRUamFTNTB5M1B2NWQ2eFRER2xSTGpHcFJCWWM3a0Q1?oc=5",
-   "time": "2026-10-26T22:38:16+00:00",
-   "keywords": [
-    "airspace"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-27T01:00:58.289183+00:00"
-  },
-  {
-   "id": "tg:IranintlTV/364046",
-   "kind": "tg",
-   "src": "iranintltv",
-   "text": "اسرائیلی‌ها سه‌شنبه پنجم آبان پای صندوق‌های رای می‌روند، اما انتخابات این کشور میان برخی کاربران فارسی‌زبان نیز بازتاب داشته است. زیر پست‌های بنیامین نتانیاهو، نخست‌وزیر اسرائیل، شماری از کاربران از ایران برای پیروزی او ابراز امیدواری کرده‌اند؛ از «از شیراز یک رای» تا «کاش ما مردم ایران هم می‌تونستیم رای بدیم.»\n\nبرای بخشی از مخالفان جمهوری اسلامی، محبوبیت نتانیاهو با مواضع او علیه تهران و حملات اسرائیل و آمریکا پیوند خورده است. برخی از او می‌خواهند آنچه «کار ناتمام» می‌خوانند، به پایان برساند؛ هرچند نگرانی از جنگی تازه نیز دیده می‌شود.\n\nبر اساس نظرسنجی موسسه گمان، ۵۰.۶ درصد پاسخ‌دهندگان داخل ا",
-   "url": "https://t.me/IranintlTV/364046",
-   "time": "2026-10-26T22:35:36+00:00",
-   "keywords": [
-    "حمله"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-27T01:00:58.289183+00:00"
-  },
-  {
-   "id": "tg:presstv/212378",
-   "kind": "tg",
-   "src": "presstv",
-   "text": "🔴 Al-Masirah: Saudi warplanes strike the coastal city of Mokha in Yemen’s Taiz province.\n\n@PressTV",
-   "url": "https://t.me/presstv/212378",
-   "time": "2026-10-26T22:13:26+00:00",
-   "keywords": [
-    "strike"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-27T01:00:58.289183+00:00"
-  },
-  {
-   "id": "tg:farsna/470961",
-   "kind": "tg",
-   "src": "farsna",
-   "text": "۱۲ کشته و زخمی در حملهٔ اردن به جنوب سوریه\n\n🔹ادارهٔ بهداشت استان «درعا» اعلام کرد در نتیجهٔ حملهٔ هوایی جنگنده‌های اردنی، ۸ نفر از جمله سه کودک و یک پیرمرد کشته و ۴ تن دیگر زخمی شدند.\n\n🔹ارتش اردن در بیانیه‌ای ادعا کرد «نیروی هوایی عملیاتی را علیه مخفیگاه‌های تروریست‌ها در جنوب سوریه انجام داد».\n@Farsna - Link",
-   "url": "https://t.me/farsna/470961",
-   "time": "2026-10-26T22:08:57+00:00",
-   "keywords": [
-    "حمله"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-27T01:00:58.289183+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMiQkFVX3lxTE5jdDI1cWd0dmFpX0Z3QUwwQ19MeS1MVThoZEZmZHR4U1RYcFhVVnpldFB3Rkd0TWp4Y0lualpYMk1NQQ?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "Exclusive: U.S. Warns Baghdad It Will Strike Iraqi Militias if They Join Iran War - الحرة — Exclusive: U.S. Warns Baghdad It Will Strike Iraqi Militias if They Join Iran War  الحرة",
-   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5jdDI1cWd0dmFpX0Z3QUwwQ19MeS1MVThoZEZmZHR4U1RYcFhVVnpldFB3Rkd0TWp4Y0lualpYMk1NQQ?oc=5",
-   "time": "2026-10-26T22:02:51+00:00",
-   "keywords": [
-    "strike"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-27T01:00:58.289183+00:00"
-  },
-  {
-   "id": "tg:presstv/212377",
-   "kind": "tg",
-   "src": "presstv",
-   "text": "🔺 Al Jazeera, citing the Jordanian military, reported that Jordan's air force had carried out strikes in southern Syria in response to the deadly attack on Hamoud Church in Karak.\n\n🔺 The military claimed the strikes targeted hideouts of terrorist groups in southern Syria.\n\n@PressTV",
-   "url": "https://t.me/presstv/212377",
-   "time": "2026-10-26T21:51:48+00:00",
-   "keywords": [
-    "strike",
-    "attack"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-27T01:00:58.289183+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMifEFVX3lxTE9EZmdaU2MwcHhnT1JOcnlIckNYRXM5VkVqZmxsaW9EQ3VySDN2ZnRjQ0JlTURNbEFUcjZwODVHTjIxZUxCaHR0ZU9mQTdlcHpRaFg3dEM2OXByX0ZKdjJkTmcyaHVGVndsNGFRbFJpMzlGVVNNY2tBZl9BXzk?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "«CNN»: القوات الأميركية مستعدة لشن هجوم واسع على إيران خلال 96 ساعة من صدور الأوامر - جـريـدة الوطن — «CNN»: القوات الأميركية مستعدة لشن هجوم واسع على إيران خلال 96 ساعة من صدور الأوامر  جـريـدة الوطن",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9EZmdaU2MwcHhnT1JOcnlIckNYRXM5VkVqZmxsaW9EQ3VySDN2ZnRjQ0JlTURNbEFUcjZwODVHTjIxZUxCaHR0ZU9mQTdlcHpRaFg3dEM2OXByX0ZKdjJkTmcyaHVGVndsNGFRbFJpMzlGVVNNY2tBZl9BXzk?oc=5",
-   "time": "2026-10-26T21:39:00+00:00",
-   "keywords": [
-    "هجوم"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-27T01:00:58.289183+00:00"
-  },
-  {
-   "id": "tg:farsna/470960",
-   "kind": "tg",
-   "src": "farsna",
-   "text": "حملهٔ رژیم سعودی به یمن\n\n🔹شبکهٔ المسیره: جنگنده‌های رژیم متجاوز سعودی شهر ساحلی «المخاء» در استان تعز را هدف قرار دادند.\n\n@Farsna - Link",
-   "url": "https://t.me/farsna/470960",
-   "time": "2026-10-26T21:36:45+00:00",
-   "keywords": [
-    "حمله"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-26T21:49:55.769689+00:00"
-  },
-  {
-   "id": "tg:warmonitors/46291",
-   "kind": "tg",
-   "src": "warmonitors",
-   "text": "⚡Ukrainian President Volodymyr Zelenskiy says there are casualties and wounded following an attack on an educational institution in Kyiv\n\n💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18",
-   "url": "https://t.me/warmonitors/46291",
-   "time": "2026-10-26T21:36:35+00:00",
-   "keywords": [
-    "attack"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-26T21:49:55.769689+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMi9gFBVV95cUxQLS1KSG9JRnNzOXNKcndTR0d5RkQyQTNtY2tGRnJwanNkd3JpdmdVaTNXZFRhWlNGY2pyaEtYd2NIdmFQYVZIckJEYTR5M3Z1bEdFN3pBZGRzV08zcjlIMnE3N1ZBMnhHOXNBcklhd0k1cjZrakFkVDlIcm9HM0tQckJuemxPRExFOXNNNVd3bzA5ek1NeDdYeHdCdzdMb0xFOWJnWHpzSTBiMXVGV1R5VDk5ZU82ZzNXdmZRd0xwekJmdzNRMGgzZ2ZmSzA0bEI3aFdyVkRBOFdUWVJaakpScmRGSEd3d0haXzY3TU41c3hLZjNnSEE?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "CENTCOM drafts new Iran strike options as Trump weighs post-midterm escalation - KATU — CENTCOM drafts new Iran strike options as Trump weighs post-midterm escalation  KATU",
-   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQLS1KSG9JRnNzOXNKcndTR0d5RkQyQTNtY2tGRnJwanNkd3JpdmdVaTNXZFRhWlNGY2pyaEtYd2NIdmFQYVZIckJEYTR5M3Z1bEdFN3pBZGRzV08zcjlIMnE3N1ZBMnhHOXNBcklhd0k1cjZrakFkVDlIcm9HM0tQckJuemxPRExFOXNNNVd3bzA5ek1NeDdYeHdCdzdMb0xFOWJnWHpzSTBiMXVGV1R5VDk5ZU82ZzNXdmZRd0xwekJmdzNRMGgzZ2ZmSzA0bEI3aFdyVkRBOFdUWVJaakpScmRGSEd3d0haXzY3TU41c3hLZjNnSEE?oc=5",
-   "time": "2026-10-26T21:36:17+00:00",
-   "keywords": [
-    "strike"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-26T21:49:55.769689+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMi-AFBVV95cUxQcE9wNWE4OGlxZmVmV2owNnVsMUQ4UUVoRFBYVFpuWF9Qc3BjbElERlE4czdaSkg3ZlJrc2ZmZjR2ZFhRRWxoTXdCdTcwYk5yeEpjWDg1UkROd1N2dVZDemlUaWpvTHZ3TGdqMjNzUkRxbEFtN0Y0MTJ4YUJNTm9BcTFiaVYwVzFVNVlJSFBjczdFVzFxQWZmc2EteVdwNVlRTE15bGI0end1cHN0MFV5cUZ0S2Zjck1VendDSnlzOVV2OEZjOXVHM0dTd21DLXNkd3dSQjJLc0Rqam0ySUFyVE1YT3huSlJsNFdXT202RElRV045R1RxLQ?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "CENTCOM drafts new Iran strike options as Trump weighs post-midterm escalation - WCTI — CENTCOM drafts new Iran strike options as Trump weighs post-midterm escalation  WCTI",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQcE9wNWE4OGlxZmVmV2owNnVsMUQ4UUVoRFBYVFpuWF9Qc3BjbElERlE4czdaSkg3ZlJrc2ZmZjR2ZFhRRWxoTXdCdTcwYk5yeEpjWDg1UkROd1N2dVZDemlUaWpvTHZ3TGdqMjNzUkRxbEFtN0Y0MTJ4YUJNTm9BcTFiaVYwVzFVNVlJSFBjczdFVzFxQWZmc2EteVdwNVlRTE15bGI0end1cHN0MFV5cUZ0S2Zjck1VendDSnlzOVV2OEZjOXVHM0dTd21DLXNkd3dSQjJLc0Rqam0ySUFyVE1YT3huSlJsNFdXT202RElRV045R1RxLQ?oc=5",
-   "time": "2026-10-26T21:35:24+00:00",
-   "keywords": [
-    "strike"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-27T01:00:58.289183+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMi4gFBVV95cUxPS0lVLTVtR05TX1NHU05DSTdJQzVUbUo4TGloQWlwb1dmbThuMGJ1SXlBbGo1RUc0TGpYY04yOTI4Z283cE1MTGpPUVBiTVNHT0ZlTm9meTdYYTJTNEh4LTI0YS1xRnFSTjBCeXJTUVJUZGZzMVpLbF92bnY0d1dVTkFDS3ljUm5fNllieVZGRkNEZUJRTDBYX3g5em9NczRQQkcwWkVYcDc1MXVRUngwRHluQ2F6dEJjYjdJMTVEWWlTT2MwVkpBRDg5N1UtVnY4T1pjbXk0b05XN2JkX1l1RmdR?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "CENTCOM drafts new Iran strike options as Trump weighs post-midterm escalation - WLUK — CENTCOM drafts new Iran strike options as Trump weighs post-midterm escalation  WLUK",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPS0lVLTVtR05TX1NHU05DSTdJQzVUbUo4TGloQWlwb1dmbThuMGJ1SXlBbGo1RUc0TGpYY04yOTI4Z283cE1MTGpPUVBiTVNHT0ZlTm9meTdYYTJTNEh4LTI0YS1xRnFSTjBCeXJTUVJUZGZzMVpLbF92bnY0d1dVTkFDS3ljUm5fNllieVZGRkNEZUJRTDBYX3g5em9NczRQQkcwWkVYcDc1MXVRUngwRHluQ2F6dEJjYjdJMTVEWWlTT2MwVkpBRDg5N1UtVnY4T1pjbXk0b05XN2JkX1l1RmdR?oc=5",
-   "time": "2026-10-26T21:35:02+00:00",
-   "keywords": [
-    "strike"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-27T06:12:34.959179+00:00"
-  },
-  {
-   "id": "tg:bbcpersian/294089",
-   "kind": "tg",
-   "src": "bbcpersian",
-   "text": "🔻دولت اردن روز دوشنبه اعلام کرد که نیروی هوایی این کشور، «مخفیگاه‌های شبه‌نظامیان» در جنوب سوریه را، هدف حمله قرار داده است.\n\nبه گفته دولت اردن، این اقدام پس از آن صورت گرفت که مشخص شد مهاجمان دخیل در حمله مرگبار هفته گذشته به یک کلیسا، با «گروه‌های تروریستی» فعال در سوریه مرتبط بوده‌اند.\n\nنیروهای مسلح اردن اعلام کردند که این عملیات با هماهنگی دمشق انجام شده با این حال مقام‌های سوری هنوز در این مورد اظهار نظری نکرده‌اند.\n\nجمعه گذشته در پی تیراندازی در داخل یک کلیسا در روستای حمود، در استان کرک، دست‌کم هفت نفر کشته و ۱۰ نفر زخمی شده‌اند.\n\nدر پی این حادثه، ملک عبدالله دوم، پادشاه اردن، به نیروها",
-   "url": "https://t.me/bbcpersian/294089",
-   "time": "2026-10-26T21:34:42+00:00",
-   "keywords": [
-    "حمله"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-26T21:49:55.769689+00:00"
-  },
-  {
-   "id": "tg:warmonitors/46289",
-   "kind": "tg",
-   "src": "warmonitors",
-   "text": "⚡Syria has launched an investigation into Jordanian airstrikes and stressed the importance of field and security coordination in border areas, according to a government statement\n\n💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18",
-   "url": "https://t.me/warmonitors/46289",
-   "time": "2026-10-26T21:31:35+00:00",
-   "keywords": [
-    "strike"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-26T21:49:55.769689+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMi7gFBVV95cUxQV0swbThyMHpaLWNkRF9EbGEyRlJMQ0JKN0lUQlhERlYzdTVlSC0wcHdiQVJNRlZ1MUVQYzNrNHVjYWZ5TXRySzY5d0RscHNXVU5HWjZSQkVpRXhfTDdWVGJhbU85bDZ0R0JmNlh0U3JYZXM0b2JiUXpmMlFlNlpMLTYyZzlSUUFrcmtSWmVYM3RrUUpRZ1luUVFpSTFsVllnaWdJQ2Ryc3UyUEtWeWtXV0lWYkpGWFhfclB0bGZ5VzhCN0UtXzdkekFOVm9iWlVDRWlEMTlzaEhSdktjUmlud0h1VEhmcnZMQXI0X1N3?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "CENTCOM drafts new Iran strike options as Trump weighs post-midterm escalation - The National News Desk — CENTCOM drafts new Iran strike options as Trump weighs post-midterm escalation  The National News Desk",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQV0swbThyMHpaLWNkRF9EbGEyRlJMQ0JKN0lUQlhERlYzdTVlSC0wcHdiQVJNRlZ1MUVQYzNrNHVjYWZ5TXRySzY5d0RscHNXVU5HWjZSQkVpRXhfTDdWVGJhbU85bDZ0R0JmNlh0U3JYZXM0b2JiUXpmMlFlNlpMLTYyZzlSUUFrcmtSWmVYM3RrUUpRZ1luUVFpSTFsVllnaWdJQ2Ryc3UyUEtWeWtXV0lWYkpGWFhfclB0bGZ5VzhCN0UtXzdkekFOVm9iWlVDRWlEMTlzaEhSdktjUmlud0h1VEhmcnZMQXI0X1N3?oc=5",
-   "time": "2026-10-26T21:28:58+00:00",
-   "keywords": [
-    "strike"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-27T12:23:29.466042+00:00"
-  },
-  {
-   "id": "tg:ClashReport/103139",
-   "kind": "tg",
-   "src": "clashreport",
-   "text": "Israel Continued Committing Genocide in Gaza After Truce: UN\n\nUN-mandated investigators found continued attacks in populated areas of Gaza during the ceasefire and crimes against humanity in the West Bank.\n\nREAD MORE",
-   "url": "https://t.me/ClashReport/103139",
-   "time": "2026-10-26T20:57:32+00:00",
-   "keywords": [
-    "attack"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-26T21:49:55.769689+00:00"
   }
  ]
 }
