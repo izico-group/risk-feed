@@ -1,7 +1,916 @@
 {
- "updated": "2026-10-28T23:34:35.468790+00:00",
- "aircraft": [],
+ "updated": "2026-10-29T02:51:22.417683+00:00",
+ "aircraft": [
+  {
+   "hex": "7061f6",
+   "cs": "KAF3202",
+   "type": "C30J",
+   "lat": 29.222108,
+   "lon": 47.956117,
+   "alt": "ground",
+   "time": "2026-10-29T02:51:42.500000+00:00"
+  },
+  {
+   "hex": "896c3c",
+   "cs": "ZABEEL03",
+   "type": "A332",
+   "lat": 24.592515,
+   "lon": 55.28569,
+   "alt": 23000,
+   "time": "2026-10-29T02:51:42.500000+00:00"
+  }
+ ],
  "items": [
+  {
+   "id": "rss:https://www.bbc.co.uk/persian/live/cm93z7dn7qwzt?at_medium=RSS&at_campaign=rss",
+   "kind": "rss",
+   "src": "feeds.bbci.co.uk",
+   "text": "ترامپ نامه ونس به رضایی را تایید کرد اما گفت «مربوط به کمک‌های دارویی» است — پس از آن که وال استریت ژورنال از نامه جی‌دی ونس، معاون رئیس جمهور آمریکا به محسن رضایی، دبیر شورای امنیت ملی ایران خبر داد، دونالد ترامپ در پاسخ به خبرنگاران محتوای این نامه که گزارش شده درباره آغاز مذاکرات بوده است را مرتبط با «ارسال اقلام دارویی و پزشکی» دانست. همزمان عباس عراقچی از ادامه رایزنی‌ه",
+   "url": "https://www.bbc.co.uk/persian/live/cm93z7dn7qwzt?at_medium=RSS&at_campaign=rss",
+   "time": "2026-10-29T02:51:22.417683+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "tg:farsna/471334",
+   "kind": "tg",
+   "src": "farsna",
+   "text": "علت‌ افت کیفیت اینترنت در روزهای اخیر چیست؟\n\n🔹معاون وزیر ارتباطات از افزایش حملات DDoS با مبدأ داخلی خبر داد و گفت: در ۱۰ روز گذشته، تعداد حملات با مبدأ داخلی از حملات با مبدأ خارجی بیشتر بوده است؛ موضوعی که می‌تواند نشانه‌ای از آلودگی دستگاه‌های کاربران داخلی و استفاده از آن‌ها در بات‌نت‌ها باشد.\n\n🔹حملات DDoS نوعی حملهٔ سایبری است که در آن با ارسال حجم زیادی از درخواست‌ها از سوی دستگاه‌های متعدد به یک سرور یا شبکه، ظرفیت پاسخ‌گویی آن مختل می‌شود و دسترسی کاربران به خدمات اینترنتی کاهش می‌یابد یا قطع می‌شود.\n\n@Farsna - Link",
+   "url": "https://t.me/farsna/471334",
+   "time": "2026-10-29T02:45:18+00:00",
+   "keywords": [
+    "حمله"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "rss:https://www.bbc.com/persian/articles/cm8ezj6y8598o?at_medium=RSS&at_campaign=rss",
+   "kind": "rss",
+   "src": "feeds.bbci.co.uk",
+   "text": "بدرود با استن واورینکا، مردی معمولی که به جمع غول‌ها راه یافت — دوران درخشان استن واورینکا، که در عصری طلایی سه عنوان قهرمانی گرنداسلم برایش به ارمغان آورد، با شکستی آبرومندانه در شبی احساسی در بازل به پایان رسید.",
+   "url": "https://www.bbc.com/persian/articles/cm8ezj6y8598o?at_medium=RSS&at_campaign=rss",
+   "time": "2026-10-29T02:43:02+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "tg:presstv/212671",
+   "kind": "tg",
+   "src": "presstv",
+   "text": "🔴 With 90% of votes counted, Netanyahu’s bloc leads with 53 seats in Israel’s Knesset, followed by opposition parties with 48 and Arab parties with 19.\n\n🔺 Neither bloc has secured the 61 seats needed for a parliamentary majority.\n\n@PressTV",
+   "url": "https://t.me/presstv/212671",
+   "time": "2026-10-29T02:40:48+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "tg:IranintlTV/364380",
+   "kind": "tg",
+   "src": "iranintltv",
+   "text": "سانا چهارشنبه ششم آبان گزارش داد دادگاهی در سوریه عبدالجبار غازی ارزیق، عضو گروه شبه‌نظامی لواءالقدس وابسته به سپاه پاسداران، را به اتهام عضویت در گروهی مسلح مرتبط با جنایت‌های جنگی و جنایت علیه بشریت به حبس ابد محکوم کرد.\n\nبه گزارش سانا، دادگاه اعلام کرد این گروه با هدف تحریک جنگ داخلی، تشدید درگیری‌های فرقه‌ای و تصرف شهرها فعالیت می‌کرد و اقدامات آن با جنایت‌های سازمان‌یافته و گسترده در دوران حکومت بشار اسد مرتبط بوده است.\n\nردیف مصطفی، مدیر اداره پاسخ‌گویی و پیگرد قضایی در کمیسیون ملی عدالت انتقالی سوریه، گفت شدت جرایم و تهدید آنها علیه غیرنظامیان و ثبات اجتماعی از عوامل صدور حکم بوده است.\n\n",
+   "url": "https://t.me/IranintlTV/364380",
+   "time": "2026-10-29T02:39:25+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "tg:presstv/212670",
+   "kind": "tg",
+   "src": "presstv",
+   "text": "Iranian university students renew their allegiance to the Leader of the Islamic Revolution, waving a huge national flag in Tehran’s Enghelab Square.\n\n@PressTV",
+   "url": "https://t.me/presstv/212670",
+   "time": "2026-10-29T02:25:16+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMiWEFVX3lxTE95UU5LYjVvZkJ0U1pOSWNKVXNOd3JuY2hmaWF0TExMQkNTbWdjOTFJVjNZaFAtUEVqclpqTlFXMTJXT3dBUmptTlFhTElsWUJvQ1NBTzl4OF8?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "Iran in contact with mediators to ensure 7-day plan's implementation - chinadailyhk — Iran in contact with mediators to ensure 7-day plan's implementation  chinadailyhk",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95UU5LYjVvZkJ0U1pOSWNKVXNOd3JuY2hmaWF0TExMQkNTbWdjOTFJVjNZaFAtUEVqclpqTlFXMTJXT3dBUmptTlFhTElsWUJvQ1NBTzl4OF8?oc=5",
+   "time": "2026-10-29T02:24:47+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNWZpeEZUWHNPMUVsazZ0cFczaTZUVWdFZFFXYUtHQUNBU3hER0dXSHVBQlhjWnBjNkFzRGpnMFZXckcySG5VQzVER1lVVTRUdTlUeGdJeWFXbzNNRnp6Z3pTa1ItbVNYVndQOVNHbkM3aDN2ZThNczZCWEI0TkUwQXhOLWtBSmJMWUJ4SEtMc2lhWWF5MmZWWjNFN3MtSXhVTlpaLUhZVlNHUdIBsAFBVV95cUxOSU5WU3RqZHNkMXFOQW12aG5GWEpkSXBJVjFoSzMyUDhHSDJPcVV0YzZmbVB0ZFlPZXlMYkd0MXlBS0g0X1pFazlhRUdtQy1GbENXUzhQbmhQTWctWWpub1A3Y2JyOWNGcXFYTVRwZlBZSzQtbEFhTWpXWFBlLVpma3RLTEw5OFJFRGpfTkE0ZF9QMGNjX3BpQ3E2V3hoUnlwSUhObTlTRGJ1cGczQ3FlYw?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "Trump warns Gulf states to prepare for ‘possible short, intense renewal of Iran war’ after US midterms: Report - The Indian Express — Trump warns Gulf states to prepare for ‘possible short, intense renewal of Iran war’ after US midterms: Report  The Indian Express",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNWZpeEZUWHNPMUVsazZ0cFczaTZUVWdFZFFXYUtHQUNBU3hER0dXSHVBQlhjWnBjNkFzRGpnMFZXckcySG5VQzVER1lVVTRUdTlUeGdJeWFXbzNNRnp6Z3pTa1ItbVNYVndQOVNHbkM3aDN2ZThNczZCWEI0TkUwQXhOLWtBSmJMWUJ4SEtMc2lhWWF5MmZWWjNFN3MtSXhVTlpaLUhZVlNHUdIBsAFBVV95cUxOSU5WU3RqZHNkMXFOQW12aG5GWEpkSXBJVjFoSzMyUDhHSDJPcVV0YzZmbVB0ZFlPZXlMYkd0MXlBS0g0X1pFazlhRUdtQy1GbENXUzhQbmhQTWctWWpub1A3Y2JyOWNGcXFYTVRwZlBZSzQtbEFhTWpXWFBlLVpma3RLTEw5OFJFRGpfTkE0ZF9QMGNjX3BpQ3E2V3hoUnlwSUhObTlTRGJ1cGczQ3FlYw?oc=5",
+   "time": "2026-10-29T02:20:54+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "tg:presstv/212669",
+   "kind": "tg",
+   "src": "presstv",
+   "text": "Seven months on, brother remains by his sister’s grave, silently sharing his grief after she was martyred in the US-Israeli attack on Minab school.\n\n@PressTV",
+   "url": "https://t.me/presstv/212669",
+   "time": "2026-10-29T02:15:01+00:00",
+   "keywords": [
+    "attack"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMivgJBVV95cUxOdlJqVWFxR2lLbVhEbnkzblY5TzJIOGloT1pkdUZfb2Zva3RObDlBeG9EQW9fWEM2aTBJdWplTlRiRUlkazNVU011Yk1qWFB5Ml9LTzVzNlRqV196emNUVXV0QmpXMFBYMlhmU1phVGxJVWFUZFV2WFRKV0RXNEd6OWhHSkhkcnZVOTR0SHptMGNESGVVS01XYnVQVGhwTk43OHZUZTNkcGtQM3VoaGZjeTZ0NjRjSFNmdnJvTnBERk5CTG5tSVZXeFVESHd1U095Y0I2WTZZbGtselU3a0RPcDFQTkMxdWwzLV9jTzFISThnWVljRUR0U25fMWhxZzh3dW15R29XU3ZFOTlzeEtlOFFBS2dFaGFxNWd5UmNSZUluV2lVb3JnSXQtMGJCQWJzOUZuLXJuT2J0WWxxSUHSAcMCQVVfeXFMUExDUkxUSE9GdmNFbzVDd3oxUVVLNVdGZmVpWEZSc3RNQ284M2R3clhSbS0zODQwdVRrVGM1WktvS1NweFJQdFhVYS1lNHRBSncyNk5zcTE4ZWlQX3VUV1dNZGJFMVR4RnhyYVNLWmU5SzlmbXd3bFR1U3p3dWx0TGdKSFM2dkdmeXZLZnVGS3AtdzZQaGdMN1I3UFRicEZsb2NuNFh6VDhxTGp0aE9CUXV4VlFobnpMRkVwcXBQWVF3RWZaLUI0endubE9qeE1qZkJoRHpOMzExTFBHb1VxYmdWOWdPZ21vRl9UYkszZDhaNDB0Y05uUHEzOWs0M1BxSkpkVHpCaWxGdFloNmE0dG93cFdXTWlHR2tIR2xrZnMxcGVoTU11bThtRlJkSFlobkdyZmY1QWt3T1dQLWQ3b2RHX28?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "US warns allies to prepare for possible Iran strikes, retaliation after elections, sources say - The Economic Times — US warns allies to prepare for possible Iran strikes, retaliation after elections, sources say  The Economic Times",
+   "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOdlJqVWFxR2lLbVhEbnkzblY5TzJIOGloT1pkdUZfb2Zva3RObDlBeG9EQW9fWEM2aTBJdWplTlRiRUlkazNVU011Yk1qWFB5Ml9LTzVzNlRqV196emNUVXV0QmpXMFBYMlhmU1phVGxJVWFUZFV2WFRKV0RXNEd6OWhHSkhkcnZVOTR0SHptMGNESGVVS01XYnVQVGhwTk43OHZUZTNkcGtQM3VoaGZjeTZ0NjRjSFNmdnJvTnBERk5CTG5tSVZXeFVESHd1U095Y0I2WTZZbGtselU3a0RPcDFQTkMxdWwzLV9jTzFISThnWVljRUR0U25fMWhxZzh3dW15R29XU3ZFOTlzeEtlOFFBS2dFaGFxNWd5UmNSZUluV2lVb3JnSXQtMGJCQWJzOUZuLXJuT2J0WWxxSUHSAcMCQVVfeXFMUExDUkxUSE9GdmNFbzVDd3oxUVVLNVdGZmVpWEZSc3RNQ284M2R3clhSbS0zODQwdVRrVGM1WktvS1NweFJQdFhVYS1lNHRBSncyNk5zcTE4ZWlQX3VUV1dNZGJFMVR4RnhyYVNLWmU5SzlmbXd3bFR1U3p3dWx0TGdKSFM2dkdmeXZLZnVGS3AtdzZQaGdMN1I3UFRicEZsb2NuNFh6VDhxTGp0aE9CUXV4VlFobnpMRkVwcXBQWVF3RWZaLUI0endubE9qeE1qZkJoRHpOMzExTFBHb1VxYmdWOWdPZ21vRl9UYkszZDhaNDB0Y05uUHEzOWs0M1BxSkpkVHpCaWxGdFloNmE0dG93cFdXTWlHR2tIR2xrZnMxcGVoTU11bThtRlJkSFlobkdyZmY1QWt3T1dQLWQ3b2RHX28?oc=5",
+   "time": "2026-10-29T02:14:18+00:00",
+   "keywords": [
+    "strike"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbERPckNieWxlUmctWG5qdUpwZmxSVEFZYlFiM3ZVOHF4am9kV2JVR3RRZWpHd3Q4WmE0LUdWb0k4bkJVY0Voc0ZWRUI0Q01FbkxFLU50aHdyOFlKU24yNkg5R1pPQUt5VGw1cnIwMkJaVVVjT0dMU2I3cmw0cXpuc0ktV2drQmg4LUpQZkZKZlFzRW13c2NsZnBfb013QUJxY3lHTnVjVzFfT0xCRG9sVmI2bml1TC1OVkJ0UnlJRkvSAc4BQVVfeXFMT1ItZ01SY1lKWGlpN05rbTNzNVJrLWlZb0pRZHhaUVdvTElucXJYZm5DMHBoelpuUVFESzNYS3dZTzdZWWR5RjhDUm4tUGRRcjlRTVN4aUlXbFc3WmdaeExNakFxUXVkTFBVVEtIcktqaXlBa0VMSEpLeVBKUmVubjdQT1NacHo1SDhhVXdZWmxGcmRZbmVaTnNkblBkbFRjelRSOXgwUE43SjRwbHh4ek1Zbm5KVlV2UkZxNjVwa1pDNFd2amx6WXBsZnNnT1E?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "Iran warns of 'devastating' economic fallout from any new Israeli attack - The New Indian Express — Iran warns of 'devastating' economic fallout from any new Israeli attack  The New Indian Express",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbERPckNieWxlUmctWG5qdUpwZmxSVEFZYlFiM3ZVOHF4am9kV2JVR3RRZWpHd3Q4WmE0LUdWb0k4bkJVY0Voc0ZWRUI0Q01FbkxFLU50aHdyOFlKU24yNkg5R1pPQUt5VGw1cnIwMkJaVVVjT0dMU2I3cmw0cXpuc0ktV2drQmg4LUpQZkZKZlFzRW13c2NsZnBfb013QUJxY3lHTnVjVzFfT0xCRG9sVmI2bml1TC1OVkJ0UnlJRkvSAc4BQVVfeXFMT1ItZ01SY1lKWGlpN05rbTNzNVJrLWlZb0pRZHhaUVdvTElucXJYZm5DMHBoelpuUVFESzNYS3dZTzdZWWR5RjhDUm4tUGRRcjlRTVN4aUlXbFc3WmdaeExNakFxUXVkTFBVVEtIcktqaXlBa0VMSEpLeVBKUmVubjdQT1NacHo1SDhhVXdZWmxGcmRZbmVaTnNkblBkbFRjelRSOXgwUE43SjRwbHh4ek1Zbm5KVlV2UkZxNjVwa1pDNFd2amx6WXBsZnNnT1E?oc=5",
+   "time": "2026-10-29T02:09:35+00:00",
+   "keywords": [
+    "attack"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "tg:farsna/471333",
+   "kind": "tg",
+   "src": "farsna",
+   "text": "توقف فعالیت فرودگاه ملک فهد عربستان \n\n🔹داده‌های پروازی نشان می‌دهد که پروازها در فرودگاه بین‌المللی ملک فهد در شهر الدمام عربستان به حالت تعلیق درآمده است.\n@Farsna",
+   "url": "https://t.me/farsna/471333",
+   "time": "2026-10-29T02:04:20+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "tg:presstv/212668",
+   "kind": "tg",
+   "src": "presstv",
+   "text": "Four Palestinians killed, dozens wounded in fresh Israeli attacks across Gaza\n\nFresh Israeli attacks have killed four Palestinians and wounded dozens more across the Gaza Strip, including children, as Israeli forces continued shooting, artillery shelling, drone operations, and demolitions in several areas.\n\n@PressTV",
+   "url": "https://t.me/presstv/212668",
+   "time": "2026-10-29T02:03:23+00:00",
+   "keywords": [
+    "attack"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "rss:https://www.aljazeera.com/video/newsfeed/2026/10/29/serbians-storm-tv-studio-as-pro-vucic-media-faces-reckoning?traffic_source=rss",
+   "kind": "rss",
+   "src": "www.aljazeera.com",
+   "text": "Serbians storm TV studio as pro-Vucic media faces reckoning — Serbians stormed a TV studio and confronted its editor-in-chief after a student-led protest movement swept into power.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/serbians-storm-tv-studio-as-pro-vucic-media-faces-reckoning?traffic_source=rss",
+   "time": "2026-10-29T02:02:02+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "rss:https://www.aljazeera.com/video/newsfeed/2026/10/29/bolsonaro-in-miami-i-am-the-true-president?traffic_source=rss",
+   "kind": "rss",
+   "src": "www.aljazeera.com",
+   "text": "Bolsonaro in Miami: I am the ‘true president-elect’ — Flavio Bolsonaro claimed to be the ‘true president-elect’ of Brazil in his first statement since fleeing to the US.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/bolsonaro-in-miami-i-am-the-true-president?traffic_source=rss",
+   "time": "2026-10-29T02:01:09+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "tg:bbcpersian/294258",
+   "kind": "tg",
+   "src": "bbcpersian",
+   "text": "🔻سفارت آمریکا در عربستان از کارمندان غیرضروری خود خواست این کشور را ترک کنند\n\nسفارت آمريكا در عربستان سعودی می‌گويد كه دولتش از كارمندان غير ضروری و اعضای خانواده آنها خواسته از تاریخ ۲۳ اکتبر (اول آبان) به دلیل خطرات امنیتی این کشور را ترک كنند.\n\nدر اطلاعیه سفارت آمریکا در عربستان که ساعاتی پیش منتشر شد، آمده که در پی حملات موشکی و پهپادی حوثی‌های یمن به فرودگاه‌های عربستان سعودی، کارمندان دولت آمریکا تا اطلاع ثانوی، برای استفاده از هر فرودگاهی در این کشور به مجوز ویژه نیاز دارند.\n\nاین اطلاعیه یادآور شده که حملات حوثی‌ها به فرودگاه‌ها و سایر زیرساخت‌های حیاتی عربستان، باعث کشته‌شدن غیرنظامیان",
+   "url": "https://t.me/bbcpersian/294258",
+   "time": "2026-10-29T01:55:58+00:00",
+   "keywords": [
+    "موشک",
+    "پهپاد"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "tg:bbcpersian/294257",
+   "kind": "tg",
+   "src": "bbcpersian",
+   "text": "🔻هشدار عربستان سعودی در مورد «خطر احتمالی» در نجران و بخش‌های شرقی کشور\n\nسازمان دفاع مدنی عربستان سعودی درباره «خطر احتمالی» در نجران، واقع در جنوب غربی این کشور و همچنین در استان‌های شرقی این کشور هشدار داده است.\n\nاین سازمان از ساکنان این مناطق خواسته تا در «نزدیک‌ترین مکان امن» پناه بگیرند.\n\nاین هشدار در حالی صادر می‌شود که حملات حوثی‌های یمن به عربستان سعودی، با هدف قرار دادن فرودگاه‌ها، بنادر و تأسیسات نفتی، همچنان ادامه دارد.\n\nهمزمان ائتلاف عربستان سعودی اعلام کرد که یک موشک بالستیک شلیک‌شده از سوی حوثی‌های یمن به سمت شرقی این کشور را رهگیری و منهدم کرده است.\n\nرسانه‌های داخل ایران نیز به ",
+   "url": "https://t.me/bbcpersian/294257",
+   "time": "2026-10-29T01:55:31+00:00",
+   "keywords": [
+    "موشک",
+    "انفجار"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "tg:farsna/471331",
+   "kind": "tg",
+   "src": "farsna",
+   "text": "راس‌تنورهٔ عربستان از کار افتاد\n\n🔹به گزارش اکانت‌های اوسینتی، حملات نیروهای مسلح یمن به واحد اصلی پالایش راس‌التنوره خسارت قابل‌توجهی زده است.\n\n🔹پایگاه اطلس آبزرور دو روز قبل نوشت احتمالا مخازن پر از نفت در راس‌تنوره هدف گرفته شده‌اند.\n\n🔹ماهواره‌های ناسا ۹ دقیقه پس از آژیر هشدار در این منطقه، نقاط حرارتی در آن شناسایی کرده بودند؛ چند ساعت بعد، یک منبع آگاه به بلومبرگ گفته بود که سعودی‌ها آتش را مهار کرده‌اند.\n\n🔹چندروز پیش نیروهای مسلح یمن اعلام کردند که تاسیسات آرامکو در راس‌التنوره را هدف گرفته‌اند.\n\n🔹حالا تصاویر ماهواره‌ای نشان می‌دهند که واحدی که در این حملات از کار افتاده است، واحد اصلی کر",
+   "url": "https://t.me/farsna/471331",
+   "time": "2026-10-29T01:52:28+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "tg:IranintlTV/364379",
+   "kind": "tg",
+   "src": "iranintltv",
+   "text": "دولت بریتانیا چهارشنبه ششم آبان اعلام کرد برای کاهش فشار افزایش قیمت انرژی در پی جنگ ایران، به ۲۰ میلیون خانوار واجد شرایط ۱۰۰ پوند کمک مالی پرداخت می‌کند و کاهش مالیات بر ارزش افزوده برق را تا ژوییه ۲۰۲۷ تمدید خواهد کرد.\n\nجان هیلی، وزیر دارایی بریتانیا، گفت جنگ در خاورمیانه و افزایش هزینه انرژی فشار قابل توجهی بر بودجه خانوارها و اقتصاد این کشور وارد کرده است.\n\nهیلی گفت: «می‌دانم که با ادامه درگیری در خاورمیانه، افزایش قبض‌های انرژی نگرانی واقعی مردم است.»\n\nاو افزود هدف دولت از این اقدامات، کاهش فشار مالی بر خانواده‌ها است.\n\nبر اساس طرح اعلام‌شده، خانوارهای مشمول گروه‌های مالیاتی A تا D در ان",
+   "url": "https://t.me/IranintlTV/364379",
+   "time": "2026-10-29T01:50:00+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "tg:IranintlTV/364378",
+   "kind": "tg",
+   "src": "iranintltv",
+   "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، در سخنرانی در ایالت اوهایو گفت جمهوری اسلامی به‌دلیل کمبود برق برای تولید پهپاد با مشکل روبه‌رو شده است.\n\nترامپ با اشاره به عملیات نظامی آمریکا علیه جمهوری اسلامی گفت: «ما با عملیات چکش نیمه‌شب و عملیات خشم حماسی، ظرفیت غنی‌سازی هسته‌ای آنها را نابود کردیم و آنها را از نظر نظامی، مالی و از جنبه‌های دیگر شکست دادیم.»\n\nاو جمهوری اسلامی را بزرگ‌ترین حامی تروریسم در جهان خواند و گفت هزاران آمریکایی به دست ایران کشته یا زخمی شده‌اند و شماری از مجروحان اعضای بدن خود را از دست داده‌اند.\n\nترامپ همچنین از عملکرد رهبران پیشین آمریکا انتقاد کرد و گفت: «رهبران پیشین باید ",
+   "url": "https://t.me/IranintlTV/364378",
+   "time": "2026-10-29T01:44:39+00:00",
+   "keywords": [
+    "پهپاد"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "tg:presstv/212667",
+   "kind": "tg",
+   "src": "presstv",
+   "text": "Azerbaijani schoolboy refuses to attend classes in solidarity with girls barred from school over hijab\n\n@PressTV",
+   "url": "https://t.me/presstv/212667",
+   "time": "2026-10-29T01:32:05+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "tg:farsna/471330",
+   "kind": "tg",
+   "src": "farsna",
+   "text": "🎥 تجدید بیعت زائران مزار آقای شهید ایران با رهبر انقلاب\n\n@Farsna",
+   "url": "https://t.me/farsna/471330",
+   "time": "2026-10-29T01:27:19+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "tg:ClashReport/103479",
+   "kind": "tg",
+   "src": "clashreport",
+   "text": "Vivek Ramaswamy:\n\nHonestly, who do you actually think is going to make your life better? \n\nThe answer is so clear.",
+   "url": "https://t.me/ClashReport/103479",
+   "time": "2026-10-29T01:20:33+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMipAFBVV95cUxQanNFVEk5ckprcHozRGJLWUdrZEcyajNNMjU3MXVqc21xellqcnpRVkJKSTFWdXNZZ2hoSEx1Mng1anJaXzd0MjBreGJOY2pJb0hKNXM4Z0t4ejh3QndGZWpaN055dDY2a25BUXhRTFlsVHJVWUNsN2tCNXhpeHlvUjM2a2JiZU9BWGVqN2FFOXplUnRCZHhZUVdnQkx0WUpTM0dhSQ?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "Video | Donald Trump Denies Asking JD Vance To Contact Iran For Peace Talks - NDTV — Video | Donald Trump Denies Asking JD Vance To Contact Iran For Peace Talks  NDTV",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQanNFVEk5ckprcHozRGJLWUdrZEcyajNNMjU3MXVqc21xellqcnpRVkJKSTFWdXNZZ2hoSEx1Mng1anJaXzd0MjBreGJOY2pJb0hKNXM4Z0t4ejh3QndGZWpaN055dDY2a25BUXhRTFlsVHJVWUNsN2tCNXhpeHlvUjM2a2JiZU9BWGVqN2FFOXplUnRCZHhZUVdnQkx0WUpTM0dhSQ?oc=5",
+   "time": "2026-10-29T01:17:42+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "tg:ClashReport/103478",
+   "kind": "tg",
+   "src": "clashreport",
+   "text": "Defense Secretary Pete Hegseth has ousted Lt. Gen. Brett Sylvia, the Pentagon’s top military planner, without explanation, as the U.S. considers renewed strikes on Iran.\n\nSylvia is the second official removed from the position in a year, with no replacement announced.\n\nSource: The Atlantic",
+   "url": "https://t.me/ClashReport/103478",
+   "time": "2026-10-29T01:14:35+00:00",
+   "keywords": [
+    "strike"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "tg:presstv/212666",
+   "kind": "tg",
+   "src": "presstv",
+   "text": "🔴 Saudi media report explosions in the Eastern Province and warning sirens in Najran.\n\n@PressTV",
+   "url": "https://t.me/presstv/212666",
+   "time": "2026-10-29T01:13:56+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "tg:ClashReport/103477",
+   "kind": "tg",
+   "src": "clashreport",
+   "text": "Obama:\n\nI am old enough to remember when a president wearing a tan suit was a major national controversy. They were very upset. \n\nAnd I know I looked good in that suit.",
+   "url": "https://t.me/ClashReport/103477",
+   "time": "2026-10-29T01:13:34+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "tg:ClashReport/103476",
+   "kind": "tg",
+   "src": "clashreport",
+   "text": "Obama:\n\nYou cannot trade the office of the presidency and policy that affects Americans to make yourself money. That's not what we do.\n\nThat's what dictators in other countries do.\n\nWhen I was president, we would scold other countries when they operated like that.",
+   "url": "https://t.me/ClashReport/103476",
+   "time": "2026-10-29T01:12:32+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "tg:farsna/471329",
+   "kind": "tg",
+   "src": "farsna",
+   "text": "شنیده‌شدن صدای انفجار در مناطقی از عربستان سعودی\n\n🔹ائتلاف متجاوز سعودی اعلام کرد آژیرهای هشدار حملهٔ موشکی در استان‌های «شرقی» و «نجران» فعال شده است.\n@Farsna - Link",
+   "url": "https://t.me/farsna/471329",
+   "time": "2026-10-29T01:08:47+00:00",
+   "keywords": [
+    "حمله",
+    "موشک",
+    "انفجار"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "tg:ClashReport/103475",
+   "kind": "tg",
+   "src": "clashreport",
+   "text": "Obama:\n\nTrump wasn't even mad about the Saddam Hussein comparison. That part didn't bother him. \n\nBut he was very upset about the Cheesecake Factory comparison.",
+   "url": "https://t.me/ClashReport/103475",
+   "time": "2026-10-29T01:07:00+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "tg:ClashReport/103474",
+   "kind": "tg",
+   "src": "clashreport",
+   "text": "Obama:\n\nTrump is literally doing arts and crafts while we are fighting a war.",
+   "url": "https://t.me/ClashReport/103474",
+   "time": "2026-10-29T01:05:00+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "tg:ClashReport/103473",
+   "kind": "tg",
+   "src": "clashreport",
+   "text": "Obama on Ukraine War:\n\nThe White House is bending the knee to Vladimir Putin of Russia and selling out Ukrainians who are fighting for their freedom and democracy.",
+   "url": "https://t.me/ClashReport/103473",
+   "time": "2026-10-29T01:02:58+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMWxGT1FLUnFPbEpCaGtDRmhGcmZaRjFRR0t4b2pNd29ZSXJzLUxQUzZmc0lHdDJHYkNkT0dtTmZuYzBLdklZeHA2LVFxUHMzWjdERkNoTzZHTTIwQW9sa2NhWDRhYWdoLXZfc0s2U2NsRVA5Tm9XVWlMOU1HdHlCTGN3QnMtaU1hbDVtZ3VUTEE2MEhmSHRsT0JyX2JQNjUwYVBETTJvTG1IREM4R2wtVHNmUmtxTVktbjlPVFJ4Y2xEcEVLSklUVjBDSTlpWHE4RlBuWU1sblBzUFl1eHfSAeMBQVVfeXFMTVFGYlo4SWtDc1QxTVlZb2ZMRUU0Sjlidlc3WXR3VDJqTnh1c2c4SFVZYXZfSGpNNE5VN1pUOWdUaWl0T2J5cTZJQUVXY3M0MEdlNE13bm1jc3BwazNCLWh1elViZkk0djNVQlVsMjIzdG12cWxaNl9jelE4MEwxajFnNlRwWlJFTU50emMzNm1YVTJ3eTFJUUdOMVg2TGxTaGlkeGN5NGYwMWZCVXF0WERMUzRTOThLUGxFeEZFc1RiVlJydlE1S2p4bmZwdzAtR1pSMnA3a0MxQTd2czk3OWt6S00?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "Globe at a glance: From possible US strikes on Iran after the midterms to national mourning in Spain - Firstpost — Globe at a glance: From possible US strikes on Iran after the midterms to national mourning in Spain  Firstpost",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMWxGT1FLUnFPbEpCaGtDRmhGcmZaRjFRR0t4b2pNd29ZSXJzLUxQUzZmc0lHdDJHYkNkT0dtTmZuYzBLdklZeHA2LVFxUHMzWjdERkNoTzZHTTIwQW9sa2NhWDRhYWdoLXZfc0s2U2NsRVA5Tm9XVWlMOU1HdHlCTGN3QnMtaU1hbDVtZ3VUTEE2MEhmSHRsT0JyX2JQNjUwYVBETTJvTG1IREM4R2wtVHNmUmtxTVktbjlPVFJ4Y2xEcEVLSklUVjBDSTlpWHE4RlBuWU1sblBzUFl1eHfSAeMBQVVfeXFMTVFGYlo4SWtDc1QxTVlZb2ZMRUU0Sjlidlc3WXR3VDJqTnh1c2c4SFVZYXZfSGpNNE5VN1pUOWdUaWl0T2J5cTZJQUVXY3M0MEdlNE13bm1jc3BwazNCLWh1elViZkk0djNVQlVsMjIzdG12cWxaNl9jelE4MEwxajFnNlRwWlJFTU50emMzNm1YVTJ3eTFJUUdOMVg2TGxTaGlkeGN5NGYwMWZCVXF0WERMUzRTOThLUGxFeEZFc1RiVlJydlE1S2p4bmZwdzAtR1pSMnA3a0MxQTd2czk3OWt6S00?oc=5",
+   "time": "2026-10-29T01:01:40+00:00",
+   "keywords": [
+    "strike"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "tg:ClashReport/103472",
+   "kind": "tg",
+   "src": "clashreport",
+   "text": "Obama on the Trump administration:\n\nThese are not serious people, and we are all paying the price for their lack of seriousness.",
+   "url": "https://t.me/ClashReport/103472",
+   "time": "2026-10-29T01:01:36+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "tg:ClashReport/103471",
+   "kind": "tg",
+   "src": "clashreport",
+   "text": "Obama blasts Hegseth:\n\nThe defense secretary is laser-focused on very important matters like the jawline and testosterone levels of our troops and live-streaming executions, because that's how he thinks you cultivate that manly, warrior spirit.",
+   "url": "https://t.me/ClashReport/103471",
+   "time": "2026-10-29T01:00:45+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "tg:presstv/212664",
+   "kind": "tg",
+   "src": "presstv",
+   "text": "🔴 Yemen’s Health Ministry: 100 people have been killed and 86 injured since Saudi Arabia resumed attacks on al-Jawf province.\n\n@PressTV",
+   "url": "https://t.me/presstv/212664",
+   "time": "2026-10-29T01:00:00+00:00",
+   "keywords": [
+    "attack"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "tg:ClashReport/103470",
+   "kind": "tg",
+   "src": "clashreport",
+   "text": "Obama on Iran:\n\nHow is this war going? Our allies and bases have been attacked. Americans have been killed. Hundreds of Americans have been wounded. \n\nWe have run down our stock of missiles, making us more vulnerable, and Iran now has veto power over the Strait of Hormuz, where much of the world's oil goes through to get to consumers.",
+   "url": "https://t.me/ClashReport/103470",
+   "time": "2026-10-29T00:58:48+00:00",
+   "keywords": [
+    "attack",
+    "missile"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "tg:ClashReport/103469",
+   "kind": "tg",
+   "src": "clashreport",
+   "text": "Obama on Iran:\n\nIran didn't have nuclear weapons. We had curbed their nuclear program.\n\nI had put in place a deal. I didn't have to fire any missiles. I engaged in diplomacy.",
+   "url": "https://t.me/ClashReport/103469",
+   "time": "2026-10-29T00:56:09+00:00",
+   "keywords": [
+    "missile"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "tg:warmonitors/46350",
+   "kind": "tg",
+   "src": "warmonitors",
+   "text": "⚡The Saudi-led coalition says it destroyed a ballistic missile fired by Yemen’s Houthis towards the kingdom’s eastern region\n\n💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18",
+   "url": "https://t.me/warmonitors/46350",
+   "time": "2026-10-29T00:50:56+00:00",
+   "keywords": [
+    "missile"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "rss:https://www.bbc.com/persian/articles/cqkgl8m7xkxdo?at_medium=RSS&at_campaign=rss",
+   "kind": "rss",
+   "src": "feeds.bbci.co.uk",
+   "text": "نشست مهم حزب کمونیست چین؛ شی به دنبال «سخت‌گیری بیشتر در انضباط حزبی» — نشستی مهم در عرصه سیاست چین در پایتخت این کشور در جریان است؛ جایی که مقام‌های ارشد در جلسه‌ای غیرعلنی گرد هم آمده‌اند؛ نشستی که ممکن است در سال‌های آینده بر ترکیب و چهره حزب کمونیست حاکم تاثیر بگذارد.",
+   "url": "https://www.bbc.com/persian/articles/cqkgl8m7xkxdo?at_medium=RSS&at_campaign=rss",
+   "time": "2026-10-29T00:50:48+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "tg:Alibk3/40268",
+   "kind": "tg",
+   "src": "alibk3",
+   "text": "صور الأقمار الصناعية ترصد حريقًا في مضيق هرمز قبل قليل، يبدو تم استهداف سفينة.",
+   "url": "https://t.me/Alibk3/40268",
+   "time": "2026-10-29T00:50:34+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "tg:presstv/212663",
+   "kind": "tg",
+   "src": "presstv",
+   "text": "Iran VP orders permanent working group to draft digital space legislation\n\nFirst Vice President Mohammad Reza Aref has ordered the establishment of a permanent working group to draft legislation governing the digital space in order to enable the country to address challenges in the sector through an appropriate legal framework.\n\n@PressTV",
+   "url": "https://t.me/presstv/212663",
+   "time": "2026-10-29T00:46:55+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMib0FVX3lxTE1oUG55T0F3djV0T0FrZmZ2WkpGT2ZhelJSZVlQRkRYQ25zd04wQ3hDMGE5RHRYRGQtcmxaWFphY045Z3Q0eUZvUkdHVmhQV1hFSDN1V0JiakZyaVFycUNmU2FMZ0MwUXBtckFEVlc1Yw?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "הנפט נסוג בעוד סוחרים שוקלים את הדיפלומטיה עם איראן מול סיכוני תקיפה מחודשים מאת Investing.com - Investing.com — הנפט נסוג בעוד סוחרים שוקלים את הדיפלומטיה עם איראן מול סיכוני תקיפה מחודשים מאת Investing.com  Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1oUG55T0F3djV0T0FrZmZ2WkpGT2ZhelJSZVlQRkRYQ25zd04wQ3hDMGE5RHRYRGQtcmxaWFphY045Z3Q0eUZvUkdHVmhQV1hFSDN1V0JiakZyaVFycUNmU2FMZ0MwUXBtckFEVlc1Yw?oc=5",
+   "time": "2026-10-29T00:42:58+00:00",
+   "keywords": [
+    "תקיפה",
+    "איראן"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "tg:warmonitors/46349",
+   "kind": "tg",
+   "src": "warmonitors",
+   "text": "⚡#BREAKING Saudi Arabia’s Civil Defence has issued an alert over potential danger in Najran\n\n💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18",
+   "url": "https://t.me/warmonitors/46349",
+   "time": "2026-10-29T00:40:54+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "rss:https://www.aljazeera.com/video/newsfeed/2026/10/29/riot-police-deployed-in-madrid-as-protests-erupt-over-deadly-train-crash?traffic_source=rss",
+   "kind": "rss",
+   "src": "www.aljazeera.com",
+   "text": "Riot police deployed in Madrid as protests erupt over deadly train crash — A deadly train crash fuelled anger in Spain as far-right demonstrators clashed with police",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/riot-police-deployed-in-madrid-as-protests-erupt-over-deadly-train-crash?traffic_source=rss",
+   "time": "2026-10-29T00:36:33+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "tg:ClashReport/103468",
+   "kind": "tg",
+   "src": "clashreport",
+   "text": "Trump:\n\nEverything is the best it's ever been.",
+   "url": "https://t.me/ClashReport/103468",
+   "time": "2026-10-29T00:34:33+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "rss:https://www.aljazeera.com/video/newsfeed/2026/10/29/israelis-rally-for-jewish-arab-government-after-election-gains?traffic_source=rss",
+   "kind": "rss",
+   "src": "www.aljazeera.com",
+   "text": "Israelis rally for Jewish-Arab government after election gains — Israelis rallied for a Jewish-Arab gov’t after parties representing Israel’s Arab citizens made gains in the election.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israelis-rally-for-jewish-arab-government-after-election-gains?traffic_source=rss",
+   "time": "2026-10-29T00:34:24+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "tg:Alibk3/40267",
+   "kind": "tg",
+   "src": "alibk3",
+   "text": "هجوم يمني في المنطقة الشرقية بالسعودية.",
+   "url": "https://t.me/Alibk3/40267",
+   "time": "2026-10-29T00:31:25+00:00",
+   "keywords": [
+    "هجوم"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "tg:presstv/212662",
+   "kind": "tg",
+   "src": "presstv",
+   "text": "The secretary general of Hezbollah Sheikh Naim Qassem says resistance will continue as long as Israeli occupation and attacks on Lebanon persist.  @PressTV",
+   "url": "https://t.me/presstv/212662",
+   "time": "2026-10-29T00:30:00+00:00",
+   "keywords": [
+    "attack"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "tg:Alibk3/40266",
+   "kind": "tg",
+   "src": "alibk3",
+   "text": "هجوم يمني في المنطقة الشرقية بالسعودية.",
+   "url": "https://t.me/Alibk3/40266",
+   "time": "2026-10-29T00:25:28+00:00",
+   "keywords": [
+    "هجوم"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "tg:ClashReport/103467",
+   "kind": "tg",
+   "src": "clashreport",
+   "text": "Trump:\n\nI think my uncle just got named the number one professor in the history of MIT.\n\nCan you believe that?",
+   "url": "https://t.me/ClashReport/103467",
+   "time": "2026-10-29T00:22:46+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "tg:ClashReport/103466",
+   "kind": "tg",
+   "src": "clashreport",
+   "text": "Trump:\n\nThey had me first as an evil genius, then they had me as a total moron.\n\nThey've tried everything.",
+   "url": "https://t.me/ClashReport/103466",
+   "time": "2026-10-29T00:22:39+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "tg:ClashReport/103465",
+   "kind": "tg",
+   "src": "clashreport",
+   "text": "Trump:\n\nI am a very high-IQ person.\n\nDon't forget, I passed three cognitive tests. They're hard.",
+   "url": "https://t.me/ClashReport/103465",
+   "time": "2026-10-29T00:16:47+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "tg:bbcpersian/294256",
+   "kind": "tg",
+   "src": "bbcpersian",
+   "text": "🔻دونالد ترامپ، رئیس جمهور آمریکا، ضمن تایید ارسال نامه از سوی معاونش، جی‌دی ونس، به ایران، گفته محتوای این نامه مرتبط با مسایل مربوط به دارو و اقلام پزشکی بوده است.\n\nاو عصر چهارشنبه و پس از آن که نشریه وال استریت ژورنال از ارسال نامه‌ای از سوی جی‌دی ونس به محسن رضایی، خبر داده بود، به خبرنگاران گفت: «موضوع این است که آنها به کمک برای تامین تجهیزات پزشکی و چیزهای مختلف نیاز دارند. او (جی‌دی ونس) از من پرسید نظرم چیست. من هم گفتم اگر می‌خواهی این کار را انجام بدهی، اشکالی ندارد. در واقع، هدف این است که محموله‌های امدادی برای کمک به افرادی که حالشان خوب نیست، اجازه ورود بگیرد.»\n\nروزنامه وال استری",
+   "url": "https://t.me/bbcpersian/294256",
+   "time": "2026-10-29T00:14:41+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "tg:Alibk3/40265",
+   "kind": "tg",
+   "src": "alibk3",
+   "text": "تحليق مكثف للطيران الحربي المعادي فوق أجواء العاصمة العراقية بغداد.",
+   "url": "https://t.me/Alibk3/40265",
+   "time": "2026-10-29T00:08:16+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "tg:farsna/471328",
+   "kind": "tg",
+   "src": "farsna",
+   "text": "حملات رژیم صهیونیستی به جنوب لبنان\n\n🔹خبرگزاری «یونیوز» بامداد پنجشنبه گزارش داد توپخانه اشغالگران، مناطق «كفرتبنيت» و «وادی السلوقی» را در چند نوبت گلوله‌باران کرد.\n\n🔹همچنین نظامیان صهیونیست ساختمان‌هایی را در شهر «الخیام» منفجر کردند.\n@FarsNewsInt - Link",
+   "url": "https://t.me/farsna/471328",
+   "time": "2026-10-29T00:04:53+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "tg:shin_persian/11685",
+   "kind": "tg",
+   "src": "shin_persian",
+   "text": "Shin ✓  @hey_itsmyturn\n\n29 Oct, 02:00 Israel time\n\nBallots counted: 5,157,014\nStations reporting: 11,777\nValid: 5,134,244\nInvalid: 22,770\n\nCounted votes (% of 5,134,244 counted valid votes):\n\nBibi's bloc: 2,148,002 (41.84%)\nLikud: 1,060,865 (20.66%)\nShas: 271,908 (5.30%)\nUnited Torah Judaism: 290,035 (5.65%)\nOtzma Yehudit: 283,882 (5.53%)\nReligious Zionism–Zehut: 241,312 (4.70%)\n\nOpposition: 1,935,827 (37.70%)\nYashar! (Eisenkot): 832,433 (16.21%)\nTogether (Bennett–Lapid): 463,723 (9.03%)\nDemocrats (Golan): 334,705 (6.52%)\nYisrael Beytenu (Liberman): 304,966 (5.94%)\n\nArab parties: 783,219 (15.2",
+   "url": "https://t.me/shin_persian/11685",
+   "time": "2026-10-29T00:03:06+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "tg:IranintlTV/364377",
+   "kind": "tg",
+   "src": "iranintltv",
+   "text": "🔻اطلاعات منتشر شده در سامانه کدال نشان می‌دهد پرسپولیس در ۴ ماه ابتدایی از سال مالی خود (یک تیر تا ۳۰ مهر ۱۴۰۵) بیش از اینکه از بلیت‌فروشی درآمد کسب کند، از کمک‌های هواداران کسب درآمد کرده است؛ ۴ میلیارد تومان در برابر بیش از ۷۱ میلیارد تومان. چیزی نزدیک به ۲۰ برابر.\n\n🔹️️️️️️مطابق اظهارنامه شرکت پرسپولیس، بیش از ۱۸ میلیارد و ۶۰۰ میلیون تومان از کمک هواداران، فقط در مهرماه بوده است.\n\n🔹️️️️️️نکته اینکه برگزار نشدن مسابقات پرسپولیس در استادیوم آزادی که محل میزبانی سرخ‌پوشان از حریفان خود است، عملا باعث درآمد نزدیک به صفر پرسپولیس، یکی از پرطرفدارترین باشگاه‌های فوتبال آسیا از بلیت‌فروشی است.\n\n🔹️️",
+   "url": "https://t.me/IranintlTV/364377",
+   "time": "2026-10-29T00:01:48+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LZURVVkthaUI0b0YwaTk4NDZ3LXJvY0pneDdCeEFfQ2ZSd0trVU94ano4Q0dQbTExdE9pbWpHY0k3TVY0eF9jaXdqd3duMVF2MEE?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "NPT withdrawal returns to Iran debate as diplomacy gains pace - Iran International — NPT withdrawal returns to Iran debate as diplomacy gains pace  Iran International",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LZURVVkthaUI0b0YwaTk4NDZ3LXJvY0pneDdCeEFfQ2ZSd0trVU94ano4Q0dQbTExdE9pbWpHY0k3TVY0eF9jaXdqd3duMVF2MEE?oc=5",
+   "time": "2026-10-29T00:01:28+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "rss:https://www.aljazeera.com/news/2026/10/29/no-clear-winner-in-israeli-election-with-nearly-90-percent-of-votes-counted?traffic_source=rss",
+   "kind": "rss",
+   "src": "www.aljazeera.com",
+   "text": "No clear winner in Israel election with nearly 90 percent of votes counted — Netanyahu's right-wing bloc leads but is falling short of the votes needed to form a government.",
+   "url": "https://www.aljazeera.com/news/2026/10/29/no-clear-winner-in-israeli-election-with-nearly-90-percent-of-votes-counted?traffic_source=rss",
+   "time": "2026-10-29T00:01:07+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "tg:presstv/212661",
+   "kind": "tg",
+   "src": "presstv",
+   "text": "AEOI: Iran, Russia plan to accelerate construction of small modular reactors\n\nThe Atomic Energy Organization of Iran (AEOI) says Tehran and Moscow are finalizing a protocol to accelerate the construction of small modular reactors (SMRs).\n\n@PressTV",
+   "url": "https://t.me/presstv/212661",
+   "time": "2026-10-29T00:00:37+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "rss:https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?traffic_source=rss",
+   "kind": "rss",
+   "src": "www.aljazeera.com",
+   "text": "Iran war live: Tehran presses 7-day Hormuz plan; Trump denies peace talks — Araghchi says Iran is in close contact with mediators on ideas to implement its seven-day plan to reopen Hormuz strait.",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?traffic_source=rss",
+   "time": "2026-10-29T00:00:00+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "tg:IranintlTV/364376",
+   "kind": "tg",
+   "src": "iranintltv",
+   "text": "به گزارش رسانه‌های مکزیک، ارنستو چاوانا، مجری تلویزیونی مکزیکی، ۲۶ اکتبر در برنامه زنده «اس شو» در مونتری پهپادی را لگد زد و پهپاد به صورت ایزابلا روخاس، مدل، برخورد کرد. روخاس در حالی که صورتش را گرفته بود صحنه را ترک کرد و رسانه‌ها از بریدگی لب او خبر دادند. چاوانا حین پخش زنده عذرخواهی کرد و مسئولیت را بر عهده گرفت. تیم تولید برنامه تأیید کرد که او هزینه‌های ناشی از این آسیب را خواهد پرداخت. روخاس پس از دریافت درمان به استودیو بازگشت.\n@iranintltv",
+   "url": "https://t.me/IranintlTV/364376",
+   "time": "2026-10-28T23:58:38+00:00",
+   "keywords": [
+    "پهپاد"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "tg:bbcpersian/294255",
+   "kind": "tg",
+   "src": "bbcpersian",
+   "text": "🔻بسنت: با موفقیت عملیات انزوای اقتصادی، سپاه از فروپاشی حرف می‌زند\n\nاسکات بسنت، وزیر دارایی آمریکا، می‌گوید در نتیجه «عملیات انزوای اقتصادی»، ایران در حال قطع بودجه گروه‌های نیابتی خود است.\n\nآقای بسنت روز چهارشنبه در گفت‌وگو با شبکه سی‌ان‌بی‌سی، تلاش‌های آمریکا برای منزوی کردن اقتصاد ایران را «بسیار موفق» ارزیابی کرد.\n\nاو گفت: «مقام‌های ایران در تابستان شروع به ابراز نگرانی آشکار درباره وضعیت اقتصادی کردند. اکنون، سپاه پاسداران به‌شدت نگران است و به صورت عمومی و در محافل خصوصی، از فروپاشی سخن می‌گویند.»\n\nآقای بسنت با اشاره به قطع دسترسی ایران به دلار افزود: «شاهد آن هستیم که بودجه گروه‌های نیا",
+   "url": "https://t.me/bbcpersian/294255",
+   "time": "2026-10-28T23:53:37+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMiiAFBVV95cUxONE1ES2ZjM0JzQjd1SFFaWWlBUnZwdENPSkZQRUJnT2tTLXFfSXBNMlR3blVwTERXTlBuU2Y1bVFxLWQxZTVmWVNwRGI5UjBTS1dJbzdtejNYa01TU21GaUdtV01ZRWJzRTZUV2REV0pTZHc0WVpzMXFTRjYzNlo3eVUwQkFZcUFs0gGcAUFVX3lxTE9oWldHb2w1OHRCMzZkYWtlOFNCMkhJcnlhclpfODRYbGVEbXh4Zko3QzRxTWEtMkl0aVh3Q2J2VVlEaTZWbmJPT3haVlAwdTVUN0FfdGlsY3pzRGNodC1wQlJaQkZHWHNDYVQ5UGlWUFctLUVqaEt1c0N3WXo2RVprTzRmelNYR1dkbzFsSWlKSzNDUHA2NVFucm5kag?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "Vance seeks Iran talks under Trump direction despite strike threats - Chosunbiz — Vance seeks Iran talks under Trump direction despite strike threats  Chosunbiz",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONE1ES2ZjM0JzQjd1SFFaWWlBUnZwdENPSkZQRUJnT2tTLXFfSXBNMlR3blVwTERXTlBuU2Y1bVFxLWQxZTVmWVNwRGI5UjBTS1dJbzdtejNYa01TU21GaUdtV01ZRWJzRTZUV2REV0pTZHc0WVpzMXFTRjYzNlo3eVUwQkFZcUFs0gGcAUFVX3lxTE9oWldHb2w1OHRCMzZkYWtlOFNCMkhJcnlhclpfODRYbGVEbXh4Zko3QzRxTWEtMkl0aVh3Q2J2VVlEaTZWbmJPT3haVlAwdTVUN0FfdGlsY3pzRGNodC1wQlJaQkZHWHNDYVQ5UGlWUFctLUVqaEt1c0N3WXo2RVprTzRmelNYR1dkbzFsSWlKSzNDUHA2NVFucm5kag?oc=5",
+   "time": "2026-10-28T23:49:00+00:00",
+   "keywords": [
+    "strike"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "tg:warmonitors/46348",
+   "kind": "tg",
+   "src": "warmonitors",
+   "text": "Andy Burnham can we ban these monstrosities?\n\n💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18",
+   "url": "https://t.me/warmonitors/46348",
+   "time": "2026-10-28T23:45:45+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "tg:presstv/212660",
+   "kind": "tg",
+   "src": "presstv",
+   "text": "Araghchi: Iran could reopen Hormuz ‘within days’ if its conditions accepted\n\nForeign Minister Abbas Araghchi says Iran is reviewing ideas that could ensure implementation of its seven-day plan to reopen the Strait of Hormuz in an even shorter timeframe and break the standoff with the United States.\n\n@PressTV",
+   "url": "https://t.me/presstv/212660",
+   "time": "2026-10-28T23:45:41+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "rss:https://www.aljazeera.com/news/2026/10/28/romania-extends-pre-trial-detention-of-far-right-politician-calin-georgescu?traffic_source=rss",
+   "kind": "rss",
+   "src": "www.aljazeera.com",
+   "text": "Romania extends pre-trial detention of far-right politician Calin Georgescu — The Bucharest court has extended the pre-trial detention of Calin Georgescu by 30 days, appealing a lower court ruling.",
+   "url": "https://www.aljazeera.com/news/2026/10/28/romania-extends-pre-trial-detention-of-far-right-politician-calin-georgescu?traffic_source=rss",
+   "time": "2026-10-28T23:43:06+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMiyAFBVV95cUxQczNVaVUyc1NFcnhPVFJQWXAyX1hfYnRVUnB5RmJmbDdEQXBKTmUxb0xEby1BWDJMQkIwQTJoRmRzenMxX1A3S1pVazFJNTNJbER2OExIU3lGWVJSbW5VM3Qtdm12cFBMM0xZOW02VDAydEw3dUxVTFBoS3dqM216WUprR2dXNFRoUG9STnIwcnRQMXJJeFJtQUtEZWxEbDJqelUxdkRyN1Y5ZmR3VXlVZVpFQUN0X2xZUXJFbXVaNUJfZUlBUVJFQg?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "US military rejects Iranian mine-strike claims, says Hormuz transit lanes remain 'clear' - Gulf News — US military rejects Iranian mine-strike claims, says Hormuz transit lanes remain 'clear'  Gulf News",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQczNVaVUyc1NFcnhPVFJQWXAyX1hfYnRVUnB5RmJmbDdEQXBKTmUxb0xEby1BWDJMQkIwQTJoRmRzenMxX1A3S1pVazFJNTNJbER2OExIU3lGWVJSbW5VM3Qtdm12cFBMM0xZOW02VDAydEw3dUxVTFBoS3dqM216WUprR2dXNFRoUG9STnIwcnRQMXJJeFJtQUtEZWxEbDJqelUxdkRyN1Y5ZmR3VXlVZVpFQUN0X2xZUXJFbXVaNUJfZUlBUVJFQg?oc=5",
+   "time": "2026-10-28T23:37:46+00:00",
+   "keywords": [
+    "strike"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
+   "id": "tg:Alibk3/40264",
+   "kind": "tg",
+   "src": "alibk3",
+   "text": "وول ستريت جورنال:  نائب ترامب يتواصل مع أمين مجلس الأمن القومي الإيراني، محسن رضائي في محاولة لإعادة إطلاق المفاوضات.",
+   "url": "https://t.me/Alibk3/40264",
+   "time": "2026-10-28T23:37:31+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
   {
    "id": "tg:presstv/212650",
    "kind": "tg",
@@ -39,6 +948,18 @@
    "collected": "2026-10-28T23:34:35.468790+00:00"
   },
   {
+   "id": "rss:https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMWRNaHFmalJ3ZTFfQnZsaGZteHk0bHVlWi1oYUhmVkxrNjJCZlhQRUF4N3Focy12cE9sTWhaZzFSVTRZdUFHMU5JRExNdVU3cmpyZWp5X2E1Z190RkJYNWY2TGxLZmJSNno0ZzE1Z19Vak55UkViYUVTVUdkN01NLXNCbUdmX2pkcy1pWThsT2FJTUtNSUY0X3lxN0o1WGxKTTBhVmZPMUlUMHdoQXNTZnRRaEc2RFdkb1pad3ZYSVRpQjNTNlZ2Qno3Tm5JajlHVHJ5azk5SjQ0c1ZuMC1R?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "U.S. sending Patriot system to Israel as Mideast tensions rise, news report says - The American Legion — U.S. sending Patriot system to Israel as Mideast tensions rise, news report says  The American Legion",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMWRNaHFmalJ3ZTFfQnZsaGZteHk0bHVlWi1oYUhmVkxrNjJCZlhQRUF4N3Focy12cE9sTWhaZzFSVTRZdUFHMU5JRExNdVU3cmpyZWp5X2E1Z190RkJYNWY2TGxLZmJSNno0ZzE1Z19Vak55UkViYUVTVUdkN01NLXNCbUdmX2pkcy1pWThsT2FJTUtNSUY0X3lxN0o1WGxKTTBhVmZPMUlUMHdoQXNTZnRRaEc2RFdkb1pad3ZYSVRpQjNTNlZ2Qno3Tm5JajlHVHJ5azk5SjQ0c1ZuMC1R?oc=5",
+   "time": "2026-10-28T23:20:36+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
    "id": "rss:https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYUhnWjJOU2t5b1VXNTZqSFoxWVJCcHZGcVlWNWlEYjR0dkdtUEhwN1JZc3hNM0o0VG9HV21RQVRNNEd2NDRsc1phelI5eGdjQjcwNk12NnVEUWhIOU14ZGMtS0Z3UzZiYm0zc1BVbm1zYllOU3hQbUtJVFFlRVpXZFpzNFZSTkxvT2VENFA4emhkcFhTVkpDbm5oSG9tVklXX0N0WlhlY211Z3RpZmN1TWdEWmhhV0hmSlkzTWxhWEVJSXZZTDUwNWtyanlUZlhOc1lIMFBSWC1qU2ZpdG9hR2pjSWdtUTcyU2c?oc=5",
    "kind": "rss",
    "src": "news.google.com",
@@ -61,6 +982,18 @@
    "emojis": [],
    "alert": false,
    "collected": "2026-10-28T23:34:35.468790+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMidEFVX3lxTE9CaGxUOVljb3ZJT3Z4NkJjTG96dERqY3RjT0pUcVJ0enhLLW82aFF5M3AtdFdmdzdSYXgxUS1yTThRRjBhc1pOZmhBVG5kTHJUSHdjdU4ydjlkS2xFQ3RKN05IQUtBMlNvYlo1bVNKWFdOV0xr?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "Vance contacted top Iran security official - US outlet - RTE.ie — Vance contacted top Iran security official - US outlet  RTE.ie",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9CaGxUOVljb3ZJT3Z4NkJjTG96dERqY3RjT0pUcVJ0enhLLW82aFF5M3AtdFdmdzdSYXgxUS1yTThRRjBhc1pOZmhBVG5kTHJUSHdjdU4ydjlkS2xFQ3RKN05IQUtBMlNvYlo1bVNKWFdOV0xr?oc=5",
+   "time": "2026-10-28T23:15:51+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
   },
   {
    "id": "tg:IranintlTV/364373",
@@ -214,6 +1147,18 @@
    "collected": "2026-10-28T23:34:35.468790+00:00"
   },
   {
+   "id": "rss:https://news.google.com/rss/articles/CBMid0FVX3lxTE1IYkxod0x1YmhmNDdqb01SMHMtN0tPdDAxd2dfSGRtaUxpX3VjQWd1TXBWNWtQTlJqOWxXZVVQTkUxclhWNV9DRHZFUUg4bm1neVFyQjJUaG5HWHFTRjUyRFRabXlPN0ZyTHp1X244ZmtzbFN5eGhr?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "Iran Update: October 28, 2026 - Critical Threats — Iran Update: October 28, 2026  Critical Threats",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1IYkxod0x1YmhmNDdqb01SMHMtN0tPdDAxd2dfSGRtaUxpX3VjQWd1TXBWNWtQTlJqOWxXZVVQTkUxclhWNV9DRHZFUUg4bm1neVFyQjJUaG5HWHFTRjUyRFRabXlPN0ZyTHp1X244ZmtzbFN5eGhr?oc=5",
+   "time": "2026-10-28T22:59:05+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
    "id": "tg:shin_persian/11683",
    "kind": "tg",
    "src": "shin_persian",
@@ -224,6 +1169,18 @@
    "emojis": [],
    "alert": false,
    "collected": "2026-10-28T23:34:35.468790+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMihAFBVV95cUxQOUt1SnRaTTREU1ZlUS1TTVhuS2QzVGg1UHRrWGc2UTNkUDRZY3Y1QUREU3FielhZanZEY0h0OUxONWpyMEJldGtuU2ItZ3o4RnBvTnZQdDV2dkFrSkpZanVmU1g2WW9yMlVNRGxCaEZ4a1pYVEwyRDcyY3VEOC1lS2tRU28?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "Iran Update, October 28, 2026 - Institute for the Study of War — Iran Update, October 28, 2026  Institute for the Study of War",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOUt1SnRaTTREU1ZlUS1TTVhuS2QzVGg1UHRrWGc2UTNkUDRZY3Y1QUREU3FielhZanZEY0h0OUxONWpyMEJldGtuU2ItZ3o4RnBvTnZQdDV2dkFrSkpZanVmU1g2WW9yMlVNRGxCaEZ4a1pYVEwyRDcyY3VEOC1lS2tRU28?oc=5",
+   "time": "2026-10-28T22:53:50+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
   },
   {
    "id": "tg:farsna/471327",
@@ -1100,6 +2057,18 @@
    "collected": "2026-10-28T23:34:35.468790+00:00"
   },
   {
+   "id": "rss:https://news.google.com/rss/articles/CBMixwFBVV95cUxOd09CUUplRGI3aGFDT0xoU25aZ2hWSDNvd3BzTUZMbUpWMWp3dUxYbElrUmZGWUJfMS1rWmFDWi1iQW9QWXk4WVM0cWhvMTNzbDUzNzJ6dWVtVjlRdXlzaUc1SFBZU0xKMmtXd3Q0WGVUYzBCc3czU1Jqem1mWXROYzVKb3l1ZEhBdHpITlZGRGx4VFBpVmVTMkRrY01WVmx0U004Yl85LTg3VVhiZzhIRS16M2I2aEpHdXpqRTVyc29rTjBaTG5J?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "Vance reaches out to Iran security chief in bid to restart peace talks, WSJ reports - The Times of Israel — Vance reaches out to Iran security chief in bid to restart peace talks, WSJ reports  The Times of Israel",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOd09CUUplRGI3aGFDT0xoU25aZ2hWSDNvd3BzTUZMbUpWMWp3dUxYbElrUmZGWUJfMS1rWmFDWi1iQW9QWXk4WVM0cWhvMTNzbDUzNzJ6dWVtVjlRdXlzaUc1SFBZU0xKMmtXd3Q0WGVUYzBCc3czU1Jqem1mWXROYzVKb3l1ZEhBdHpITlZGRGx4VFBpVmVTMkRrY01WVmx0U004Yl85LTg3VVhiZzhIRS16M2I2aEpHdXpqRTVyc29rTjBaTG5J?oc=5",
+   "time": "2026-10-28T20:25:13+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
+  },
+  {
    "id": "tg:farsna/471317",
    "kind": "tg",
    "src": "farsna",
@@ -1822,6 +2791,18 @@
    "emojis": [],
    "alert": false,
    "collected": "2026-10-28T19:37:49.276573+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMipAFBVV95cUxOaGwwalNxRmRBXy1LT1NPWURNRXYwYUpOSFY4Z1diYWtJVTEtYkFJVXNOREE2dkZibnl5WHFQTUJZaERuc3N3WjBPYjJXbWtpeVdSeVpkNzJsUFd2WUlEYndma01IZjBDTXhkdVg0bGNlZWJqb1BMVENfM1ZCUnJiQVdkRmVxYk1hWS1BTzV6ZXVKVEVUYXJkZjROd3VIN3NZa0R4dw?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "Iraq Risks Being Drawn Into Renewed Iran War Despite Pledge to Stay Out - Algemeiner.com — Iraq Risks Being Drawn Into Renewed Iran War Despite Pledge to Stay Out  Algemeiner.com",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaGwwalNxRmRBXy1LT1NPWURNRXYwYUpOSFY4Z1diYWtJVTEtYkFJVXNOREE2dkZibnl5WHFQTUJZaERuc3N3WjBPYjJXbWtpeVdSeVpkNzJsUFd2WUlEYndma01IZjBDTXhkdVg0bGNlZWJqb1BMVENfM1ZCUnJiQVdkRmVxYk1hWS1BTzV6ZXVKVEVUYXJkZjROd3VIN3NZa0R4dw?oc=5",
+   "time": "2026-10-28T19:04:00+00:00",
+   "keywords": [],
+   "emojis": [],
+   "alert": false,
+   "collected": "2026-10-29T02:51:22.417683+00:00"
   },
   {
    "id": "tg:bbcpersian/294241",
@@ -9019,947 +10000,6 @@
    "emojis": [],
    "alert": false,
    "collected": "2026-10-28T07:19:05.014533+00:00"
-  },
-  {
-   "id": "tg:bbcpersian/294166",
-   "kind": "tg",
-   "src": "bbcpersian",
-   "text": "🔻نتانیاهو: ما منتظر نتایج واقعی هستیم\n\nبنیامین نتانیاهو، نخست‌وزیر اسرائيل در اولین اظهار نظرها پس از پایان رای‌گیری انتخابات، با حضور در میان هواداران خود گفت که همچنان منتظر «نتایج واقعی» انتخابات است.\n\nآقای نتانیاهو با اشاره به اینکه لیکود «بزرگترین حزب اسرائیل است گفت:‌ «ما باید یک دولت ملی راست‌گرای قدرتمند تشکیل دهیم.»\n\nرهبر حزب حاکم اسرائيل بار دیگر تاکید کرد که اسرائیل با حضور دونالد ترامپ، فرصتی تاریخی برای «از میان برداشتن تهدید ایران» دارد.\n\nاو همچنین گفت اسرائیل نمی‌تواند دولتی داشته باشد که با «حمایت اعراب» تشکیل شده است.\n\nاین در حالی است که گزارش‌های اولیه از مشارکت بی‌سابقه اعرا",
-   "url": "https://t.me/bbcpersian/294166",
-   "time": "2026-10-28T01:45:51+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T07:19:05.014533+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMinwFBVV95cUxNdXdDb053cHNrLWNVbUs2YWdTVjd4OHB2TTJZZ1RzZWo2cndWU0QxZWFKNEwwNlZXUjVCZXVuWXVOUmVhQ293cDlZVTZuY0lxZ0MtcWpnY2l3VGJRLWVXakl5ei1uN0dhTzFrUnhRNFF2Mk1LbjJweDBFdHVwMGR6bWR3NFVGVl9SRFlSMUo2SHZCLUZhVzdXbjEyQ2NvVm8?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "דיווח: ארה\"ב קראה למדינות במפרץ להיערך למלחמה קצרה ועוצמתית מול איראן - הארץ — דיווח: ארה\"ב קראה למדינות במפרץ להיערך למלחמה קצרה ועוצמתית מול איראן  הארץ",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdXdDb053cHNrLWNVbUs2YWdTVjd4OHB2TTJZZ1RzZWo2cndWU0QxZWFKNEwwNlZXUjVCZXVuWXVOUmVhQ293cDlZVTZuY0lxZ0MtcWpnY2l3VGJRLWVXakl5ei1uN0dhTzFrUnhRNFF2Mk1LbjJweDBFdHVwMGR6bWR3NFVGVl9SRFlSMUo2SHZCLUZhVzdXbjEyQ2NvVm8?oc=5",
-   "time": "2026-10-28T01:45:00+00:00",
-   "keywords": [
-    "איראן"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-28T07:19:05.014533+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdlQ0bFlQVFBIMjkyWDk0TjA0OWZxc2h4bE1CdF9SdWdxb3d4NzlTdW44WUVBRXdYUmQtNzJBQnpuRDZZTmkwN3hHUnB0TEl3a1RtTGZBeWt4dlB1WG1DUjB0NE1IYmpDTnd6UmJGcjJXT000Z2FKY3pZRVRrUHVwcnhxQTZGTEd5eVNBZVVna0ttT200bjdtWTk5cjZnemxZZC1KWUk5ajJWdHIzYW1vZE9IRG9rQVRMdGVhYmJQTWdveGtLbHRGeHJzNFdrRndzQ2c?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "US said to warn Gulf states it may launch short yet intensive war with Iran after midterms - The Times of Israel — US said to warn Gulf states it may launch short yet intensive war with Iran after midterms  The Times of Israel",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdlQ0bFlQVFBIMjkyWDk0TjA0OWZxc2h4bE1CdF9SdWdxb3d4NzlTdW44WUVBRXdYUmQtNzJBQnpuRDZZTmkwN3hHUnB0TEl3a1RtTGZBeWt4dlB1WG1DUjB0NE1IYmpDTnd6UmJGcjJXT000Z2FKY3pZRVRrUHVwcnhxQTZGTEd5eVNBZVVna0ttT200bjdtWTk5cjZnemxZZC1KWUk5ajJWdHIzYW1vZE9IRG9rQVRMdGVhYmJQTWdveGtLbHRGeHJzNFdrRndzQ2c?oc=5",
-   "time": "2026-10-28T01:44:35+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T14:11:48.077245+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUTgtNWNrenhsUER3bUZ6cW9wN2x6YTNULXoxTjFmNmpKUXllV0d5MHQzd2pDbEtwaEl4Y1NCV3BFU2tacHpSRW4yTE9ZMnZuOGZzejdhRUczc2VZQkxON0NhRFl0Vkh0N2pad3UxN3dEejZZQ2c4WnB6VUVfNXNNNDI3WkUxS3UtRU1waHh4YmdPRWZaMmJQcFNPb1FNMEdQODhjQS1LRjUwTEQ3RldodGQyM05vWVVKNjAtSG9YSDl6Y1FIaS1OOVRQbmpCZGYwNkhxUWhWd0NjRkVsbl9IZ0o2bFhfS1k4di13am93?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "US warns Gulf allies of intense renewal of Iran War after midterms - The Australian — US warns Gulf allies of intense renewal of Iran War after midterms  The Australian",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUTgtNWNrenhsUER3bUZ6cW9wN2x6YTNULXoxTjFmNmpKUXllV0d5MHQzd2pDbEtwaEl4Y1NCV3BFU2tacHpSRW4yTE9ZMnZuOGZzejdhRUczc2VZQkxON0NhRFl0Vkh0N2pad3UxN3dEejZZQ2c4WnB6VUVfNXNNNDI3WkUxS3UtRU1waHh4YmdPRWZaMmJQcFNPb1FNMEdQODhjQS1LRjUwTEQ3RldodGQyM05vWVVKNjAtSG9YSDl6Y1FIaS1OOVRQbmpCZGYwNkhxUWhWd0NjRkVsbl9IZ0o2bFhfS1k4di13am93?oc=5",
-   "time": "2026-10-28T01:39:08+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T07:19:05.014533+00:00"
-  },
-  {
-   "id": "tg:Alibk3/40209",
-   "kind": "tg",
-   "src": "alibk3",
-   "text": "نتنياهو: \n\nنحن أمام فرصة تاريخية لإزالة التهديد الإيراني مرة واحدة وللأبد بمساعدة من ترمب وعلينا عدم تفويتها.",
-   "url": "https://t.me/Alibk3/40209",
-   "time": "2026-10-28T01:37:42+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T07:19:05.014533+00:00"
-  },
-  {
-   "id": "tg:ClashReport/103360",
-   "kind": "tg",
-   "src": "clashreport",
-   "text": "Netanyahu on Iran:\n\nIsrael has a once-in-a-lifetime historic opportunity, together with President Trump, to eliminate the existential Iranian threat.",
-   "url": "https://t.me/ClashReport/103360",
-   "time": "2026-10-28T01:35:01+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T07:19:05.014533+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMixwFBVV95cUxPTk1taGZPOVdGaURhUWlNR05VZXhtMk5fN05iV1FpWXp3TGdaeHdvZEF2RmZ1QWxPcXFfWUxZVkZLSlZRZkZnbzcydGltazdvcXYwWUFmUVRubW1ZbHJUaHAxTTJiaEQ4amdjbWZuVmhta3dGenhMVUgyOC12eUxWZUp6Z3BfaWJsV3hlazNNZS0wQ0ZhRm0tN0Z0NVlrRGc3WVpzc2JCX0F3SDFlUkpGTmFjWGs4RXRDcnhCeFQ5NkIwNjhid2I4?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "Netanyahu: Israel has ‘historic, one-time opportunity’ to defeat Iran ‘once and for all’ - The Times of Israel — Netanyahu: Israel has ‘historic, one-time opportunity’ to defeat Iran ‘once and for all’  The Times of Israel",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTk1taGZPOVdGaURhUWlNR05VZXhtMk5fN05iV1FpWXp3TGdaeHdvZEF2RmZ1QWxPcXFfWUxZVkZLSlZRZkZnbzcydGltazdvcXYwWUFmUVRubW1ZbHJUaHAxTTJiaEQ4amdjbWZuVmhta3dGenhMVUgyOC12eUxWZUp6Z3BfaWJsV3hlazNNZS0wQ0ZhRm0tN0Z0NVlrRGc3WVpzc2JCX0F3SDFlUkpGTmFjWGs4RXRDcnhCeFQ5NkIwNjhid2I4?oc=5",
-   "time": "2026-10-28T01:34:35+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T14:11:48.077245+00:00"
-  },
-  {
-   "id": "tg:ClashReport/103359",
-   "kind": "tg",
-   "src": "clashreport",
-   "text": "Netanyahu:\n\nThe Zionist majority must come to its senses and unite.",
-   "url": "https://t.me/ClashReport/103359",
-   "time": "2026-10-28T01:32:19+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T07:19:05.014533+00:00"
-  },
-  {
-   "id": "tg:ClashReport/103358",
-   "kind": "tg",
-   "src": "clashreport",
-   "text": "Netanyahu:\n\nWe must form a national right-wing government.\n\nWe must not form a government that relies on anti-Zionist Arab parties.",
-   "url": "https://t.me/ClashReport/103358",
-   "time": "2026-10-28T01:30:46+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T07:19:05.014533+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMi2wJBVV95cUxOaFlaRnNBeGpuRzUzcXV0cHYxMkJlV1o1d3FSQkxMaUlqclk1WFVqbl9CQmJaZVdwZDNnQWFLZS1Bc2NQREd6UVN3cVlla2pBYkp2cXpMXzBOejhUSnlXckJCWUJVU2RIYW0wdmdzSF9jVHY5LUM2LXRWVTFmYU5hcmdaVk55dEFZWE9RS2lfX3hJdS1nTGh5ZmxaQ1NWMFhUZnh4Y3ZCQ2VZUnVDYlEyTlBiVV93WnRHZUlYUFEzVWI5NmtjcUtWN3Q2LU5hLWpuRVZLNEIwSGNyTWpsTHJRcmIwa3JlVjhXUGMzSnozRVk2a2pPS0hoODB5TnZCVWFIRTVjNkwyR3QzbENvYzBtVWs5ZnBKN29JLUp5WFd0RkMxd1ZkRU9kNXJoNXp6RjhZNS1KaUdRcF9QZFdsZGhiWGV1U1J5cmhiWTFLc2J5azdNTERLbGdxTGpNZw?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "רגע אחרי סגירת הקלפיות: ארה\"ב מזהירה לפני תקיפה באיראן - סרוגים — רגע אחרי סגירת הקלפיות: ארה\"ב מזהירה לפני תקיפה באיראן  סרוגים",
-   "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOaFlaRnNBeGpuRzUzcXV0cHYxMkJlV1o1d3FSQkxMaUlqclk1WFVqbl9CQmJaZVdwZDNnQWFLZS1Bc2NQREd6UVN3cVlla2pBYkp2cXpMXzBOejhUSnlXckJCWUJVU2RIYW0wdmdzSF9jVHY5LUM2LXRWVTFmYU5hcmdaVk55dEFZWE9RS2lfX3hJdS1nTGh5ZmxaQ1NWMFhUZnh4Y3ZCQ2VZUnVDYlEyTlBiVV93WnRHZUlYUFEzVWI5NmtjcUtWN3Q2LU5hLWpuRVZLNEIwSGNyTWpsTHJRcmIwa3JlVjhXUGMzSnozRVk2a2pPS0hoODB5TnZCVWFIRTVjNkwyR3QzbENvYzBtVWs5ZnBKN29JLUp5WFd0RkMxd1ZkRU9kNXJoNXp6RjhZNS1KaUdRcF9QZFdsZGhiWGV1U1J5cmhiWTFLc2J5azdNTERLbGdxTGpNZw?oc=5",
-   "time": "2026-10-28T01:29:47+00:00",
-   "keywords": [
-    "תקיפה",
-    "איראן"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-28T07:19:05.014533+00:00"
-  },
-  {
-   "id": "tg:ClashReport/103357",
-   "kind": "tg",
-   "src": "clashreport",
-   "text": "Netanyahu:\n\nThe right-wing bloc has an overwhelming majority among the Jewish public.",
-   "url": "https://t.me/ClashReport/103357",
-   "time": "2026-10-28T01:29:44+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T07:19:05.014533+00:00"
-  },
-  {
-   "id": "rss:https://www.bbc.co.uk/persian/live/c6djvmvk2kmpt?at_medium=RSS&at_campaign=rss",
-   "kind": "rss",
-   "src": "feeds.bbci.co.uk",
-   "text": "ترامپ: حمله به ایران یکی از بهترین کارهایی است که کردم — دونالد ترامپ در یک میتینگ انتخاباتی گفته است اگر به عقب بازگردد تصمیمش را عوض نخواهد کرد چرا که معتقد است جنگ با ایران یکی از «بهترین» کارهایی است که انجام داده است.\nمسعود پزشکیان بعد از دیدار با ولادیمیر پوتین و امیر قطر در مسکو و در حاشیه اجلاس تولیدکنندگان گار، به ایران بازگشته است. آمریکا گفته ب",
-   "url": "https://www.bbc.co.uk/persian/live/c6djvmvk2kmpt?at_medium=RSS&at_campaign=rss",
-   "time": "2026-10-28T01:28:55.454643+00:00",
-   "keywords": [
-    "حمله"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "tg:amitsegal/66438",
-   "kind": "tg",
-   "src": "amitsegal",
-   "text": "נתניהו מאותת: לא אעזוב את שותפיי. מי שרוצה מוזמן להצטרף ובלי רוטציה",
-   "url": "https://t.me/amitsegal/66438",
-   "time": "2026-10-28T01:26:07+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "tg:shin_persian/11633",
-   "kind": "tg",
-   "src": "shin_persian",
-   "text": "Shin ✓  @hey_itsmyturn  28 Oct, 02:38 Israel time  Ballots counted: 322,299 / — cast (—%) Stations reporting: 908 / — (—%) Valid: 320,750 Invalid: 1,549  Votes (% of 320,750 counted valid votes):  Likud: 89,002 (27.75%) Yashar! (Eisenkot): 52,408 (16.34%)…",
-   "url": "https://t.me/shin_persian/11633",
-   "time": "2026-10-28T01:25:46+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "tg:ClashReport/103356",
-   "kind": "tg",
-   "src": "clashreport",
-   "text": "Netanyahu:\n\nLikud is the largest party in Israel.",
-   "url": "https://t.me/ClashReport/103356",
-   "time": "2026-10-28T01:24:41+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "tg:amitsegal/66437",
-   "kind": "tg",
-   "src": "amitsegal",
-   "text": "נתניהו: מבקש להודות לכל שותפיי הנאמנים בקואליציה ששירתו את המאמץ המלחמתי",
-   "url": "https://t.me/amitsegal/66437",
-   "time": "2026-10-28T01:24:01+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "tg:ClashReport/103355",
-   "kind": "tg",
-   "src": "clashreport",
-   "text": "Netanyahu on Iran:\n\nThe mission is not over — together with President Trump, we will eliminate the threat.",
-   "url": "https://t.me/ClashReport/103355",
-   "time": "2026-10-28T01:22:44+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "tg:IranintlTV/364207",
-   "kind": "tg",
-   "src": "iranintltv",
-   "text": "لکه نفتی ناشی از آسیب‌دیدن یک نفت‌کش در سواحل امارات متحده عربی گسترده‌تر شده و به بسته‌شدن ساحل‌های بیشتری انجامیده است. ویدیوهای منتشرشده در شبکه‌های اجتماعی در ۲۶ و ۲۷ اکتبر ساحلی بسته‌شده در راس‌الخیمه را نشان می‌دهد؛ نفت تیره در فاصله‌ای از ساحل روی آب شناور است و جمعی از مردم در ساحل بسته به تماشا ایستاده‌اند. مقام‌های این امارت روز شنبه اعلام کرده بودند همه ساحل‌های آن تا اطلاع ثانوی بسته خواهد بود.\n@iranintltv",
-   "url": "https://t.me/IranintlTV/364207",
-   "time": "2026-10-28T01:21:20+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "tg:amitsegal/66436",
-   "kind": "tg",
-   "src": "amitsegal",
-   "text": "נתניהו: הרוב הציוני חייב להתעשת ולהתלכד",
-   "url": "https://t.me/amitsegal/66436",
-   "time": "2026-10-28T01:21:13+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pZHNFNUpBVmhQYkJOUTN5azUzckZ0d2tyWWFud2FsUHdVbVoyWEZiemNySHFBN1RQZnhMS2RQbjBNbU1tOHJoVDEwWDhMc1FXRWRKV2Jn?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "Netanyahu vows to confront Iran threat alongside Trump as exit polls show no clear majority - Ynetnews — Netanyahu vows to confront Iran threat alongside Trump as exit polls show no clear majority  Ynetnews",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pZHNFNUpBVmhQYkJOUTN5azUzckZ0d2tyWWFud2FsUHdVbVoyWEZiemNySHFBN1RQZnhMS2RQbjBNbU1tOHJoVDEwWDhMc1FXRWRKV2Jn?oc=5",
-   "time": "2026-10-28T01:21:04+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "tg:amitsegal/66435",
-   "kind": "tg",
-   "src": "amitsegal",
-   "text": "נתניהו: איך אתם מדברים על ברית המשרתים עם משרתי אויבי המדינה?",
-   "url": "https://t.me/amitsegal/66435",
-   "time": "2026-10-28T01:20:39+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "tg:amitsegal/66434",
-   "kind": "tg",
-   "src": "amitsegal",
-   "text": "נתניהו: אסור להקים ממשלה שנשענת על מפלגות ערביות אנטי ציוניות",
-   "url": "https://t.me/amitsegal/66434",
-   "time": "2026-10-28T01:19:49+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "tg:amitsegal/66433",
-   "kind": "tg",
-   "src": "amitsegal",
-   "text": "נתניהו: לגוש הימין יש רוב מובהק בקרב הציבור היהודי",
-   "url": "https://t.me/amitsegal/66433",
-   "time": "2026-10-28T01:19:37+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "tg:amitsegal/66432",
-   "kind": "tg",
-   "src": "amitsegal",
-   "text": "נתניהו: הליכוד הוא המפלגה הגדולה בישראל. אתם זוכרים איך ערוצי התעמולה הנדסו את התודעה עם סקרים של 18 מנדטים?",
-   "url": "https://t.me/amitsegal/66432",
-   "time": "2026-10-28T01:18:28+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "tg:amitsegal/66431",
-   "kind": "tg",
-   "src": "amitsegal",
-   "text": "נתניהו על אירן: זו רק ההתחלה",
-   "url": "https://t.me/amitsegal/66431",
-   "time": "2026-10-28T01:17:48+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "tg:amitsegal/66430",
-   "kind": "tg",
-   "src": "amitsegal",
-   "text": "הקהל שר: כי גור אריה הלא אתה\nנתניהו שר איתם",
-   "url": "https://t.me/amitsegal/66430",
-   "time": "2026-10-28T01:17:27+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "tg:bbcpersian/294165",
-   "kind": "tg",
-   "src": "bbcpersian",
-   "text": "🔻آیزنکوت همزمان با آغاز شمارش آرا: برای تشکیل دولتی صهیونیستی تلاش خواهم کرد\n\nگادی آیزنکوت، رهبر حزب یاشار که رقیب اصلی بنیامین نتانیاهو محسوب می‌شود، همزمان با آغاز شمارش آرا در جمع هواداران خود صحبت کرد.\n\nآقای آیزنکوت در میان شادی هواداران خود گفت که مردم اسرائيل «به تغییر رای داده‌اند.»\n\nاو با انتقاد از بنیامین نتانیاهو، نخست‌وزیر اسرائيل گفت: «اگر او‌ یک رهبر شایسته بود باید امروز کناره‌گیری خود را از زندگی سیاسی اعلام می‌کرد.»\n\nاو خطاب به هواداران خود گفت: «با تمام توانم برای تشکیل دولتی صهیونیستی که بر جذب نیرو و سربازگیری تأکید دارد، تلاش خواهم کرد.»\n\nآقای آیزنکوت که تلویحا خود را پیروز",
-   "url": "https://t.me/bbcpersian/294165",
-   "time": "2026-10-28T01:16:55+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "tg:amitsegal/66429",
-   "kind": "tg",
-   "src": "amitsegal",
-   "text": "צילום: ארי כהן",
-   "url": "https://t.me/amitsegal/66429",
-   "time": "2026-10-28T01:14:35+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "tg:amitsegal/66428",
-   "kind": "tg",
-   "src": "amitsegal",
-   "text": "נתניהו עולה לנאום בבנייני האומה",
-   "url": "https://t.me/amitsegal/66428",
-   "time": "2026-10-28T01:13:36+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "tg:amitsegal/66427",
-   "kind": "tg",
-   "src": "amitsegal",
-   "text": "אי אפשר לשיר בילאדי בילאדי ולהיות שותפים בממשלה",
-   "url": "https://t.me/amitsegal/66427",
-   "time": "2026-10-28T01:11:14+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "tg:ClashReport/103354",
-   "kind": "tg",
-   "src": "clashreport",
-   "text": "Trump:\n\nI ended 8 wars. Think of it. 8 wars! \n\nNo president ended any war.",
-   "url": "https://t.me/ClashReport/103354",
-   "time": "2026-10-28T01:10:47+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "rss:https://www.bbc.com/persian/articles/cqwyrv4w7jxno?at_medium=RSS&at_campaign=rss",
-   "kind": "rss",
-   "src": "feeds.bbci.co.uk",
-   "text": "توافق دریایی ترکیه و لیبی؛ چرا یونان نگران است؟ — تصویب توافق تعیین حدود حوزه‌های صلاحیت دریایی که در سال ۲۰۱۹ میان ترکیه و لیبی امضا شده بود از سوی مجلس نمایندگان لیبی، پس از هفت سال، معادله تازه‌ای در رقابت‌ها و مذاکرات جاری در شرق مدیترانه ایجاد کرده است.",
-   "url": "https://www.bbc.com/persian/articles/cqwyrv4w7jxno?at_medium=RSS&at_campaign=rss",
-   "time": "2026-10-28T01:10:32+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "tg:presstv/212534",
-   "kind": "tg",
-   "src": "presstv",
-   "text": "🇮🇷 Iranian security forces arrest 6 members of a terrorist group in Bampur, southern Sistan and Baluchestan, during a joint operation. Three Kalashnikov rifles, a handgun, 7 magazines and 172 rounds of ammunition were seized.  @PressTV",
-   "url": "https://t.me/presstv/212534",
-   "time": "2026-10-28T01:10:23+00:00",
-   "keywords": [],
-   "emojis": [
-    "🇮🇷"
-   ],
-   "alert": true,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "tg:shin_persian/11632",
-   "kind": "tg",
-   "src": "shin_persian",
-   "text": "Faytuks Network ✓  @FaytuksNetwork\n\nThe US has told Gulf Arab allies to prepare for a renewed military campaign against Iran after the midterm elections - WSJ\n\nترجمه خودکار فارسی\n\nآمریکا به متحدان عرب خود در خلیج فارس گفته است که پس از انتخابات میان‌دوره‌ای، برای ازسرگیری کارزار نظامی علیه ایران آماده شوند ـ وال‌استریت ژورنال\n\n𝕏  ·  @shin_persian",
-   "url": "https://t.me/shin_persian/11632",
-   "time": "2026-10-28T01:09:33+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "tg:ClashReport/103353",
-   "kind": "tg",
-   "src": "clashreport",
-   "text": "BIG: The U.S. has warned several Gulf countries to prepare for a possible short, intense military campaign against Iran after the November midterm elections.\n\nU.S. forces are reinforcing missile defenses, restocking ammunition and preparing bombers and fighter jets for potential strikes. \n\nTrump is reportedly leaning toward a major attack targeting Iranian infrastructure and nuclear sites but has not made a final decision.\n\nIsrael is also preparing for renewed strikes.\n\nSource: WSJ",
-   "url": "https://t.me/ClashReport/103353",
-   "time": "2026-10-28T01:07:31+00:00",
-   "keywords": [
-    "strike",
-    "attack",
-    "missile"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "tg:ClashReport/103352",
-   "kind": "tg",
-   "src": "clashreport",
-   "text": "Trump:\n\nYou will see Iran in a couple of weeks, if you don't mind.",
-   "url": "https://t.me/ClashReport/103352",
-   "time": "2026-10-28T01:05:54+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "tg:Alibk3/40208",
-   "kind": "tg",
-   "src": "alibk3",
-   "text": "وول ستريت جورنال عن مسؤولين:\n\nالولايات المتحدة تبلغ عدة دول عربية خليجية بضرورة الاستعداد لحملة عسكرية قصيرة ومكثفة ضد إيران بعد انتخابات التجديد النصفي.\n\nترامب يميل إلى شن هجوم كبير على الأهداف النووية والبنية التحتية الإيرانية بعد الانتخابات.",
-   "url": "https://t.me/Alibk3/40208",
-   "time": "2026-10-28T01:05:30+00:00",
-   "keywords": [
-    "هجوم"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "tg:bbcpersian/294164",
-   "kind": "tg",
-   "src": "bbcpersian",
-   "text": "🔻خبرگزاری رویترز با بررسی داده‌های پنتاگون گزارش کرده که ارتش آمریکا تاکنون بیش از ۴۷ میلیارد دلار برای پیشبرد جنگ با ایران هزینه کرده است.\n\nبر اساس این داده‌ها، این رقم ۲۵ درصد بیشتر از برآورد وزارت دفاع آمریکا در ماه ژوئیه است.\n\nبه گزارش رویترز، بخش عمده‌ هزینه‌های عملیاتی این جنگ شامل بیش از ۲۹ میلیارد دلار برای جایگزینی مهمات مصرف‌شده و بیش از ۶ میلیارد دلار برای جایگزینی تجهیزات نظامی بوده است.\n\nاین ارقام به‌طور مشخص شامل برآورد هزینه‌های تعمیر خسارات وارده به پایگاه‌های آمریکا در پی حملات موشکی و پهپادی ایران نمی‌شود.\n📷US Navy\n@BBCPersian",
-   "url": "https://t.me/bbcpersian/294164",
-   "time": "2026-10-28T01:05:18+00:00",
-   "keywords": [
-    "موشک",
-    "پهپاد"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "tg:amitsegal/66426",
-   "kind": "tg",
-   "src": "amitsegal",
-   "text": "עדכון מדגם חדשות 14: ליברמן עובר, גוש נתניהו יורד ל-60",
-   "url": "https://t.me/amitsegal/66426",
-   "time": "2026-10-28T01:03:12+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMivwFBVV95cUxOYXd0OHZEUnBrMFNkRjJ5dHFUakFsTDU0NUxhdzhQUnpPQ0JxMllJanhoeVFQWm1GMmk2RkRUdDFWLVR2N0VwczZOQmZmbG9BanpUSTE2VEhnSS1xd29mUzFzbEdRTVBDWGRSOW1hRW41WU04eE9OSUo4QmFoSG9DUUhUNi13bzNkbEZaWlFUaVUzUzZPWGtMc2JDeEZyODg2Q09JdFZBekl1WnNJdDVBYnZQMzhieGt4bjFuOFZnMA?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "U.S. Warns Gulf of Possible Short, Intense Renewal of Iran War After Midterms - WSJ — U.S. Warns Gulf of Possible Short, Intense Renewal of Iran War After Midterms  WSJ",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYXd0OHZEUnBrMFNkRjJ5dHFUakFsTDU0NUxhdzhQUnpPQ0JxMllJanhoeVFQWm1GMmk2RkRUdDFWLVR2N0VwczZOQmZmbG9BanpUSTE2VEhnSS1xd29mUzFzbEdRTVBDWGRSOW1hRW41WU04eE9OSUo4QmFoSG9DUUhUNi13bzNkbEZaWlFUaVUzUzZPWGtMc2JDeEZyODg2Q09JdFZBekl1WnNJdDVBYnZQMzhieGt4bjFuOFZnMA?oc=5",
-   "time": "2026-10-28T01:02:43+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMivAFBVV95cUxQclRmNndRN0ZxR18wcDdQUy01TjRUZnN3V2NOMGRPcmF1WnZCVDM0TzgzWHdHSVpISFgzWnFYbDlpazlmZVpIVEltalZ0cHVSak1YQ1ZkVmtTbXFvcFhUVFFoSE5NTWR1UTFWdnp0bGtxVXJYM0c0VmgxbS1KS1EtUW9qb2xCVEhHVWdNWVdvTWpVZnp6QW13TWVGOEhPeXF1MVlPTWhpTmV2Q0N3MjUxaVdEeU5MZFRLLWRCOA?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "US costs of Iran war rise to over $47 billion, according to Pentagon estimate - Reuters — US costs of Iran war rise to over $47 billion, according to Pentagon estimate  Reuters",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQclRmNndRN0ZxR18wcDdQUy01TjRUZnN3V2NOMGRPcmF1WnZCVDM0TzgzWHdHSVpISFgzWnFYbDlpazlmZVpIVEltalZ0cHVSak1YQ1ZkVmtTbXFvcFhUVFFoSE5NTWR1UTFWdnp0bGtxVXJYM0c0VmgxbS1KS1EtUW9qb2xCVEhHVWdNWVdvTWpVZnp6QW13TWVGOEhPeXF1MVlPTWhpTmV2Q0N3MjUxaVdEeU5MZFRLLWRCOA?oc=5",
-   "time": "2026-10-28T01:01:00+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T19:37:49.276573+00:00"
-  },
-  {
-   "id": "tg:ClashReport/103351",
-   "kind": "tg",
-   "src": "clashreport",
-   "text": "Trump:\n\nCould that be Iran dropping some things? Do you hear that? A lot of noise going on.",
-   "url": "https://t.me/ClashReport/103351",
-   "time": "2026-10-28T01:00:19+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "tg:amitsegal/66425",
-   "kind": "tg",
-   "src": "amitsegal",
-   "text": "ראשי גוש השינוי לא שוחחו הערב",
-   "url": "https://t.me/amitsegal/66425",
-   "time": "2026-10-28T00:59:35+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "tg:ClashReport/103350",
-   "kind": "tg",
-   "src": "clashreport",
-   "text": "Marco Rubio:\n\nOur enemies are weaker, our country is stronger, and our people are safer because Donald J. Trump is the president of the United States.",
-   "url": "https://t.me/ClashReport/103350",
-   "time": "2026-10-28T00:58:59+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "tg:ClashReport/103349",
-   "kind": "tg",
-   "src": "clashreport",
-   "text": "Trump on Cuba:\n\nWe will just drop Marco Rubio into Cuba. We will fly him in by parachute, and he will solve that problem in about two minutes.",
-   "url": "https://t.me/ClashReport/103349",
-   "time": "2026-10-28T00:57:46+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "tg:ClashReport/103348",
-   "kind": "tg",
-   "src": "clashreport",
-   "text": "Trump on Cuba:\n\nCuba is coming our way, just like everything else is coming our way.",
-   "url": "https://t.me/ClashReport/103348",
-   "time": "2026-10-28T00:56:19+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "tg:farsna/471156",
-   "kind": "tg",
-   "src": "farsna",
-   "text": "تکمیلی/ به‌روز رسانی نظرسنجی شبکهٔ ۱۳ تلویزیون رژیم صهیونیستی  🔹ائتلاف نتانیاهو با ۵۱ کرسی، ائتلاف معارضان با ۵۱ کرسی و ائتلاف اعراب با ۱۸ کرسی، حائز اکثریت لازم برای تشکیل کابینه نمی‌شوند.  🔹حزب «لیکود» به رهبری نتانیاهو ۲۷ کرسی و حزب «یشار» به رهبری آیزنکوت…",
-   "url": "https://t.me/farsna/471156",
-   "time": "2026-10-28T00:52:40+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "tg:bbcpersian/294163",
-   "kind": "tg",
-   "src": "bbcpersian",
-   "text": "هشدار: این گزارش شامل توصیف‌هایی آزاردهنده از اجرای حکم اعدام است.\nاز زمانی که تزریق کشنده نخستین بار در سال ۱۹۸۲ در تگزاس به کار گرفته شد، بخش بسیار بزرگی از اعدام‌ها در آمریکا با این روش انجام شده است.\n«مرکز اطلاعات مجازات اعدام»، اندیشکده‌ای غیرانتفاعی که درباره اصل مجازات اعدام موضعی نمی‌گیرد، می‌گوید طی ۵۰ سال گذشته از مجموع ۱۶۸۳ اعدام، ۶۴ مورد با مشکل یا شکست در اجرا همراه بوده‌اند، از جمله ۵۱ مورد تزریق کشنده ناموفق.\nدشواری اجرای این اعدام‌ها و اعتراض‌ها به آنچه برخی رفتار غیرانسانی می‌دانند، مقام‌ها را واداشته است روش‌های جایگزین برای کشتن محکومان را بررسی کنند.\n\nhttps://bbc.in/48pwIDr",
-   "url": "https://t.me/bbcpersian/294163",
-   "time": "2026-10-28T00:48:46+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMibEFVX3lxTE1jUDRPTTRmTGRXQ3hIbzZDTnRuc0pxMkNZWmpxSkJhR2pQMHdmTU5tTVVPSXRKOVJoc21YTWsxaWR4Y0dtelVOY1ZBTTJSUkxNbFlVelIybTdibHdhYlVSMjFQak5raFVwa1RBYg?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "🇮🇱 🇮🇷 Israel’s generals reportedly blocked a strike on Iran before the vote... and the weeks after it could look very different. The army chief pushed back hard on Netanyahu before Tuesday’s election, but Netanyahu stays on as caretaker while coalition talks pl - X — 🇮🇱 🇮🇷 Israel’s generals reportedly blocked a strike on Iran before the vote... and the weeks after it could look very different. The army chief pushed back hard on Netanyahu before Tuesday’s election, but Netanyahu stays on as caretaker while coalition talks pl  X",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jUDRPTTRmTGRXQ3hIbzZDTnRuc0pxMkNZWmpxSkJhR2pQMHdmTU5tTVVPSXRKOVJoc21YTWsxaWR4Y0dtelVOY1ZBTTJSUkxNbFlVelIybTdibHdhYlVSMjFQak5raFVwa1RBYg?oc=5",
-   "time": "2026-10-28T00:48:46+00:00",
-   "keywords": [
-    "strike"
-   ],
-   "emojis": [
-    "🇮🇷"
-   ],
-   "alert": true,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "tg:IranintlTV/364203",
-   "kind": "tg",
-   "src": "iranintltv",
-   "text": "تازه‌ترین نظرسنجی‌های پای صندوق رای (اگزیت پول) انتخابات اسرائیل از بهبود موقعیت ائتلاف بنیامین نتانیاهو حکایت دارند. شبکه کانال ۱۲ از پیشتازی ائتلاف حامی نتانیاهو خبر داده و شبکه‌های کان ۱۱ و کانال ۱۳ برابری دو ائتلاف اصلی را پیش‌بینی کرده‌اند. با این حال، هیچ‌یک از دو جناح به اکثریت لازم برای تشکیل دولت دست نیافته‌اند.\n\nبر اساس نظرسنجی به‌روزشده کانال ۱۲، ائتلاف نتانیاهو با ۵۲ کرسی از ائتلاف مخالفان با ۴۹ کرسی پیشی گرفته است. در برآورد قبلی این شبکه، ائتلاف نتانیاهو ۵۰ کرسی و مخالفان او ۵۲ کرسی داشتند. در نظرسنجی جدید، ۱۹ کرسی دیگر به فهرست مشترک و حزب رعام تعلق می‌گیرد.\n\nشبکه کانال ۱۳ نیز د",
-   "url": "https://t.me/IranintlTV/364203",
-   "time": "2026-10-28T00:48:38+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMihAFBVV95cUxNWlVkYm80cGlVaV83YnRWUU1pQk9JYUxSRXZjRE5pUV8yaUVXWEpQbkpfWlN6cG5lUnZJQTRKY0FOWU1xNkM3WUVxSnVRNFVNUklRaHItVmE5dVRfZFZ1bjFLdFQtOXVsY3phSnMwWHIxS0E4SGtaV0R2SEQ4OVBSYnFjdlE?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "Iran Update, October 27, 2026 - Institute for the Study of War — Iran Update, October 27, 2026  Institute for the Study of War",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWlVkYm80cGlVaV83YnRWUU1pQk9JYUxSRXZjRE5pUV8yaUVXWEpQbkpfWlN6cG5lUnZJQTRKY0FOWU1xNkM3WUVxSnVRNFVNUklRaHItVmE5dVRfZFZ1bjFLdFQtOXVsY3phSnMwWHIxS0E4SGtaV0R2SEQ4OVBSYnFjdlE?oc=5",
-   "time": "2026-10-28T00:47:00+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T07:19:05.014533+00:00"
-  },
-  {
-   "id": "tg:presstv/212533",
-   "kind": "tg",
-   "src": "presstv",
-   "text": "Yemen strikes Saudi oil refinery, targets military aircraft in retaliatory operations   Brigadier General Yahya Saree, spokesperson for the Yemeni Armed Forces, has announced a missile strike on Saudi Arabia’s Ras Tanura oil refinery in the Eastern Province…",
-   "url": "https://t.me/presstv/212533",
-   "time": "2026-10-28T00:45:00+00:00",
-   "keywords": [
-    "strike",
-    "missile"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "rss:https://www.aljazeera.com/news/2026/10/28/arab-parties-could-win-18-seats-in-israeli-elections-exit-polls-suggest?traffic_source=rss",
-   "kind": "rss",
-   "src": "www.aljazeera.com",
-   "text": "Arab parties could win 18 Israeli parliament seats — Record-breaking voter turnout among Palestinian citizens of Israel hits around 80 percent, early indications show.",
-   "url": "https://www.aljazeera.com/news/2026/10/28/arab-parties-could-win-18-seats-in-israeli-elections-exit-polls-suggest?traffic_source=rss",
-   "time": "2026-10-28T00:43:56+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "tg:IranintlTV/364202",
-   "kind": "tg",
-   "src": "iranintltv",
-   "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، در یک سخنرانی انتخاباتی در ایالت تگزاس گفت جنگ با ایران هر زمان که او بخواهد پایان خواهد یافت و تاکید کرد این جنگ به‌زودی تمام می‌شود.\n\nترامپ گفت: «جنگ ایران هر وقت که من بخواهم تمام خواهد شد. ما با قدرت در حال پیروز شدن هستیم و جنگ به‌زودی تمام خواهد شد.»\n\nاو افزود: «ما باید مطمئن شویم بزرگ‌ترین حامی تروریسم در جهان هرگز نتواند سلاح هسته‌ای داشته باشد.»\n\nترامپ پیش‌تر نیز بارها از نزدیک بودن پایان جنگ سخن گفته و تاکید کرده است جمهوری اسلامی نباید به سلاح هسته‌ای دست یابد. او ۲۷ شهریور اعلام کرده بود جنگ به‌زودی پایان می‌یابد و پس از آن قیمت بنزین کاهش خواهد یا",
-   "url": "https://t.me/IranintlTV/364202",
-   "time": "2026-10-28T00:43:03+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "rss:https://www.aljazeera.com/news/2026/10/28/exit-polls-trigger-heated-debate-across-israeli-political-divide?traffic_source=rss",
-   "kind": "rss",
-   "src": "www.aljazeera.com",
-   "text": "Exit polls trigger heated debate across Israeli political divide — Despite narrower exit poll figures, opposition leaders insisted the result was a defeat for the government.",
-   "url": "https://www.aljazeera.com/news/2026/10/28/exit-polls-trigger-heated-debate-across-israeli-political-divide?traffic_source=rss",
-   "time": "2026-10-28T00:43:02+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "tg:shin_persian/11631",
-   "kind": "tg",
-   "src": "shin_persian",
-   "text": "Shin ✓  @hey_itsmyturn  Official count so far, #Israel: 28 Oct, 02:11 Israel time  94,098 ballots counted from 302 polling stations. 93,680 valid / 418 invalid.  Votes (% of counted valid votes):  Likud: 24,929 (26.61%) Yashar! (Eisenkot): 16,009 (17.09%)…",
-   "url": "https://t.me/shin_persian/11631",
-   "time": "2026-10-28T00:41:08+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "tg:bbcpersian/294162",
-   "kind": "tg",
-   "src": "bbcpersian",
-   "text": "🔻ترامپ: حمله به ایران یکی از بهترین کارهایی بود که کردم\n\nدونالد ترامپ که برای حضور در یک تجمع انتخاباتی به تگزاس سفر کرده، عصر سه شنبه در میان هواداران خود گفت: «از من پرسیدند: اگر قرار بود دوباره این کار را انجام دهید، باز هم به ایران حمله می‌کردید؟» گفتم: «قطعا. این یکی از بزرگ‌ترین کارهایی است که در زندگی‌ام انجام داده‌ام.»\n\nجنگ با ایران و افزایش بی‌سابقه بهای نفت و سوخت در پی آن، یکی از اصلی‌ترین انتقادها به جمهوری‌خواهان و دولت آقای ترامپ است و ممکن است در انتخابات میان دوره‌ای آمریکا که هفته آینده برگزار خواهد شد موجب ریزش چشمگیر آرای آنها و از دست دادن کرسی‌ها در مجالس کنگره شود.\n@BBCPe",
-   "url": "https://t.me/bbcpersian/294162",
-   "time": "2026-10-28T00:33:57+00:00",
-   "keywords": [
-    "حمله"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "tg:amitsegal/66424",
-   "kind": "tg",
-   "src": "amitsegal",
-   "text": "תתאפסו\nבמספרים כאלה אין באמת ממשלה יציבה עם ערבים",
-   "url": "https://t.me/amitsegal/66424",
-   "time": "2026-10-28T00:32:51+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "rss:https://www.aljazeera.com/video/newsfeed/2026/10/28/israels-eisenkot-says-country-voted-for-change?traffic_source=rss",
-   "kind": "rss",
-   "src": "www.aljazeera.com",
-   "text": "Israel’s Eisenkot says country voted for change — Israeli opposition leader Gadi Eisenkot says millions of Israelis voted for change, tired of Netanyahu’s ‘lies’.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/israels-eisenkot-says-country-voted-for-change?traffic_source=rss",
-   "time": "2026-10-28T00:30:22+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "tg:farsna/471155",
-   "kind": "tg",
-   "src": "farsna",
-   "text": "🎥 دلایل کم‌انرژی بودن فرزندمان\n\n🎙 هادی زینالی\n#تربیت_فرزند \n@FarsMaaref 💠",
-   "url": "https://t.me/farsna/471155",
-   "time": "2026-10-28T00:30:02+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "tg:shin_persian/11630",
-   "kind": "tg",
-   "src": "shin_persian",
-   "text": "Shin ✓  @hey_itsmyturn\n\nOfficial count so far, #Israel:\n28 Oct, 02:11 Israel time\n\n94,098 ballots counted from 302 polling stations.\n93,680 valid / 418 invalid.\n\nVotes (% of counted valid votes):\n\nLikud: 24,929 (26.61%)\nYashar! (Eisenkot): 16,009 (17.09%)\nTogether (Bennett–Lapid): 8,368 (8.93%)\nYisrael Beytenu: 7,143 (7.62%)\nOtzma Yehudit: 6,799 (7.26%)\nDemocrats: 5,856 (6.25%)\nReligious Zionism–Zehut: 5,750 (6.14%)\nShas: 4,979 (5.31%)\nUnited Torah Judaism: 4,232 (4.52%)\nJoint List: 3,326 (3.55%)\nReservists–Economic Party: 3,005 (3.21%)\nAmcha Israel: 1,843 (1.97%)\nRa’am: 616 (0.66%)\nOther list",
-   "url": "https://t.me/shin_persian/11630",
-   "time": "2026-10-28T00:29:36+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "tg:presstv/212532",
-   "kind": "tg",
-   "src": "presstv",
-   "text": "Israel intensifies al-Aqsa incursions as over 11,400 settlers storm holy site   More than 11,400 Israeli settlers have stormed the al-Aqsa Mosque compound in occupied East al-Quds during the Jewish holiday season, intensifying Israeli incursions and public…",
-   "url": "https://t.me/presstv/212532",
-   "time": "2026-10-28T00:27:58+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "rss:https://www.aljazeera.com/video/newsfeed/2026/10/28/this-is-america-us-envoy-scolds-cuban-diplomat-at-un?traffic_source=rss",
-   "kind": "rss",
-   "src": "www.aljazeera.com",
-   "text": "‘This is America’: US envoy scolds Cuban diplomat at UN — US envoy Mike Waltz repeatedly told Cuba’s UN team, ‘This is America’, during a heated clash at UN headquarters",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/this-is-america-us-envoy-scolds-cuban-diplomat-at-un?traffic_source=rss",
-   "time": "2026-10-28T00:25:08+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMiiARBVV95cUxNLVBtbjhEV1poLTdNQ09GRFRhcGtRanVmTl80Z2VEZS02NVhqdFhCczkxVEJvWUZWLWxXeUt3UWhTajZzbkVpNlNYSFhQUGhGMDBpOWtqbTNwYTNDeUgzc2podTRVOWpmSDZVeng5SGN2RTk1ZDhuVzhWSVhzNmdSMjNpS1YwX2ltWjRHcmxRc3Z2dmVNQ3U1ZndfVFBkeUpLVUFiUUktQU45ZVdLVFhKUFA4NHNHbDVvZXFpN2hma0xSUHJ5cnE5a0E5YWxzTTlPbDJEcDJqa25uNWxlczFFMnJGLWNYYnFkc0lkZzNSSjdpcHJkMmo3dDgyM2p0dFZVb2NEZ1lzSnVkWEdSb2FJNFNFTkxoZnZTbnFhdWpYRkc2ZVg1amFnRXU1YUNDZjhtcTl2dVZpVzFReWVuQnhoLWlPRHotVERiVG9rWU15ZHZFb0hSdVZFNUV3bEFjM0Z2VUQxb3ZqOXdsRmR3aW1qMkZ2djRsMWhsTlJFemRjR1Nka3Y5T0k5eEZZSWhLN2JFc3Z5OXdpa1FaMENqZHRYYVNTZ0ZsVnhOb2xyYVktY2ozTi1vM19rT2JhR2xzRkNRdjhuclpSU3FZZEFWX2htWlh0blUzckxTdTVwak96TXNaUHdBcjk0VGJHdzV2WDV0TUl4MUs4Z09hOGR0ODVGTHhkVXhKckV1?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "كاتس: تل أبيب لا تعتزم شن هجوم على إيران قبل الانتخابات - الشرق الأوسط — كاتس: تل أبيب لا تعتزم شن هجوم على إيران قبل الانتخابات  الشرق الأوسط",
-   "url": "https://news.google.com/rss/articles/CBMiiARBVV95cUxNLVBtbjhEV1poLTdNQ09GRFRhcGtRanVmTl80Z2VEZS02NVhqdFhCczkxVEJvWUZWLWxXeUt3UWhTajZzbkVpNlNYSFhQUGhGMDBpOWtqbTNwYTNDeUgzc2podTRVOWpmSDZVeng5SGN2RTk1ZDhuVzhWSVhzNmdSMjNpS1YwX2ltWjRHcmxRc3Z2dmVNQ3U1ZndfVFBkeUpLVUFiUUktQU45ZVdLVFhKUFA4NHNHbDVvZXFpN2hma0xSUHJ5cnE5a0E5YWxzTTlPbDJEcDJqa25uNWxlczFFMnJGLWNYYnFkc0lkZzNSSjdpcHJkMmo3dDgyM2p0dFZVb2NEZ1lzSnVkWEdSb2FJNFNFTkxoZnZTbnFhdWpYRkc2ZVg1amFnRXU1YUNDZjhtcTl2dVZpVzFReWVuQnhoLWlPRHotVERiVG9rWU15ZHZFb0hSdVZFNUV3bEFjM0Z2VUQxb3ZqOXdsRmR3aW1qMkZ2djRsMWhsTlJFemRjR1Nka3Y5T0k5eEZZSWhLN2JFc3Z5OXdpa1FaMENqZHRYYVNTZ0ZsVnhOb2xyYVktY2ozTi1vM19rT2JhR2xzRkNRdjhuclpSU3FZZEFWX2htWlh0blUzckxTdTVwak96TXNaUHdBcjk0VGJHdzV2WDV0TUl4MUs4Z09hOGR0ODVGTHhkVXhKckV1?oc=5",
-   "time": "2026-10-28T00:24:43+00:00",
-   "keywords": [
-    "هجوم"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-10-28T14:11:48.077245+00:00"
-  },
-  {
-   "id": "tg:ClashReport/103347",
-   "kind": "tg",
-   "src": "clashreport",
-   "text": "Trump on Iran:\n\nRemember this: We didn't start the war with Iran.\n\nIran has been waging war on America since 1979.",
-   "url": "https://t.me/ClashReport/103347",
-   "time": "2026-10-28T00:24:33+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "tg:Alibk3/40207",
-   "kind": "tg",
-   "src": "alibk3",
-   "text": "تحديث استطلاع القناة 13 العبرية:  معسكر آيزنكوت 51 معسكر نتنياهو 51 العرب 18.",
-   "url": "https://t.me/Alibk3/40207",
-   "time": "2026-10-28T00:24:05+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "tg:warmonitors/46330",
-   "kind": "tg",
-   "src": "warmonitors",
-   "text": "⚡Netanyahu’s bloc is now ahead of Eisenkot’s bloc, according to an updated Channel 12 exit poll\n\n💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18",
-   "url": "https://t.me/warmonitors/46330",
-   "time": "2026-10-28T00:21:35+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "tg:IranintlTV/364201",
-   "kind": "tg",
-   "src": "iranintltv",
-   "text": "خبرگزاری رویترز با استناد به برآورد وزارت دفاع آمریکا که به رویت این خبرگزاری رسیده است، گزارش داد هزینه عملیات نظامی ایالات متحده در جنگ با ایران به بیش از ۴۷ میلیارد دلار افزایش یافته است.\n\nاین رقم نسبت به برآورد قبلی پنتاگون افزایش نشان می‌دهد. وزارت دفاع آمریکا در گزارشی که شهریورماه به کنگره ارائه کرد، هزینه عملیات نظامی علیه ایران را تا سوم سپتامبر حدود ۴۳ میلیارد و ۶۰۰ میلیون دلار برآورد کرده بود.\nhttps://iranintl.com/202610270380",
-   "url": "https://t.me/IranintlTV/364201",
-   "time": "2026-10-28T00:18:32+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "tg:presstv/212531",
-   "kind": "tg",
-   "src": "presstv",
-   "text": "Putin receives Iran’s President Pezeshkian at the Kremlin following the 8th Gas Exporting Countries Forum Summit in Moscow.  @PressTV",
-   "url": "https://t.me/presstv/212531",
-   "time": "2026-10-28T00:17:58+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "tg:ClashReport/103346",
-   "kind": "tg",
-   "src": "clashreport",
-   "text": "Israel’s Channel 12 has updated its election exit poll:\n\nNetanyahu’s bloc is projected to win 52 seats, while Eisenkot’s bloc is projected to secure 50 seats.",
-   "url": "https://t.me/ClashReport/103346",
-   "time": "2026-10-28T00:17:04+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMivgFBVV95cUxON0xLbkM2QTkxYlhXamlwOVJQeW9tc1RmOVdPbFZ3WG1lTlkyVEl4Nm9HU0x1T0l6WlpmUzBhbWdNNG92ZnRlbHhEUGlkbXJVT1dVNjNjUUtOOFBURWNxOVpNQ3NxUGd2RzdfbE5JQnRWNFdrQ0lfWUxLeTl3b1BQZ2l6QmNSbTZubWgtQi1uVWFRVGtLNjRMeGtJcjF1WmQ0SFM4YmhRMlB3TFhobnpONFVQQUhZX3psZmZJMGNR?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "US costs of Iran war rise to over $47 billion, according to Pentagon estimate - The Times of Israel — US costs of Iran war rise to over $47 billion, according to Pentagon estimate  The Times of Israel",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON0xLbkM2QTkxYlhXamlwOVJQeW9tc1RmOVdPbFZ3WG1lTlkyVEl4Nm9HU0x1T0l6WlpmUzBhbWdNNG92ZnRlbHhEUGlkbXJVT1dVNjNjUUtOOFBURWNxOVpNQ3NxUGd2RzdfbE5JQnRWNFdrQ0lfWUxLeTl3b1BQZ2l6QmNSbTZubWgtQi1uVWFRVGtLNjRMeGtJcjF1WmQ0SFM4YmhRMlB3TFhobnpONFVQQUhZX3psZmZJMGNR?oc=5",
-   "time": "2026-10-28T00:09:31+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T07:19:05.014533+00:00"
-  },
-  {
-   "id": "tg:bbcpersian/294161",
-   "kind": "tg",
-   "src": "bbcpersian",
-   "text": "🔻ستاد انتخاباتی نتانیاهو شور و شادی در اردوی رقیب را «زودهنگام» خواند\n\nگیدئون سعر، متحد بنیامین نتانیاهو و وزیر خارجه کنونی اسرائیل، می‌گوید جشن و ابراز خوشحالی در اردوگاه چپ‌گرایان اسرائیل «زودهنگام» است.\n\nاو گفت نتایج نظرسنجی‌های پس از رای‌گیری به‌روشنی نشان می‌دهد که حزب لیکود به رهبری نتانیاهو، بزرگ‌ترین حزب انتخابات است.\n\nهمان‌طور که پیش‌تر گزارش دادیم، اگرچه نظرسنجی‌ها حاکی از آن است که لیکود بزرگ‌ترین حزب پارلمان خواهد بود، اما در مجموع، بلوک مخالف نتانیاهو به رهبری آیزنکوت احتمالا بیشترین کرسی‌ها را به دست خواهد آورد.\n@BBCPersian",
-   "url": "https://t.me/bbcpersian/294161",
-   "time": "2026-10-28T00:05:10+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "tg:bbcpersian/294160",
-   "kind": "tg",
-   "src": "bbcpersian",
-   "text": "🔻شمارش رسمی آرا آغاز و اعلام نتایج اولیه به تدریج شروع شده است\n\nبه گفته کمیته مرکزی انتخابات اسرائیل، تاکنون ۲ هزار و ۶۷۰ رای شمارش شده که تقریبا ۰.۱ درصد از کل آرای انتخابات را تشکیل می‌دهد.\n\nاز زمان بسته شدن حوزه‌های رای‌گیری در ساعت ۲۲ به وقت محلی، برابر با ساعت ۲۰ به وقت گرینویچ، گزارش‌ها عمدتا بر اساس نتایج نظرسنجی‌های پس از رای‌گیری منتشر شده‌اند. این نظرسنجی‌ها شمارش رسمی آرا محسوب نمی‌شوند، بلکه حاصل پرسش از رای‌دهندگانی هستند که پس از خروج از حوزه‌های رای‌گیری، در نظرسنجی‌های رسانه‌ها شرکت کرده‌اند.\n\nاگرچه تعداد آرای شمارش‌شده تاکنون برای نتیجه‌گیری درباره روند انتخابات کافی نیست، اما",
-   "url": "https://t.me/bbcpersian/294160",
-   "time": "2026-10-28T00:04:42+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "tg:farsna/471154",
-   "kind": "tg",
-   "src": "farsna",
-   "text": "«پرسپولیس ب» کنسل شد  ⚽️باشگاه پرسپولیس که قصد داشت با خرید سهم یکس از باشگاه‌های فرد البرز و بعثت کرمانشاه تیم دوم خود را در لیگ یک حاضر کند درنهایت موفق به خرید سهم باشگاهی در لیگ دسته اول نشد.  ⚽️به این ترتیب پروژه راه‌اندازی پرسپولیس ب در لیگ یک، دست‌کم…",
-   "url": "https://t.me/farsna/471154",
-   "time": "2026-10-28T00:03:31+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "tg:bbcpersian/294159",
-   "kind": "tg",
-   "src": "bbcpersian",
-   "text": "🔻احزاب عرب اسرائیل در آستانه ثبت رکورد جدید کسب کرسی قرار گرفتند\n\n🖋پل آدامز - گزارشگر دپیلماتیک بی‌بی‌سی\nگزارش‌ها حاکی از آن است که مشارکت گسترده اعراب اسرائیل در انتخابات به موفقیت انتخاباتی احزاب عرب انجامیده است. بر اساس پیش‌بینی‌ها، دو حزب اصلی با اکثریت عرب، یعنی فهرست متحد عربی موسوم به «رعام» و فهرست مشترک، ائتلافی متشکل از سه حزب کوچک‌تر، در مجموع ممکن است تا ۱۹ کرسی به دست آورند؛ رقمی که در صورت تحقق، رکوردی بی‌سابقه خواهد بود.\n\nاحزاب اصلی اسرائیل به‌طور سنتی تمایل چندانی به وارد کردن احزاب عرب به ائتلاف‌های دولتی نداشته‌اند. با این حال، پیش‌بینی می‌شود فاصله میان دو بلوک اصلی انتخابا",
-   "url": "https://t.me/bbcpersian/294159",
-   "time": "2026-10-28T00:02:29+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
-  },
-  {
-   "id": "tg:warmonitors/46329",
-   "kind": "tg",
-   "src": "warmonitors",
-   "text": "⚡The cost of US operations against Iran has risen to over $47 billion, according to a Pentagon estimate seen by Reuters\n\n💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18",
-   "url": "https://t.me/warmonitors/46329",
-   "time": "2026-10-28T00:01:35+00:00",
-   "keywords": [],
-   "emojis": [],
-   "alert": false,
-   "collected": "2026-10-28T01:28:55.454643+00:00"
   }
  ],
  "counts": {
