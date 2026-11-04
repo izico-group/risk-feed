@@ -1,6 +1,516 @@
 {
- "updated": "2026-11-03T22:10:45.045469+00:00",
+ "updated": "2026-11-04T02:22:56.188309+00:00",
  "alerts": [
+  {
+   "id": "rss:https://www.bbc.com/persian/articles/cr5y5n8vx90no?at_medium=RSS&at_campaign=rss",
+   "kind": "rss",
+   "src": "feeds.bbci.co.uk",
+   "text": "چگونه پهپادها بدون جی‌پی‌اس در خاک دشمن پرواز می‌کنند؟ — اختلال و جعل سیگنال‌های ماهواره‌ای به بخشی جدایی‌ناپذیر از جنگ اوکراین تبدیل شده است. در چنین شرایطی، روسیه و اوکراین برای حفظ توان پهپادهای خود به سراغ فناوری‌های تازه‌ای رفته‌اند؛ از ناوبری بصری و هوش مصنوعی گرفته تا شبکه‌های فرستنده‌های راهنما که می‌توانند جایگزین جی‌پی‌اس شوند.",
+   "url": "https://www.bbc.com/persian/articles/cr5y5n8vx90no?at_medium=RSS&at_campaign=rss",
+   "time": "2026-11-04T02:13:38+00:00",
+   "keywords": [
+    "پهپاد"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-11-04T02:22:56.188309+00:00"
+  },
+  {
+   "id": "tg:bbcpersian/294662",
+   "kind": "tg",
+   "src": "bbcpersian",
+   "text": "🔻ترامپ: فعلا برنامه‌ای برای حمله جدید به ایران نداریم\n\nدونالد ترامپ، رئیس‌جمهور آمریکا، گفته است که واشنگتن در حال حاضر برنامه فوری برای حمله به ایران ندارد. او در عین حال، گمانه‌زنی‌ها درباره آمادگی دولتش برای تشدید درگیری با جمهوری اسلامی پس از انتخابات میان‌دوره‌ای را کم‌اهمیت جلوه داده است.\n\nآقای ترامپ روز سه‌شنبه در گفت‌وگویی با روزنامه فایننشال تایمز گفت از وضعیت تقابل با ایران رضایت دارد؛ هرچند هم‌زمان نشان داد که در صورت لزوم، برای ادامه جنگ نیز آمادگی دارد.\n\nاو در این گفت‌وگوی تلفنی شش‌دقیقه‌ای گفت: «به نظر می‌رسد هر آنچه را می‌خواهیم، به دست می‌آوریم.»\n\nهم‌زمان نگرانی‌ها از احتمال یک",
+   "url": "https://t.me/bbcpersian/294662",
+   "time": "2026-11-04T02:07:27+00:00",
+   "keywords": [
+    "حمله"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-11-04T02:22:56.188309+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMi2wFBVV95cUxOc2tsOFd0WTZsS3FHQjNuSWFEUTlfRWFiS3IxQV83UEVTWHhiV0trNFVpUmhGbktDZkF6ai1ZYzNkNFVjRkNrUklZbGpWdFg4dnRuVzcyc0d5R3JXMWd0eXhLTnRuNkJkM0VwUm1BaWk1dHFXNEpBYjlsaWFiRmt2QTM3VzZsUUk1TWhhNXBnRkpKUy12Q21YWXpKdnFEb3hTdG5EUnFCTlgyU3p2QU1CUzF4bXlkM1FvTGIwbDJ5azd6OHZDT3BUVjk1ZTRweGpmY1VKWHBSY0VBSDQ?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "Trump Says U.S. Has No Immediate Plans to Strike Iran - Haaretz — Trump Says U.S. Has No Immediate Plans to Strike Iran  Haaretz",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOc2tsOFd0WTZsS3FHQjNuSWFEUTlfRWFiS3IxQV83UEVTWHhiV0trNFVpUmhGbktDZkF6ai1ZYzNkNFVjRkNrUklZbGpWdFg4dnRuVzcyc0d5R3JXMWd0eXhLTnRuNkJkM0VwUm1BaWk1dHFXNEpBYjlsaWFiRmt2QTM3VzZsUUk1TWhhNXBnRkpKUy12Q21YWXpKdnFEb3hTdG5EUnFCTlgyU3p2QU1CUzF4bXlkM1FvTGIwbDJ5azd6OHZDT3BUVjk1ZTRweGpmY1VKWHBSY0VBSDQ?oc=5",
+   "time": "2026-11-04T02:03:00+00:00",
+   "keywords": [
+    "strike"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-11-04T02:22:56.188309+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMieEFVX3lxTE5lT2lXQlVzMGlrRGJPczUwaHNmdnFORkxqQUZIQnpFckE2eVg4ZkE1SGpoSzJnQ2hCbnoxM0h6Tks2X1FDbVFxT3I0TmVxREZVMTdaWXUyMW50RVktS2dDS2xRSWYxVWNZX1RGUWlTLWxRUHdpWEVmMQ?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "ארה\"ב מאשרת תקיפה על מתקן הגנה אווירית איראני. - Vietnam.vn — ארה\"ב מאשרת תקיפה על מתקן הגנה אווירית איראני.  Vietnam.vn",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lT2lXQlVzMGlrRGJPczUwaHNmdnFORkxqQUZIQnpFckE2eVg4ZkE1SGpoSzJnQ2hCbnoxM0h6Tks2X1FDbVFxT3I0TmVxREZVMTdaWXUyMW50RVktS2dDS2xRSWYxVWNZX1RGUWlTLWxRUHdpWEVmMQ?oc=5",
+   "time": "2026-11-04T01:58:56+00:00",
+   "keywords": [
+    "תקיפה"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-11-04T02:22:56.188309+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMirwFBVV95cUxQaWE4RHhodlczcWx0TUJ0aEhSWkZ5a2NMUkxReW1vbGJ6SnREcnhGXzV3NDdaVGgzNG94WWJVQS1qMGptRVp0SVlNMUR3UHFUOXlldllrMS1FY3VZSjR6b1dwS25HeHBoeUlaZUg3cG10MWpuOUdqc1RXZkxvQ0dON25zM0FuTkVuZlZjcmY1MnhTTGpqRmJZYkQ0ZmVMN2QzYTRSSjZ5R0MwZUtXWlMw?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "US has no immediate plan to strike Iran, Trump tells FT - AFR — US has no immediate plan to strike Iran, Trump tells FT  AFR",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaWE4RHhodlczcWx0TUJ0aEhSWkZ5a2NMUkxReW1vbGJ6SnREcnhGXzV3NDdaVGgzNG94WWJVQS1qMGptRVp0SVlNMUR3UHFUOXlldllrMS1FY3VZSjR6b1dwS25HeHBoeUlaZUg3cG10MWpuOUdqc1RXZkxvQ0dON25zM0FuTkVuZlZjcmY1MnhTTGpqRmJZYkQ0ZmVMN2QzYTRSSjZ5R0MwZUtXWlMw?oc=5",
+   "time": "2026-11-04T01:55:00+00:00",
+   "keywords": [
+    "strike"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-11-04T02:22:56.188309+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMipwFBVV95cUxQZGNkR0tMaWQxRjQ2VjdDZDFROVdrbGVPLUkwYUdzYlhTbDFtSWxJOG0zU1Ria085dDlfYWlVM0IyYlc0TnFoY0ktWDNBMHVTQWRfQldNMktrcmJsRS1VYUNNblRqaDEzdWJ3TFJ2TzdWZ2hORFdKVXpUc2ZCUWFTLWF3NkZnSHFfTU1GdHVjREtVdjYzakt6REdrX1FwTkFQSHdvOUlWVQ?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "ترامب: واشنطن لا تعتزم شن هجوم فوري على إيران - بوابة الشروق — ترامب: واشنطن لا تعتزم شن هجوم فوري على إيران  بوابة الشروق",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZGNkR0tMaWQxRjQ2VjdDZDFROVdrbGVPLUkwYUdzYlhTbDFtSWxJOG0zU1Ria085dDlfYWlVM0IyYlc0TnFoY0ktWDNBMHVTQWRfQldNMktrcmJsRS1VYUNNblRqaDEzdWJ3TFJ2TzdWZ2hORFdKVXpUc2ZCUWFTLWF3NkZnSHFfTU1GdHVjREtVdjYzakt6REdrX1FwTkFQSHdvOUlWVQ?oc=5",
+   "time": "2026-11-04T01:23:52+00:00",
+   "keywords": [
+    "هجوم"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-11-04T02:22:56.188309+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ2hQSTB1alNWcjBFMG9YMTNDWWZEWVpSU19EV1Y5aWtIaTBhSUs0d1Juek9rYVpEMU50cTdOR0I3aXQydVdWUUV5WHVFbjhyNTJkTXBMVURBZEt3V0dsWEp5LWhUZkloMUhoamcyUF9rV3JzdmtlSjVIM3FOMHNvRDVjQ0FzajdvV1RiNTRMOG1KLVNMbG42U1VKaUViYW5Qb2FZRUY0TzR5N1NZWTZIVWJKZ3lvOW9NdUZGcTZkdDJTak1yNlE?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "Trump suggests no immediate plan to strike Iran, but says US 'locked and loaded' - Middle East Eye — Trump suggests no immediate plan to strike Iran, but says US 'locked and loaded'  Middle East Eye",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ2hQSTB1alNWcjBFMG9YMTNDWWZEWVpSU19EV1Y5aWtIaTBhSUs0d1Juek9rYVpEMU50cTdOR0I3aXQydVdWUUV5WHVFbjhyNTJkTXBMVURBZEt3V0dsWEp5LWhUZkloMUhoamcyUF9rV3JzdmtlSjVIM3FOMHNvRDVjQ0FzajdvV1RiNTRMOG1KLVNMbG42U1VKaUViYW5Qb2FZRUY0TzR5N1NZWTZIVWJKZ3lvOW9NdUZGcTZkdDJTak1yNlE?oc=5",
+   "time": "2026-11-04T01:17:00+00:00",
+   "keywords": [
+    "strike"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-11-04T02:22:56.188309+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYXMzTUNOdHUwN1cyMlg0LU9vMVZrRVZpRHNqdy03bFhzVHFlS3o5V2ladWZhNmN3cnZ1dFFDaGZ2SlZ2ZVBsRFNsZVVacjFPWFF5bmF5c2IxNkw3X1pYOGxGVWZOX2lEdzhzeTdOM1JvUUctQWJlb1poN2FEZktBTVpWTkNudTdkZXVXZE1Xd1ZZRVdWZFBCNWhsb2dHcjc3UFI3dDBqZ3hKN2ZWR0ZadlExM3V2V25GRWdCX2FjMmJSc1VtWmRBME45alMzUTFRLVZ5OEpsTmVEQjlXeDhQc05UcWJ3UmlQS2fSAegBQVVfeXFMUHI5RWlVdFZac3RNNUdTUER0Vm5IVFE4UHZNNGItMXBXTFVnZF9GT0xsS0lsSUZsWERrTTl6MXpvSmp2WEhuZ2p3ZmVRLW9FSllJdS1PUDBLQ0VCTGQ1a2tjQUhjdUdMOTlXOU8tLUlhWGNXbjZIZjk2NHhYNVFla0xBUW5NNERoZmxBYmViUUNBeFpxcHhxdmhNREJSVFM1enBBRG9aMDlvYmstSEtvNDEtUm4xUlFjV0dwTFZBdF9uOHlsZU5HMVVvMUliZWJ4Q0dDTlpfdFVyb2ExWnlySWlHdk9LNDFXeg?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "The United States has developed a plan for new strikes on Iran following Israel’s warning about the possible use of chemical weapons - Українські Національні Новини (УНН) — The United States has developed a plan for new strikes on Iran following Israel’s warning about the possible use of chemical weapons  Українські Національні Новини (УНН)",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYXMzTUNOdHUwN1cyMlg0LU9vMVZrRVZpRHNqdy03bFhzVHFlS3o5V2ladWZhNmN3cnZ1dFFDaGZ2SlZ2ZVBsRFNsZVVacjFPWFF5bmF5c2IxNkw3X1pYOGxGVWZOX2lEdzhzeTdOM1JvUUctQWJlb1poN2FEZktBTVpWTkNudTdkZXVXZE1Xd1ZZRVdWZFBCNWhsb2dHcjc3UFI3dDBqZ3hKN2ZWR0ZadlExM3V2V25GRWdCX2FjMmJSc1VtWmRBME45alMzUTFRLVZ5OEpsTmVEQjlXeDhQc05UcWJ3UmlQS2fSAegBQVVfeXFMUHI5RWlVdFZac3RNNUdTUER0Vm5IVFE4UHZNNGItMXBXTFVnZF9GT0xsS0lsSUZsWERrTTl6MXpvSmp2WEhuZ2p3ZmVRLW9FSllJdS1PUDBLQ0VCTGQ1a2tjQUhjdUdMOTlXOU8tLUlhWGNXbjZIZjk2NHhYNVFla0xBUW5NNERoZmxBYmViUUNBeFpxcHhxdmhNREJSVFM1enBBRG9aMDlvYmstSEtvNDEtUm4xUlFjV0dwTFZBdF9uOHlsZU5HMVVvMUliZWJ4Q0dDTlpfdFVyb2ExWnlySWlHdk9LNDFXeg?oc=5",
+   "time": "2026-11-04T01:16:14+00:00",
+   "keywords": [
+    "strike"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-11-04T02:22:56.188309+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMimAFBVV95cUxNdjhpUnNOSTlZWWdpekFRMGZjaWFnRDY3TmFnQkk0Qm4yRExTZnJoemVSZEQ2YS1yZkwtdGhLaEFwSE5FcHplcUZta1k3amJrMGl5emdJX3pPUlY4aTJnVVFhYlBuX0FlN2VUbVNQTFZ6Yjc3ZENmVGJQbFcxTUpkcmhLS05zc19SRS1qYm5QbmxTOWk3VUpES9IBngFBVV95cUxPUkE4ZGpqYlp5ZkIwQ2oyVDF3dWdFeG9XM0pDMnBxQm5CR0gtWXpIcWt2V2J3Mlg5TFJrUmpfcFdBdm54VEgzRW1jSUtPbGhPR25qMmg3MEtDUHBrQ1FaU3p3bGxBUGMzd1hzRXFSbi10cDg2Wmd5Vzl1YXJDdkg4QVlGd1NmbkxKdjBYZlVCQ1hWTDAzOUlTVnBFRVNDdw?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "U.S. strikes Strait of Hormuz hours before Tuesday midterms - PBS — U.S. strikes Strait of Hormuz hours before Tuesday midterms  PBS",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdjhpUnNOSTlZWWdpekFRMGZjaWFnRDY3TmFnQkk0Qm4yRExTZnJoemVSZEQ2YS1yZkwtdGhLaEFwSE5FcHplcUZta1k3amJrMGl5emdJX3pPUlY4aTJnVVFhYlBuX0FlN2VUbVNQTFZ6Yjc3ZENmVGJQbFcxTUpkcmhLS05zc19SRS1qYm5QbmxTOWk3VUpES9IBngFBVV95cUxPUkE4ZGpqYlp5ZkIwQ2oyVDF3dWdFeG9XM0pDMnBxQm5CR0gtWXpIcWt2V2J3Mlg5TFJrUmpfcFdBdm54VEgzRW1jSUtPbGhPR25qMmg3MEtDUHBrQ1FaU3p3bGxBUGMzd1hzRXFSbi10cDg2Wmd5Vzl1YXJDdkg4QVlGd1NmbkxKdjBYZlVCQ1hWTDAzOUlTVnBFRVNDdw?oc=5",
+   "time": "2026-11-04T01:15:33+00:00",
+   "keywords": [
+    "strike"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-11-04T02:22:56.188309+00:00"
+  },
+  {
+   "id": "tg:farsna/472392",
+   "kind": "tg",
+   "src": "farsna",
+   "text": "‌ اف‌بی‌آی: هکرهای وابسته به کرهٔ شمالی مسئول سرقت از صرافی بایننس هستند   🔹پلیس فدرال آمریکا(FBI) اعلام کرد هکرهای وابسته به کرهٔ‌شمالی مسئول سرقت بیش از ۶ میلیارد دلار دارایی دیجیتال از صرافی بایننس هستند.  🔹اف‌بی‌آی این حملهٔ سایبری را به گروهی با عنوان…",
+   "url": "https://t.me/farsna/472392",
+   "time": "2026-11-04T01:03:47+00:00",
+   "keywords": [
+    "حمله"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-11-04T02:22:56.188309+00:00"
+  },
+  {
+   "id": "tg:presstv/213367",
+   "kind": "tg",
+   "src": "presstv",
+   "text": "Eight civilians killed, dozens injured as Saudi-led forces hit market in southwestern Yemen  At least eight people have been killed and dozens more injured when Saudi-led forces launched an attack on a popular market in Yemen’s southwestern province of Ta’izz.…",
+   "url": "https://t.me/presstv/213367",
+   "time": "2026-11-04T00:59:01+00:00",
+   "keywords": [
+    "attack"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-11-04T02:22:56.188309+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMie0FVX3lxTE14MW4tdGFyQjhPbXdRdk9ub3dodHpIdHRJMVNuWHMwSjd0aTNaQkNNZVJ1Yk5qbEhBekNBYjEtR0E0Wi1CRTRpb1BtMkFlMGpsUlJVX1MxOF83RkxSRmdwQTJzVXNJenJLbUFYXzBqVXlldHRnM1k2Zy0wdw?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "ترمب يستبعد شن هجوم وشيك على إيران ويؤكد استمرار الضغوط الاقتصادية - جريدة القدس — ترمب يستبعد شن هجوم وشيك على إيران ويؤكد استمرار الضغوط الاقتصادية  جريدة القدس",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE14MW4tdGFyQjhPbXdRdk9ub3dodHpIdHRJMVNuWHMwSjd0aTNaQkNNZVJ1Yk5qbEhBekNBYjEtR0E0Wi1CRTRpb1BtMkFlMGpsUlJVX1MxOF83RkxSRmdwQTJzVXNJenJLbUFYXzBqVXlldHRnM1k2Zy0wdw?oc=5",
+   "time": "2026-11-04T00:52:53+00:00",
+   "keywords": [
+    "هجوم"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-11-04T02:22:56.188309+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMinAFBVV95cUxOemoyOGFpcFZWUW5JUEt2ckx6d0tvQWhvQWIzNmJ2R1VyWGxTdTUzV2lOb2dxSmdmUndaMnFHYU9xeXNFcWNtQ29zbkVQeUJRV0tQekxzUDNkMjVQUU9vc2J0aGdkN1dJY1ZBRUk4WmtpNUhVUWhGWnRUOXNpTEFSVTZBbGtIRjdObnRYWmZSRzZwNlFzekdlRERhYVY?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "US has no immediate plan to strike Iran, Trump tells FT - Al-Monitor — US has no immediate plan to strike Iran, Trump tells FT  Al-Monitor",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOemoyOGFpcFZWUW5JUEt2ckx6d0tvQWhvQWIzNmJ2R1VyWGxTdTUzV2lOb2dxSmdmUndaMnFHYU9xeXNFcWNtQ29zbkVQeUJRV0tQekxzUDNkMjVQUU9vc2J0aGdkN1dJY1ZBRUk4WmtpNUhVUWhGWnRUOXNpTEFSVTZBbGtIRjdObnRYWmZSRzZwNlFzekdlRERhYVY?oc=5",
+   "time": "2026-11-04T00:48:36+00:00",
+   "keywords": [
+    "strike"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-11-04T02:22:56.188309+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMie0FVX3lxTE9oNmV6QnMwVW56Rl9HMzhzc1pjVzhoVFdqMUdCSzVPYjZEZVV1NlU2U2pCQm1ueEJ6MjEwblpaSEtQRjNlT0hMcUhsZnVhTzdvMVpxanVSY1VOYzJPNzV5WVFqVHVqYTY3X2l5X2F4NXRsNG5Gc1Y5cXQwYw?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "US has no immediate plan to strike Iran, Trump tells FT - Sun Herald — US has no immediate plan to strike Iran, Trump tells FT  Sun Herald",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9oNmV6QnMwVW56Rl9HMzhzc1pjVzhoVFdqMUdCSzVPYjZEZVV1NlU2U2pCQm1ueEJ6MjEwblpaSEtQRjNlT0hMcUhsZnVhTzdvMVpxanVSY1VOYzJPNzV5WVFqVHVqYTY3X2l5X2F4NXRsNG5Gc1Y5cXQwYw?oc=5",
+   "time": "2026-11-04T00:31:07+00:00",
+   "keywords": [
+    "strike"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-11-04T02:22:56.188309+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMimwFBVV95cUxNa0JFWWEwQ2NMZ0xqeFpXbDJpT1lXdk9aal9WTWhVSXVpUEllNEh0akxCSGNqdno2akxGa0c4OVNaZkg5VW4xYldvUTZMeE53ZWI5bjRkdWtPZGJzblIzRzNhR2VmczdQR1dUenkwSUhKTHEtTXZWdnFkUVZWc0wwMEp4VTg5cFg4bE1oZDBRN091ajdzRWNPaXRocw?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "الرئيس دونالد ترامب يعرب عن استيائه من الهجوم الإيراني على جزيرة استراتيجية. - Vietnam.vn — الرئيس دونالد ترامب يعرب عن استيائه من الهجوم الإيراني على جزيرة استراتيجية.  Vietnam.vn",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa0JFWWEwQ2NMZ0xqeFpXbDJpT1lXdk9aal9WTWhVSXVpUEllNEh0akxCSGNqdno2akxGa0c4OVNaZkg5VW4xYldvUTZMeE53ZWI5bjRkdWtPZGJzblIzRzNhR2VmczdQR1dUenkwSUhKTHEtTXZWdnFkUVZWc0wwMEp4VTg5cFg4bE1oZDBRN091ajdzRWNPaXRocw?oc=5",
+   "time": "2026-11-04T00:18:54+00:00",
+   "keywords": [
+    "هجوم"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-11-04T02:22:56.188309+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMiSEFVX3lxTE8yNUdFLUdZenZiQy1WMk94YWpvQ0F2bXd1WWFvTW5XdExkSllVX0FidElpUGduMFVmUWtvaW5kWWstdERXM3ZWdQ?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "טראמפ: לא מתכננים תקיפה מיידית באיראן, אך הכוחות ערוכים לפעולה - ערוץ 7 — טראמפ: לא מתכננים תקיפה מיידית באיראן, אך הכוחות ערוכים לפעולה  ערוץ 7",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8yNUdFLUdZenZiQy1WMk94YWpvQ0F2bXd1WWFvTW5XdExkSllVX0FidElpUGduMFVmUWtvaW5kWWstdERXM3ZWdQ?oc=5",
+   "time": "2026-11-04T00:09:42+00:00",
+   "keywords": [
+    "תקיפה",
+    "איראן"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-11-04T02:22:56.188309+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRE83bTc2a2lxLUVtYWdCVWwxRm9HQThWYzU0WElFaVR1T3c5Q3hiMXBOZFE0R2JEUUl0NVV1dkxRZUI1cWZPSzRwUkduZE1GZXYwdEhzOVpZdkFKVGFlbkdVT1ZUN2QwZXYzYm5CR3hndC16a3F6RDNSUUdDNm5oZTg2VmsyZmN2WUxR?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "Trump says no immediate plans to strike Iran: FT - Egyptian Gazette — Trump says no immediate plans to strike Iran: FT  Egyptian Gazette",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRE83bTc2a2lxLUVtYWdCVWwxRm9HQThWYzU0WElFaVR1T3c5Q3hiMXBOZFE0R2JEUUl0NVV1dkxRZUI1cWZPSzRwUkduZE1GZXYwdEhzOVpZdkFKVGFlbkdVT1ZUN2QwZXYzYm5CR3hndC16a3F6RDNSUUdDNm5oZTg2VmsyZmN2WUxR?oc=5",
+   "time": "2026-11-04T00:08:15+00:00",
+   "keywords": [
+    "strike"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-11-04T02:22:56.188309+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJMTY1TlNjMGR2ZlYtSzdKU2FRNTl4cHlFam1leHhMLVJGYkZLay1wNmRtZHJEWFlDTzJUQnVlM0ZhNWxzd0pLNFM4bmhpZEtDd1hCU1NuWWlPUQ?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "Trump: No immediate plans to strike Iran, US locked and loaded if needed - Israel National News — Trump: No immediate plans to strike Iran, US locked and loaded if needed  Israel National News",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJMTY1TlNjMGR2ZlYtSzdKU2FRNTl4cHlFam1leHhMLVJGYkZLay1wNmRtZHJEWFlDTzJUQnVlM0ZhNWxzd0pLNFM4bmhpZEtDd1hCU1NuWWlPUQ?oc=5",
+   "time": "2026-11-04T00:06:00+00:00",
+   "keywords": [
+    "strike"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-11-04T02:22:56.188309+00:00"
+  },
+  {
+   "id": "rss:https://www.aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack?traffic_source=rss",
+   "kind": "rss",
+   "src": "www.aljazeera.com",
+   "text": "Iran war live: Tehran prepares ‘maximum deterrence’ plan for any new attack — Iran says a 'maximum deterrence' plan is ready against any new US attack, warning of an immediate response.",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack?traffic_source=rss",
+   "time": "2026-11-04T00:00:00+00:00",
+   "keywords": [
+    "attack"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-11-04T02:22:56.188309+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMixwFBVV95cUxPdUMyUUF2VUVKS0NPVmxlcVJtOFhLNUNzSHNBb3JrMnh1SUZ0RkRGUTU2eFFocG83ajZwWXZlSy11QzJNUE1tUHhRZkpUSlFQQ01IM0tfNHZnWUVsUXN4TFNCcVZhQ1gwYlpEY3hlMTJfdnBmMzlJbTNNZFMwWTROdDM2UjV1YzhlRFR2ZTB4TVd1cndvY2t3dDJFQ0tZbEthbUxKcjFQXzlHNklPVXV5VWFicjBnSEtmXzhJeEM4d25iLVQ5aXZF?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "Trump says US has no immediate plan to strike Iran, but ‘locked and loaded’ if needed - The Times of Israel — Trump says US has no immediate plan to strike Iran, but ‘locked and loaded’ if needed  The Times of Israel",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdUMyUUF2VUVKS0NPVmxlcVJtOFhLNUNzSHNBb3JrMnh1SUZ0RkRGUTU2eFFocG83ajZwWXZlSy11QzJNUE1tUHhRZkpUSlFQQ01IM0tfNHZnWUVsUXN4TFNCcVZhQ1gwYlpEY3hlMTJfdnBmMzlJbTNNZFMwWTROdDM2UjV1YzhlRFR2ZTB4TVd1cndvY2t3dDJFQ0tZbEthbUxKcjFQXzlHNklPVXV5VWFicjBnSEtmXzhJeEM4d25iLVQ5aXZF?oc=5",
+   "time": "2026-11-03T23:55:34+00:00",
+   "keywords": [
+    "strike"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-11-04T02:22:56.188309+00:00"
+  },
+  {
+   "id": "tg:IranintlTV/365281",
+   "kind": "tg",
+   "src": "iranintltv",
+   "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، در گفت‌وگو با فایننشال‌تایمز، درباره نشانه‌های آشکاری که بنیامین نتانیاهو، نخست‌وزیر اسراییل، درباره وقوع حمله‌ای در اواخر این هفته داده بود، گفت: «من آماده‌ام، ما آماده‌ایم. اگر لازم باشد وارد عمل شویم، کاملا آماده شلیک هستیم.»\n\nترامپ افزود: «اما شاید اصلا دلیلی برای این کار وجود نداشته باشد.»\n\nرییس‌جمهوری آمریکا گفت: «به نظر می‌رسد داریم به هر آنچه می‌خواهیم، دست پیدا می‌کنیم.»\n\nترامپ به فایننشال تایمز گفت که اکنون نفت بیشتری نسبت به پیش از جنگ از تنگه هرمز، گذرگاه حیاتی انتقال نفت خام از خلیج فارس، عبور می‌کند و محاصره بنادر ایران از سوی آمریکا نیز با موفقی",
+   "url": "https://t.me/IranintlTV/365281",
+   "time": "2026-11-03T23:55:31+00:00",
+   "keywords": [
+    "حمله"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-11-04T02:22:56.188309+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMiakFVX3lxTE01dHUwTm5ZYmVBZ19kMzVITlBod19LUEtlT2pYVVJaTVJTNldTZ2tOWGZJSl82ZFdvNVdsMWVKQlpSZlM4REZqcFdwS3cxOG05RVdselFCTk5tT0JRRmJMLURTaVFCNkdJaEE?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "US has no immediate plans to strike Iran but is 'locked and loaded,' Donald Trump says - The Jerusalem Post — US has no immediate plans to strike Iran but is 'locked and loaded,' Donald Trump says  The Jerusalem Post",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01dHUwTm5ZYmVBZ19kMzVITlBod19LUEtlT2pYVVJaTVJTNldTZ2tOWGZJSl82ZFdvNVdsMWVKQlpSZlM4REZqcFdwS3cxOG05RVdselFCTk5tT0JRRmJMLURTaVFCNkdJaEE?oc=5",
+   "time": "2026-11-03T23:52:36+00:00",
+   "keywords": [
+    "strike"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-11-04T02:22:56.188309+00:00"
+  },
+  {
+   "id": "tg:presstv/213364",
+   "kind": "tg",
+   "src": "presstv",
+   "text": "IRGC vows ‘effective, geographically unlimited’ response to any aggression  The Islamic Revolution Guards Corps (IRGC) has warned that any new US-Israeli attack on Iran will be met with a broad and effective response, dismissing threats and psychological warfare…",
+   "url": "https://t.me/presstv/213364",
+   "time": "2026-11-03T23:52:01+00:00",
+   "keywords": [
+    "attack"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-11-04T02:22:56.188309+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMivgFBVV95cUxOWnJTd3VNblV3OExUYWhtQmhZei1HbUpoODB2MFNCTC0xVEFZVnlmNTNld3NwVWJlRi1GMDlIcGlvMm9UM0l1Zl9BeXZDX2xhVm9sQ3VPcDc2VmVMYUhwa0RQRTVWYVpiNkdzR2lrTHVPMlltWVlqR2ZJU2R0VFViVkZnMXdtbXRGaWZZSjdZOUloVkEwN1BUMEhnZV9ibVNiSGRBU2JNYkRKTC1GWnI3SHhXWTFId0FGTDlnZDZn?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "Trump says no immediate plan to strike Iran as Netanyahu hints at attack this week - investingLive — Trump says no immediate plan to strike Iran as Netanyahu hints at attack this week  investingLive",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWnJTd3VNblV3OExUYWhtQmhZei1HbUpoODB2MFNCTC0xVEFZVnlmNTNld3NwVWJlRi1GMDlIcGlvMm9UM0l1Zl9BeXZDX2xhVm9sQ3VPcDc2VmVMYUhwa0RQRTVWYVpiNkdzR2lrTHVPMlltWVlqR2ZJU2R0VFViVkZnMXdtbXRGaWZZSjdZOUloVkEwN1BUMEhnZV9ibVNiSGRBU2JNYkRKTC1GWnI3SHhXWTFId0FGTDlnZDZn?oc=5",
+   "time": "2026-11-03T23:52:00+00:00",
+   "keywords": [
+    "strike",
+    "attack"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-11-04T02:22:56.188309+00:00"
+  },
+  {
+   "id": "tg:Alibk3/40716",
+   "kind": "tg",
+   "src": "alibk3",
+   "text": "هجوم يمني في العاصمة السعودية الرياض.",
+   "url": "https://t.me/Alibk3/40716",
+   "time": "2026-11-03T23:48:15+00:00",
+   "keywords": [
+    "هجوم"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-11-04T02:22:56.188309+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMimAFBVV95cUxQb0FkNGEyakJsS3Z6clp1MWY0LURUZFRrUTVmWlBQRVQ4NTJVQzJyei1qcDVVMjRXbEJiYlVXSnQtdTZ1ZUJuRGZOYno5bUNQM0tpSEsxUWJ1ampYcm0zYnZMZ3dKRzdQMlVyRDlpNTBpMlZ1a2RLamxrMU9EVFdKaHNHMzVWTkQ5QjRna0R0MmZBUjZKcjItTg?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "US has no immediate plan to strike Iran, Trump tells FT - Reuters — US has no immediate plan to strike Iran, Trump tells FT  Reuters",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb0FkNGEyakJsS3Z6clp1MWY0LURUZFRrUTVmWlBQRVQ4NTJVQzJyei1qcDVVMjRXbEJiYlVXSnQtdTZ1ZUJuRGZOYno5bUNQM0tpSEsxUWJ1ampYcm0zYnZMZ3dKRzdQMlVyRDlpNTBpMlZ1a2RLamxrMU9EVFdKaHNHMzVWTkQ5QjRna0R0MmZBUjZKcjItTg?oc=5",
+   "time": "2026-11-03T23:48:00+00:00",
+   "keywords": [
+    "strike"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-11-04T02:22:56.188309+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMihAFBVV95cUxPU3FTai1mcHIxRnlxVGpSQ2JVb0NNYU84WENtU2lmcUFBYl9Yc0d6dVVvbWZTYm03dUs4eVB5cktzQ28zTkgzNW5QcGZOdkpnMDNCdXVhVC1DNDIyRzNhQ0RXM2liN2hpbURZNnpCSENfWG0xTVY3YUZiMTVuV21HM0ZSMG8?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "US has no immediate plan to strike Iran, Trump tells FT - Financial Times — US has no immediate plan to strike Iran, Trump tells FT  Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU3FTai1mcHIxRnlxVGpSQ2JVb0NNYU84WENtU2lmcUFBYl9Yc0d6dVVvbWZTYm03dUs4eVB5cktzQ28zTkgzNW5QcGZOdkpnMDNCdXVhVC1DNDIyRzNhQ0RXM2liN2hpbURZNnpCSENfWG0xTVY3YUZiMTVuV21HM0ZSMG8?oc=5",
+   "time": "2026-11-03T23:34:36+00:00",
+   "keywords": [
+    "strike"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-11-04T02:22:56.188309+00:00"
+  },
+  {
+   "id": "tg:IranintlTV/365277",
+   "kind": "tg",
+   "src": "iranintltv",
+   "text": "سفارت آمریکا در عربستان سعودی با صدور هشدار امنیتی اعلام کرد: «حوثی‌های مورد حمایت تهران در اقدامات خصمانه علیه عربستان سعودی، از جمله حمله به فرودگاه‌های غیرنظامی و دیگر زیرساخت‌های حیاتی، دست داشته‌اند که به کشته و زخمی شدن غیرنظامیان و اختلالات شدید در سفرها منجر شده است.»\n\nاین سفارتخانه هشدار داد که «این اقدامات خصمانه ممکن است به سرعت به مناطقی فراتر از محدوده فعلی گسترش یابد».\n\nوزارت خارجه آمریکا از ۲۳ اکتبر ۲۰۲۶، به دلیل خطرات امنیتی، به کارکنان دولت آمریکا که وظایف اضطراری بر عهده ندارند و اعضای خانواده کارکنان دولت این کشور دستور داده است عربستان سعودی را ترک کنند.\n\nدر پی حملات موشکی ",
+   "url": "https://t.me/IranintlTV/365277",
+   "time": "2026-11-03T23:19:12+00:00",
+   "keywords": [
+    "حمله",
+    "موشک",
+    "پهپاد"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-11-04T02:22:56.188309+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNXJkNHFBckxYN3FPVGw4NjJYSGJIeXBscW8teDFuM3VNOElpZ0tJclNiejBGZ3dPR2VZMXR0b0VqeGZqVUE3WERxZXdNOFNVTmdRWXNvS2wtakVCX24yaDVRS0pNbDBhN1ctRC1YQ2pxVUNtdnVCM1JaTDZvLVdXaUJ3N1RiaEYyTVB0NWZYLXlRbks0LTBxMzZoblRXenZ0ZG1LOTF5ZWg2SnZXRHF1NmlZZVdIcnJhY0pqUk1SVmdWS2E5bnU4NFcxREhRNU1Vdm5yLWlfaGhsTlFBSFpRSlc4MGs2aHdDVDkzNU5tOA?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "Iran issues nuclear survival guide fearing US-Israel nuclear attack as US strikes Qeshm Island and Israel steps up Gaza attacks - Muslim News UK - The Muslim News — Iran issues nuclear survival guide fearing US-Israel nuclear attack as US strikes Qeshm Island and Israel steps up Gaza attacks - Muslim News UK  The Muslim News",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNXJkNHFBckxYN3FPVGw4NjJYSGJIeXBscW8teDFuM3VNOElpZ0tJclNiejBGZ3dPR2VZMXR0b0VqeGZqVUE3WERxZXdNOFNVTmdRWXNvS2wtakVCX24yaDVRS0pNbDBhN1ctRC1YQ2pxVUNtdnVCM1JaTDZvLVdXaUJ3N1RiaEYyTVB0NWZYLXlRbks0LTBxMzZoblRXenZ0ZG1LOTF5ZWg2SnZXRHF1NmlZZVdIcnJhY0pqUk1SVmdWS2E5bnU4NFcxREhRNU1Vdm5yLWlfaGhsTlFBSFpRSlc4MGs2aHdDVDkzNU5tOA?oc=5",
+   "time": "2026-11-03T23:04:54+00:00",
+   "keywords": [
+    "strike",
+    "attack"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-11-04T02:22:56.188309+00:00"
+  },
+  {
+   "id": "tg:farsna/472387",
+   "kind": "tg",
+   "src": "farsna",
+   "text": "هشدار مجدد آمریکا به شهروندانش در عربستان سعودی\n\n🔹سفارت آمریکا در ریاض، دوباره دربارهٔ تشدید حملات یمن به فرودگاه‌های سعودی و احتمال بسته‌شدن حریم هوایی این کشور هشدار داد.\n\n🔹این سفارتخانه در بیانیه‌ای از شهروندان خود در عربستان خواست «هنگام استفاده از فرودگاه‌های سعودی احتیاط کامل را رعایت کنند.»\n@Farsna - Link",
+   "url": "https://t.me/farsna/472387",
+   "time": "2026-11-03T23:03:18+00:00",
+   "keywords": [
+    "حریم هوایی"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-11-04T02:22:56.188309+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMickFVX3lxTE1IblRyRTU5MENLaUtKekJ3Nm5FYlo3bmlyZzladHh5aW5QVlRoa3lVNHJ2YXo3MEh6WWhfdmIzeFgtQ3V0Z2hQT09LZDZCRHpNRWFUOHVEbUpSdUZNM0xxdkpCdDlSYXNoQ2Rpc0JPb2hjdw?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "ناقلة نفط تتعرض لهجوم مجهول في هرمز ومصر تطالب إيران بمرونة سياسية - يمن مونيتور — ناقلة نفط تتعرض لهجوم مجهول في هرمز ومصر تطالب إيران بمرونة سياسية  يمن مونيتور",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IblRyRTU5MENLaUtKekJ3Nm5FYlo3bmlyZzladHh5aW5QVlRoa3lVNHJ2YXo3MEh6WWhfdmIzeFgtQ3V0Z2hQT09LZDZCRHpNRWFUOHVEbUpSdUZNM0xxdkpCdDlSYXNoQ2Rpc0JPb2hjdw?oc=5",
+   "time": "2026-11-03T23:03:07+00:00",
+   "keywords": [
+    "هجوم"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-11-04T02:22:56.188309+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdi16TW9hVUZHMHJVdWVsT2JlMkZqS3Qyc2thRHpwNkdmUVZDeUV6T2RpaUpIUWsxdGZtc3I3ZF9WYUNVN0x4OGoxRThYSFhvMHZ6NmJ4cFhfalowc3RWTUpNcGFROHBHTEl1SWJaTWJoUnBjVjFraFlPUjZRRFdYeExheDByZmNPRWF5NlV1b1NDVHJGend4MVJZX3ZmMU5OeHVCM25GTEo5Zk04bGJYdGpLMWhzdENXel96aUtaZ1pBZW1EMzgySnV1c0JwTGREQ09rV1FDT3NoSGpoWDZYLWY1ZWNmLV9aWE5xS3dR?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "US has no immediate plan to strike Iran, Trump tells FT - Central Oregon Daily — US has no immediate plan to strike Iran, Trump tells FT  Central Oregon Daily",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdi16TW9hVUZHMHJVdWVsT2JlMkZqS3Qyc2thRHpwNkdmUVZDeUV6T2RpaUpIUWsxdGZtc3I3ZF9WYUNVN0x4OGoxRThYSFhvMHZ6NmJ4cFhfalowc3RWTUpNcGFROHBHTEl1SWJaTWJoUnBjVjFraFlPUjZRRFdYeExheDByZmNPRWF5NlV1b1NDVHJGend4MVJZX3ZmMU5OeHVCM25GTEo5Zk04bGJYdGpLMWhzdENXel96aUtaZ1pBZW1EMzgySnV1c0JwTGREQ09rV1FDT3NoSGpoWDZYLWY1ZWNmLV9aWE5xS3dR?oc=5",
+   "time": "2026-11-03T23:03:00+00:00",
+   "keywords": [
+    "strike"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-11-04T02:22:56.188309+00:00"
+  },
+  {
+   "id": "tg:IranintlTV/365273",
+   "kind": "tg",
+   "src": "iranintltv",
+   "text": "آمریکایی‌ها در انتخاباتی سرنوشت‌ساز پای صندوق‌های رای رفته‌اند؛ نتیجه‌ای که می‌تواند بر توازن قدرت در کنگره و محاسبات دونالد ترامپ درباره جنگ با جمهوری اسلامی تاثیر بگذارد. \n\nآیا ترامپ تصمیم درباره حمله احتمالی تازه به ایران را به پس از انتخابات موکول کرده و دموکرات‌ها در صورت کسب اکثریت کنگره تا چه اندازه می‌توانند بر تصمیم‌های نظامی او اثر بگذارند؟ \n\nگزارش رکسانا خیرکار، ایران‌اینترنشنال\n@iranintltv",
+   "url": "https://t.me/IranintlTV/365273",
+   "time": "2026-11-03T22:47:42+00:00",
+   "keywords": [
+    "حمله"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-11-04T02:22:56.188309+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMingFBVV95cUxNNi1QTUhmV1BaeU12cUE3TFJkVUlZMy1PYmVObDUwU0t5dDc1czRxUEE3LXM4ZUxvN19IRENPeDZWNVFJV0hlTDV0S1diQmQyMVdNRWktRnF5NlE3ZG5qUUlGMWFzX2MxYmN5LTgyRUJsU09reWktSzRDWF9kclZESFJCT1gySnF3b0NESHpoOWZqSGd4Qzh4bnhKLWVKZw?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "US Continues Strikes on Iran Despite Trump Claims That War Is Over - Truthout — US Continues Strikes on Iran Despite Trump Claims That War Is Over  Truthout",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNi1QTUhmV1BaeU12cUE3TFJkVUlZMy1PYmVObDUwU0t5dDc1czRxUEE3LXM4ZUxvN19IRENPeDZWNVFJV0hlTDV0S1diQmQyMVdNRWktRnF5NlE3ZG5qUUlGMWFzX2MxYmN5LTgyRUJsU09reWktSzRDWF9kclZESFJCT1gySnF3b0NESHpoOWZqSGd4Qzh4bnhKLWVKZw?oc=5",
+   "time": "2026-11-03T22:24:20+00:00",
+   "keywords": [
+    "strike"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-11-04T02:22:56.188309+00:00"
+  },
+  {
+   "id": "tg:shin_persian/11974",
+   "kind": "tg",
+   "src": "shin_persian",
+   "text": "Shin ✓  @hey_itsmyturn  01:36 Local time / 2206Z Missile launch from Bandar Kangan. Hormozgan Province, Iran  [Delayed Post via FromIran · 120-second delay] https://fromiran.sh1n.org/incidents/sc-x4cLMZL49P27CCQTX2oZs  ترجمه خودکار فارسی  ۰۱:۳۶ به وقت محلی…",
+   "url": "https://t.me/shin_persian/11974",
+   "time": "2026-11-03T22:22:41+00:00",
+   "keywords": [
+    "missile"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-11-04T02:22:56.188309+00:00"
+  },
+  {
+   "id": "tg:shin_persian/11973",
+   "kind": "tg",
+   "src": "shin_persian",
+   "text": "Shin ✓  @hey_itsmyturn\n\n01:36 Local time / 2206Z\nMissile launch from Bandar Kangan.\nHormozgan Province, Iran\n\n[Delayed Post via FromIran · 120-second delay]\nhttps://fromiran.sh1n.org/incidents/sc-x4cLMZL49P27CCQTX2oZs\n\nترجمه خودکار فارسی\n\n۰۱:۳۶ به وقت محلی / 2206Z (۰۱:۳۶ به وقت تهران)\nشلیک موشک از بندر کنگان.\nاستان هرمزگان، ایران\n\n[پست تأخیری از طریق FromIran · تأخیر ۱۲۰ ثانیه‌ای]\nhttps://fromiran.sh1n.org/incidents/sc-x4cLMZL49P27CCQTX2oZs\n\n𝕏  ·  @shin_persian",
+   "url": "https://t.me/shin_persian/11973",
+   "time": "2026-11-03T22:15:18+00:00",
+   "keywords": [
+    "missile",
+    "موشک"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-11-04T02:22:56.188309+00:00"
+  },
   {
    "id": "tg:shin_persian/11971",
    "kind": "tg",
@@ -70,6 +580,34 @@
    "emojis": [],
    "alert": true,
    "collected": "2026-11-03T22:10:45.045469+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRUp0cklVZXBIQV9QUTMwdDdHWjVVcEZHTEFnN1JOYmtHS3dSWXRDTE9MRXJzLVVHSTdmVzRiZVRiNFJ4TWZtNTRqeFFuM1JlcXYxcU1TYi16a04zMzR4bXJ1R0RTNVlpNnYxdTlFMkxoVnBRNC1ad2ZodElpVmtCVDNJdHZxMGNTQnBWaW9pZGVxZU1XTDlEbDZZYS1pS3haeUItYkhYSkJ1Yk1pa0Y2RmNyLTR1M1Q3YmJ3dk1UZGw?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "Jerusalem hospitals prepare shelters in parking lots ahead of possible Iran war - Türkiye Today — Jerusalem hospitals prepare shelters in parking lots ahead of possible Iran war  Türkiye Today",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRUp0cklVZXBIQV9QUTMwdDdHWjVVcEZHTEFnN1JOYmtHS3dSWXRDTE9MRXJzLVVHSTdmVzRiZVRiNFJ4TWZtNTRqeFFuM1JlcXYxcU1TYi16a04zMzR4bXJ1R0RTNVlpNnYxdTlFMkxoVnBRNC1ad2ZodElpVmtCVDNJdHZxMGNTQnBWaW9pZGVxZU1XTDlEbDZZYS1pS3haeUItYkhYSkJ1Yk1pa0Y2RmNyLTR1M1Q3YmJ3dk1UZGw?oc=5",
+   "time": "2026-11-03T21:38:51+00:00",
+   "keywords": [
+    "shelter"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-11-04T02:22:56.188309+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhQ2U0WVVTSUdRYnBQWGt6VDNuNHNvdXlZclJ0YldlcERFLWRIMEJ2QU55T2ZzQlhDS0hRNEoyVkdnTkwxM3I3YnJFSm5OVkVSUUE?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "Internet disruptions hit Iran amid prospect of renewed US strikes - Iran International — Internet disruptions hit Iran amid prospect of renewed US strikes  Iran International",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhQ2U0WVVTSUdRYnBQWGt6VDNuNHNvdXlZclJ0YldlcERFLWRIMEJ2QU55T2ZzQlhDS0hRNEoyVkdnTkwxM3I3YnJFSm5OVkVSUUE?oc=5",
+   "time": "2026-11-03T21:36:54+00:00",
+   "keywords": [
+    "strike"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-11-04T02:22:56.188309+00:00"
   },
   {
    "id": "tg:presstv/213355",
@@ -308,6 +846,20 @@
    "emojis": [],
    "alert": true,
    "collected": "2026-11-03T22:10:45.045469+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMickFVX3lxTE16THNQcUVfcDFWVldqT1hFeW9ZVVh0bmRkR3REM3MtT1lWdVRib2tNWjVBQ3VvYS04Sk9hVU14clA0a0pQMWtobi1QTGR4RzlMdWRvcGV1U3h5MEJ3SHNXNExQZzZOOVZEeXVLNk9JWFAtQQ?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "إسرائيل تحذر من هجوم كيميائي إيراني محتمل - دنيا الوطن — إسرائيل تحذر من هجوم كيميائي إيراني محتمل  دنيا الوطن",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE16THNQcUVfcDFWVldqT1hFeW9ZVVh0bmRkR3REM3MtT1lWdVRib2tNWjVBQ3VvYS04Sk9hVU14clA0a0pQMWtobi1QTGR4RzlMdWRvcGV1U3h5MEJ3SHNXNExQZzZOOVZEeXVLNk9JWFAtQQ?oc=5",
+   "time": "2026-11-03T19:36:13+00:00",
+   "keywords": [
+    "هجوم"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-11-04T02:22:56.188309+00:00"
   },
   {
    "id": "tg:ClashReport/104285",
@@ -1139,6 +1691,21 @@
    "emojis": [],
    "alert": true,
    "collected": "2026-11-03T16:51:01.946337+00:00"
+  },
+  {
+   "id": "rss:https://news.google.com/rss/articles/CBMiS0FVX3lxTE5zXzhzb0J1bm5HTjd4Tnd2VlF2aFVQVVQ4MkJzSDVtV3dwbnF5clM4QU5mX092S3J0SzJMMjJDbHFocV9kdkI1TmRnbw?oc=5",
+   "kind": "rss",
+   "src": "news.google.com",
+   "text": "ترامب: هجوم الأمس على إيران لم يكن حربا بل ضربة محدودة - Elsiyasa — ترامب: هجوم الأمس على إيران لم يكن حربا بل ضربة محدودة  Elsiyasa",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5zXzhzb0J1bm5HTjd4Tnd2VlF2aFVQVVQ4MkJzSDVtV3dwbnF5clM4QU5mX092S3J0SzJMMjJDbHFocV9kdkI1TmRnbw?oc=5",
+   "time": "2026-11-03T13:39:05+00:00",
+   "keywords": [
+    "هجوم",
+    "ضربة"
+   ],
+   "emojis": [],
+   "alert": true,
+   "collected": "2026-11-04T02:22:56.188309+00:00"
   },
   {
    "id": "rss:https://news.google.com/rss/articles/CBMifEFVX3lxTFByYWxOOTFFZUMzbGcySW83UDgyQ2ZjQ0VPYV9sVWQ1VW5JNlVYTENzcUpDcTBDS0QwWGpsNlJKd0toME1OQkU1Z2c3NkRFYWtHckxPbEF4cmNLWkV1Yy01aTRDN2ZSV2U3am1ZSDFPMzJrOXlyQVpoeEVGcUM?oc=5",
@@ -2261,571 +2828,6 @@
    "emojis": [],
    "alert": true,
    "collected": "2026-11-03T16:51:01.946337+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMiSkFVX3lxTFA3WWtnTWdOSXNudXRieHg0Q3hCU2VjV3RvWHZLdjhhYUpHaVIwMUlVTGhqWHp5OFRFOGtPNDBzWmo4d3R5NlJDZ0Fn?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "תקיפה בלב המפרץ הפרסי: ארצות הברית פעלה נגד איראן סמוך למצר הורמוז - חדשות 04 — תקיפה בלב המפרץ הפרסי: ארצות הברית פעלה נגד איראן סמוך למצר הורמוז  חדשות 04",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA3WWtnTWdOSXNudXRieHg0Q3hCU2VjV3RvWHZLdjhhYUpHaVIwMUlVTGhqWHp5OFRFOGtPNDBzWmo4d3R5NlJDZ0Fn?oc=5",
-   "time": "2026-11-03T04:02:20+00:00",
-   "keywords": [
-    "תקיפה",
-    "איראן"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-11-03T16:51:01.946337+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMimwFBVV95cUxNMTlPVzFwbHNpTFVfMExsV2RNTFk2MzNjUDl4NUR4aDJtR3YycXNmeHJzSkRvbEUtb0lFbHYyUmtwel9WSmp0UkJUX1lhSFcyNlNUVkFhaVhpMXAxbUo3ZEhjWGZjNWZjZm5JU3RDWXEtVUJKa0hGUnNKR1dBX0JjWHQxMFBLajktaUl4MUtzcVFfRjF5dW1jc1lXc9IBoAFBVV95cUxNTFptTUxBdFhsaVBMemlkWWpqME5fWWgzOVVtd01nU1JITFB0MVlIcm1GNlNFaGdTNjNxVU9rZTd4UVFjbjFrM3hDYXF6N2tPNHF2VEtTbTZrNTRhNnA3dGl2c2VkR0VNXzcxNEdsd1RrT19ydlpuUXIta0Y1M0pfWWh2UEpldkR4MkMwX1N2VXRWMGt5djU1d2p6WXhrSTZk?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "Could Trump Strike Iran After the Midterms? - Al Arabiya English — Could Trump Strike Iran After the Midterms?  Al Arabiya English",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMTlPVzFwbHNpTFVfMExsV2RNTFk2MzNjUDl4NUR4aDJtR3YycXNmeHJzSkRvbEUtb0lFbHYyUmtwel9WSmp0UkJUX1lhSFcyNlNUVkFhaVhpMXAxbUo3ZEhjWGZjNWZjZm5JU3RDWXEtVUJKa0hGUnNKR1dBX0JjWHQxMFBLajktaUl4MUtzcVFfRjF5dW1jc1lXc9IBoAFBVV95cUxNTFptTUxBdFhsaVBMemlkWWpqME5fWWgzOVVtd01nU1JITFB0MVlIcm1GNlNFaGdTNjNxVU9rZTd4UVFjbjFrM3hDYXF6N2tPNHF2VEtTbTZrNTRhNnA3dGl2c2VkR0VNXzcxNEdsd1RrT19ydlpuUXIta0Y1M0pfWWh2UEpldkR4MkMwX1N2VXRWMGt5djU1d2p6WXhrSTZk?oc=5",
-   "time": "2026-11-03T04:01:33+00:00",
-   "keywords": [
-    "strike"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-11-03T08:53:00.786185+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMirgFBVV95cUxPd2pqdWN2cTJ1RG0tU2s0a1Jsa2YzVkh0X3d4QWQzQjdvLTVDUXVyMmo3Q09rck9EaVhtUHN1RzRiQ1ZSOXBiWTJZdGprNXk3MFJ2VnY4aEFxRjdYMFZjT08waXNOd0ZEYzVUanRJZE5UeXpBdzRzVTk1TmZiM1piMHNHVVMwZjd1b0ZtSzduY19Yck9FczZ6aWtrMnl5dVlnVm53TGN4a1BTSmRkY2c?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "ההכרעה סביב איראן נמצאת על הציר בין טראמפ לקטאר, כשברקע התסבוכת בישראל - הארץ — ההכרעה סביב איראן נמצאת על הציר בין טראמפ לקטאר, כשברקע התסבוכת בישראל  הארץ",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPd2pqdWN2cTJ1RG0tU2s0a1Jsa2YzVkh0X3d4QWQzQjdvLTVDUXVyMmo3Q09rck9EaVhtUHN1RzRiQ1ZSOXBiWTJZdGprNXk3MFJ2VnY4aEFxRjdYMFZjT08waXNOd0ZEYzVUanRJZE5UeXpBdzRzVTk1TmZiM1piMHNHVVMwZjd1b0ZtSzduY19Yck9FczZ6aWtrMnl5dVlnVm53TGN4a1BTSmRkY2c?oc=5",
-   "time": "2026-11-03T04:00:00+00:00",
-   "keywords": [
-    "איראן"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-11-03T16:51:01.946337+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMijgFBVV95cUxOTmFFOGhpWHVzSEdLTVJ0Nnl6Z1JWS2ZnejFCcTJrck4zSXIzV2xPdy1PZ1h0ZkNCbWhTUFlIdzFwRHladmduOG5FWkZuSzhiOFhOUXNmR0dfY0UtdHNlQjBEenQ5RDBqLVFKeWVMNTBQdUgyeW5aRkVKekRoWVlnaU82Znh5TmNqdDh5N2ZR?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "U.S. Military Strikes Iran’s Qeshm Island in What U.S. Officials Call a Defensive Measure - The New York Times — U.S. Military Strikes Iran’s Qeshm Island in What U.S. Officials Call a Defensive Measure  The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTmFFOGhpWHVzSEdLTVJ0Nnl6Z1JWS2ZnejFCcTJrck4zSXIzV2xPdy1PZ1h0ZkNCbWhTUFlIdzFwRHladmduOG5FWkZuSzhiOFhOUXNmR0dfY0UtdHNlQjBEenQ5RDBqLVFKeWVMNTBQdUgyeW5aRkVKekRoWVlnaU82Znh5TmNqdDh5N2ZR?oc=5",
-   "time": "2026-11-03T03:55:42+00:00",
-   "keywords": [
-    "strike"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-11-03T08:53:00.786185+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMingRBVV95cUxQaExHQ0xWSVhGemRVRUZ4Q3JHVHJjdkgxdlc0eFRJaXJkQ08tZ0RnVjhaV0p6QXQtWGVxNG9yc0NsV3lPcVZtdVdDMXlCSTlYSTJWTXE3dE9XY1h0X3AzcDVWSzROaXY0RlNLVzJ6RXBpanpFUTVuZEFGbk9lVWF4bFFORncxMlloWXlWelBxNHd5VFdoRjNQR2I3NUZLMmI5OEFQN3VEUDBZaEtQcl9FRUY0RWNMQmVRdVZ1ZmhiRkZ1QXRJN21CRzMzdGs4bnZEVmx1YmZyUFpscnJOZWk3VDAyM21fRlRHZG1YR0VLVkpNbjc2UTFraW5tVzZaQk80TF9TMnFPY3dGdXRNODEwMVpLVkI2UHRqMjUyZHRUREp6SnItUy1QNzRBOWJSTHNHZHhoMHozNDluYnpsMk1SUjdlYXQ4ZTRTSmdLSGtGdV9SeHBCeG9yOVBtYktYdkhWWDVRUFVLTFVYNlA0ZFh1MEF1ZTFMZ0s0dk9kTGZfSlJrQ3FuZ3ExcTRQc0dVUW9DQnVXUUpKSjRBcVNiZkY4WmdoVjNwZDkyRjRhdjh1cXlqckZYcHk2Wkc4c0l6MkdzWkxMTEMwSUEzN19HVEdURXJ4MjdIMjQ0bTI5anZ6RG5Rc3drVExPMzU2blFuYVRlVWhZbFNLdkpZcTVkajRtSGNNZEY1eGxrNWJvdlVheDFjZHhkNU5EMmVEelJrUQ?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "أسعار النفط ترتفع بعد أنباء عن هجوم أمريكي على جزيرة قشم الإيرانية - IDNFinancials — أسعار النفط ترتفع بعد أنباء عن هجوم أمريكي على جزيرة قشم الإيرانية  IDNFinancials",
-   "url": "https://news.google.com/rss/articles/CBMingRBVV95cUxQaExHQ0xWSVhGemRVRUZ4Q3JHVHJjdkgxdlc0eFRJaXJkQ08tZ0RnVjhaV0p6QXQtWGVxNG9yc0NsV3lPcVZtdVdDMXlCSTlYSTJWTXE3dE9XY1h0X3AzcDVWSzROaXY0RlNLVzJ6RXBpanpFUTVuZEFGbk9lVWF4bFFORncxMlloWXlWelBxNHd5VFdoRjNQR2I3NUZLMmI5OEFQN3VEUDBZaEtQcl9FRUY0RWNMQmVRdVZ1ZmhiRkZ1QXRJN21CRzMzdGs4bnZEVmx1YmZyUFpscnJOZWk3VDAyM21fRlRHZG1YR0VLVkpNbjc2UTFraW5tVzZaQk80TF9TMnFPY3dGdXRNODEwMVpLVkI2UHRqMjUyZHRUREp6SnItUy1QNzRBOWJSTHNHZHhoMHozNDluYnpsMk1SUjdlYXQ4ZTRTSmdLSGtGdV9SeHBCeG9yOVBtYktYdkhWWDVRUFVLTFVYNlA0ZFh1MEF1ZTFMZ0s0dk9kTGZfSlJrQ3FuZ3ExcTRQc0dVUW9DQnVXUUpKSjRBcVNiZkY4WmdoVjNwZDkyRjRhdjh1cXlqckZYcHk2Wkc4c0l6MkdzWkxMTEMwSUEzN19HVEdURXJ4MjdIMjQ0bTI5anZ6RG5Rc3drVExPMzU2blFuYVRlVWhZbFNLdkpZcTVkajRtSGNNZEY1eGxrNWJvdlVheDFjZHhkNU5EMmVEelJrUQ?oc=5",
-   "time": "2026-11-03T03:40:00+00:00",
-   "keywords": [
-    "هجوم"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-11-03T16:51:01.946337+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxYlJRM3p5MDBuWjZfNk8xTVR0ejJyRzg5ZS01M0JIX2w2ZzktZERNZ2NMY0ROTGpRR19aNEEyZWxfNzljR3FZN185d01DRFExa3Q4WTdrZU1CeEk?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "US launches strikes on Iranian island ahead of election - BBC — US launches strikes on Iranian island ahead of election  BBC",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxYlJRM3p5MDBuWjZfNk8xTVR0ejJyRzg5ZS01M0JIX2w2ZzktZERNZ2NMY0ROTGpRR19aNEEyZWxfNzljR3FZN185d01DRFExa3Q4WTdrZU1CeEk?oc=5",
-   "time": "2026-11-03T03:39:08+00:00",
-   "keywords": [
-    "strike"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-11-03T08:53:00.786185+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMiXkFVX3lxTE4waUR1TkF1NDVYRHQ1dy0xSFNjMVhqeWxhSW1zZ1NLaUNaN251YTdqeHpxSDVaMGVVMDI3SmRfTFlMT1BzX0o3bFhhWS1MTzdlWVZJTGc4M2tVSnl6QWc?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "US strikes Iranian island ahead of midterm elections - BBC — US strikes Iranian island ahead of midterm elections  BBC",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4waUR1TkF1NDVYRHQ1dy0xSFNjMVhqeWxhSW1zZ1NLaUNaN251YTdqeHpxSDVaMGVVMDI3SmRfTFlMT1BzX0o3bFhhWS1MTzdlWVZJTGc4M2tVSnl6QWc?oc=5",
-   "time": "2026-11-03T03:39:08+00:00",
-   "keywords": [
-    "strike"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-11-03T16:51:01.946337+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMigAFBVV95cUxOd3daWnVFR1JkRnZ1NTVRbEE5Vk15QTVMR2p1WXJSRXh5TEFpc0FFV1JBdWJhNWVvWnEtNmQ0UGF6c3g0YW1zMmpnYVdLSXVBVEJDc25odUEtS25LeDB5VUE0aGlQenlweXhoUmVPMkRENFpTWm5hZFlISzUtMHBJLQ?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "US reportedly strikes Iran’s Qeshm Island as Vance voices optimism about a deal - The Guardian — US reportedly strikes Iran’s Qeshm Island as Vance voices optimism about a deal  The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd3daWnVFR1JkRnZ1NTVRbEE5Vk15QTVMR2p1WXJSRXh5TEFpc0FFV1JBdWJhNWVvWnEtNmQ0UGF6c3g0YW1zMmpnYVdLSXVBVEJDc25odUEtS25LeDB5VUE0aGlQenlweXhoUmVPMkRENFpTWm5hZFlISzUtMHBJLQ?oc=5",
-   "time": "2026-11-03T03:18:00+00:00",
-   "keywords": [
-    "strike"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-11-03T08:53:00.786185+00:00"
-  },
-  {
-   "id": "tg:bbcpersian/294565",
-   "kind": "tg",
-   "src": "bbcpersian",
-   "text": "‌ ساعتی پس از مخابره گزارش‌هایی مبنی بر صدای انفجار در بخشی از جزیره قشم، رسانه‌های آمریکایی گزارش کردند که ارتش آمریکا دوشنبه شب طی «حملاتی محدود» نقاطی را در جزیره قشم هدف قرار داده است.  وال استریت ژورنال نوشته است: «مقام‌های آمریکایی اعلام کردند که ایالات…",
-   "url": "https://t.me/bbcpersian/294565",
-   "time": "2026-11-03T03:13:41+00:00",
-   "keywords": [
-    "انفجار"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-11-03T08:53:00.786185+00:00"
-  },
-  {
-   "id": "tg:bbcpersian/294564",
-   "kind": "tg",
-   "src": "bbcpersian",
-   "text": "‌\nساعتی پس از مخابره گزارش‌هایی مبنی بر صدای انفجار در بخشی از جزیره قشم، رسانه‌های آمریکایی گزارش کردند که ارتش آمریکا دوشنبه شب طی «حملاتی محدود» نقاطی را در جزیره قشم هدف قرار داده است.\n\nوال استریت ژورنال نوشته است: «مقام‌های آمریکایی اعلام کردند که ایالات متحده روز دوشنبه جزیره قشم ایران را هدف حمله قرار داده است.»\n\nفاکس‌نیوز نوشته است که مقام‌ها تایید کردند که آمریکا پس از شلیک ایران به سوی یک هواپیمای آمریکایی، جزیره قشم در تنگه هرمز را هدف حمله قرار داده است.\n\nبر اساس این گزارش یک مقام ارشد آمریکایی این حمله را «دفاعی» توصیف کرد و گفت این اقدام به معنای ازسرگیری حملات نظامی آمریکا علیه ",
-   "url": "https://t.me/bbcpersian/294564",
-   "time": "2026-11-03T03:12:10+00:00",
-   "keywords": [
-    "حمله",
-    "انفجار"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-11-03T08:53:00.786185+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZk5ET1RXWVo0YzE0MzJvS3JrMnBtRUhwWExzdHB5eFhfZkZQSmlaUnFTcFRNbWtVOXc5S0FseGVXbGJqR0o3TlRFVjNRaUxyNWlfemczOTBjUktzMnlLZXpkWmxuU2FHajNjSnFwRjJ2ZW5TSE45ODU5NEQ2YWk0bHlRb0lUeUxremNLdjVONmhXU2xEbFZ4NnJTTEc4YjFQazU1OXFONE5xQ0MtNjRzQ2xlVWxSQ3lkbEJXeVlCTzZ6Rmtuc3Fyc3lsekN0WDhEWm5NeGl3?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "US official: Strike on Qeshm targeted 'Iranians using surface to air missiles against US assets' - The Times of Israel — US official: Strike on Qeshm targeted 'Iranians using surface to air missiles against US assets'  The Times of Israel",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZk5ET1RXWVo0YzE0MzJvS3JrMnBtRUhwWExzdHB5eFhfZkZQSmlaUnFTcFRNbWtVOXc5S0FseGVXbGJqR0o3TlRFVjNRaUxyNWlfemczOTBjUktzMnlLZXpkWmxuU2FHajNjSnFwRjJ2ZW5TSE45ODU5NEQ2YWk0bHlRb0lUeUxremNLdjVONmhXU2xEbFZ4NnJTTEc4YjFQazU1OXFONE5xQ0MtNjRzQ2xlVWxSQ3lkbEJXeVlCTzZ6Rmtuc3Fyc3lsekN0WDhEWm5NeGl3?oc=5",
-   "time": "2026-11-03T03:03:04+00:00",
-   "keywords": [
-    "strike",
-    "missile"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-11-03T08:53:00.786185+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TeXlqY01ONURoNE53TFo3aGpqX3lyTE5yeTUxcUpoUGoyMEVPa0dvZ2wwVkFaNy16R1kxRTFWUXltOEVPUjJBR2pNS2dFQmNjZ3c3UXJ5RUhHRGsyTEMxb1FJOGM?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "U.S. launches defensive strikes at Iranian targets near Strait of Hormuz - CBS News — U.S. launches defensive strikes at Iranian targets near Strait of Hormuz  CBS News",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TeXlqY01ONURoNE53TFo3aGpqX3lyTE5yeTUxcUpoUGoyMEVPa0dvZ2wwVkFaNy16R1kxRTFWUXltOEVPUjJBR2pNS2dFQmNjZ3c3UXJ5RUhHRGsyTEMxb1FJOGM?oc=5",
-   "time": "2026-11-03T02:52:00+00:00",
-   "keywords": [
-    "strike"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-11-03T08:53:00.786185+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMibkFVX3lxTE52eXNsdHd3enB6MzVNTTJaUjQ3VDBVd3ZFZHhDak1ITGtPZ2ZZV3BZTnMzdmZiVHA4NXpiVUJWaWp2ZHJmRXR4VlVBV1N1N01DMU5wQ1pPbS00Mk5IMF9MTG5oQ3h5TmlueEo0RUF3?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "בכיר איראני לאחר התקיפה האמריקנית: \"אנחנו רחוקים מהסכם\" - כאן 11 — בכיר איראני לאחר התקיפה האמריקנית: \"אנחנו רחוקים מהסכם\"  כאן 11",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52eXNsdHd3enB6MzVNTTJaUjQ3VDBVd3ZFZHhDak1ITGtPZ2ZZV3BZTnMzdmZiVHA4NXpiVUJWaWp2ZHJmRXR4VlVBV1N1N01DMU5wQ1pPbS00Mk5IMF9MTG5oQ3h5TmlueEo0RUF3?oc=5",
-   "time": "2026-11-03T02:45:20+00:00",
-   "keywords": [
-    "תקיפה"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-11-03T08:53:00.786185+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMi0gFBVV95cUxNck05MDlMdXNocHNwU0lWZVNrSjlCNzFUR245NHp1TmFPQllrTlhJVUVZWGNTNnpnRF9tOHg4WlZXZVMtT2RmOHpXOUVRRngwb3FuWS0zbkVqRS1keUZUdmFEbE5nLUdOdUY3VUdvVVlZdVE0YkVPMG9uUXVfTlFtb29wTEs4ZkZMb2oxOExlQ3A1SjdqRGEwaGU4R2VWR2YwX1hET1I1LUFpTDRYV0FWd3g3MUhGcTBZWjBBOTVvTE5salNlOWtnQnpqaGNaT3dmRUHSAdgBQVVfeXFMT3MydUtvVnpya0hIUy1VQ0pJeFZRQWNoWVk0b24wQjZUSDBZOGNJSFRHZGZTUl9hbzhfLWxDV1JXd2RRb0hBOGFFalFhdmpLZ0tCcmdUSE1oekRVdFBybjFhVE9hRjFMZEtRcTdJTE1xYVBHZE9VcEtDc3NVNWJmWWtEdFJPTTZraXM5RkMtTVRoUmJPczZrOGZ4QTlaX21weEZOSVpKM2toQ2VDSXRSbmdTT052ZWx4dzVYSjRITE8zS3MyRjBIbkd0RUtCdjB2d0VhSnZnX3Nl?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "U.S. has conducted defensive strikes on some Iranian targets in Strait of Hormuz: official ahead of midterm elections - The Hindu — U.S. has conducted defensive strikes on some Iranian targets in Strait of Hormuz: official ahead of midterm elections  The Hindu",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNck05MDlMdXNocHNwU0lWZVNrSjlCNzFUR245NHp1TmFPQllrTlhJVUVZWGNTNnpnRF9tOHg4WlZXZVMtT2RmOHpXOUVRRngwb3FuWS0zbkVqRS1keUZUdmFEbE5nLUdOdUY3VUdvVVlZdVE0YkVPMG9uUXVfTlFtb29wTEs4ZkZMb2oxOExlQ3A1SjdqRGEwaGU4R2VWR2YwX1hET1I1LUFpTDRYV0FWd3g3MUhGcTBZWjBBOTVvTE5salNlOWtnQnpqaGNaT3dmRUHSAdgBQVVfeXFMT3MydUtvVnpya0hIUy1VQ0pJeFZRQWNoWVk0b24wQjZUSDBZOGNJSFRHZGZTUl9hbzhfLWxDV1JXd2RRb0hBOGFFalFhdmpLZ0tCcmdUSE1oekRVdFBybjFhVE9hRjFMZEtRcTdJTE1xYVBHZE9VcEtDc3NVNWJmWWtEdFJPTTZraXM5RkMtTVRoUmJPczZrOGZ4QTlaX21weEZOSVpKM2toQ2VDSXRSbmdTT052ZWx4dzVYSjRITE8zS3MyRjBIbkd0RUtCdjB2d0VhSnZnX3Nl?oc=5",
-   "time": "2026-11-03T02:44:37+00:00",
-   "keywords": [
-    "strike"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-11-03T08:53:00.786185+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbmVhWVpoUFY5Q2J4OGY3SlRPdnpxbFhHaWlOT2V6NUdXaXl0SjVQWnNMVXdIQV9KaFdfY3dOMFpqRFF5VzF6WWh4dnNERlJidUVhbEliWmt6ZVhuUThYN1pac2NHWTR4MnE2Q2JPLWVJVkFzckZucFNMRWFHQ3RkU1JwdTBGM1B0X0dEckpoRHFzSG5Mb0V1MkF1M2hHSW1obXZuSGhGQ0dodEk?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "Exclusive | U.S. Strikes Iran’s Qeshm Island as Trump Talks Down War Risks - WSJ — Exclusive | U.S. Strikes Iran’s Qeshm Island as Trump Talks Down War Risks  WSJ",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbmVhWVpoUFY5Q2J4OGY3SlRPdnpxbFhHaWlOT2V6NUdXaXl0SjVQWnNMVXdIQV9KaFdfY3dOMFpqRFF5VzF6WWh4dnNERlJidUVhbEliWmt6ZVhuUThYN1pac2NHWTR4MnE2Q2JPLWVJVkFzckZucFNMRWFHQ3RkU1JwdTBGM1B0X0dEckpoRHFzSG5Mb0V1MkF1M2hHSW1obXZuSGhGQ0dodEk?oc=5",
-   "time": "2026-11-03T02:38:00+00:00",
-   "keywords": [
-    "strike"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-11-03T08:53:00.786185+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMimgFBVV95cUxOSlZQOGFnNWxyTG91ZkxGMkdDdlNhd1RuRUZzblYtZGxfOGpReXI2cE5oazAzZkFQRW96Y3VrUkdfenVFWWtPS1BfaFBYYWQ1WVBMVmpuaTZuU3llOGZNMF85QnVGRHAwZlphVWVoaDFiZWhoMWVjalhyTE5na3BVWjVHcmIyWDFoU0FnU2ZBaFZyOE5GRGJqQzdR?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "US has conducted defensive strikes on Iranian targets in the Strait of Hormuz, US official says - AP News — US has conducted defensive strikes on Iranian targets in the Strait of Hormuz, US official says  AP News",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSlZQOGFnNWxyTG91ZkxGMkdDdlNhd1RuRUZzblYtZGxfOGpReXI2cE5oazAzZkFQRW96Y3VrUkdfenVFWWtPS1BfaFBYYWQ1WVBMVmpuaTZuU3llOGZNMF85QnVGRHAwZlphVWVoaDFiZWhoMWVjalhyTE5na3BVWjVHcmIyWDFoU0FnU2ZBaFZyOE5GRGJqQzdR?oc=5",
-   "time": "2026-11-03T02:38:00+00:00",
-   "keywords": [
-    "strike"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-11-03T22:10:45.045469+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMibEFVX3lxTE1SNWcxQ1NEd2NSTHdVbzA0MXRmTld1R25FaFB3clYzVmFwbWtlaW43aHg2MVZHUkJ5RnFSdzNaQm9DWjFEZGw4YnhzV0pxdGljc09pWFJZTWxjSFl0WFRpU2ZRa3pCcUNJc1RWZQ?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "דיווח: ארה\"ב תקפה באיראן - מקור ראשון — דיווח: ארה\"ב תקפה באיראן  מקור ראשון",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SNWcxQ1NEd2NSTHdVbzA0MXRmTld1R25FaFB3clYzVmFwbWtlaW43aHg2MVZHUkJ5RnFSdzNaQm9DWjFEZGw4YnhzV0pxdGljc09pWFJZTWxjSFl0WFRpU2ZRa3pCcUNJc1RWZQ?oc=5",
-   "time": "2026-11-03T02:29:36+00:00",
-   "keywords": [
-    "איראן"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-11-03T16:51:01.946337+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMUpUZzF6VUZTZ0dHb3FleEtHb054X1dwalpod2gxZ3pJdmo2U3U1SV9PbENhRW1RNjRwUUpqS0VVWEdqcjBnbE9KeFktWHdlR3YzMEdqYVczV0xHZEMxb096ZW4yMGJ5aHkwdHNUR2M2cm02U3pJYU9hdE1VV0ZpRDZRZi1ETnYwLXVpWFpRcHMzTklzRWxaWWNnNjk1c0hZNzVlX1U0YTFxd2lodmRIUjRubnhhNUZ1WGZwOVl0aWdLcWE1d2pkVS1fclRUelFj0gHXAUFVX3lxTE9PczBqeVlxOE1yY2V4bEdsejJfUU4zVXo1bkdwbk93M0JZQTltUkNweHdDU3dsMlg1X1NIcWZGc0VUZFR3aU9aZFRPWXhySHF5NzVtcGlUVkREcWptMVBTekM1U25BeUp6eUpyd2tUM25jc09ZQnVxYXlkcUJsaktDVTNySjJMVTdNV2dMMlpRZEk0cDZLMlZwRjZ4TzUyN3JVbVkxVjBJZHJmUTBhODg4ZUhnVDU3NGJCQm4zZ1A4X2VrMDlMNjh3d0V1bndmUFJsX0ZiWDZV?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "US strikes Iran’s Qeshm Island as Trump says deal is coming together - The Indian Express — US strikes Iran’s Qeshm Island as Trump says deal is coming together  The Indian Express",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMUpUZzF6VUZTZ0dHb3FleEtHb054X1dwalpod2gxZ3pJdmo2U3U1SV9PbENhRW1RNjRwUUpqS0VVWEdqcjBnbE9KeFktWHdlR3YzMEdqYVczV0xHZEMxb096ZW4yMGJ5aHkwdHNUR2M2cm02U3pJYU9hdE1VV0ZpRDZRZi1ETnYwLXVpWFpRcHMzTklzRWxaWWNnNjk1c0hZNzVlX1U0YTFxd2lodmRIUjRubnhhNUZ1WGZwOVl0aWdLcWE1d2pkVS1fclRUelFj0gHXAUFVX3lxTE9PczBqeVlxOE1yY2V4bEdsejJfUU4zVXo1bkdwbk93M0JZQTltUkNweHdDU3dsMlg1X1NIcWZGc0VUZFR3aU9aZFRPWXhySHF5NzVtcGlUVkREcWptMVBTekM1U25BeUp6eUpyd2tUM25jc09ZQnVxYXlkcUJsaktDVTNySjJMVTdNV2dMMlpRZEk0cDZLMlZwRjZ4TzUyN3JVbVkxVjBJZHJmUTBhODg4ZUhnVDU3NGJCQm4zZ1A4X2VrMDlMNjh3d0V1bndmUFJsX0ZiWDZV?oc=5",
-   "time": "2026-11-03T02:26:14+00:00",
-   "keywords": [
-    "strike"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-11-03T16:51:01.946337+00:00"
-  },
-  {
-   "id": "rss:https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz?traffic_source=rss",
-   "kind": "rss",
-   "src": "www.aljazeera.com",
-   "text": "Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz — Several explosions heard on Qeshm Island and in Bandar Lengeh as US media report US military strikes in Hormuz.",
-   "url": "https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz?traffic_source=rss",
-   "time": "2026-11-03T02:25:02+00:00",
-   "keywords": [
-    "strike"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-11-03T08:53:00.786185+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mREgydGo2ektZYjF2YVpFeWV0dURVTG15b1pxX3JlNUxkYVQ5VVNkVk54anNvME9iVHVxdTNPelE4TVFKMk9uRTh4ckYyVUU5LUdMZFNn?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "US launches 'defensive' strike on Iran after aircraft comes under fire, officials say - Ynetnews — US launches 'defensive' strike on Iran after aircraft comes under fire, officials say  Ynetnews",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mREgydGo2ektZYjF2YVpFeWV0dURVTG15b1pxX3JlNUxkYVQ5VVNkVk54anNvME9iVHVxdTNPelE4TVFKMk9uRTh4ckYyVUU5LUdMZFNn?oc=5",
-   "time": "2026-11-03T02:21:34+00:00",
-   "keywords": [
-    "strike"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-11-03T08:53:00.786185+00:00"
-  },
-  {
-   "id": "tg:bbcpersian/294563",
-   "kind": "tg",
-   "src": "bbcpersian",
-   "text": "حسن حبیبی، فوتبالیست سرشناس ایران در ۸۶ سالگی در بیمارستانی در تهران درگذشت.\n\nحسن حبیبی متولد ۱۳۱۸ در شهر کرمان بود. او کاپیتان تیم ملی ایران در جام ملت‌های آسیا در سال ۱۹۶۸ /۱۳۴۷ بود که طی آن ایران در تهران قهرمان آسیا شد.\n\nحسن حبیبی سابقه بازی در تیم‌های شاهین، تاج (استقلال) و پاس تهران را داشت و در سال ۱۳۴۸ به عنوان مرد سال فوتبال ایران انتخاب شد.\n\nاو پس از خداحافظی با فوتبال، وارد عرصه مربیگری شد و تحت سرمربیگری او تیم پاس تهران دو بار قهرمان جام تخت جمشید شد.\n\nحسن حبیبی نخستین سرمربی رسمی تیم ملی پس از انقلاب ۵۷ بود و تیم ملی فوتبال ایران را به المپیک ۱۹۸۰ مسکو رساند، هرچند که جمهوری اسلا",
-   "url": "https://t.me/bbcpersian/294563",
-   "time": "2026-11-03T02:13:26+00:00",
-   "keywords": [
-    "حمله"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-11-03T08:53:00.786185+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeUhiN1hZWE5IV1RnLUU2REViakoxWGVJb0pWNWRkQUtSWGtDMFdXYV82QTNMYWdiekNBdE5oeE9vRUdkTVI5eGVoaG1jeWJHd1cxNjUzejc1VkdFVTFYT2R1Yk93VzI1Z1Zpa3BDZENjbm11dmgyNFJTNEl4SjhVVUZXYko3UGxZR09zODd3eXRYTzZ4dGU4eERzWUtBZ0JhYkRVZzRqaFU2NlR2Mnd5Q2xNUDFkSldzZVE4OFRseGd2RUt6eEtLb2dEZy1LYmZjT0FQZVppVE93SFZF?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "US has conducted defensive strikes on some Iranian targets in the Strait of Hormuz, US official says - Scripps News — US has conducted defensive strikes on some Iranian targets in the Strait of Hormuz, US official says  Scripps News",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeUhiN1hZWE5IV1RnLUU2REViakoxWGVJb0pWNWRkQUtSWGtDMFdXYV82QTNMYWdiekNBdE5oeE9vRUdkTVI5eGVoaG1jeWJHd1cxNjUzejc1VkdFVTFYT2R1Yk93VzI1Z1Zpa3BDZENjbm11dmgyNFJTNEl4SjhVVUZXYko3UGxZR09zODd3eXRYTzZ4dGU4eERzWUtBZ0JhYkRVZzRqaFU2NlR2Mnd5Q2xNUDFkSldzZVE4OFRseGd2RUt6eEtLb2dEZy1LYmZjT0FQZVppVE93SFZF?oc=5",
-   "time": "2026-11-03T02:08:32+00:00",
-   "keywords": [
-    "strike"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-11-03T08:53:00.786185+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMipwFBVV95cUxPWXc4dk1wb1pZMFB2Q3BOR2VCQlB3VGJJcmNfUktFakVqNWJnejNObXYyXy12TzJvZThRTDQ2d2JwSUE2c0E4TTRiZkgxTFQ3YVF2clYwS2VxS1F1aDhqRU9PZE9rYjRaeFRJM04tOEpDNWRmTE1Ib0NqUGVyS3c4aVNpV3REZlhkVnlTcWdJaHFxeHpvVGt6QjVrVnRWYjhobGdVQVVMMA?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "What is behind the reported US strike on Iran’s Qeshm Island in the Strait of Hormuz? - Latest news from Azerbaijan — What is behind the reported US strike on Iran’s Qeshm Island in the Strait of Hormuz?  Latest news from Azerbaijan",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWXc4dk1wb1pZMFB2Q3BOR2VCQlB3VGJJcmNfUktFakVqNWJnejNObXYyXy12TzJvZThRTDQ2d2JwSUE2c0E4TTRiZkgxTFQ3YVF2clYwS2VxS1F1aDhqRU9PZE9rYjRaeFRJM04tOEpDNWRmTE1Ib0NqUGVyS3c4aVNpV3REZlhkVnlTcWdJaHFxeHpvVGt6QjVrVnRWYjhobGdVQVVMMA?oc=5",
-   "time": "2026-11-03T01:58:29+00:00",
-   "keywords": [
-    "strike"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-11-03T08:53:00.786185+00:00"
-  },
-  {
-   "id": "tg:warmonitors/46460",
-   "kind": "tg",
-   "src": "warmonitors",
-   "text": "⚡#BREAKING WASHINGTON (AP) — US has conducted “defensive strikes” on some Iranian targets in the Strait of Hormuz, US official says.\n\n💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18",
-   "url": "https://t.me/warmonitors/46460",
-   "time": "2026-11-03T01:56:17+00:00",
-   "keywords": [
-    "strike"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-11-03T08:53:00.786185+00:00"
-  },
-  {
-   "id": "tg:warmonitors/46461",
-   "kind": "tg",
-   "src": "warmonitors",
-   "text": "⚡Senior American official: A US military fighter jet carried out a self-defense strike and destroyed a surface-to-air missile launcher on Qeshm Island after the Revolutionary Guards launched an anti-aircraft missile from it.\n\n💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom +18",
-   "url": "https://t.me/warmonitors/46461",
-   "time": "2026-11-03T01:56:17+00:00",
-   "keywords": [
-    "strike",
-    "missile"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-11-03T08:53:00.786185+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMisAFBVV95cUxNWXd6RWdWWUhPTGxXc19fSnVQeWtXTnlqSWNoZThqaVBKNDJldHVWRERMTXB3eTgwMDlFT194cUF1eWQ5RVliS3d6blRXYTh0QlB4M3VLVXlKV2tTbWtCeHFuRDFxeWR3MUZZQW5pRklvWTRPQTloUXdrMDNDcFhJWWhSQl9OTVdIUWMxX0hIbVpxQklpSFQ2a3BSWk1HTmlFc3hGM1FqOGpuOHFPakwtYw?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "US has conducted defensive strikes on some Iranian targets in the Strait of Hormuz, US official says - Audacy — US has conducted defensive strikes on some Iranian targets in the Strait of Hormuz, US official says  Audacy",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWXd6RWdWWUhPTGxXc19fSnVQeWtXTnlqSWNoZThqaVBKNDJldHVWRERMTXB3eTgwMDlFT194cUF1eWQ5RVliS3d6blRXYTh0QlB4M3VLVXlKV2tTbWtCeHFuRDFxeWR3MUZZQW5pRklvWTRPQTloUXdrMDNDcFhJWWhSQl9OTVdIUWMxX0hIbVpxQklpSFQ2a3BSWk1HTmlFc3hGM1FqOGpuOHFPakwtYw?oc=5",
-   "time": "2026-11-03T01:49:00+00:00",
-   "keywords": [
-    "strike"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-11-03T08:53:00.786185+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMimgFBVV95cUxNMXFvdGNDcnl6amhxTGFkZHVydFotVURTN0NfR0NnSVVMOWpPYkNEdGJ5dTJHWGhyRENCdDJpTWtieHhFOEl2alMtc2RCeU91Z0ZFd2x0S0lUcDlQVlpZTGtzcjZfaThkZi1YamNsM3BnRnowdFVHOUVFQVBsM3RqSHJFYXBHTVl4RFdXYUpXYXdUQ0QxLS15QnZB0gGfAUFVX3lxTE9XQzl1bndPWE1Vcl80ZHZybk91Mjl2RjVQR1JRNXEyUFhsWkxmRFNrNmt2ZGRlTmY0Qi1FaU5SQlRBdHhVY0FjTTBELXFrRGdyWHhsT1paR1FsVVR4Y0p3UkJiRDRVYVlGcFNZT1ZHemlhLXI4d1Y2bEVtMTc2SzNQZVlTdE5meUlOSFdsWVlWcndjLXBvM3FsQ1hVQi1SWQ?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "Oil rises after report of US strike on Iran's Qeshm Island - CNBC — Oil rises after report of US strike on Iran's Qeshm Island  CNBC",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMXFvdGNDcnl6amhxTGFkZHVydFotVURTN0NfR0NnSVVMOWpPYkNEdGJ5dTJHWGhyRENCdDJpTWtieHhFOEl2alMtc2RCeU91Z0ZFd2x0S0lUcDlQVlpZTGtzcjZfaThkZi1YamNsM3BnRnowdFVHOUVFQVBsM3RqSHJFYXBHTVl4RFdXYUpXYXdUQ0QxLS15QnZB0gGfAUFVX3lxTE9XQzl1bndPWE1Vcl80ZHZybk91Mjl2RjVQR1JRNXEyUFhsWkxmRFNrNmt2ZGRlTmY0Qi1FaU5SQlRBdHhVY0FjTTBELXFrRGdyWHhsT1paR1FsVVR4Y0p3UkJiRDRVYVlGcFNZT1ZHemlhLXI4d1Y2bEVtMTc2SzNQZVlTdE5meUlOSFdsWVlWcndjLXBvM3FsQ1hVQi1SWQ?oc=5",
-   "time": "2026-11-03T01:47:00+00:00",
-   "keywords": [
-    "strike"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-11-03T08:53:00.786185+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMisgFBVV95cUxNdGs4NGUzZVl6eDMzT0FDUnZYVlZKMXJKM2k0a3l1b2l5Q2dmbDZsRnh4TlBLVEVBZ1JvalE0T1RsREdoT0RNd2JHQmp4Qmg1cUVfZmNNUTU4LXgtNm9lNExGZnU0R3ROQndPVjQ2U1dkUjBhM3J6UU5PTUExbmNUZ3N1cXVHMVBuVGxxanVOd0ZHVWluMzRManlwVHROMGY3cHhDN1JCWXFESFFKLUppQjF3?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "Oil rises after reported U.S. strike on Iran’s Qeshm Island - Investing.com — Oil rises after reported U.S. strike on Iran’s Qeshm Island  Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdGs4NGUzZVl6eDMzT0FDUnZYVlZKMXJKM2k0a3l1b2l5Q2dmbDZsRnh4TlBLVEVBZ1JvalE0T1RsREdoT0RNd2JHQmp4Qmg1cUVfZmNNUTU4LXgtNm9lNExGZnU0R3ROQndPVjQ2U1dkUjBhM3J6UU5PTUExbmNUZ3N1cXVHMVBuVGxxanVOd0ZHVWluMzRManlwVHROMGY3cHhDN1JCWXFESFFKLUppQjF3?oc=5",
-   "time": "2026-11-03T01:35:52+00:00",
-   "keywords": [
-    "strike"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-11-03T08:53:00.786185+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMiR0FVX3lxTE01NmE3Q0hjLXpwcndXTVFFN1gtck9OR0tQTGViM0prWVJJVHBaMk5tY3dWSTMzbVFxZm5qSHBuczN6RlZqZmxF?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "إيران تنشر إرشادات للمواطنين للتعامل مع أي هجوم نووي محتمل - صدى البلد — إيران تنشر إرشادات للمواطنين للتعامل مع أي هجوم نووي محتمل  صدى البلد",
-   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE01NmE3Q0hjLXpwcndXTVFFN1gtck9OR0tQTGViM0prWVJJVHBaMk5tY3dWSTMzbVFxZm5qSHBuczN6RlZqZmxF?oc=5",
-   "time": "2026-11-03T01:29:00+00:00",
-   "keywords": [
-    "هجوم"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-11-03T01:50:17.056528+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTFpzbEJURFlBbkE1RzNfclduVWpDY29HaWY3dnZJNUFuTHFsckZXSU5iTGJHdUFzQkVmeVhvdk9IME9Hdkxwc0NQZzg4dFFzckltYVlzcGdWY2xhYmJWMWlMVmFyNml3YmFoSDBZMGdPZWlpU25IM3UtMW5iR3d1dGZrMGF4SzQ2MklEeG5lWU1iRUZjVDd5Nnhjc0dQamdDdEtUc3NMcFZDMTQ?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "Oil edges up after report of US strike on Iran's Qeshm Island - Reuters — Oil edges up after report of US strike on Iran's Qeshm Island  Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTFpzbEJURFlBbkE1RzNfclduVWpDY29HaWY3dnZJNUFuTHFsckZXSU5iTGJHdUFzQkVmeVhvdk9IME9Hdkxwc0NQZzg4dFFzckltYVlzcGdWY2xhYmJWMWlMVmFyNml3YmFoSDBZMGdPZWlpU25IM3UtMW5iR3d1dGZrMGF4SzQ2MklEeG5lWU1iRUZjVDd5Nnhjc0dQamdDdEtUc3NMcFZDMTQ?oc=5",
-   "time": "2026-11-03T01:27:00+00:00",
-   "keywords": [
-    "strike"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-11-03T08:53:00.786185+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMihAFBVV95cUxPQl83TVVoMmxkN2NTR3VkZ1ZVSUkxVV94OEwzLVU1cmM1MTNxbDVzbmtVSzhnZkZwcTA1VEQ5YU45Z2doUTNiMHc0RE1rdHFHOU1JNXlidGZaLUNoVi1mMGx1WmVCeW5fZ1JxQVVFOFY0NkptZjZEMnRZYW9pWldVb0FwWXU?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "US strikes Iran's Qeshm island: Report - CNA — US strikes Iran's Qeshm island: Report  CNA",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQl83TVVoMmxkN2NTR3VkZ1ZVSUkxVV94OEwzLVU1cmM1MTNxbDVzbmtVSzhnZkZwcTA1VEQ5YU45Z2doUTNiMHc0RE1rdHFHOU1JNXlidGZaLUNoVi1mMGx1WmVCeW5fZ1JxQVVFOFY0NkptZjZEMnRZYW9pWldVb0FwWXU?oc=5",
-   "time": "2026-11-03T01:27:00+00:00",
-   "keywords": [
-    "strike"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-11-03T08:53:00.786185+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNlMtc2I1d2lVOWRadkN1YUV6MktaTkZzQTdkNURZVlRSRVQ0RE5ITEhzZmlzMlNNR2JHVWp6bkZRWlBoODVHbkFpNVZpOHgtNVdZU3BHSzVCckdxUnM1NWtPS3pwMVAzUHJtcFZ1VWtvUGwyTElEU1JfQ0xoTXZ5eHdjNm54MDk4bVRUQWF0MkdMa2FaLThxeHB2SUplT21SQTZXaTJoY0RFOGQwTGlTQ1JPcFhYdGZSaGVJ?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "US forces hit Iran’s Qeshm Island as part of a series of secret strikes: report - New York Post — US forces hit Iran’s Qeshm Island as part of a series of secret strikes: report  New York Post",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNlMtc2I1d2lVOWRadkN1YUV6MktaTkZzQTdkNURZVlRSRVQ0RE5ITEhzZmlzMlNNR2JHVWp6bkZRWlBoODVHbkFpNVZpOHgtNVdZU3BHSzVCckdxUnM1NWtPS3pwMVAzUHJtcFZ1VWtvUGwyTElEU1JfQ0xoTXZ5eHdjNm54MDk4bVRUQWF0MkdMa2FaLThxeHB2SUplT21SQTZXaTJoY0RFOGQwTGlTQ1JPcFhYdGZSaGVJ?oc=5",
-   "time": "2026-11-03T01:18:00+00:00",
-   "keywords": [
-    "strike"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-11-03T01:50:17.056528+00:00"
-  },
-  {
-   "id": "rss:https://www.aljazeera.com/video/newsfeed/2026/11/3/multiple-russian-strikes-kill-at-least-26-at-ukraine-aid-centre?traffic_source=rss",
-   "kind": "rss",
-   "src": "www.aljazeera.com",
-   "text": "Multiple Russian strikes kill at least 26 at Ukraine aid centre — At least 26 people were killed in Russian strikes on a school being used as a humanitarian aid centre.",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/multiple-russian-strikes-kill-at-least-26-at-ukraine-aid-centre?traffic_source=rss",
-   "time": "2026-11-03T01:17:57+00:00",
-   "keywords": [
-    "strike"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-11-03T01:50:17.056528+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMiZkFVX3lxTE5paTcwS0N0NFRMV0VmbmxZb1c0a3hvMmYxeDhwNWZiSFhNVUZjVExJZWhTb1VZMXVpbXFuZGlQS3JuRWxjd0VINmZ6R3BTaG13RTQ1cDV3LVBHTC1BNEJkb3ZvVER1Zw?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "דיווח: ארה\"ב תקפה משגר טילים באיראן; טראמפ: \"אולי נתקוף בהר המכוש\" - כאן 11 — דיווח: ארה\"ב תקפה משגר טילים באיראן; טראמפ: \"אולי נתקוף בהר המכוש\"  כאן 11",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5paTcwS0N0NFRMV0VmbmxZb1c0a3hvMmYxeDhwNWZiSFhNVUZjVExJZWhTb1VZMXVpbXFuZGlQS3JuRWxjd0VINmZ6R3BTaG13RTQ1cDV3LVBHTC1BNEJkb3ZvVER1Zw?oc=5",
-   "time": "2026-11-03T01:16:06+00:00",
-   "keywords": [
-    "טיל",
-    "איראן"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-11-03T08:53:00.786185+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xaDB1d0FHMlRYWmRxMzRKODhmc01XY2ZmZG5qNVg5WDJaU0xNc2o1a2haNGRBc2djNVVGTzVUZ05xa2szREtuNE5TSmxPcHRwemc?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "US carried out secret strikes on Iran's Qeshm Island Monday - WSJ - Iran International — US carried out secret strikes on Iran's Qeshm Island Monday - WSJ  Iran International",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xaDB1d0FHMlRYWmRxMzRKODhmc01XY2ZmZG5qNVg5WDJaU0xNc2o1a2haNGRBc2djNVVGTzVUZ05xa2szREtuNE5TSmxPcHRwemc?oc=5",
-   "time": "2026-11-03T01:11:27+00:00",
-   "keywords": [
-    "strike"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-11-03T16:51:01.946337+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMitwFBVV95cUxPNndVRTNjb0NwRkpRWG1hVWU2anY1eGM4TXc2RlN2MS11eGVYQVQwOTJQeTZ6b2VUVXdfelhlVjQ2MHl5SjVJYzdEQlJoWlJZN0E1cnd2d3NCNkVmZk5CWkE4bGQwZGg4N19QSTVNcFhzbF9RTWxsQVpSdWhLSHhKZGk5RndvUDVnbkU5MDRWcEJ3d2Yxc2lGcUc0bnltd0FmWDZkNFFYdXBLVjI1MG14TnllVjgxSTg?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "דיווח: ארה\"ב תקפה באי קשם באיראן בתגובה לירי על כלי טיס - הארץ — דיווח: ארה\"ב תקפה באי קשם באיראן בתגובה לירי על כלי טיס  הארץ",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNndVRTNjb0NwRkpRWG1hVWU2anY1eGM4TXc2RlN2MS11eGVYQVQwOTJQeTZ6b2VUVXdfelhlVjQ2MHl5SjVJYzdEQlJoWlJZN0E1cnd2d3NCNkVmZk5CWkE4bGQwZGg4N19QSTVNcFhzbF9RTWxsQVpSdWhLSHhKZGk5RndvUDVnbkU5MDRWcEJ3d2Yxc2lGcUc0bnltd0FmWDZkNFFYdXBLVjI1MG14TnllVjgxSTg?oc=5",
-   "time": "2026-11-03T01:11:00+00:00",
-   "keywords": [
-    "איראן"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-11-03T08:53:00.786185+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRTJZdTVrN2hhM3laZEpQaUlYMWM1TnlZSzFKX0JwWnd4VVlVdW1OQ1RBMDdHSlhTX2Fqc05QV24tVlREWmFXYUx0dVNuZ3Z0ZWRiaERBWmpiU0p2TzU1YVlhVkhrRGpvWUcxSzFQZDZyR0R2MjFVR0dfYmVheTZGN004RkE5US1zRGNaekt0Z2pSVW01UGVHblNoOUNUZ2JFQld6a0VQMy1XaTJaa2M3VFhDQ2pGYkFfSzBQR2xTOFJYSTdJUDVjYThDR1BCajVUU2pQaFRsRdIB3AFBVV95cUxOV29kbk5jRnlXbUhLVGs3TEwxWGxtdklaWHpFRjlldDNjeFk0XzVBaXdUQUxxWW04dGZPLWY0eTZNd2Y1MXI3aFpaMFF4aVBDczNDblpRSnhTSDJaWEQ2UEZlQWNuQ0x3d2szYVdSSHBDRXJjTmRMRDBiWFlqOGxFVFE4ZmpGMkpGX0ZpTGNVMnV2enQxN01OR0JQUDhmZVpSRl9IRWR2SHVpT3BZOVIzbmduM2xYb1l0c1lRSmhiUDRtX0ZtS3MxUjd0YWw2cnpJdXEtbmU3eFVEYkUx?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "US secretly attacks Iran's Qeshm Island at strategic Hormuz gateway: Report - The Economic Times — US secretly attacks Iran's Qeshm Island at strategic Hormuz gateway: Report  The Economic Times",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRTJZdTVrN2hhM3laZEpQaUlYMWM1TnlZSzFKX0JwWnd4VVlVdW1OQ1RBMDdHSlhTX2Fqc05QV24tVlREWmFXYUx0dVNuZ3Z0ZWRiaERBWmpiU0p2TzU1YVlhVkhrRGpvWUcxSzFQZDZyR0R2MjFVR0dfYmVheTZGN004RkE5US1zRGNaekt0Z2pSVW01UGVHblNoOUNUZ2JFQld6a0VQMy1XaTJaa2M3VFhDQ2pGYkFfSzBQR2xTOFJYSTdJUDVjYThDR1BCajVUU2pQaFRsRdIB3AFBVV95cUxOV29kbk5jRnlXbUhLVGs3TEwxWGxtdklaWHpFRjlldDNjeFk0XzVBaXdUQUxxWW04dGZPLWY0eTZNd2Y1MXI3aFpaMFF4aVBDczNDblpRSnhTSDJaWEQ2UEZlQWNuQ0x3d2szYVdSSHBDRXJjTmRMRDBiWFlqOGxFVFE4ZmpGMkpGX0ZpTGNVMnV2enQxN01OR0JQUDhmZVpSRl9IRWR2SHVpT3BZOVIzbmduM2xYb1l0c1lRSmhiUDRtX0ZtS3MxUjd0YWw2cnpJdXEtbmU3eFVEYkUx?oc=5",
-   "time": "2026-11-03T01:09:02+00:00",
-   "keywords": [
-    "attack"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-11-03T01:50:17.056528+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMiSEFVX3lxTE5FV0c2WU04WDlVUnRoeE5hcnNGaDFhb1VlVUZOVHJzd2J6ZkNpejdjZElIVEk3Y1A2OU5fcURjQk5YN243ZnZHag?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "דיווח: ארה\"ב תקפה באי קשם במסגרת סדרת תקיפות חשאיות נגד איראן - ערוץ 7 — דיווח: ארה\"ב תקפה באי קשם במסגרת סדרת תקיפות חשאיות נגד איראן  ערוץ 7",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5FV0c2WU04WDlVUnRoeE5hcnNGaDFhb1VlVUZOVHJzd2J6ZkNpejdjZElIVEk3Y1A2OU5fcURjQk5YN243ZnZHag?oc=5",
-   "time": "2026-11-03T01:09:00+00:00",
-   "keywords": [
-    "איראן"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-11-03T01:50:17.056528+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMibkFVX3lxTFBDclZwdHItV205MGlTU0tHeUZJT3dYVWtfMWlPTml0Mm9MNXNUUEdEMmRGQVl5UzBiOXdySDVrVE5zWWtPLVBCMWZIVXBZaVpMVS1pR1VOWmZGUzdZY3FWWWprYnc2bndYaTJMR1hn?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "Netanyahu Keeps Pushing Trump to Strike Iran to Extend His Rule: AP - news.sbs.co.kr — Netanyahu Keeps Pushing Trump to Strike Iran to Extend His Rule: AP  news.sbs.co.kr",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDclZwdHItV205MGlTU0tHeUZJT3dYVWtfMWlPTml0Mm9MNXNUUEdEMmRGQVl5UzBiOXdySDVrVE5zWWtPLVBCMWZIVXBZaVpMVS1pR1VOWmZGUzdZY3FWWWprYnc2bndYaTJMR1hn?oc=5",
-   "time": "2026-11-03T01:08:39+00:00",
-   "keywords": [
-    "strike"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-11-03T01:50:17.056528+00:00"
-  },
-  {
-   "id": "rss:https://news.google.com/rss/articles/CBMiakFVX3lxTE1zREl5Nkt3VXYwcXU1ZGhSZnZLZEN1dGhqWW83eFo2X05HTlFZYXhraUxoaEdwekw1M29MTWlsT1JxdS1SN2FDR1d4Yy1EdHctTFprX294ekcxVTdwMTIyYWE3QTNkdk5lRkE?oc=5",
-   "kind": "rss",
-   "src": "news.google.com",
-   "text": "US strikes Iran's Qeshm Island - The Jerusalem Post — US strikes Iran's Qeshm Island  The Jerusalem Post",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zREl5Nkt3VXYwcXU1ZGhSZnZLZEN1dGhqWW83eFo2X05HTlFZYXhraUxoaEdwekw1M29MTWlsT1JxdS1SN2FDR1d4Yy1EdHctTFprX294ekcxVTdwMTIyYWE3QTNkdk5lRkE?oc=5",
-   "time": "2026-11-03T01:06:38+00:00",
-   "keywords": [
-    "strike"
-   ],
-   "emojis": [],
-   "alert": true,
-   "collected": "2026-11-03T01:50:17.056528+00:00"
   }
  ]
 }
